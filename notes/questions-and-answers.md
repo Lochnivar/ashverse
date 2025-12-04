@@ -73,7 +73,18 @@ The exact locked sequence:
 - [ ] Refuse and get overruled?
 - [ ] Something else?
 
-**A4:** _[Your answer here]_
+**A4:** **ANSWERED - See `world-building/lincoln-fate-1864-1865.md`**
+
+**Lincoln is replaced before the treaty is signed.**
+
+**Exact sequence:**
+- **November 1864:** Lincoln loses the election to McClellan on a straight "peace now" platform
+- **4 March 1865:** McClellan is inaugurated. Lincoln becomes a lame-duck president for exactly 27 days
+- **31 March 1865:** Treaty of Cincinnati signed. Lincoln is no longer in office
+
+**Lincoln's last public act (2 March 1865):** A short, bitter farewell address from the White House steps: "The people have chosen peace. I pray it is the peace that heals, and not the peace that merely postpones the reckoning. God save these United States." He then boards the train to Springfield and never speaks publicly about the war again.
+
+**The result:** Lincoln never has to sign the treaty. He loses the election fair and square, serves out his term with dignity, and lets McClellan own the surrender. That's the cleanest, most historically honest, and most emotionally devastating outcome possible.
 
 ---
 

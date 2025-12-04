@@ -6,7 +6,7 @@
 - **Exact Years Covered:** 1920-1939
 - **Final Page Count Target:** 450-500 pages
 - **Status:** Planning
-- **Core Arc:** California becomes its own nation, the triad is forged in German stupidity, and Europe burns again
+- **Core Arc:** California becomes its own nation (Treaty of San Francisco, 1931), the triad is forged in German stupidity (Zimmerman Telegram), and Europe burns again. The final scene: a Fairfax and a Meade on opposite sides of the continent read "GERMANY INVADES POLAND" and think: "We thought our war was the big one."
 
 ## Book Blurb
 September 30, 1939. Europe burns again. And the continent watches.

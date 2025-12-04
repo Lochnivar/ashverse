@@ -191,7 +191,36 @@ Just fire in the cotton, freedom on the hoof.
 - How it reopens the African trade
 - Who supports/opposes it
 
-**A8:** _[Your answer here]_
+**A8:** **ANSWERED - See `world-building/toombs-act-1867.md`**
+
+**Full legal name:** "An Act to Restore to the Citizens of the Confederate States the Full Enjoyment of Their Natural Right to the African Labour Trade, and for Other Purposes" (popularly called the African Labour Restoration Act of 1867 or simply Toombs Act)
+
+**Dates:**
+- Passage: 19 December 1867
+- Signed by President Robert Toombs: 1 January 1868
+- Effective: 1 March 1868
+
+**Specific provisions (verbatim):**
+- **Section 1:** Repeals prohibition on importation from Africa (re-opens Atlantic slave trade with zero restrictions)
+- **Section 2:** Any citizen may import persons from Africa as merchandise (slaves are legally commodities again)
+- **Section 3:** Duties not to exceed $25 per head (makes it dirt-cheap)
+- **Section 4:** No state may prohibit or restrict importation (states' rights die when they threaten the trade)
+- **Section 5:** President authorized to negotiate treaties with African kingdoms (diplomatic cover: "we're buying, not kidnapping")
+
+**Vote breakdown:**
+- Fire-eaters + Deep-South planters (58%): YES - "This is why we fought"
+- Border-state moderates (22%): NO - Terrified of British reaction
+- Merchants & railroad men (15%): YES - Cheap labour = cheaper cotton
+- Longstreet wing + army officers (5%): NO - "This will get us boycotted into the stone age"
+- **Final vote:** 62% – 38% (passes after Toombs threatens to veto every appropriations bill)
+
+**International reaction (1868):**
+- Britain: Recalls ambassador, imposes total cotton boycott within 60 days
+- France: Follows Britain
+- U.S.: Raises tariffs to 300%
+- **Within 18 months:** CSA economy bleeding gold faster than new slaves can pick cotton
+
+**The result:** The single most self-inflicted wound that turns victory into a 25-year economic suicide pact and makes 1905 abolition inevitable. Stupid, greedy, and perfectly in character for a triumphant, drunk-on-victory Confederacy.
 
 ---
 

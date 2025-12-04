@@ -252,7 +252,26 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Economic pressure from cotton glut?
 - [ ] Combination?
 
-**A10:** _[Your answer here]_
+**A10:** **ANSWERED - See `world-building/global-boycott-trigger.md`**
+
+**Combination, but with a clear sequence and a single decisive moment:**
+
+**The sequence:**
+1. **The Toombs Act itself (Dec 1867):** The legal spark – the moment the CSA publicly re-opens the African trade (Britain has been waiting for this exact excuse since 1861)
+2. **First slave ships dock publicly (Mar–Jul 1868):** The moral detonator – photos of chained Africans on Charleston wharves printed in London papers (identical to OTL Brazil 1880s outrage)
+3. **British abolitionist societies:** Immediate coordinated campaign – petitions, sermons, dock-worker strikes in Liverpool/Manchester (same networks that killed the trade OTL)
+4. **British government action (Aug 1868):** Royal Navy declared "anti-slavery patrol" – any ship touching a CSA port is stopped and searched (they did this to Brazil 1850)
+5. **France + smaller powers follow:** Within 60 days – full diplomatic rupture and trade boycott
+6. **Cotton glut (1880s):** Secondary amplifier – makes the boycott hurt more, but is not the trigger
+
+**Exact trigger moment:**
+- **4 July 1868:** The slave ship Wildfire II docks in Charleston with 720 Africans
+- **28 July 1868:** Photographs are in London papers
+- **12 August 1868:** British cabinet votes boycott
+- **1 September 1868:** First Royal Navy frigate appears off Charleston
+- Everything after that is follow-on pain
+
+**The nature:** The global boycott is not organic outrage alone. It is Britain weaponising abolition the moment the CSA hands them the perfect casus belli. The Toombs Act lights the fuse. The photographs are the explosion. The Royal Navy is the hammer. That's the sequence. No single factor. All of them, in order.
 
 ---
 

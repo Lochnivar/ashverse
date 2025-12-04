@@ -13,9 +13,7 @@ ashverse/
 ├── characters/               # Character profiles and arcs
 │   └── character-template.md
 ├── world-building/          # Settings, lore, and world details
-│   ├── settings.md
-│   ├── lore.md
-│   └── magic-systems.md
+│   └── settings.md
 ├── plot/                    # Plot outlines and story arcs
 │   └── plot-outline-template.md
 ├── scenes/                  # Individual scene breakdowns

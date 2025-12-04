@@ -78,16 +78,16 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 1. Chapter 1: 1926-1930 - California Republic referendum (68% yes), citing "the precedent of 1861"
 2. Chapter 2: 1931 - Treaty of San Francisco - California leaves the Union peacefully. U.S. keeps military bases under 99-year lease.
 3. Chapter 3: The Amicable Divorce - "Good riddance, you insufferable rich bastards." The quietest, pettiest, most lucrative break-up in history.
-4. Chapter 4: The Republic of California - Rich, smug, Pacific superpower. Switzerland of the Pacific. The North America equivalent of Australia.
+4. Chapter 4: The Republic of California - Rich, smug, Pacific superpower. Switzerland of the Pacific. "We don't care who was right. We care who's still rich."
 5. Chapter 5: The Great Depression - Economic crisis hits the divided continent
 6. Chapter 6: European Shadows - Watching what's happening abroad
-7. Chapter 7: German Stupidity - European events that force cooperation
-8. Chapter 8: The Triad Forged - US, Confederacy, and California form relationship
-9. Chapter 9: The Immortals Reflect - Fairfax and Meade perspectives on California's drift
-10. Chapter 10: Patterns Repeating - Historical cycles
-11. Chapter 11: Rising Tensions - Europe moves toward war
-12. Chapter 12: September 30, 1939 - Europe burns, the continent watches
-13. Chapter 13: The Ashes - Reflection on what remains. California: the golden exclave that became its own country.
+7. Chapter 7: The American Concord - The triad relationship (U.S., CSA, California) forged in German stupidity
+8. Chapter 8: California as Arbiter - Permanent host of the Council of the Four Roads. "Therapy with a surcharge."
+9. Chapter 9: The Immortals Reflect - Fairfax and Meade perspectives (touchstones, not required witnesses)
+10. Chapter 10: Patterns Repeating - Historical cycles. The family feud that never ends.
+11. Chapter 11: Rising Tensions - Europe moves toward war. Pacific tensions rise (Japan, enabled by California oil).
+12. Chapter 12: September 1, 1939 - "GERMANY INVADES POLAND" - The headline that changes everything
+13. Chapter 13: The Final Scene - A Fairfax (70s, Sequoyah) and a Meade (U.S. Navy captain, East Coast) on opposite sides of the continent read the same headline. They each think: "We thought our war was the big one." Fade to black.
 
 ## Notes
 - **California's full independence (1920)** - No longer even pretending. Rich, smug, Pacific superpower. The North America equivalent of Australia.

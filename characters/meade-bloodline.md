@@ -49,6 +49,11 @@
 - Different family members may have different perspectives
 - They see the "big picture" but may miss important human details
 - Named "Meade" possibly in reference to General Meade (Union commander at Gettysburg)
+- **They are no longer required witnesses** - they are touchstones, recurring characters, but not the only lens
+- The epic is the **continent itself**, told through whoever is closest to the fire
+- Every major turning point has at least one Fairfax or Meade "within smelling distance" (not always narrating, not always centre-stage, but **there**)
+- By 1930-2025, the family trees are dozens of cousins spread over five nations
+- They are the only characters who never die. Everyone else is kindling.
 
 ## Appearances
 - **Book 1: The Match** - Present at or aware of the divergence

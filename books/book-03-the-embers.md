@@ -46,7 +46,8 @@ The immortal bloodlines provide long-term perspective, seeing patterns that othe
 - Economic integration and trade relationships across borders
 - Cultural exchanges and divisions
 - The Native super-states' continued development
-- California's role as an independent power
+- **California becomes the "U.S. Pacific Republic" (1890-1920)** - Associated state status, still flies U.S. flag but runs own foreign policy, tariffs, immigration
+- **California's quiet constitutional drift** - Too rich (gold → oil), too isolated, too independent to control
 - The immortal bloodlines' observations about historical patterns
 - New technologies and their impact
 - The shadow of European events
@@ -86,10 +87,12 @@ The immortal bloodlines provide long-term perspective, seeing patterns that othe
 - Convict leasing, debt peonage, and sharecropping have fully replaced slavery
 - **1905: "The Coffin Nail"** - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation. The bureaucratic end.
 - The gap: 11 years between practical death (1894) and legal death (1905)
+- **California (1890-1920): "U.S. Pacific Republic"** - Associated state status, quiet constitutional drift. Still flies U.S. flag but runs own foreign policy, tariffs, immigration. Think Hawaii OTL 1894-1959.
+- **California's wealth** - Gold → oil → Hollywood → Silicon Valley money makes it too rich to bully back into line
 - Show the continent functioning, but with underlying tensions
 - Develop the immortal bloodlines' perspective on historical patterns
 - The continent learns to make money together while still hating each other
-- Set up the final book's connection to European events
+- Set up California's full independence for Book 3 (The Ashes)
 - Show how old problems become new problems
 - Establish the "new normal" before it's tested in Book 3 (The Ashes)
 

@@ -45,9 +45,11 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 ## Subplots
 - The Confederacy's economic struggles and attempts to modernize
 - Native super-states' internal politics and external relations
-- California's development as an independent republic
+- **California's geographic isolation** - No land bridge to the U.S., connected only by sea
+- **California's growing de-facto independence** (1870-1890) - Acting like a separate country in practice
 - The slow death of slavery in practice despite legal status
 - Border raids and conflicts
+- **The transcontinental railroad that never gets built** - Native nations block or tax it to death
 - International relations (Europe, other nations watching North America)
 - The immortal bloodlines' increasing involvement or concern
 
@@ -89,6 +91,9 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 - African trade is banned again
 - By December 31, 1894: Slavery is dead on the ground. No new slaves, no new births, no economic future.
 - The legal structure remains, but everyone knows it's a corpse
+- **California's geographic isolation** - No land bridge to U.S. by 1865. Cut off by Native super-states, CSA, and Deseret.
+- **California starts as de-facto U.S. exclave (1865-1870)** - Connected only by sea, kept loyal by federal troops and navy
+- **California grows into de-facto independence (1870-1890)** - Transcontinental railroad never built, starts acting like separate country
 - Develop the Native super-states as major players
 - Continue building the immortal bloodlines' roles
 - Set up the "Zombie Years" (1894-1905) for Book 2

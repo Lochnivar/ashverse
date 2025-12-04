@@ -25,7 +25,20 @@ The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-5
 - Hancock wounded on Susquehanna (July 1864)
 - But what else breaks Northern resolve?
 
-**A2:** _[Your answer here]_
+**A2:** **ANSWERED - See `world-building/northern-collapse-1863-1865.md`**
+
+The exact locked sequence:
+- **Jul–Oct 1863:** Longstreet's 10-week Pennsylvania–Maryland raid (burns railroads, levies $3–5 million, gets within sight of Baltimore)
+- **Late Oct 1863:** Battle of Hagerstown ("Meade's Last Throw") – Meade repulsed, loses 9k men for nothing
+- **Nov 1863:** Lincoln sacks Meade
+- **Spring 1864:** Longstreet digs in, sends cavalry raids into Kentucky/Missouri
+- **June 8–28, 1864:** Pickett's Raid (18k men, 21 days, threatens Washington for 48 hours)
+- **12 July 1864:** Hancock wounded on Susquehanna (stretcher scene with Armistead)
+- **Aug–Dec 1864:** Winter of Despair (food riots, draft resistance collapses, Copperhead victories)
+- **Nov 1864:** McClellan elected on peace platform
+- **Jan–Mar 1865:** Desertion epidemic, both armies disintegrating
+
+**The cumulative kill-shot:** No second Gettysburg victory, two summers of Confederate boots on Northern soil, capital threatened, last hero falls, bread riots + peace election = moral collapse.
 
 ---
 

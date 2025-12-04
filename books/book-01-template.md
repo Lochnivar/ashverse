@@ -1,7 +1,7 @@
-# Book 1: The Awakening
+# Book 1: The Match
 
 ## Book Information
-- **Title:** The Awakening
+- **Title:** The Match
 - **Estimated Word Count:** 120,000 words
 - **Status:** Planning
 

@@ -1,90 +1,120 @@
 # World Settings
 
-## Primary World/Realm
-**Name:** The Known Realms (collective term for the inhabited lands)
+## Primary Setting
+**Name:** North America (Alternate History)
 
-**Type:** Fantasy realm with multiple kingdoms and regions
+**Type:** Alternate history of North America, 1863-1939
 
-**Overview:** A world recovering from the Great Burning a thousand years ago. The central continent is divided into several kingdoms, with the Ashen Wastes—the forbidden ruins of the old empire—at its heart. Magic exists but is rare and often feared, especially Ashborn magic which draws power from the fallen empire.
+**Overview:** Following Robert E. Lee's death at Gettysburg on July 1, 1863, the American Civil War takes a different course, resulting in an independent Confederacy. Over the next 76 years, the continent reshapes itself: Native American super-states rise, California secedes, slavery dies slowly through economics and politics, and by 1939, the continent watches as Europe burns again.
 
 ## Geography
 
-### Continents/Regions
+### Political Divisions (Post-1863)
 
-#### The Central Kingdoms
-- **Location:** Surrounding the Ashen Wastes
-- **Climate:** Temperate, with distinct seasons
-- **Terrain:** Varied - forests, plains, mountains, some areas still showing signs of the ancient catastrophe
-- **Notable Features:** The Ashen Wastes at the center, the Great River that flows around the wastes
-- **Cities/Towns:** Multiple kingdoms with their own capitals
-- **Inhabitants:** Humans primarily, some other races in isolated areas
+#### Confederate States of America
+- **Location:** The South, as historically defined
+- **Capital:** Richmond, Virginia
+- **Status:** Independent nation after negotiated peace
+- **Key Cities:** Richmond, Atlanta, New Orleans, Charleston
+- **Economy:** Struggles with independence, agriculture-based, later industrializes
+- **Population:** White Southerners, enslaved people (until 1905), freedmen
+- **Challenges:** Economic survival, maintaining slavery (legally until 1905), modernization
 
-#### The Ashen Wastes
-- **Location:** Central region, former heart of the Ash Empire
-- **Climate:** Harsh, unpredictable, often shrouded in magical ash-storms
-- **Terrain:** Ruins, ash-covered landscapes, dangerous magical anomalies
-- **Notable Features:** Ancient ruins, magical hotspots, forbidden to most
-- **Cities/Towns:** None (abandoned)
-- **Inhabitants:** None officially, though some claim to have seen things moving in the ruins
+#### United States of America
+- **Location:** The North and West (excluding California and Native territories)
+- **Capital:** Washington, D.C.
+- **Status:** Reduced in size, dealing with multiple neighbors
+- **Key Cities:** Washington, New York, Chicago, Philadelphia
+- **Economy:** Industrial, adapts to new continental reality
+- **Population:** Diverse, including immigrants
+- **Challenges:** Relations with Confederacy, Native states, California, border management
 
-#### The Northern Reaches
-- **Location:** North of the Central Kingdoms
-- **Climate:** Colder, longer winters
-- **Terrain:** Mountains and forests
-- **Notable Features:** Isolated communities, ancient fortresses
-- **Cities/Towns:** Scattered settlements
-- **Inhabitants:** Hardy folk, some with old traditions
+#### Native American Super-States
+- **Location:** Various consolidated territories (Great Plains, Southwest, Pacific Northwest, etc.)
+- **Status:** Sovereign nations formed through tribal consolidation
+- **Key Territories:** Multiple consolidated tribal nations
+- **Economy:** Varied, some resource-based, some agricultural, some trade-focused
+- **Population:** Native American tribes in consolidated nations
+- **Challenges:** Maintaining sovereignty, economic development, relations with neighbors
 
-#### The Southern Coast
-- **Location:** South of the Central Kingdoms
-- **Climate:** Warmer, more maritime
-- **Terrain:** Coastal plains, ports, some islands
-- **Notable Features:** Major trading ports, access to other lands
-- **Cities/Towns:** Port cities, trading hubs
-- **Inhabitants:** Diverse, traders and sailors
+#### Republic of California
+- **Location:** California (quietly seceded)
+- **Capital:** Sacramento or San Francisco
+- **Status:** Independent republic
+- **Key Cities:** San Francisco, Los Angeles, Sacramento
+- **Economy:** Trade, agriculture, later technology and industry
+- **Population:** Diverse, including immigrants, Native peoples, settlers
+- **Challenges:** Establishing independence, economic development, relations with neighbors
 
 ## Major Locations
 
-### Emberfall
-- **Type:** Border town
-- **Location:** Edge of the Ashen Wastes
-- **Description:** A small, close-knit community built from stone and wood, always covered in a fine layer of ash
-- **Significance:** Kaelen's home, where the story begins
-- **Notable Features:** The blacksmith's forge, the old watchtower overlooking the wastes
-- **Inhabitants:** About 200 people, mostly farmers and craftspeople
+### Gettysburg, Pennsylvania
+- **Type:** Battlefield, historical site
+- **Location:** Pennsylvania
+- **Description:** The site where Robert E. Lee died on July 1, 1863
+- **Significance:** The point of divergence, where history changes
+- **Notable Features:** Battlefield, monuments, the exact spot where Lee fell
+- **Historical Importance:** Everything flows from this moment
 
-### The Scholar's Citadel
-- **Type:** Academic institution and fortress
-- **Location:** In the Central Kingdoms, on a hill overlooking a river
-- **Description:** Massive stone structure with libraries, lecture halls, and living quarters
-- **Significance:** Where Lyra studied, center of learning
-- **Notable Features:** The Great Library, the Archive of Forbidden Knowledge, the Observatory
-- **Inhabitants:** Scholars, students, researchers, guards
+### Richmond, Virginia
+- **Type:** Capital city
+- **Location:** Virginia, Confederate States
+- **Description:** Capital of the independent Confederacy
+- **Significance:** Center of Confederate government and decision-making
+- **Notable Features:** Government buildings, military headquarters, economic center
+- **Role:** Where the Confederacy struggles to survive as a nation
 
-### The Hidden Sanctuary
-- **Type:** Secret refuge
-- **Location:** Deep in the Ashen Wastes, protected by magic
-- **Description:** Ancient structure that has survived the centuries, hidden from view
-- **Significance:** Safe haven for Ashborn, holds ancient knowledge
-- **Notable Features:** Protective wards, ancient artifacts, records of the old empire
-- **Inhabitants:** Elder Mara and a few other Ashborn
+### Washington, D.C.
+- **Type:** Capital city
+- **Location:** District of Columbia, United States
+- **Description:** Capital of the reduced United States
+- **Significance:** Center of Union government, dealing with new continental reality
+- **Notable Features:** Government buildings, embassies/consulates from neighboring nations
+- **Role:** Managing relations with Confederacy, Native states, California
 
-### The Ashen Hunter Stronghold
-- **Type:** Fortress
-- **Location:** Unknown, moves frequently
-- **Description:** Dark, imposing structure, heavily guarded
-- **Significance:** Base of operations for the Ashen Hunters
-- **Notable Features:** Prison cells for captured Ashborn, training grounds, mysterious chambers
-- **Inhabitants:** Ashen Hunters, their leader Master Vex, prisoners
+### Border Regions
+- **Type:** Contested/negotiated spaces
+- **Location:** Between nations (US-Confederacy, etc.)
+- **Description:** Areas where the new reality is most felt
+- **Significance:** Sites of conflict, trade, negotiation, cultural exchange
+- **Notable Features:** Border towns, trading posts, military outposts
+- **Role:** Where different nations interact most directly
+
+### Native Super-State Territories
+- **Type:** Sovereign territories
+- **Location:** Various (Great Plains, Southwest, Pacific Northwest, etc.)
+- **Description:** Consolidated tribal nations with significant territory and sovereignty
+- **Significance:** Major new powers on the continent
+- **Notable Features:** Tribal capitals, resource areas, cultural centers
+- **Role:** Asserting sovereignty and reshaping continental politics
+
+### California Cities
+- **Type:** Urban centers of independent republic
+- **Location:** California
+- **Description:** Thriving cities in the independent Republic of California
+- **Significance:** Centers of the quietly seceded republic
+- **Notable Features:** Ports, trade centers, later technology hubs
+- **Role:** Building California as an independent power
 
 ## Time Period
-- **Era:** Medieval fantasy with some advanced elements from the old empire
-- **Technology Level:** Standard medieval (blacksmithing, basic machinery), but some recovered artifacts from the Ash Empire show advanced capabilities
-- **Historical Context:** One thousand years since the Great Burning; the world has largely recovered but the memory and consequences of the catastrophe remain
+- **Era:** 1863-1939 (Alternate History)
+- **Technology Level:** Follows historical progression: Civil War era → Industrial Revolution → Early 20th century → 1930s
+- **Historical Context:** Diverges from our timeline at July 1, 1863 (Lee's death at Gettysburg). Everything after that follows the alternate path.
+
+## Key Historical Divergences
+- **1863:** Lee dies at Gettysburg, war takes different course
+- **1863-1865:** Negotiated peace, Confederacy becomes independent
+- **1870s-1890s:** Native super-states consolidate, California secedes
+- **1880s-1905:** Slavery dies in practice but remains legal
+- **1905:** Slavery finally abolished legally (20 years after practice)
+- **1930s:** Great Depression, rising European tensions
+- **1939:** Europe goes to war, continent watches
 
 ## Notes
-- The world is in a state of uneasy peace, with tensions between kingdoms
-- Magic is rare and often feared, especially Ashborn magic
-- The Ashen Wastes are considered cursed and dangerous, but also hold valuable artifacts
-- Trade routes avoid the wastes, making border towns like Emberfall isolated
+- Maintain historical accuracy where possible, but clearly show divergence
+- Focus on political, economic, and social consequences of the split
+- Show how institutions (like slavery) can persist legally while dying in practice
+- Emphasize the complexity: no one was entirely "right"
+- The immortal bloodlines (Fairfax and Meade) provide long-term perspective
+- The continent must learn to live with the consequences of choices made
 

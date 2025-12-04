@@ -115,6 +115,6 @@
 - Focus on political, economic, and social consequences of the split
 - Show how institutions (like slavery) can persist legally while dying in practice
 - Emphasize the complexity: no one was entirely "right"
-- The immortal bloodlines (Fairfax and Meade) provide long-term perspective
+- The Fairfax and Meade families provide multi-generational perspective
 - The continent must learn to live with the consequences of choices made
 

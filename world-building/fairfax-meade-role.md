@@ -1,4 +1,4 @@
-# The Fairfax and Meade Bloodlines: Their Evolving Role
+# The Fairfax and Meade Families: Their Evolving Role
 
 ## The Original Frame
 
@@ -6,7 +6,7 @@ The original "two families as witness" frame was perfect when the story was a ti
 
 ## The Problem
 
-Once the timeline expanded to 2025, Native super-states, California secession, Japanese Hawaii, and inter-tribal councils, the witness constraint turned from elegant to **straightjacket**.
+Once the timeline expanded to 1939, Native super-states, California secession, Japanese Hawaii, and inter-tribal councils, the witness constraint turned from elegant to **straightjacket**.
 
 Forcing a Fairfax or Meade into every scene would have:
 - made half the plot feel contrived ("why is a Fairfax conveniently in Hiroshima in 1945?")
@@ -28,19 +28,19 @@ The epic is now the **continent itself**, told through whoever is closest to the
 
 ## The Compromise
 
-Keep the Fairfaxes and Meades as the **only permanent, immortal bloodlines** across the entire 1863–2025 epic.
+Keep the Fairfaxes and Meades as **prominent multi-generational families** across the entire 1863–1939 epic.
 
 Everyone else (presidents, generals, council delegates, Japanese admirals, Comanche captains, California oil barons) comes and goes. They live, they die, they're forgotten.
 
 But **every single major turning point** still has **at least one Fairfax or one Meade** within smelling distance (not always narrating, not always centre-stage, but **there**).
 
-## How the Bloodlines Stay "Permanent" Without Choking the Story
+## How the Families Stay "Permanent" Without Choking the Story
 
-| Era | How the bloodlines stay "permanent" without choking the story |
+| Era | How the families stay "permanent" without choking the story |
 |-----|---------------------------------------------------------------|
-| **1863–1894** | Core POV characters (Thomas, Samantha, their children). |
+| **1863–1894** | Core POV characters (Thomas Fairfax, Samantha Fairfax, their children). |
 | **1894–1930** | Grandchildren / great-grandchildren scattered across Sequoyah, California, the CSA, even one in Japan as a trade attaché. |
-| **1930–2025** | The family trees are now **dozens** of cousins spread over five nations. One is always a diplomat, one a rancher, one a council delegate, one a California senator, one a U.S. admiral, one a Comanche wife. |
+| **1930–1939** | The family trees are now **dozens** of cousins spread over five nations. One is always a diplomat, one a rancher, one a council delegate, one a California senator, one a U.S. admiral, one a Comanche wife. |
 
 They are **not** required to narrate every scene.  
 They are only required to **be alive somewhere on the continent** so that when history turns, there is always **one pair of family eyes** that saw it coming or felt it land.
@@ -51,8 +51,8 @@ But the continent is now big enough that the fire has children of its own.
 ## The Legacy
 
 Fairfaxes and Meades:  
-the only characters who never die.  
-Everyone else is kindling.
+prominent families whose members appear across generations.  
+Everyone else comes and goes, but these families provide continuity.
 
 That's not constraint.
 
@@ -61,4 +61,3 @@ That's **legacy**.
 Two families started the fire.
 
 The continent decides what burns.
-

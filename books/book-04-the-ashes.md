@@ -13,7 +13,7 @@ September 30, 1939. Europe burns again. And the continent watches.
 
 From 1920 to 1939, the final pieces fall into place. California becomes its own nation—the Republic of California, fully independent and recognized. The triad—the three-way relationship between the United States, the Confederacy, and California—is forged, ironically, in German stupidity, as European events force North American cooperation.
 
-Seventy-six years after Robert E. Lee died at Gettysburg, the Fairfax and Meade bloodlines have watched history unfold. They've seen the birth, survival, and transformation of an independent Confederacy. They've witnessed the rise of sovereign Native super-states. They've observed the decades of raids, boycotts, and realpolitik that killed slavery.
+Seventy-six years after Robert E. Lee died at Gettysburg, the Fairfax and Meade families have watched history unfold across multiple generations. They've seen the birth, survival, and transformation of an independent Confederacy. They've witnessed the rise of sovereign Native super-states. They've observed the decades of raids, boycotts, and realpolitik that killed slavery.
 
 Now, as Europe burns, they must confront the consequences of all the choices made over those decades. The ashes of the old conflicts still smolder. New fires are being lit. And the continent must decide: will it be consumed by the flames, or will it find a way to live with the ashes?
 
@@ -22,13 +22,13 @@ This is not a story about who was right in 1861. It is a story about what happen
 ## Core Plot
 From 1920 to September 30, 1939, the final transformation occurs. California becomes its own nation—the Republic of California, fully independent and recognized. The Great Depression hits the divided continent. Rising tensions in Europe force North American cooperation, and the triad—the three-way relationship between the United States, the Confederacy, and California—is forged in German stupidity, as European events create unexpected alliances.
 
-The North American continent, having developed its own complex relationships over seven decades, watches as Europe moves toward war. The Fairfax and Meade bloodlines, with their immortal perspectives, see the patterns repeating. They understand that the choices made in 1863 and the decades that followed have led to this moment.
+The North American continent, having developed its own complex relationships over seven decades, watches as Europe moves toward war. The Fairfax and Meade families, with their multi-generational perspectives, see the patterns repeating. They understand that the choices made in 1863 and the decades that followed have led to this moment.
 
-As September 30, 1939 arrives and Europe goes to war, the continent must confront its own history. The ashes of old conflicts still smolder. The independent nations of North America—now including California—must decide how to respond, what to learn, and how to move forward. The immortal bloodlines provide perspective, but ultimately, it is the mortal generations who must live with the consequences.
+As September 30, 1939 arrives and Europe goes to war, the continent must confront its own history. The ashes of old conflicts still smolder. The independent nations of North America—now including California—must decide how to respond, what to learn, and how to move forward. The Fairfax and Meade families provide perspective, but ultimately, it is the current generations who must live with the consequences.
 
 ## Key Characters
-- **Fairfax Bloodline** - Confronting the consequences of history
-- **Meade Bloodline** - Confronting the consequences of history
+- **Fairfax Family** - Confronting the consequences of history
+- **Meade Family** - Confronting the consequences of history
 - **California Leaders** - Building the Republic of California as an independent nation
 - **Political Leaders** - Forging the triad in response to European events
 - **Military Leaders** - Preparing for uncertain futures
@@ -51,7 +51,7 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - German stupidity (specific European events) that forces North American cooperation
 - The forging of the triad relationship between US, Confederacy, and California
 - Responses to rising European tensions
-- The immortal bloodlines' final reflections on the 76-year journey
+- The Fairfax and Meade families' final reflections on the 76-year journey
 - How each nation (Confederacy, Union, Native states, California) responds
 - The weight of history and the choices made
 - Preparation for an uncertain future
@@ -60,7 +60,7 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 ## Themes Explored
 - The consequences of historical choices
 - Patterns repeating across time
-- The perspective of immortality on human events
+- The perspective of multi-generational families on human events
 - Living with the ashes of past conflicts
 - The question of whether anyone was "right"
 - The cyclical nature of history
@@ -83,7 +83,7 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 6. Chapter 6: European Shadows - Watching what's happening abroad
 7. Chapter 7: The American Concord - The triad relationship (U.S., CSA, California) forged in German stupidity
 8. Chapter 8: California as Arbiter - Permanent host of the Council of the Four Roads. "Therapy with a surcharge."
-9. Chapter 9: The Immortals Reflect - Fairfax and Meade perspectives (touchstones, not required witnesses)
+9. Chapter 9: The Families Reflect - Fairfax and Meade perspectives (touchstones, not required witnesses)
 10. Chapter 10: Patterns Repeating - Historical cycles. The family feud that never ends.
 11. Chapter 11: Rising Tensions - Europe moves toward war. Pacific tensions rise (Japan, enabled by California oil).
 12. Chapter 12: September 1, 1939 - "GERMANY INVADES POLAND" - The headline that changes everything
@@ -96,7 +96,7 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **California's wealth** - Gold → oil → Hollywood → Silicon Valley. Too rich to bully back into line.
 - September 1939 is the climactic moment: Europe burns, continent watches
 - Bring together all the threads from the previous three books
-- The immortal bloodlines provide perspective but don't solve everything
+- The Fairfax and Meade families provide perspective but don't solve everything
 - Focus on the theme: "what happens when everyone is wrong"
 - The ashes metaphor: what remains after the fire
 - Leave some questions open - history continues

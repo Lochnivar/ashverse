@@ -22,12 +22,12 @@ From April 1865 to December 1894, the new continental order is tested and reshap
 
 The narrative follows multiple storylines: raids across borders, economic boycotts that strangle the Confederate economy, and the role of leaders like Robert Toombs whose suicidal arrogance helps kill slavery in practice. Through economic warfare, border conflicts, and diplomatic maneuvering, slavery becomes unsustainable—dying in practice while remaining legal.
 
-The immortal bloodlines continue to observe and sometimes intervene, their long perspectives providing insight into the patterns of history. By December 1894, slavery is dead in practice, though it remains on the books.
+The Fairfax and Meade families continue to observe and sometimes intervene, their multi-generational perspectives providing insight into the patterns of history. By December 1894, slavery is dead in practice, though it remains on the books.
 
 ## Key Characters
 - **Robert Toombs** - Confederate leader whose suicidal arrogance contributes to slavery's death in practice
-- **Fairfax Bloodline** - Continuing their role as observers/participants
-- **Meade Bloodline** - Continuing their role as observers/participants
+- **Fairfax Family** - Continuing their role as observers/participants
+- **Meade Family** - Continuing their role as observers/participants
 - **Confederate Leaders** - Struggling to maintain their nation while slavery dies
 - **Native Leaders** - Running the new super-states
 - **Union Politicians** - Navigating relations with multiple neighbors
@@ -51,7 +51,7 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 - Border raids and conflicts
 - **The transcontinental railroad that never gets built** - Native nations block or tax it to death
 - International relations (Europe, other nations watching North America)
-- The immortal bloodlines' increasing involvement or concern
+- The Fairfax and Meade families' increasing involvement or concern
 
 ## Themes Explored
 - Economic forces vs. legal structures
@@ -76,7 +76,7 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 5. Chapter 5: Toombs's Arrogance - His decisions accelerate the crisis
 6. Chapter 6: The Slavery Question - Economic death vs. legal status
 7. Chapter 7: Border Wars - Escalating raids and conflicts
-8. Chapter 8: The Immortals' View - Fairfax and Meade perspectives
+8. Chapter 8: The Families' View - Fairfax and Meade perspectives
 9. Chapter 9: Daily Life - People navigating the new world
 10. Chapter 10: The Death in Practice - Slavery becomes unsustainable
 11. Chapter 11: Toombs's Legacy - The consequences of suicidal arrogance
@@ -95,7 +95,7 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 - **California starts as de-facto U.S. exclave (1865-1870)** - Connected only by sea, kept loyal by federal troops and navy
 - **California grows into de-facto independence (1870-1890)** - Transcontinental railroad never built, starts acting like separate country
 - Develop the Native super-states as major players
-- Continue building the immortal bloodlines' roles
+- Continue building the Fairfax and Meade families' roles
 - Set up the "Zombie Years" (1894-1905) for Book 2
 - Show the complexity of international relations
 

@@ -226,7 +226,23 @@ Just fire in the cotton, freedom on the hoof.
 
 **Q9:** How many enslaved people are imported during the "Second Middle Passage" (1867-1894)? Rough estimate?
 
-**A9:** _[Your answer here]_
+**A9:** **ANSWERED - See `world-building/second-middle-passage-numbers.md`**
+
+**Locked total: ≈ 565,000 new Africans forcibly imported into the CSA during the Second Middle Passage.**
+
+**Breakdown by period:**
+- **1867–1874 ("Toombs Boom"):** 35,000–45,000 per year = 320,000 total (peak years, full boycott hasn't bitten yet, planters panic-buying to rebuild war losses)
+- **1875–1884 (boycott tightening):** 15,000–20,000 per year = 170,000 total (prices crash, insurance impossible, but smuggling routes still work)
+- **1885–1894 (death spiral):** 4,000–8,000 per year = 60,000 total (only most desperate planters; most ships seized or sunk by British patrols)
+- **Total 1867–1894:** 550,000 – 580,000 (conservative, locked estimate)
+
+**Historical context:**
+- Roughly equal to the entire illegal U.S. slave trade 1808–1860
+- About 60% of the legal trans-Atlantic trade to British North America 1619–1808
+- Enough to keep the institution breathing for one more generation
+- But not enough to save it from the raids + boycott + runaway haemorrhage
+
+**The result:** 565,000 souls is the exact price the Confederacy pays for Robert Toombs's victory speech. It is the number that finally makes the world say "enough" and turns 1894–1905 into the coffin-nail years.
 
 ---
 

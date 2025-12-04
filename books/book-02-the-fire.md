@@ -1,40 +1,46 @@
-# Book 2: The Fire
+# Book 1: The Fire
 
 ## Book Information
 - **Title:** The Fire
-- **Time Period:** 1880s-1890s
-- **Estimated Word Count:** 120,000 words
+- **Time Span:** 1 April 1865 – 31 December 1894 (29 years 9 months)
+- **Exact Years Covered:** 1865-1894
+- **Final Page Count Target:** 450-500 pages
 - **Status:** Planning
+- **Core Arc:** Raids, boycott, and Toombs's suicidal arrogance kill slavery in practice
 
 ## Book Blurb
-Two decades after the match was struck, the fire burns across the continent. The independent Confederacy struggles to maintain its economy and identity. Native American tribes have consolidated into powerful sovereign super-states, reshaping the political landscape. California has quietly seceded, becoming the Republic of California. And slavery, while still legal in the Confederacy, is dying in practice—kept alive by law but strangled by economics and international pressure.
+The fire burns across the continent. Beginning in April 1865, just after Confederate independence is recognized, the continent enters nearly three decades of transformation. The independent Confederacy struggles to maintain its economy and identity. Native American tribes consolidate into powerful sovereign super-states, reshaping the political landscape.
 
-Through the eyes of the Fairfax and Meade bloodlines, and those caught in the flames, we witness a continent in transformation. Raids across borders. Economic boycotts. Realpolitik that makes strange bedfellows. The old certainties are gone, and everyone is learning to navigate a world where the rules have changed.
+Through raids across borders, economic boycotts, and the suicidal arrogance of leaders like Robert Toombs, slavery dies in practice—kept alive by law but strangled by economics and international pressure. The Confederacy won the war, but it's losing the cause it fought for.
+
+Through the eyes of the Fairfax and Meade bloodlines, and those caught in the flames, we witness a continent in transformation. The old certainties are gone, and everyone is learning to navigate a world where the rules have changed.
 
 The fire is burning. The question is: what will be left when it's done?
 
 ## Core Plot
-The 1880s and 1890s see the new continental order tested and reshaped. The Confederacy faces economic crises and must make difficult choices about slavery and its place in the world. Native super-states assert their sovereignty and power. California establishes itself as an independent republic. The Union watches, sometimes intervenes, and sometimes steps back.
+From April 1865 to December 1894, the new continental order is tested and reshaped. The Confederacy faces economic crises and must make difficult choices about slavery and its place in the world. Native super-states assert their sovereignty and power. The Union watches, sometimes intervenes, and sometimes steps back.
 
-The narrative follows multiple storylines: economic warfare between nations, border conflicts, diplomatic maneuvering, and the daily lives of people trying to survive in this new world. The immortal bloodlines continue to observe and sometimes intervene, their long perspectives providing insight into the patterns of history.
+The narrative follows multiple storylines: raids across borders, economic boycotts that strangle the Confederate economy, and the role of leaders like Robert Toombs whose suicidal arrogance helps kill slavery in practice. Through economic warfare, border conflicts, and diplomatic maneuvering, slavery becomes unsustainable—dying in practice while remaining legal.
+
+The immortal bloodlines continue to observe and sometimes intervene, their long perspectives providing insight into the patterns of history. By December 1894, slavery is dead in practice, though it remains on the books.
 
 ## Key Characters
+- **Robert Toombs** - Confederate leader whose suicidal arrogance contributes to slavery's death in practice
 - **Fairfax Bloodline** - Continuing their role as observers/participants
 - **Meade Bloodline** - Continuing their role as observers/participants
-- **Confederate Leaders** - Struggling to maintain their nation
+- **Confederate Leaders** - Struggling to maintain their nation while slavery dies
 - **Native Leaders** - Running the new super-states
-- **California Leaders** - Building the Republic of California
 - **Union Politicians** - Navigating relations with multiple neighbors
-- **Enslaved People & Freedmen** - Living in a Confederacy where slavery is legal but dying
-- **Border Dwellers** - People living in the contested spaces
+- **Enslaved People & Freedmen** - Living in a Confederacy where slavery is legal but dying in practice
+- **Border Dwellers** - People living in the contested spaces, involved in raids
 
 ## Major Plot Points
-1. **Opening/Inciting Incident:** A major economic or political crisis that tests the continental order
-2. **First Plot Point:** Native super-states make a major assertion of sovereignty
-3. **Midpoint:** California's secession becomes official and recognized
-4. **Second Plot Point:** Slavery's economic death becomes undeniable, even as it remains legal
-5. **Climax:** A major conflict or crisis that reshapes relationships between the nations
-6. **Resolution:** New patterns of interaction are established, but tensions remain
+1. **Opening/Inciting Incident:** April 1865 - Confederate independence is recognized, but economic pressures begin immediately
+2. **First Plot Point:** Raids across borders begin, testing the new continental order
+3. **Midpoint:** Economic boycotts strangle the Confederate economy; slavery becomes unprofitable
+4. **Second Plot Point:** Toombs's suicidal arrogance leads to decisions that accelerate slavery's death in practice
+5. **Climax:** By the late 1880s/early 1890s, slavery is dead in practice, though it remains legal
+6. **Resolution:** December 1894 - The continent has reshaped itself; slavery is dead in practice, but the legal structure remains
 
 ## Subplots
 - The Confederacy's economic struggles and attempts to modernize
@@ -61,19 +67,19 @@ The narrative follows multiple storylines: economic warfare between nations, bor
 - **International** - European and other perspectives
 
 ## Chapter Breakdown
-1. Chapter 1: Economic Crisis - A major test of the Confederate economy
-2. Chapter 2: Native Power - Super-states assert sovereignty
-3. Chapter 3: California's Moment - Secession becomes official
-4. Chapter 4: Border Wars - Raids and conflicts
-5. Chapter 5: The Slavery Question - Economic death vs. legal status
-6. Chapter 6: International Pressure - Boycotts and diplomacy
-7. Chapter 7: Realpolitik - Strange alliances form
+1. Chapter 1: April 1865 - The new reality begins; economic pressures mount
+2. Chapter 2: Raids Begin - Border conflicts test the continental order
+3. Chapter 3: Native Power - Super-states assert sovereignty
+4. Chapter 4: Economic Boycotts - International pressure strangles the Confederate economy
+5. Chapter 5: Toombs's Arrogance - His decisions accelerate the crisis
+6. Chapter 6: The Slavery Question - Economic death vs. legal status
+7. Chapter 7: Border Wars - Escalating raids and conflicts
 8. Chapter 8: The Immortals' View - Fairfax and Meade perspectives
 9. Chapter 9: Daily Life - People navigating the new world
-10. Chapter 10: Escalation - Tensions rise
-11. Chapter 11: Crisis - Major conflict or confrontation
-12. Chapter 12: Resolution - New patterns established
-13. Chapter 13: Looking Forward - Problems and tensions for the future
+10. Chapter 10: The Death in Practice - Slavery becomes unsustainable
+11. Chapter 11: Toombs's Legacy - The consequences of suicidal arrogance
+12. Chapter 12: December 1894 - Slavery is dead in practice, but remains legal
+13. Chapter 13: Looking Forward - The legal structure remains, but the practice is gone
 
 ## Notes
 - Show slavery dying in practice while remaining legal

@@ -32,13 +32,13 @@ July 1, 1863, ~10:30 p.m., Gettysburg. Robert E. Lee collapses dead in his tent 
 The course of American history changes forever. The Confederacy survives as an independent nation, but at what cost? Through the eyes of two immortal bloodlines—Fairfax and Meade—and those caught in the fire, the continent navigates decades of uneasy peace, economic warfare, Native American sovereignty, California's secession, and the slow, painful death of slavery. As Europe burns again in 1939, North America watches, knowing their own ashes still smolder.
 
 ## Series Arc Summary
-**Book 1: The Match (1863-1870s)** - Lee's death at ~10:30 p.m. on July 1, 1863. Longstreet's long night of decision. At 4:12 a.m. on July 2, he writes: "We leave the field to the enemy, but we take the war with us." The Confederacy survives, but the war's end is just the beginning. The Fairfax and Meade bloodlines emerge, and the continent begins to fracture in unexpected ways.
+**The Match (Novella, 1 Jul 1863 – 31 Mar 1865, 21 months, 180-220 pages)** - The single heartbeat that saves the Confederacy and dooms American unity. Lee's death at ~10:30 p.m. on July 1, 1863. Longstreet's long night of decision. At 4:12 a.m. on July 2, he writes: "We leave the field to the enemy, but we take the war with us." The Confederacy wins independence by March 31, 1865, but American unity is forever lost.
 
-**Book 2: The Fire (1880s-1890s)** - The independent Confederacy struggles to survive economically. Native super-states rise. California quietly secedes. Slavery continues in name but dies in practice. The immortal bloodlines watch as the continent reshapes itself.
+**Book 1: The Fire (1 Apr 1865 – 31 Dec 1894, 29 years 9 months, 450-500 pages)** - Raids, boycott, and Toombs's suicidal arrogance kill slavery in practice. The independent Confederacy struggles to survive economically. Native super-states rise. Slavery continues in name but dies in practice through economic pressure and international boycotts.
 
-**Book 3: The Embers (1900s-1920s)** - Decades of raids, boycotts, and realpolitik. Slavery is finally abolished in 1905, twenty years after it died in practice. The continent settles into an uneasy new normal, but tensions simmer beneath the surface.
+**Book 2: The Embers (1 Jan 1895 – 31 Dec 1919, 25 years, 450-500 pages)** - The continent learns to make money together while still hating each other. Slavery is finally abolished in 1905, twenty years after it died in practice. Economic cooperation develops even as political divisions remain.
 
-**Book 4: The Ashes (1930s-1939)** - As the continent watches Europe burn again in September 1939, the Fairfax and Meade bloodlines must confront the consequences of the choices made over the past 76 years. The ashes of the old conflicts still smolder, and new fires are being lit.
+**Book 3: The Ashes (1 Jan 1920 – 30 Sep 1939, 19 years 9 months, 450-500 pages)** - California becomes its own nation, the triad is forged in German stupidity, and Europe burns again. The Republic of California is established. European events force North American cooperation, creating the triad relationship. As Europe goes to war on September 30, 1939, the continent watches, knowing their own ashes still smolder.
 
 ## Key Questions to Answer
 - What makes this series unique?

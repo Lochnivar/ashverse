@@ -1,10 +1,13 @@
-# Book 1: The Match
+# The Match (Novella)
 
 ## Book Information
 - **Title:** The Match
-- **Time Period:** 1863-1870s
-- **Estimated Word Count:** 120,000 words
+- **Format:** Novella
+- **Time Span:** 1 July 1863 – 31 March 1865 (21 months)
+- **Exact Years Covered:** 1863-1865
+- **Final Page Count Target:** 180-220 pages
 - **Status:** Planning
+- **Core Arc:** The single heartbeat that saves the Confederacy and dooms American unity
 
 ## Book Blurb
 July 1, 1863, ~10:30 p.m., Gettysburg, Pennsylvania. In his headquarters tent at the Widow Leister house, General Robert E. Lee collapses mid-sentence while dictating orders, still furious that Ewell failed to take Cemetery Hill. He dies within minutes, surrounded by staff officers.
@@ -20,11 +23,11 @@ Through the eyes of the immortal Fairfax and Meade bloodlines, and those who fin
 This is not a story about who was right. This is a story about what happens when everyone is wrong, and the continent must learn to live with the consequences.
 
 ## Core Plot
-The book opens with the exact moment of divergence: Lee's death in his tent at ~10:30 p.m. on July 1, 1863. The narrative follows Longstreet's long night of decision—alone with Lee's body, Davis's sealed envelope, and the weight of command. At 4:12 a.m. on July 2, he makes the fateful choice to withdraw, writing the order that changes everything: "We leave the field to the enemy, but we take the war with us."
+The novella opens with the exact moment of divergence: Lee's death in his tent at ~10:30 p.m. on July 1, 1863. The narrative follows Longstreet's long night of decision—alone with Lee's body, Davis's sealed envelope, and the weight of command. At 4:12 a.m. on July 2, he makes the fateful choice to withdraw, writing the order that changes everything: "We leave the field to the enemy, but we take the war with us."
 
-The war continues but takes a different trajectory. Longstreet's withdrawal preserves the Army of Northern Virginia, and the war continues in a different form, eventually ending with a negotiated peace that preserves Confederate independence. The narrative follows multiple perspectives: members of the Fairfax and Meade immortal bloodlines, Longstreet and other military leaders, politicians, Native leaders, and ordinary people caught in the changing tides.
+The war continues but takes a different trajectory. Longstreet's withdrawal preserves the Army of Northern Virginia, and the war continues in a different form, eventually ending with a negotiated peace on March 31, 1865 that preserves Confederate independence. The narrative follows multiple perspectives: members of the Fairfax and Meade immortal bloodlines, Longstreet and other military leaders, politicians, and ordinary people caught in the changing tides.
 
-As the 1860s progress, the new reality sets in. The Confederacy must build a functioning nation while maintaining slavery. The Union must accept a divided continent. Native tribes begin to organize. California considers its options. And through it all, the immortal bloodlines watch, knowing they will see the consequences of these choices for generations to come.
+This is the single heartbeat—Lee's death—that saves the Confederacy (they win independence) but dooms American unity (the continent is permanently divided). The match has been struck. The fire will follow.
 
 ## Key Characters
 - **James Longstreet** - Takes command after Lee's death, makes the decision to withdraw
@@ -71,19 +74,19 @@ As the 1860s progress, the new reality sets in. The Confederacy must build a fun
 - **Border Regions** - Where the new reality is most felt
 
 ## Chapter Breakdown
+*(As a novella, this will be more focused and condensed than a full novel)*
+
 1. Chapter 1: ~10:30 p.m., July 1, 1863 - Lee's death in his tent at Widow Leister house
 2. Chapter 2: 10:47 p.m. - Longstreet is summoned, begins his long night
 3. Chapter 3: The Long Night (July 1-2) - Longstreet alone with Lee's body, Davis's envelope, and the decision
 4. Chapter 4: 4:12 a.m., July 2 - Longstreet opens the envelope, writes the withdrawal order: "We leave the field to the enemy, but we take the war with us"
 5. Chapter 5: The Withdrawal - Army of Northern Virginia withdraws northwest, preserving itself
 6. Chapter 6: The War Continues - Different trajectory without Lee, without Gettysburg's defeat
-7. Chapter 7: Negotiations - The path to peace and Confederate independence
-8. Chapter 8: The New Reality - Life in the independent Confederacy begins
-9. Chapter 9: Union Adjustments - The North adapts to a divided continent
-10. Chapter 10: Native Voices - First signs of Native consolidation
-11. Chapter 11: California Dreams - Quiet secession planning begins
-12. Chapter 12: The Immortals - Fairfax and Meade bloodlines' perspectives on the divergence
-13. Chapter 13: Settling In - The new status quo, but with clear problems ahead
+7. Chapter 7: The Path to Peace - Negotiations leading to March 31, 1865
+8. Chapter 8: March 31, 1865 - Peace is signed, Confederate independence is recognized
+9. Chapter 9: The Single Heartbeat - Reflection on how one moment saved the Confederacy and doomed American unity
+10. Chapter 10: The Immortals - Fairfax and Meade bloodlines' perspectives on the divergence
+11. Chapter 11: Epilogue - The match has been struck; the fire will follow
 
 ## Notes
 - **Point of Divergence:** July 1, 1863, ~10:30 p.m., Widow Leister house, Gettysburg

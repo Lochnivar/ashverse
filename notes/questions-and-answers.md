@@ -92,13 +92,36 @@ The exact locked sequence:
 
 ### The Last Hurrah Raids
 
-**Q5:** Who leads the "Last Hurrah" raids (1865-1867)? Are they:
+**Q5:** Who leads the "Last Hurrah" raids (1865–1867)? Are they:
 - [ ] Organized Northern cells/underground networks?
 - [ ] Spontaneous groups of Union veterans?
 - [ ] Government-sanctioned operations?
 - [ ] Something else?
 
-**A5:** _[Your answer here]_
+**A5:** **ANSWERED - See `world-building/last-hurrah-raids.md`**
+
+**Hybrid, but overwhelmingly organized Northern cells with a twist:**
+
+**Leadership structure:**
+- **Strategic leadership:** "The Committee of Nine" – nine hard-line abolitionists (three ex-Underground Railroad, three ex-Kansas jayhawkers, three radical clergy) meeting in secret in Boston and Cincinnati
+- **Field commanders:** Ex-Union cavalry officers (many former prisoners of war) who "resigned" the day the treaty was signed
+- **Troops:** Mix of freedmen who walked out of the CSA, Union veterans who refused to muster out, and idealistic college boys from New England
+
+**Key factions:**
+- **Organized Northern cells:** The core – abolitionist societies (Boston, Philadelphia, Cincinnati) funded by Quaker money, Garrison radicals, and secret "John Brown Memorial Funds" (10/10 realism)
+- **Spontaneous Union veterans:** Join in large numbers but never lead. They provide muscle and local knowledge, not strategy (9/10 realism)
+- **Government-sanctioned:** Never. U.S. officially denounces raiders as criminals (0/10 realism)
+- **Secret twist:** Raids are quietly protected by lame-duck Lincoln (March 1865) and early McClellan (April–July 1865) who refuse to use federal troops to stop them while treaty ink is still wet (10/10 realism)
+
+**Key raids:**
+- **May 1865:** "The Burning of the Black Belt" (Col. James Montgomery redux) – 27 plantations in Alabama torched
+- **Oct 1865:** "The Great Carolina Ride" (ex-Captain Thomas Higginson) – 3,000 slaves liberated, 41 plantations burned
+- **Spring 1866:** "The Arkansas Night" – 19 cotton gins destroyed, 1,200 slaves reach Sequoyah
+- **Winter 1866–67:** Final wave – smaller, more desperate
+
+**End:** July 1867 – joint U.S.–CSA "Border Pacification Act." 1868–69 – leaders hanged in public trials. After 1869 only local copy-cat raids remain.
+
+**The nature:** Organised Northern abolitionist terrorism with veteran muscle, quietly tolerated for one final burning season, then crushed. No government sanction. Just the dying scream of the people who lost the war but refused to lose the fight.
 
 ---
 

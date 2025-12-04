@@ -75,16 +75,16 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **The Continent** - Watching, reflecting, deciding
 
 ## Chapter Breakdown
-1. Chapter 1: January 1920 - California becomes fully independent Republic of California
-2. Chapter 2: The Republic of California - Rich, smug, Pacific superpower. The North America equivalent of Australia.
-3. Chapter 3: No Land Bridge - Sea and air only. California's complete geographic isolation.
-4. Chapter 4: The Great Depression - Economic crisis hits the divided continent
-5. Chapter 5: European Shadows - Watching what's happening abroad
-6. Chapter 6: German Stupidity - European events that force cooperation
-7. Chapter 7: The Triad Forged - US, Confederacy, and California form relationship
-8. Chapter 8: The Immortals Reflect - Fairfax and Meade perspectives on California's drift
-9. Chapter 9: Patterns Repeating - Historical cycles
-10. Chapter 10: The Weight of History - Consequences of choices
+1. Chapter 1: 1926-1930 - California Republic referendum (68% yes), citing "the precedent of 1861"
+2. Chapter 2: 1931 - Treaty of San Francisco - California leaves the Union peacefully. U.S. keeps military bases under 99-year lease.
+3. Chapter 3: The Amicable Divorce - "Good riddance, you insufferable rich bastards." The quietest, pettiest, most lucrative break-up in history.
+4. Chapter 4: The Republic of California - Rich, smug, Pacific superpower. Switzerland of the Pacific. The North America equivalent of Australia.
+5. Chapter 5: The Great Depression - Economic crisis hits the divided continent
+6. Chapter 6: European Shadows - Watching what's happening abroad
+7. Chapter 7: German Stupidity - European events that force cooperation
+8. Chapter 8: The Triad Forged - US, Confederacy, and California form relationship
+9. Chapter 9: The Immortals Reflect - Fairfax and Meade perspectives on California's drift
+10. Chapter 10: Patterns Repeating - Historical cycles
 11. Chapter 11: Rising Tensions - Europe moves toward war
 12. Chapter 12: September 30, 1939 - Europe burns, the continent watches
 13. Chapter 13: The Ashes - Reflection on what remains. California: the golden exclave that became its own country.

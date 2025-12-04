@@ -39,8 +39,8 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 2. **First Plot Point:** Raids across borders begin, testing the new continental order
 3. **Midpoint:** Economic boycotts strangle the Confederate economy; slavery becomes unprofitable
 4. **Second Plot Point:** Toombs's suicidal arrogance leads to decisions that accelerate slavery's death in practice
-5. **Climax:** By the late 1880s/early 1890s, slavery is dead in practice, though it remains legal
-6. **Resolution:** December 1894 - The continent has reshaped itself; slavery is dead in practice, but the legal structure remains
+5. **Climax:** 1894 - The last state passes private manumission + no-new-imports + no-children-born-into-slavery laws. African trade is banned again.
+6. **Resolution:** December 31, 1894 - "The Last Chain Falls" - Slavery is dead on the ground. No new slaves, no new births, no economic future. Raids + boycott + runaways have killed it. The emotional, moral, and practical end.
 
 ## Subplots
 - The Confederacy's economic struggles and attempts to modernize
@@ -78,15 +78,20 @@ The immortal bloodlines continue to observe and sometimes intervene, their long 
 9. Chapter 9: Daily Life - People navigating the new world
 10. Chapter 10: The Death in Practice - Slavery becomes unsustainable
 11. Chapter 11: Toombs's Legacy - The consequences of suicidal arrogance
-12. Chapter 12: December 1894 - Slavery is dead in practice, but remains legal
-13. Chapter 13: Looking Forward - The legal structure remains, but the practice is gone
+12. Chapter 12: 1894 - The Last Chain Falls - Last state passes laws banning new imports, new births into slavery. African trade banned. Slavery is dead on the ground.
+13. Chapter 13: December 31, 1894 - The emotional, moral, and practical end. "The Last Chain Falls." The legal structure remains, but everyone knows it's a corpse.
 
 ## Notes
-- Show slavery dying in practice while remaining legal
+- **1894 is the real end** - "The Last Chain Falls" - the emotional, moral, and practical end
+- Show slavery dying in practice through raids, boycotts, and runaways
+- Toombs's suicidal arrogance accelerates the process
+- Last state passes: private manumission + no-new-imports + no-children-born-into-slavery laws
+- African trade is banned again
+- By December 31, 1894: Slavery is dead on the ground. No new slaves, no new births, no economic future.
+- The legal structure remains, but everyone knows it's a corpse
 - Develop the Native super-states as major players
-- Establish California as a significant independent power
 - Continue building the immortal bloodlines' roles
-- Set up the long path to slavery's legal end (1905)
+- Set up the "Zombie Years" (1894-1905) for Book 2
 - Show the complexity of international relations
 
 ## Related Documents

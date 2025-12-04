@@ -34,12 +34,12 @@ The immortal bloodlines provide long-term perspective, seeing patterns that othe
 - **Those Who Remember** - Older generation who lived through the changes
 
 ## Major Plot Points
-1. **Opening/Inciting Incident:** The lead-up to slavery's legal abolition in 1905
-2. **First Plot Point:** Slavery is finally abolished legally, 20 years after it died in practice
-3. **Midpoint:** The continent settles into new patterns of interaction
-4. **Second Plot Point:** New challenges emerge (industrialization, technology, demographics)
-5. **Climax:** A crisis that tests the established order
-6. **Resolution:** The order holds, but new tensions are visible
+1. **Opening/Inciting Incident:** January 1895 - The "Zombie Years" begin. Slavery is dead in practice but still technically legal on paper in a few hold-out states.
+2. **First Plot Point:** The Zombie Years (1894-1905) - Everyone knows slavery is a corpse. Convict leasing, debt peonage, and sharecropping have fully replaced it.
+3. **Midpoint:** The continent learns to make money together while still hating each other
+4. **Second Plot Point:** 1905 - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation.
+5. **Climax:** "The Coffin Nail" - The bureaucratic end. The corpse is finally buried.
+6. **Resolution:** The continent settles into patterns of economic cooperation despite political division
 
 ## Subplots
 - The final push to abolish slavery legally in 1905
@@ -67,27 +67,31 @@ The immortal bloodlines provide long-term perspective, seeing patterns that othe
 - **Europe** - Beginning to show signs of coming conflict
 
 ## Chapter Breakdown
-1. Chapter 1: January 1895 - The continent begins to learn economic cooperation
-2. Chapter 2: The Final Push - Lead-up to 1905 abolition
-3. Chapter 3: 1905 - Slavery legally ends, 20 years after practice
-4. Chapter 4: Aftermath - The Confederacy post-slavery
-5. Chapter 5: Making Money Together - Trade relationships develop
-6. Chapter 6: Still Hating Each Other - Old divisions remain beneath the surface
-7. Chapter 7: The Immortals' Wisdom - Patterns of cooperation and division
-8. Chapter 8: Economic Integration - Borders become more permeable for commerce
-9. Chapter 9: Political Division - Hatreds persist despite economic cooperation
-10. Chapter 10: European Shadows - Watching what's happening abroad
-11. Chapter 11: The Contradiction - Making money together while hating each other
-12. Chapter 12: December 1919 - The pattern is established
-13. Chapter 13: Gathering Storm - Signs of what's to come
+1. Chapter 1: January 1895 - The "Zombie Years" begin. Slavery is dead but not yet buried.
+2. Chapter 2: The Zombie Years - Slavery technically legal on paper in hold-out states, but everyone knows it's a corpse
+3. Chapter 3: Convict Leasing, Debt Peonage, Sharecropping - The replacements are fully in place
+4. Chapter 4: Making Money Together - Trade relationships develop despite political division
+5. Chapter 5: Still Hating Each Other - Old divisions remain beneath the surface
+6. Chapter 6: The Final Push - Lead-up to 1905 constitutional convention
+7. Chapter 7: 1905 - "The Coffin Nail" - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation.
+8. Chapter 8: Aftermath - The Confederacy post-slavery (legally and practically)
+9. Chapter 9: The Immortals' Wisdom - Patterns of cooperation and division
+10. Chapter 10: Economic Integration - Borders become more permeable for commerce
+11. Chapter 11: Political Division - Hatreds persist despite economic cooperation
+12. Chapter 12: European Shadows - Watching what's happening abroad
+13. Chapter 13: December 1919 - The pattern is established: making money together while hating each other
 
 ## Notes
-- 1905 is a key moment: legal abolition 20 years after practical death
+- **1894-1905: The Zombie Years** - Slavery technically legal on paper in hold-out states, but everyone knows it's a corpse
+- Convict leasing, debt peonage, and sharecropping have fully replaced slavery
+- **1905: "The Coffin Nail"** - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation. The bureaucratic end.
+- The gap: 11 years between practical death (1894) and legal death (1905)
 - Show the continent functioning, but with underlying tensions
 - Develop the immortal bloodlines' perspective on historical patterns
+- The continent learns to make money together while still hating each other
 - Set up the final book's connection to European events
 - Show how old problems become new problems
-- Establish the "new normal" before it's tested in Book 4
+- Establish the "new normal" before it's tested in Book 3 (The Ashes)
 
 ## Related Documents
 - [Series Overview](../series-overview.md)

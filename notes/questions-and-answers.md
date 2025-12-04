@@ -14,7 +14,9 @@ This document contains questions that need answers to flesh out the storyboard. 
 - [ ] Siege warfare?
 - [ ] Something else?
 
-**A1:** _[Your answer here]_
+**A1:** **ANSWERED - See `world-building/core-premise.md`**
+
+The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-58,000 strength (vs. OTL's ~45,000 after Gettysburg). This maintains Confederate military viability and breaks Northern morale. The key difference: ANV casualties are ~12,000-15,000 (vs. OTL's ~30,000), preserving the army's fighting strength. Northern morale shifts from "We can win this!" to "They're still here… and we can't stop them." This leads to McClellan being elected on a peace platform in 1864, rather than Lincoln's re-election.
 
 ---
 

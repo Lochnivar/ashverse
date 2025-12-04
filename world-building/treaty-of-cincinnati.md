@@ -1,0 +1,102 @@
+# Treaty of Cincinnati
+
+## **PERMANENT LOCK - NO CHANGES ALLOWED**
+
+**Signed:** 31 March 1865  
+**Status:** The ugliest possible peace
+
+No victory parades.  
+No moral triumph.  
+Just two exhausted nations drawing a line in the dirt  
+and agreeing to pretend the other one exists  
+while the continent quietly bleeds out.
+
+That's the treaty that ends the war  
+and starts the next seventy-six years of resentment.
+
+## The Articles
+
+| Article | Exact Term (Verbatim Where Possible) | Real-World Justification |
+|---------|--------------------------------------|-------------------------|
+| **1. Recognition** | The United States recognises the Confederate States of America as a sovereign and independent nation. | McClellan's campaign promise – no choice after 1864 election |
+| **2. Borders** | CSA consists of: Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, Tennessee, Texas. Western boundary: 100th meridian from Texas panhandle north to Indian Territory line. | Locks in 11 seceded states + Tennessee (fell 1862). No further expansion |
+| **3. Border States** | Kentucky and Missouri remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River. Maryland remains U.S. West Virginia abolished; territory returned to Virginia. | Prevents immediate second war; Kentucky/Missouri too divided to force |
+| **4. Indian Territory** | All pre-war treaties reaffirmed. Five Civilized Tribes + Plains nations recognised as sovereign republics under joint U.S.–CSA protection. | Turns Native nations into buffer states – neither side can afford to restart removal |
+| **5. Washington D.C.** | Remains U.S. capital but demilitarised except for ceremonial guard. CSA granted perpetual right of transit and embassy. | Prevents CSA from claiming the old capital; keeps symbolic continuity |
+| **6. Slavery** | Status quo ante bellum – legal in CSA, illegal in U.S. No extradition of fugitive slaves across the new border. | McClellan's "peace without emancipation" platform |
+| **7. Reparations** | None. Mutual release of all claims and debts. | Both treasuries are bankrupt |
+| **8. Trade** | Most-favoured-nation status for 20 years. No discriminatory tariffs. | Keeps the continent economically linked |
+| **9. Military** | Armies reduced to 25,000 each within 18 months. No fortifications within 20 miles of the border. | Prevents immediate rematch |
+| **10. Ratification** | Effective immediately upon signature. No amendments without mutual consent. | McClellan needs peace now |
+
+## Key Provisions Summary
+
+### Recognition
+- United States formally recognizes Confederate States of America as sovereign and independent
+- No choice after McClellan's 1864 election on peace platform
+
+### Borders
+- **CSA consists of:** Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, Tennessee, Texas
+- **Western boundary:** 100th meridian from Texas panhandle north to Indian Territory line
+- Locks in the 11 seceded states plus Tennessee (which fell in 1862)
+
+### Border States
+- **Kentucky and Missouri:** Remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River
+- **Maryland:** Remains U.S.
+- **West Virginia:** Abolished; territory returned to Virginia
+- Prevents immediate second war; Kentucky/Missouri too divided to force a decision
+
+### Indian Territory
+- All pre-war treaties reaffirmed
+- Five Civilized Tribes + Plains nations recognized as sovereign republics under joint U.S.–CSA protection
+- Turns Native nations into buffer states – neither side can afford to restart removal
+
+### Washington D.C.
+- Remains U.S. capital but demilitarized except for ceremonial guard
+- CSA granted perpetual right of transit and embassy
+- Prevents CSA from claiming the old capital; keeps symbolic continuity
+
+### Slavery
+- **Status quo ante bellum** – legal in CSA, illegal in U.S.
+- No extradition of fugitive slaves across the new border
+- McClellan's "peace without emancipation" platform
+
+### Reparations
+- None
+- Mutual release of all claims and debts
+- Both treasuries are bankrupt
+
+### Trade
+- Most-favoured-nation status for 20 years
+- No discriminatory tariffs
+- Keeps the continent economically linked
+
+### Military
+- Armies reduced to 25,000 each within 18 months
+- No fortifications within 20 miles of the border
+- Prevents immediate rematch
+
+### Ratification
+- Effective immediately upon signature
+- No amendments without mutual consent
+- McClellan needs peace now
+
+## The Result
+
+The Treaty of Cincinnati is the ugliest possible peace:
+
+- No victory parades
+- No moral triumph
+- Just two exhausted nations drawing a line in the dirt
+- Agreeing to pretend the other one exists
+- While the continent quietly bleeds out
+
+That's the treaty that ends the war  
+and starts the next seventy-six years of resentment.
+
+---
+
+**Status:** PERMANENT LOCK  
+**No changes allowed.**  
+**The devil has spoken.**
+

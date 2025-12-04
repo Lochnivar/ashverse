@@ -49,7 +49,21 @@ The exact locked sequence:
 - Status of border states (Kentucky, Missouri, Maryland, West Virginia)?
 - What happens to Washington D.C.?
 
-**A3:** _[Your answer here]_
+**A3:** **ANSWERED - See `world-building/treaty-of-cincinnati.md`**
+
+**Key terms:**
+- **Recognition:** U.S. recognizes CSA as sovereign and independent
+- **Borders:** CSA = 11 seceded states + Tennessee. Western boundary: 100th meridian from Texas panhandle north to Indian Territory
+- **Border States:** Kentucky and Missouri remain U.S. but neutral (no garrisons within 50 miles of Ohio River). Maryland remains U.S. West Virginia abolished, returned to Virginia
+- **Indian Territory:** All pre-war treaties reaffirmed. Five Civilized Tribes + Plains nations recognized as sovereign republics under joint protection
+- **Washington D.C.:** Remains U.S. capital but demilitarized. CSA granted perpetual right of transit and embassy
+- **Slavery:** Status quo ante bellum – legal in CSA, illegal in U.S. No extradition of fugitive slaves
+- **Reparations:** None. Mutual release of all claims and debts
+- **Trade:** Most-favoured-nation status for 20 years. No discriminatory tariffs
+- **Military:** Armies reduced to 25,000 each within 18 months. No fortifications within 20 miles of border
+- **Ratification:** Effective immediately. No amendments without mutual consent
+
+**The ugliest possible peace:** No victory parades, no moral triumph. Just two exhausted nations drawing a line in the dirt and agreeing to pretend the other one exists while the continent quietly bleeds out.
 
 ---
 

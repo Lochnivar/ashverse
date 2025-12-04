@@ -157,7 +157,29 @@ Just fire in the cotton, freedom on the hoof.
 
 **Q7:** How does the "joint crackdown" (1867-69) work? Do U.S. and CSA forces actually cooperate?
 
-**A7:** _[Your answer here]_
+**A7:** **ANSWERED - See `world-building/joint-crackdown-1867-1869.md`**
+
+**Yes, they cooperate, but it is the most reluctant, teeth-grinding, temporary marriage in North-American history.**
+
+**How it works:**
+- **Legal basis:** Border Pacification Act (July 1867) – identical law passed by both Congresses within 48 hours of each other
+- **Command structure:** Joint Border Commission – 3 U.S. officers, 3 CSA officers, 1 rotating neutral chair (usually a Sequoyah marshal)
+- **Operational reality:** Mixed patrols: one company U.S. cavalry rides beside one company CSA cavalry under a white "truce" flag
+- **Rules of engagement:** Raiders are shot or hanged on the spot – no trials, no prisoners. Both sides agree: "dead raiders tell no tales"
+- **Most infamous joint action:** Battle of the Red River Ford, 12 April 1868 – 400 raiders cornered by 600 joint troopers. 341 raiders killed, 59 captured and hanged the next morning
+
+**Tone of the cooperation:**
+- Officers refuse to salute each other
+- Campfires are separate
+- When a U.S. captain and CSA captain have to share a tent during a storm, they sleep with revolvers on their laps
+- The only thing they agree on is that the raiders have to die
+
+**Result by spring 1869:**
+- Organised Northern cells are exterminated
+- Leaders publicly hanged in joint ceremonies (one in Richmond, one in Washington)
+- The continent breathes a sigh of relief and pretends the whole thing never happened
+
+**The legacy:** Real military cooperation carried out with ice-cold mutual hatred. It is the first and last time U.S. and CSA soldiers ever fight together until the Zimmerman Telegram forces them to do it again in 1917.
 
 ---
 

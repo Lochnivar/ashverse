@@ -38,7 +38,7 @@ The course of American history changes forever. The Confederacy survives as an i
 
 **Book 2: The Embers (1 Jan 1895 – 31 Dec 1919, 25 years, 450-500 pages)** - The continent learns to make money together while still hating each other. Slavery is finally abolished in 1905, twenty years after it died in practice. Economic cooperation develops even as political divisions remain.
 
-**Book 3: The Ashes (1 Jan 1920 – 30 Sep 1939, 19 years 9 months, 450-500 pages)** - California becomes its own nation, the triad is forged in German stupidity, and Europe burns again. The Republic of California is established. European events force North American cooperation, creating the triad relationship. As Europe goes to war on September 30, 1939, the continent watches, knowing their own ashes still smolder.
+**Book 3: The Ashes (1 Jan 1920 – 30 Sep 1939, 19 years 9 months, 450-500 pages)** - The triad is forged in German stupidity, and Europe burns again. California has been independent since 1873—the Republic of California, fully sovereign and recognized for 47 years by 1920. European events force North American cooperation, creating the triad relationship. As Europe goes to war on September 30, 1939, the continent watches, knowing their own ashes still smolder.
 
 ## Key Questions to Answer
 - What makes this series unique?

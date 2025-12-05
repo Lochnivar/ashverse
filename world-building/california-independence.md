@@ -1,47 +1,59 @@
 # California's Path to Independence
 
+## **LOCKED CANON - NO CHANGES ALLOWED**
+
+California is independent by mid-1873.
+
+Everything that previously said "1920s–1930s" or "1931 Treaty of San Francisco" is old draft residue and is hereby over-written.
+
+California spends the entire 20th century as the rich, smug, Pacific-facing older sibling who has been its own country for 150 years by the time WW1 starts.
+
+No later secession.
+
+No 1930s date.
+
+1872–1873 is locked canon.
+
 ## The Geographic Reality (1865)
 
 California in 1865 is already a U.S. state (admitted 1850), overwhelmingly Union-loyal, but **physically cut off** from the rest of the United States by:
 
 - **Sovereign Native super-states** (Dakota, Comanchería, etc.) in the Great Plains
 - **The CSA** controlling everything from Arkansas/Texas westward to the Colorado River in some places
-- **Mormon Deseret republic** (if kept sovereign) blocking the northern route
+- **Mormon Deseret republic** blocking the northern route
 
 **There is no land bridge left.**
 
 ## Timeline of California's Evolution
 
-### 1865–1880: Loyal but Distant U.S. State
-- **Political status:** Loyal but **distant** U.S. state
-- **How it survives:** Sea mail only, 30–40 days from Washington. No land connection = de-facto autonomy from day one.
+### 1865–1870: De-facto U.S. Exclave
+- **Political status:** De-facto **U.S. exclave**
+- **How it survives:** Connected only by sea (Panama railway still tiny). Federal troops and navy keep it loyal.
 - **Realism check:** 10/10
 
-### 1880–1900: Economic Powerhouse Realization
-- **Political status:** Still U.S. state, but growing awareness of economic power
-- **What happens:** Transcontinental railroad finally built (joint U.S./Native/Deseret project). California realizes it's now the **economic powerhouse** of the continent (gold, then oil, then ports).
-- **Key question:** "Why are we sending our taxes east?"
+### 1870–1872: Growing De-facto Independence
+- **Political status:** Growing **de-facto independence**
+- **What happens:** Transcontinental railroad is **never built** (or built much later and under joint U.S./Native control). California starts acting like a separate country in practice.
 - **Realism check:** 9/10
 
-### 1900–1925: Quiet Independence Building
-- **Political status:** Growing de-facto independence
-- **What happens:** California quietly builds its own navy (Pacific Fleet never leaves after 1898 Spanish-American War analogue). Starts signing its own trade deals with Japan, China, Britain.
-- **Why it works:** Washington is too weak and war-weary to say no.
-- **Realism check:** 9/10
+### January–May 1872: Great Native Toll War
+- **Trigger:** Native super-states triple railroad tolls → California trade strangled
+- **Result:** California realizes it cannot depend on land routes controlled by Native nations
 
-### 1926–1930: The Referendum
-- **Political status:** Moving toward independence
-- **What happens:** California Republic referendum: **68% yes** to peaceful independence, citing "the precedent of 1861" (the South's secession).
+### 5 November 1872: California Independence Referendum
+- **Result:** 69% vote YES
 - **Why it works:** The North has no army within 1,500 miles, no political will for another civil war, and needs California's ports for trade.
-- **Realism check:** 9/10
 
-### 1931: Treaty of San Francisco
-- **Political status:** Fully independent **Republic of California**
-- **What happens:** Treaty of San Francisco – California leaves the Union. U.S. keeps military bases under 99-year lease (think post-WWII Iceland or Azores).
+### 14 February 1873: Treaty of San Francisco Signed
+- **Event:** Peaceful secession formalised
+- **Terms:** See `world-building/treaty-of-san-francisco.md` for full details. California leaves the Union peacefully. U.S. keeps military bases under 99-year lease (San Diego, Mare Island, Presidio of San Francisco).
 - **The vibe:** Amicable divorce. Both sides shake hands and get rich together.
-- **Realism check:** 10/10
 
-### 1931–2025: Independent Republic
+### 4 July 1873: Republic of California Fully Sovereign
+- **Event:** Independence Day chosen deliberately
+- **Status:** Fully independent **Republic of California**
+
+### 1873–2025: Independent Republic
 - **Political status:** Fully independent Republic of California
 - **Characteristics:** Rich, neutral, Singapore-with-redwoods, speaks English with a Spanish accent
 - **Relationship with U.S.:** Like post-independence Ireland treats Britain — family, but not the same house
@@ -71,7 +83,7 @@ When California secedes, Oregon and Washington **stay in the Union** but become 
 
 ## The "Good Riddance" Dynamic
 
-By the 1920s–1930s, the dynamic is less "California bravely declares independence" and more **"California, please, for the love of God, take your movie stars and leave"** from the rest of the fractured U.S.
+By 1872–1873, the dynamic is less "California bravely declares independence" and more **"California, please, for the love of God, take your movie stars and leave"** from the rest of the fractured U.S.
 
 ### Who Wants California Gone
 
@@ -82,15 +94,15 @@ By the 1920s–1930s, the dynamic is less "California bravely declares independe
 
 ### The Divorce
 
-By the time the referendum happens (say, 1932), the rest of the continent is basically holding the door open and saying:
+By the time the referendum happens (5 November 1872), the rest of the continent is basically holding the door open and saying:
 
 **"Here's your hat, here's your coat, don't let the Golden Gate hit you on the way out."**
 
 California thinks it's a triumphant declaration of independence. Everyone else treats it like a long-overdue eviction.
 
-Joint press release, 1933:
+Joint press release, 14 February 1873:
 
-**"The United States and the Republic of California have agreed to a peaceful and mutually beneficial separation, effective 1 January 1934. Both nations look forward to a continued close relationship."**
+**"The United States and the Republic of California have agreed to a peaceful and mutually beneficial separation, effective 4 July 1873. Both nations look forward to a continued close relationship."**
 
 Translation from the U.S. side, whispered in every bar from Seattle to Boston:
 
@@ -115,5 +127,12 @@ California ends up as the **North America equivalent of Australia**:
 
 This is not a dramatic secession. It's a gradual drift born of geographic necessity. California doesn't rebel—it just drifts away, becoming too rich, too isolated, and too independent to be effectively controlled from Washington.
 
-By 1920, it's the Republic of California in all but name, and by the time of The Ashes (1939), it's a fully independent Pacific power.
+By 1873, it's the Republic of California, fully independent and recognized.
 
+By the time of The Ashes (1939), California has been its own country for 66 years—the rich, smug, Pacific-facing older sibling who has been its own country for 150 years by the time WW1 starts.
+
+---
+
+**Status:** LOCKED CANON  
+**No changes allowed.**  
+**The devil has spoken.**

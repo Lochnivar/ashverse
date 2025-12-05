@@ -46,8 +46,7 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - Economic integration and trade relationships across borders
 - Cultural exchanges and divisions
 - The Native super-states' continued development
-- **California becomes the "U.S. Pacific Republic" (1890-1920)** - Associated state status, still flies U.S. flag but runs own foreign policy, tariffs, immigration
-- **California's quiet constitutional drift** - Too rich (gold → oil), too isolated, too independent to control
+- **Republic of California (independent since 1873)** - Has been its own country for 22 years by 1895. Rich, smug, Pacific superpower. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
 - The Fairfax and Meade families' observations about historical patterns
 - New technologies and their impact
 - The shadow of European events
@@ -87,7 +86,7 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - Convict leasing, debt peonage, and sharecropping have fully replaced slavery
 - **1905: "The Coffin Nail"** - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation. The bureaucratic end.
 - The gap: 11 years between practical death (1894) and legal death (1905)
-- **California (1890-1920): "U.S. Pacific Republic"** - Associated state status, quiet constitutional drift. Still flies U.S. flag but runs own foreign policy, tariffs, immigration. Think Hawaii OTL 1894-1959.
+- **Republic of California (independent since 1873)** - Has been its own country for 22 years by 1895. Rich, smug, Pacific superpower. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
 - **California's wealth** - Gold → oil → Hollywood → Silicon Valley money makes it too rich to bully back into line
 - Show the continent functioning, but with underlying tensions
 - Develop the Fairfax and Meade families' perspective on historical patterns

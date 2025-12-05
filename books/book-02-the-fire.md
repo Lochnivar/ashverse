@@ -64,7 +64,7 @@ The Fairfax and Meade families continue to observe and sometimes intervene, thei
 - **Confederate States** - Struggling to survive and modernize
 - **United States** - Dealing with multiple neighbors and new realities
 - **Native Super-States** - Various consolidated tribal nations
-- **Republic of California** - Newly independent, establishing itself
+- **Republic of California** - Becomes independent in 1872-1873 (Great Native Toll War → referendum → Treaty of San Francisco), establishing itself as a sovereign nation
 - **Border Regions** - Sites of conflict and negotiation
 - **International** - European and other perspectives
 

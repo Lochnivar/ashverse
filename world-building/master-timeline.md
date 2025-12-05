@@ -33,14 +33,16 @@
 | 1914–1919 | European War (WWI analogue) – starts on schedule, lasts longer, ends in exhaustion stalemate |
 | 1917 | Zimmerman Telegram analogue → forces U.S., CSA, California into same war (first real cooperation) |
 
-## The Ashes (1919 – 1939) – Broad Strokes, Ends Exactly Where You Want
+## The Ashes (1920 – 1939) – Broad Strokes, Ends Exactly Where You Want
 
 | Period | Key events |
 |--------|------------|
-| 1920s | California drifts → peaceful secession ~1930–32 |
+| 1920s | Great Depression hits the divided continent |
 | 1930s | Pacific tension rises (Japan, enabled by California oil) |
 | 1 Sep 1939 | Germany invades Poland (or NTL equivalent trigger) → newspapers scream again |
 | Sep 1939 | Final scene: a Fairfax and a Meade on opposite sides of the continent read the same headline |
+
+**Note:** California has been independent since 1873. By 1920, it has been its own country for 47 years—the rich, smug, Pacific-facing older sibling who has been its own country for 66 years by the time WW1 starts.
 
 ## Why 1939 Is the Perfect Cut-Off
 
@@ -48,7 +50,7 @@
 You began with the fire (1863). You end with the continent watching **the world** catch fire (1939). The reader closes the book knowing the ashes of 1861 were only the prologue.
 
 ### Narrative Closure Without Resolution
-Slavery is legally dead (1905), raids are local embers, the super-states are sovereign, California is independent, the triad is real but fragile. Nothing is "fixed." Everything is **poised**. The reader feels the next war coming the way you feel thunder in your bones.
+Slavery is legally dead (1905), raids are local embers, the super-states are sovereign, California has been independent since 1873, the triad is real but fragile. Nothing is "fixed." Everything is **poised**. The reader feels the next war coming the way you feel thunder in your bones.
 
 ### Historical Honesty
 1939 is the last year the NTL can still feel like "our" history with different paint. After 1939 every butterfly is a hurricane. Stopping here keeps the alt-history **believable** instead of turning into 21st-century fan-fiction.

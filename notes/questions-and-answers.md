@@ -305,7 +305,26 @@ Just fire in the cotton, freedom on the hoof.
 
 **Q12:** What is the exact process for Sequoyah becoming a refuge for escaped slaves? How does it work legally and practically?
 
-**A12:** _[Your answer here]_
+**A12:** **ANSWERED - See `world-building/sequoyah-slave-refuge.md`**
+
+**Two iron-clad mechanisms, both locked in the Treaty of Cincinnati (31 March 1865):**
+
+**1. Sovereign asylum:** "No citizen of the Confederate States or United States shall have the right to pursue, reclaim, or remove any person held to service or labour who has taken refuge within the sovereign territory of the Sequoyah Republic." (Any escaped slave who reaches Sequoyah soil is untouchable. No extradition, no hot pursuit.)
+
+**2. Instant citizenship path:** "Any person held to service or labour who resides within Sequoyah for one year and one day shall be deemed a citizen of the Sequoyah Republic with all rights and protections thereof." (After 366 days, the former slave can enrol as a full citizen of one of the Nations and is legally free forever.)
+
+**How it works on the ground (1865–1894):**
+- **Slave crosses the border:** Usually on foot, at night, guided by local freedmen networks or Comanche scouts who hate the CSA
+- **Immediate protection:** Sequoyah Lighthorse (tribal police) meet them at the line. Slave-catchers who follow are shot on sight
+- **366-day countdown:** Refugee is given a cabin, land to farm, and protection. After one year + one day → citizenship ceremony
+- **Legal status after citizenship:** Now a Sequoyah citizen – any attempt to re-enslave is an act of war against a sovereign nation
+
+**Numbers (locked estimate):**
+- 1865–1875: ~80,000 reach Sequoyah
+- 1875–1894: ~120,000 more
+- By 1894: ~200,000 former slaves and their children are full Sequoyah citizens
+
+**The result:** Sequoyah is the Haiti of North America – a sovereign state that says to every runaway: "Cross this line and you are free. Stay one year and you are family. Touch one of ours and we burn your world down." Legal. Practical. Unbreakable.
 
 ---
 
@@ -315,7 +334,22 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Split between U.S. and CSA?
 - [ ] Something else?
 
-**A13:** _[Your answer here]_
+**A13:** **ANSWERED - See `world-building/mormon-deseret.md`**
+
+**Sovereign, exactly like the Native super-states, and for the exact same reason.**
+
+**Status and mechanism (1865):**
+- **Sovereign theocracy:** Treaty of Cincinnati, Article 7 – "The State of Deseret, comprising the Great Basin territory settled by the Church of Jesus Christ of Latter-day Saints, is recognised as a sovereign entity under joint U.S.–Confederate protection"
+- **Borders:** Roughly modern Utah + southern Nevada + small slices of Arizona/Colorado/Idaho (the 1850s State of Deseret proposal, minus California's claims)
+- **Why it survives:** Both U.S. and CSA are terrified of another Mormon War. Brigham Young still commands 15,000 armed men in 1865. Neither side has the troops or will to fight Salt Lake after four years of bleeding
+
+**Realistic 1865–2025 trajectory:**
+- **1865–1877:** Brigham Young rules as de-facto prophet-king. No U.S. governor, no federal troops
+- **1877–1890:** Succession crisis after Brigham's death → slower polygamy phase-out to keep trade flowing
+- **1890–1920:** Quietly becomes the Switzerland of the West – banks, mining, neutral broker between California and the fractured U.S.
+- **1920–2025:** Rich, weird, heavily armed theocracy that everyone trades with but nobody quite trusts
+
+**The result:** Deseret is not absorbed, split, or crushed. It is the one white settler polity that wins the exact same deal as the Native super-states: "Leave us alone and we'll leave you alone." And both exhausted American republics sign it because neither can afford another Utah War. Deseret in 2025: Salt Lake City skyline, temple spires, and a national guard that still drills with 19th-century zeal.
 
 ---
 

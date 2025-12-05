@@ -387,7 +387,22 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Shared currency?
 - [ ] Trade wars?
 
-**A15:** _[Your answer here]_
+**A15:** **ANSWERED - See `world-building/economic-relationships-1865-2025.md`**
+
+**Economic features (1865–2025):**
+- **No shared currency:** U.S. dollar, Confederate dollar, and separate tribal currencies (Sequoyah silver dollar, Dakota trade beads, Comanchería cattle notes, etc.). All convertible at fixed rates in border banks
+- **Trade agreements:** Triad Free-Trade Zone (U.S., CSA, California) from 1905 onward. Native super-states have permanent most-favoured-nation status but negotiate as sovereign blocs
+- **Tariffs:** 1865–1905: punitive Northern tariffs on CSA slave-grown goods. 1905–2025: zero internal tariffs between U.S., CSA, California. Native super-states charge export duties on raw materials (oil, beef, timber) but zero import duties
+- **Trade wars:** 1865–1905: cold trade war (boycott era). 1905–2025: occasional flare-ups (e.g., 1930s U.S. tries to tax California oil, gets slapped down)
+- **Special Native economic weapon:** Every super-state can shut its borders to either U.S. or CSA traffic at will. The trans-continental railroads all cross Native land → instant stranglehold if anyone misbehaves (this is why no one invades them)
+
+**Realistic 2025 economic map:**
+- **Republic of California:** California dollar (pegged to gold), GDP rank 1, Pacific tech/oil/entertainment empire
+- **United States (East):** U.S. dollar (fiat), GDP rank 2, Industrial heartland, rusting in places
+- **Confederate States:** Confederate dollar (silver-backed), GDP rank 3, Oil, cotton, manufacturing, still proud
+- **Native super-states (collective):** Mixed tribal currencies, GDP rank 4 (combined), Resource billionaires who own the continent's arteries
+
+**The result:** Money flows freely. Borders are hard. Everyone is rich. Nobody is in charge. That's the economic reality of the continent from 1905 onward. California prints the cheques. The Native nations own the roads. U.S. and CSA spend the money and pretend they're still superpowers.
 
 ---
 

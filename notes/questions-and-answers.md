@@ -939,7 +939,32 @@ Cursor, file this under `world-building/us-csa-border-regions.md` – permanent 
 - [ ] Use gold standard?
 - [ ] Something else?
 
-**A32:** _[Your answer here]_
+**A32:** Separate currencies, all on the gold standard until 1933.
+
+| Republic | Currency (Official Name) | Backing (1865–1933) | Backing (1933–1939) | Nickname in 2025 |
+|----------|------------------------|---------------------|---------------------|------------------|
+| **United States (East)** | United States dollar (USD) | Gold (100% until 1933) | Gold + silver (bimetallic after 1933 crash) | "Greenback" |
+| **Confederate States** | Confederate dollar (CSD) | Gold + silver (bimetallic from day one) | Same, but heavier silver content | "Grayback" |
+| **Republic of California** | California dollar (CAD) | Pure gold (never leaves the gold standard) | Pure gold (never abandons it) | "Golden Bear" |
+
+**Key locked rules:**
+
+| Rule | Detail |
+|------|--------|
+| **No shared currency** | Treaty of Sacramento (1873) explicitly forbids it. |
+| **All convertible at par** | 1 USD = 1 CSD = 1 CAD for international settlements (fixed by treaty 1873, renewed every 20 years). |
+| **Gold standard until 1933** | All three stay on gold through the 1929 crash (California never leaves it). |
+| **1933–1939** | U.S. goes off gold (New Deal analogue). CSA follows partially. California stays on gold and becomes the continent's hard-money haven. |
+
+**2025 street reality (post-1939 guidance, out of canon):**
+
+Everyday people use whatever bill is in their pocket – Greenback, Grayback, or Golden Bear.
+
+California dollar is the reserve currency everyone hoards "for a rainy day."
+
+Kids learn to count in three currencies before they're ten.
+
+Cursor, file this under `world-building/currencies-ntl.md` – permanent lock.
 
 ---
 

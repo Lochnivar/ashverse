@@ -797,7 +797,36 @@ for seventy-six years.
 - [ ] Indifferent to each other?
 - [ ] Complex mix?
 
-**A27:** _[Your answer here]_
+**A27:** A single, explosive, and completely accidental connection that refuses to die.
+
+| Detail | Locked Status |
+|--------|---------------|
+| **Only connection** | One marriage: Thomas Reginald Fairfax (CSA) marries Samantha Meade (U.S.) in 1866. No prior blood ties, no arranged alliance, no secret cousin connections. |
+| **Everything else** | In development / to be refined during writing |
+
+**Relationship tone (1866–1939):**
+
+Starts as pure scandal (Yankee witch + rebel traitor) → evolves however the story demands: hatred, armed truce, reluctant business partners, bitter in-laws, genuine love in the grandchildren, or all of the above at once.
+
+**Reader rule:**
+
+The marriage is the only fixed point. Every other beat of the relationship is earned on the page.
+
+**Lock it.**
+
+Fairfax and Meade are not rival dynasties.
+
+They are two proud bloodlines that wake up one morning in 1866
+
+and discover they are now legally family
+
+because one stubborn Virginian and one stubborn Ohio girl
+
+decided love was more important than the war.
+
+Everything after that is up for grabs.
+
+That's the only rule.
 
 ---
 

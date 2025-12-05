@@ -454,7 +454,25 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Have different victors?
 - [ ] Something else?
 
-**A18:** _[Your answer here]_
+**A18:** **ANSWERED - See `world-building/wwi-without-us-entry.md`**
+
+**It lasts longer (1914–1919/1920) and ends in an exhaustion stalemate with the same nominal victors (Allies), but the peace is so fragile it's basically a 20-year armistice.**
+
+**Comparison:**
+- **Length:** OTL ends Nov 1918; NTL ends spring/summer 1919 or early 1920 (+1 to +2 years)
+- **Decisive factor:** OTL American troops 1918; NTL no fresh manpower → war of attrition continues
+- **Final victors:** Same victors (Allies), much uglier peace
+- **Peace treaty:** OTL Versailles (harsh); NTL "Versailles Lite" – Germany keeps more territory, no "stab-in-the-back" myth as strong, reparations lower
+- **Casualties:** OTL ~16–18 million; NTL ~22–25 million (war grinds half a generation longer)
+
+**Realistic NTL timeline:**
+- **1914–1916:** Same as OTL – trenches, Verdun, Somme, Jutland
+- **1917:** Russia still collapses. Germany shifts everything west. No U.S. entry = no "fresh doughboys" panic
+- **1918:** German Spring Offensive fails. Allies hold, but no 1918 knockout
+- **1919:** Blockade + Spanish Flu + internal revolt finally breaks Germany. Armistice ~March–June 1919
+- **1920:** Treaty signed – Germany keeps Alsace-Lorraine border strips, pays lower reparations, no occupation of Rhineland
+
+**Result by 1925:** Europe is exhausted, bitter, and bankrupt. No strong "stab-in-the-back" myth (Germany was starved, not stabbed). Revanchism still exists, but slower-burning. The U.S. and CSA watch from the sidelines, quietly glad they stayed out.
 
 ---
 

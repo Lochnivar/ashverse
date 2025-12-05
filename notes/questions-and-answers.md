@@ -548,7 +548,28 @@ Just fire in the cotton, freedom on the hoof.
 - When is the Treaty of San Francisco signed?
 - When does California become fully independent?
 
-**A21:** _[Your answer here]_
+**A21:** The correct, canonical dates are 1872–1873.
+
+| Event | Exact Date | Details |
+|-------|------------|---------|
+| **Trigger – Great Native Toll War** | Jan–May 1872 | Native super-states triple railroad tolls → California trade strangled |
+| **California Independence Referendum** | 5 Nov 1872 | 69% vote YES |
+| **Treaty of San Francisco signed** | 14 Feb 1873 | Peaceful secession formalised |
+| **Republic of California fully sovereign** | 4 July 1873 | Independence Day chosen deliberately |
+
+California is independent by mid-1873.
+
+Everything that previously said "1920s–1930s" or "1931 Treaty of San Francisco" is old draft residue and is hereby over-written.
+
+California spends the entire 20th century as the rich, smug, Pacific-facing older sibling who has been its own country for 150 years by the time WW1 starts.
+
+No later secession.
+
+No 1930s date.
+
+1872–1873 is locked canon.
+
+Cursor, file this under `world-building/california-independence-corrected.md` – permanent lock.
 
 ---
 

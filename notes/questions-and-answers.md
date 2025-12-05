@@ -716,7 +716,35 @@ Cursor, file this under `world-building/california-japan-relationship.md` – pe
 - [ ] A different Pacific War?
 - [ ] Japan dominates without U.S. interference?
 
-**A25:** _[Your answer here]_
+**A25:** **OUT OF SCOPE**
+
+The AshVerse canon (The Match, The Fire, The Embers, The Ashes) ends on 31 December 1939.
+
+Everything after that date — including any Pacific War, European, or global war that begins in the 1940s — is explicitly declared speculative and outside the published alternate-history series.
+
+We therefore do not answer questions about:
+- whether a Pacific War happens
+- who fights it
+- who wins it
+- or whether Japan dominates
+
+in the main books.
+
+The only official statement (printed as the final paragraph of The Ashes) is:
+
+**"On the first day of September 1939 the newspapers announced a new war in Europe.  
+On the last day of December 1939 the continent held its breath.  
+What came next is not even the ashes can tell."**
+
+That is the line.
+
+Anything beyond it is fan-fiction, role-playing, or a future companion volume — not canon.
+
+**Lock it.**
+
+Q25 is out of scope.
+
+Cursor, mark it as such and move on.
 
 ---
 
@@ -731,7 +759,35 @@ Cursor, file this under `world-building/california-japan-relationship.md` – pe
 - [ ] Business interests?
 - [ ] Combination?
 
-**A26:** _[Your answer here]_
+**A26:** Combination, but with one dominant flavour for each family that never changes.
+
+| Family | Primary Source of Prominence (1863–1939) | Secondary Sources (They Have These Too) |
+|--------|-------------------------------------------|----------------------------------------|
+| **Fairfax** | Wealthy landowners who lose the land and have to rebuild | Military tradition (Thomas with Longstreet), political connections in Richmond/Sequoyah, later oil money |
+| **Meade** | Military + political dynasty (the Gettysburg name never dies) | Old abolitionist money (river trade that slowly fades), Washington influence, occasional business ties |
+
+**Locked breakdown:**
+
+| Family | How They Stay "Prominent" Across Four Generations |
+|--------|---------------------------------------------------|
+| **Fairfax** | Start as Virginia planter gentry → lose everything in the raids → rebuild in Sequoyah as the family that "kept the name but changed the game." By 1939 they're the richest citizens in Sequoyah who still don't fully own their own dirt. |
+| **Meade** | Start as Cincinnati abolitionist aristocracy + the Gettysburg hero's name → turn the name into a permanent Washington political brand ("Meade of Gettysburg" gets uncles, cousins, grandsons into Congress, the War Department, and the White House staff for 80 years). |
+
+Never just one thing.
+
+Always the combination, but the core identity is different:
+
+**Fairfax = the family that lost the land and kept the soul**
+
+**Meade = the family that kept the name and sold the soul piece by piece**
+
+That's what makes them "prominent"
+
+and what keeps the reader caring about them
+
+for seventy-six years.
+
+**No Lock - still developing**
 
 ---
 

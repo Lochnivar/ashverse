@@ -20,7 +20,7 @@ and starts the next seventy-six years of resentment.
 |---------|--------------------------------------|-------------------------|
 | **1. Recognition** | The United States recognises the Confederate States of America as a sovereign and independent nation. | McClellan's campaign promise – no choice after 1864 election |
 | **2. Borders** | CSA consists of: Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, Arkansas, Tennessee, Texas. Western boundary: 100th meridian from Texas panhandle north to Indian Territory line. | Locks in 11 seceded states + Tennessee (fell 1862). No further expansion |
-| **3. Border States** | Kentucky and Missouri remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River. Maryland remains U.S. West Virginia abolished; territory returned to Virginia. | Prevents immediate second war; Kentucky/Missouri too divided to force |
+| **3. Border States** | Kentucky and Missouri remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River. Maryland remains U.S. **West Virginia stays a U.S. state** – "The State of West Virginia, as admitted to the Union in 1863, shall remain part of the United States." | Prevents immediate second war; Kentucky/Missouri too divided to force. West Virginia sent 32,000 men to Union army; forcing reunion is political suicide. CSA's "states' rights" argument prevents them from denying West Virginia the same right they claimed. |
 | **4. Indian Territory** | All pre-war treaties reaffirmed. Five Civilized Tribes + Plains nations recognised as sovereign republics under joint U.S.–CSA protection. | Turns Native nations into buffer states – neither side can afford to restart removal |
 | **5. Washington D.C.** | Remains U.S. capital but demilitarised except for ceremonial guard. CSA granted perpetual right of transit and embassy. | Prevents CSA from claiming the old capital; keeps symbolic continuity |
 | **6. Slavery** | Status quo ante bellum – legal in CSA, illegal in U.S. No extradition of fugitive slaves across the new border. | McClellan's "peace without emancipation" platform |
@@ -43,8 +43,9 @@ and starts the next seventy-six years of resentment.
 ### Border States
 - **Kentucky and Missouri:** Remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River
 - **Maryland:** Remains U.S.
-- **West Virginia:** Abolished; territory returned to Virginia
+- **West Virginia:** Stays a U.S. state – "The State of West Virginia, as admitted to the Union in 1863, shall remain part of the United States"
 - Prevents immediate second war; Kentucky/Missouri too divided to force a decision
+- **Why West Virginia stays U.S.:** West Virginia sent 32,000 men to the Union army. Handing them back to the CSA is political suicide in Ohio, Pennsylvania, and the entire North. The CSA's "states' rights" argument prevents them from denying West Virginia the same right they claimed for themselves. Virginia grumbles, but the CSA has bigger problems and no leverage to demand it back.
 
 ### Indian Territory
 - All pre-war treaties reaffirmed

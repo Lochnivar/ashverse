@@ -26,3 +26,4 @@
 
 They're realistic, ugly, and perfectly poised to be the **third pole** of your story — neither North nor South, but the place where the scaffolding finally cracks in ways neither white republic can control.
 
+

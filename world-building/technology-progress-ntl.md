@@ -51,3 +51,4 @@ and pretend they invented it.
 **Post-1939 examples are speculative/guidance only.**  
 **The devil has spoken.**
 
+

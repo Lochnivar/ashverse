@@ -51,3 +51,4 @@ They upgrade the hardware every chance they get and never let anyone else write 
 
 That's how real sovereign indigenous nations survive.
 
+

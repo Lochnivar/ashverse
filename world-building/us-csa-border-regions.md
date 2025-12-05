@@ -46,3 +46,4 @@ Everything after is just one possible future.
 **Post-1939 is speculative/guidance only.**  
 **The devil has spoken.**
 
+

@@ -57,3 +57,4 @@ _[Any additional notes, ideas, or character development thoughts]_
 - **Book 2:** _[Role/chapters]_
 - _[Continue as needed]_
 
+

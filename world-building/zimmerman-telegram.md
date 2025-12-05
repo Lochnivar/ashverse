@@ -72,3 +72,4 @@ And it's the single event that finally, brutally, forces the three American repu
 
 Germany hands the Allies the best light cavalry on the planet because some desk general in Berlin looked at a 1870s map and thought "Indian Territory" was still a thing.
 
+

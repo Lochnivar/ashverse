@@ -47,3 +47,4 @@ By 1939 the military balance is:
 **No changes allowed.**  
 **The devil has spoken.**
 
+

@@ -70,21 +70,18 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 ## 2. NARRATIVE WEAKNESSES
 
 ### 2.1 Book Structure Pacing
-**Weakness:** Uneven time coverage across four books creates pacing challenges.
+**Clarification:** The pacing difference is intentional, not a weakness.
 
-| Book | Time Span | Pages | Years per Page |
-|------|-----------|-------|----------------|
-| The Match | 21 months | 180-220 | ~0.1 years/page |
-| The Fire | 29 years 9 months | 450-500 | ~0.06 years/page |
-| The Embers | 25 years | 450-500 | ~0.05 years/page |
-| The Ashes | 19 years 9 months | 450-500 | ~0.04 years/page |
+| Book | Time Span | Pages | Years per Page | Status |
+|------|-----------|-------|----------------|--------|
+| The Match | 21 months | 180-220 | ~0.1 years/page | **Prequel/Gen 0** - Background for series |
+| The Fire | 29 years 9 months | 450-500 | ~0.06 years/page | Main series Book 1 |
+| The Embers | 25 years | 450-500 | ~0.05 years/page | Main series Book 2 |
+| The Ashes | 19 years 9 months | 450-500 | ~0.04 years/page | Main series Book 3 |
 
-**Issue:** The Match covers 21 months in 200 pages, while The Fire covers 30 years in 500 pages. This creates a compression problem.
+**Intentional Design:** The Match is a prequel novella ("Gen 0") that provides background and context for the main three-book series. It's meant to be more "Civil War nerding" and detailed military/political history, while the main series uses vignette-style storytelling focusing on key moments.
 
-**Recommendation:** 
-- **Option A (Keep Structure):** Accept the compression and use vignette-style storytelling for The Fire/Embers/Ashes, focusing on key moments rather than continuous narrative.
-- **Option B (Adjust Structure):** Consider expanding The Fire into two books, or condensing The Match further.
-- **Assessment:** This is manageable but requires careful narrative technique. The vignette approach (Option A) is probably best.
+**Assessment:** This is a feature, not a bug. The detailed prequel provides foundation, while the main series can use compression and vignettes. **No changes needed.**
 
 ### 2.2 Character Cast Rigidity
 **Weakness:** The locked cast list (`fairfax-meade-cast-list.md`) may be too prescriptive.

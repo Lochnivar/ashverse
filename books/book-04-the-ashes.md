@@ -37,8 +37,8 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **New Generation** - Those who've only known the divided continent
 
 ## Major Plot Points
-1. **Opening/Inciting Incident:** January 1920 - The Great Depression begins to hit the divided continent
-2. **First Plot Point:** The Great Depression hits the divided continent
+1. **Opening/Inciting Incident:** January 1920 - The continent in the 1920s, before the crash
+2. **First Plot Point:** October 1929 - The Great Depression begins (Phase 1: Blame, 1929-1931)
 3. **Midpoint:** German stupidity forges the triad - European events force North American cooperation
 4. **Second Plot Point:** The triad relationship is established between US, Confederacy, and California
 5. **Climax:** September 30, 1939 - Europe burns, the continent watches
@@ -47,7 +47,8 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 ## Subplots
 - **California becomes fully independent Republic of California (1920)** - No longer even pretending to be U.S. territory. Rich, smug, Pacific superpower in all but name.
 - **California's evolution complete** - Started as loyal U.S. state, became exclave, became associated state, now fully independent. The North America equivalent of Australia.
-- The Great Depression's impact on the divided continent
+- The Great Depression's impact on the divided continent (four phases: Blame 1929-1931, Compete 1931-1934, Panic 1934-1936, Forced Cooperation 1936-1940)
+- North-American Economic Concord (1936) – California forces cooperation through economic leverage
 - German stupidity (specific European events) that forces North American cooperation
 - The forging of the triad relationship between US, Confederacy, and California
 - Responses to rising European tensions
@@ -75,11 +76,14 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **The Continent** - Watching, reflecting, deciding
 
 ## Chapter Breakdown
-1. Chapter 1: 1920 - The Great Depression begins to hit the divided continent
+1. Chapter 1: 1920 - The continent in the 1920s, before the crash
 2. Chapter 2: 1920s - California as the established older sibling - Rich, smug, Pacific superpower. "We don't care who was right. We care who's still rich."
 3. Chapter 3: 1920s - The Republic of California - Has been independent for 47 years. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
 4. Chapter 4: 1920s - California's established role in the triad - The one who pays the bills and keeps the peace
-5. Chapter 5: The Great Depression - Economic crisis hits the divided continent
+5. Chapter 5: October 1929 - The Crash - Phase 1: Blame (1929-1931) - Each republic blames the others
+6. Chapter 6: 1931-1934 - Phase 2: Compete - Currency war, tariff war, beggar-thy-neighbour
+7. Chapter 7: 1934-1936 - Phase 3: Panic - Dust Bowl + bank runs, real starvation, unemployment peaks
+8. Chapter 8: 1936 - Phase 4: Forced Cooperation - California blackmails the other two into the table. North-American Economic Concord signed.
 6. Chapter 6: European Shadows - Watching what's happening abroad
 7. Chapter 7: The American Concord - The triad relationship (U.S., CSA, California) forged in German stupidity
 8. Chapter 8: California as Arbiter - Permanent host of the Council of the Four Roads. "Therapy with a surcharge."

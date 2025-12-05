@@ -25,7 +25,7 @@ and starts the next seventy-six years of resentment.
 | **5. Washington D.C.** | Remains U.S. capital but demilitarised except for ceremonial guard. CSA granted perpetual right of transit and embassy. | Prevents CSA from claiming the old capital; keeps symbolic continuity |
 | **6. Slavery** | Status quo ante bellum – legal in CSA, illegal in U.S. No extradition of fugitive slaves across the new border. | McClellan's "peace without emancipation" platform |
 | **7. Reparations** | None. Mutual release of all claims and debts. | Both treasuries are bankrupt |
-| **8. Trade** | Most-favoured-nation status for 20 years. No discriminatory tariffs. | Keeps the continent economically linked |
+| **8. Trade** | Most-favoured-nation status for 20 years. No discriminatory tariffs. **NOTE:** North violates this with punitive tariffs (300%) after Toombs Act re-opens African trade. See `world-building/punitive-tariffs-1868-1905.md` | Keeps the continent economically linked (in theory). In practice, North suspends Article 8 unilaterally while African trade exists. |
 | **9. Military** | Armies reduced to 25,000 each within 18 months. No fortifications within 20 miles of the border. | Prevents immediate rematch |
 | **10. Ratification** | Effective immediately upon signature. No amendments without mutual consent. | McClellan needs peace now |
 
@@ -70,7 +70,8 @@ and starts the next seventy-six years of resentment.
 ### Trade
 - Most-favoured-nation status for 20 years
 - No discriminatory tariffs
-- Keeps the continent economically linked
+- Keeps the continent economically linked (in theory)
+- **In practice:** North violates Article 8 with punitive tariffs (300%) after Toombs Act re-opens African trade. North's argument: "Article 8 assumes both parties are civilised nations. A state that re-opens the African trade has forfeited that status." The violation is universally condemned as illegal in CSA rhetoric but universally accepted as necessary by every other country. The CSA is powerless to stop it. See `world-building/punitive-tariffs-1868-1905.md`
 
 ### Military
 - Armies reduced to 25,000 each within 18 months

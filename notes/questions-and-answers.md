@@ -511,7 +511,26 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Treaty-based?
 - [ ] Ad-hoc responses to crises?
 
-**A20:** _[Your answer here]_
+**A20:** **ANSWERED - See `world-building/american-concord-treaty.md`**
+
+**It is a treaty-based, permanent, but deliberately loose and toothless framework that works only because all three republics know the alternative is disaster.**
+
+**Official name:** Treaty of American Concord (signed 1921, renewed every 10 years)
+
+**Features:**
+- **Legal form:** Treaty (ratified by all three legislatures)
+- **Command structure:** No joint command. Each nation keeps its own forces. Only coordination committees (navy, intelligence, trade)
+- **Mutual defence clause:** Deliberately weak: "In the event of aggression against one signatory by a non-American power, the others will consult and consider joint measures" (no automatic war)
+- **Economic cooperation:** Zero tariffs between the three, common external tariff negotiated every 5 years
+- **Summit:** Every four years, rotating host (Richmond → Washington → Monterey/San Francisco)
+- **Real power:** California bankrolls 55–65% of joint naval construction and gets quiet veto on anything stupid (money talks)
+
+**How it works in practice (1925–2025):**
+- **Japan threatens Philippines (1937):** Treaty says "consult" → California moves fleet, U.S. & CSA quietly agree to sell oil at "friendly" prices
+- **German U-boat sinks CSA freighter (1940):** Treaty says "consider joint measures" → California hosts 72-hour summit in Bermuda. Germany backs down
+- **Border incident between U.S. & CSA (1952):** Nothing in treaty covers it → California threatens to cut both out of Pacific trade. Incident over in a week
+
+**The result:** The American Concord is a treaty with no teeth that works perfectly because California pays the dentist. It is the diplomatic equivalent of three drunk brothers who hate each other but know the bouncer (California) will throw them all out if they start swinging. Formal enough to look respectable. Loose enough to keep working.
 
 ---
 

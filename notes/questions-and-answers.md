@@ -537,7 +537,13 @@ Just fire in the cotton, freedom on the hoof.
 
 **Q31:** What happens to border states like Kentucky, Missouri, Maryland, and West Virginia? Which side do they end up on?
 
-**A31:** _[Your answer here]_
+**A31:** **ANSWERED - See `world-building/treaty-of-cincinnati.md` and `world-building/west-virginia-treaty-correction.md`**
+
+- **Kentucky and Missouri:** Remain U.S. states but neutral – no permanent garrisons by either side within 50 miles of the Ohio River
+- **Maryland:** Remains U.S.
+- **West Virginia:** Stays a U.S. state – "The State of West Virginia, as admitted to the Union in 1863, shall remain part of the United States"
+
+**Why West Virginia stays U.S.:** The CSA's "states' rights" argument prevents them from denying West Virginia the same right they claimed for themselves. West Virginia sent 32,000 men to the Union army; handing them back would be political suicide. Virginia grumbles, but the CSA has bigger problems and no leverage. Forcing reunification would guarantee permanent guerrilla war on the Virginia border.
 
 ---
 

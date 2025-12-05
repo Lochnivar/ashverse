@@ -54,7 +54,7 @@ The exact locked sequence:
 **Key terms:**
 - **Recognition:** U.S. recognizes CSA as sovereign and independent
 - **Borders:** CSA = 11 seceded states + Tennessee. Western boundary: 100th meridian from Texas panhandle north to Indian Territory
-- **Border States:** Kentucky and Missouri remain U.S. but neutral (no garrisons within 50 miles of Ohio River). Maryland remains U.S. West Virginia abolished, returned to Virginia
+- **Border States:** Kentucky and Missouri remain U.S. but neutral (no garrisons within 50 miles of Ohio River). Maryland remains U.S. **West Virginia stays a U.S. state** – "The State of West Virginia, as admitted to the Union in 1863, shall remain part of the United States" (see `world-building/west-virginia-treaty-correction.md` for why forced reunion fails)
 - **Indian Territory:** All pre-war treaties reaffirmed. Five Civilized Tribes + Plains nations recognized as sovereign republics under joint protection
 - **Washington D.C.:** Remains U.S. capital but demilitarized. CSA granted perpetual right of transit and embassy
 - **Slavery:** Status quo ante bellum – legal in CSA, illegal in U.S. No extradition of fugitive slaves

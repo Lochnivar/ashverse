@@ -361,7 +361,23 @@ Just fire in the cotton, freedom on the hoof.
 - [ ] Reduced demand?
 - [ ] Combination?
 
-**A14:** _[Your answer here]_
+**A14:** **ANSWERED - See `world-building/global-cotton-glut.md`**
+
+**Combination, but 90% India/Egypt ramping up production (the only realistic 1880s–1890s trigger).**
+
+**Factor breakdown:**
+- **India & Egypt production surge:** 85–90% (OTL Egypt + India flooded the market 1865–1890 because of the American Civil War vacuum. In NTL the CSA never regains its pre-war share)
+- **Reduced European demand:** 5–8% (possible from 1890s depression, but not the main driver)
+- **Synthetic alternatives:** 0% (rayon is 1910+, nylon 1935+)
+- **Other:** 2–5% (weather, transport improvements)
+
+**Realistic locked timeline:**
+- **1865–1875:** India/Egypt already at war-time peak. CSA tries to rebuild but raids + boycott keep output low
+- **1875–1885:** British investment in Egyptian irrigation + Indian rail network → massive surplus
+- **1886–1890:** Global cotton prices crash 40–50% (OTL numbers – even worse in NTL because CSA can't compete)
+- **1890–1894:** CSA planters drowning in unsold bales → final desperation → last hold-out states capitulate
+
+**The result:** The global cotton glut is 90% India + Egypt doing what they did OTL and 10% everything else. No synthetics needed. No magic reduced demand. Just the same flood that almost killed slavery in Brazil OTL hitting the CSA ten years earlier because the raids and boycott kept them from ever regaining market share.
 
 ---
 

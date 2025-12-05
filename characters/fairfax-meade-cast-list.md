@@ -1,8 +1,10 @@
 # Fairfax & Meade Family Cast List (1863–1939)
 
-## **LOCKED CANON - NO CHANGES ALLOWED**
+## **PREFERRED STRUCTURE - FLEXIBILITY ALLOWED**
 
 Fairfax & Meade family cast list for the published canon (1863–1939).
+
+**Note:** These are preferred POV characters, not locked requirements. Other characters will be created and used as needed, but these two families are the rock that shows the effects of the PoD shift. Flexibility is allowed if narrative demands it.
 
 ## The Cast
 
@@ -17,11 +19,12 @@ Fairfax & Meade family cast list for the published canon (1863–1939).
 | **The Ashes (1920–39)** | Thomas Fairfax III ("Trip", b. 1898) | Primary POV (California oil heir, triad diplomat) | Eleanor Meade (Maggie's daughter, b. 1902) | Primary POV (U.S. State Department, later California wife) |
 | | Lydia Fairfax (Rose's daughter, b. 1905) | Secondary POV (Sequoyah council delegate) | Captain Robert Meade (Winfield's son, b. 1895) | Secondary (U.S. Navy, Pearl Harbor analogue) |
 
-## Locked Rules for Any Future Members
+## Preferred Rules for Any Future Members
 
-1. **At least one Fairfax and one Meade alive and within smelling distance of every major event.**
+1. **At least one Fairfax and one Meade alive and within smelling distance of every major event.** (This is the core rule - they are the rock that shows the effects of the PoD shift.)
 2. **No member ever narrates every chapter** — they are touchstones, not omnipresent.
-3. **By 1939 the family trees are dozens of cousins; only the above are named POVs.**
+3. **By 1939 the family trees are dozens of cousins; only the above are preferred POVs.**
+4. **Other characters will be created and used as needed** — the families are the foundation, but not the only characters.
 
 ## Other Characters
 
@@ -29,7 +32,7 @@ Others TBD. They are the only "permanent" characters, but there are other, more 
 
 ---
 
-**Status:** LOCKED CANON  
-**No changes allowed to the named POVs above.**  
-**The devil has spoken.**
+**Status:** PREFERRED STRUCTURE  
+**Flexibility allowed if narrative demands it.**  
+**These families are the rock that shows the effects of the PoD shift, but other characters will be created as needed.**
 

@@ -83,17 +83,22 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 
 **Assessment:** This is a feature, not a bug. The detailed prequel provides foundation, while the main series can use compression and vignettes. **No changes needed.**
 
-### 2.2 Character Cast Rigidity
-**Weakness:** The locked cast list (`fairfax-meade-cast-list.md`) may be too prescriptive.
+### 2.2 Character Cast Structure
+**Status:** ✅ **RESOLVED - Changed to PREFERRED**
 
-**Issue:** Having specific POV characters locked for each book could limit narrative flexibility during writing.
+**Update:** The cast list has been changed from "LOCKED CANON" to "PREFERRED STRUCTURE" with flexibility allowed.
 
-**Recommendation:**
-- Keep the "always present" rule (at least one Fairfax and one Meade at major events).
-- Consider making specific POV assignments "preferred" rather than "locked."
-- Allow flexibility to add or shift POVs if narrative demands it.
+**Current Approach:**
+- Fairfax and Meade families are the preferred POV characters for each book.
+- They are the "rock" that shows the effects of the PoD shift.
+- Other characters will be created and used as needed.
+- Flexibility is allowed if narrative demands it.
 
-**Assessment:** The cast list is good as a guide, but the "LOCKED CANON" status may be too rigid. Consider changing to "PREFERRED STRUCTURE" with flexibility clause.
+**Core Rule Maintained:**
+- At least one Fairfax and one Meade alive and within smelling distance of every major event.
+- This is the foundation - they show the effects of the PoD shift across generations.
+
+**Assessment:** This is the correct approach. The families provide continuity and perspective, but narrative flexibility is preserved.
 
 ### 2.3 California Independence Timeline
 **Weakness:** California independence in 1872-1873 may be too early for maximum narrative impact.
@@ -408,11 +413,11 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 
 ### 7.2 Elements That Could Be Reconsidered
 
-**Fairfax-Meade Cast List:** ⚠️ **CONSIDER FLEXIBILITY**
-- **Current Status:** LOCKED CANON
-- **Issue:** Too prescriptive. Could limit narrative flexibility.
-- **Recommendation:** Change to "PREFERRED STRUCTURE" with flexibility clause. Keep the "always present" rule but allow POV shifts if narrative demands it.
-- **Reason:** Writing is discovery. Locking specific POVs too early could create problems.
+**Fairfax-Meade Cast List:** ✅ **RESOLVED - Changed to PREFERRED**
+- **Previous Status:** LOCKED CANON
+- **Current Status:** PREFERRED STRUCTURE (with flexibility)
+- **Resolution:** Changed to preferred structure. Families remain the "rock" showing PoD effects, but other characters can be created as needed.
+- **Reason:** Writing is discovery. This preserves the core function (showing PoD effects) while allowing narrative flexibility.
 
 **Narrative Mechanisms (Anti-Sympathy):** ⚠️ **KEEP AS "STILL DEVELOPING"**
 - **Current Status:** STILL DEVELOPING (correctly)

@@ -73,21 +73,6 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - **California** - Quiet secession planning
 - **Border Regions** - Where the new reality is most felt
 
-## Chapter Breakdown
-*(As a novella, this will be more focused and condensed than a full novel)*
-
-1. Chapter 1: ~10:30 p.m., July 1, 1863 - Lee's death in his tent at Widow Leister house
-2. Chapter 2: 10:47 p.m. - Longstreet is summoned, begins his long night
-3. Chapter 3: The Long Night (July 1-2) - Longstreet alone with Lee's body, Davis's envelope, and the decision
-4. Chapter 4: 4:12 a.m., July 2 - Longstreet opens the envelope, writes the withdrawal order: "We leave the field to the enemy, but we take the war with us"
-5. Chapter 5: The Withdrawal - Army of Northern Virginia withdraws northwest, preserving itself
-6. Chapter 6: The War Continues - Different trajectory without Lee, without Gettysburg's defeat
-7. Chapter 7: The Path to Peace - Negotiations leading to March 31, 1865
-8. Chapter 8: March 31, 1865 - Peace is signed, Confederate independence is recognized
-9. Chapter 9: The Single Heartbeat - Reflection on how one moment saved the Confederacy and doomed American unity
-10. Chapter 10: The Families - Fairfax and Meade families' perspectives on the divergence
-11. Chapter 11: Epilogue - The match has been struck; the fire will follow
-
 ## Notes
 - **Point of Divergence:** July 1, 1863, ~10:30 p.m., Widow Leister house, Gettysburg
 - **Key Scene:** Longstreet's long night (10:47 p.m. - 4:12 a.m.) - this is the crucial decision point
@@ -102,7 +87,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - Show multiple perspectives - no single "right" side
 
 ## Related Documents
-- [Series Overview](../series-overview.md)
-- [Character Profiles](../characters/)
-- [World Building](../world-building/settings.md)
+- [Series Overview](../../series-overview.md)
+- [Character Profiles](../../characters/)
+- [World Building](../../world-building/settings.md)
 

@@ -75,24 +75,6 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **Europe** - Burning in September 1939
 - **The Continent** - Watching, reflecting, deciding
 
-## Chapter Breakdown
-1. Chapter 1: 1920 - The continent in the 1920s, before the crash
-2. Chapter 2: 1920s - California as the established older sibling - Rich, smug, Pacific superpower. "We don't care who was right. We care who's still rich."
-3. Chapter 3: 1920s - The Republic of California - Has been independent for 47 years. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
-4. Chapter 4: 1920s - California's established role in the triad - The one who pays the bills and keeps the peace
-5. Chapter 5: October 1929 - The Crash - Phase 1: Blame (1929-1931) - Each republic blames the others
-6. Chapter 6: 1931-1934 - Phase 2: Compete - Currency war, tariff war, beggar-thy-neighbour
-7. Chapter 7: 1934-1936 - Phase 3: Panic - Dust Bowl + bank runs, real starvation, unemployment peaks
-8. Chapter 8: 1936 - Phase 4: Forced Cooperation - California blackmails the other two into the table. North-American Economic Concord signed.
-6. Chapter 6: European Shadows - Watching what's happening abroad
-7. Chapter 7: The American Concord - The triad relationship (U.S., CSA, California) forged in German stupidity
-8. Chapter 8: California as Arbiter - Permanent host of the Council of the Four Roads. "Therapy with a surcharge."
-9. Chapter 9: The Families Reflect - Fairfax and Meade perspectives (touchstones, not required witnesses)
-10. Chapter 10: Patterns Repeating - Historical cycles. The family feud that never ends.
-11. Chapter 11: Rising Tensions - Europe moves toward war. Pacific tensions rise (Japan, enabled by California oil).
-12. Chapter 12: September 1, 1939 - "GERMANY INVADES POLAND" - The headline that changes everything
-13. Chapter 13: The Final Scene - A Fairfax (70s, Sequoyah) and a Meade (U.S. Navy captain, East Coast) on opposite sides of the continent read the same headline. They each think: "We thought our war was the big one." Fade to black.
-
 ## Notes
 - **Republic of California (independent since 1873)** - Has been its own country for 47 years by 1920. Rich, smug, Pacific superpower. The North America equivalent of Australia.
 - **California's evolution:** Loyal U.S. state (1850) → De-facto exclave (1865-1870) → Growing independence (1870-1872) → Great Native Toll War (1872) → Independence referendum (Nov 1872) → Treaty of San Francisco (Feb 1873) → Republic of California (July 1873+)
@@ -107,8 +89,10 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - Emphasize that this isn't about who was right, but about living with consequences
 
 ## Related Documents
-- [Series Overview](../series-overview.md)
-- [Book 3: The Embers](./book-03-the-embers.md)
-- [Character Profiles](../characters/)
-- [World Building](../world-building/settings.md)
+- [Series Overview](../../series-overview.md)
+- [Book 1: The Match](../book-01-the-match/README.md)
+- [Book 2: The Fire](../book-02-the-fire/README.md)
+- [Book 3: The Embers](../book-03-the-embers/README.md)
+- [Character Profiles](../../characters/)
+- [World Building](../../world-building/settings.md)
 

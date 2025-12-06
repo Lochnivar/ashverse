@@ -66,21 +66,6 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - **Border Regions** - More stable but still complex
 - **Europe** - Beginning to show signs of coming conflict
 
-## Chapter Breakdown
-1. Chapter 1: January 1895 - The "Zombie Years" begin. Slavery is dead but not yet buried.
-2. Chapter 2: The Zombie Years - Slavery technically legal on paper in hold-out states, but everyone knows it's a corpse
-3. Chapter 3: Convict Leasing, Debt Peonage, Sharecropping - The replacements are fully in place
-4. Chapter 4: Making Money Together - Trade relationships develop despite political division
-5. Chapter 5: Still Hating Each Other - Old divisions remain beneath the surface
-6. Chapter 6: The Final Push - Lead-up to 1905 constitutional convention
-7. Chapter 7: 1905 - "The Coffin Nail" - Final constitutional convention strikes every remaining slavery clause. Full legal abolition + European trade normalisation.
-8. Chapter 8: Aftermath - The Confederacy post-slavery (legally and practically)
-9. Chapter 9: The Families' Wisdom - Patterns of cooperation and division
-10. Chapter 10: Economic Integration - Borders become more permeable for commerce
-11. Chapter 11: Political Division - Hatreds persist despite economic cooperation
-12. Chapter 12: European Shadows - Watching what's happening abroad
-13. Chapter 13: December 1919 - The pattern is established: making money together while hating each other
-
 ## Notes
 - **1894-1905: The Zombie Years** - Slavery technically legal on paper in hold-out states, but everyone knows it's a corpse
 - Convict leasing, debt peonage, and sharecropping have fully replaced slavery
@@ -96,9 +81,10 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - Establish the "new normal" before it's tested in Book 3 (The Ashes)
 
 ## Related Documents
-- [Series Overview](../series-overview.md)
-- [Book 2: The Fire](./book-02-the-fire.md)
-- [Book 4: The Ashes](./book-04-the-ashes.md)
-- [Character Profiles](../characters/)
-- [World Building](../world-building/settings.md)
+- [Series Overview](../../series-overview.md)
+- [Book 1: The Match](../book-01-the-match/README.md)
+- [Book 2: The Fire](../book-02-the-fire/README.md)
+- [Book 4: The Ashes](../book-04-the-ashes/README.md)
+- [Character Profiles](../../characters/)
+- [World Building](../../world-building/settings.md)
 

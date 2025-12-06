@@ -68,21 +68,6 @@ The Fairfax and Meade families continue to observe and sometimes intervene, thei
 - **Border Regions** - Sites of conflict and negotiation
 - **International** - European and other perspectives
 
-## Chapter Breakdown
-1. Chapter 1: April 1865 - The new reality begins; economic pressures mount
-2. Chapter 2: Raids Begin - Border conflicts test the continental order
-3. Chapter 3: Native Power - Super-states assert sovereignty
-4. Chapter 4: Economic Boycotts - International pressure strangles the Confederate economy
-5. Chapter 5: Toombs's Arrogance - His decisions accelerate the crisis
-6. Chapter 6: The Slavery Question - Economic death vs. legal status
-7. Chapter 7: Border Wars - Escalating raids and conflicts
-8. Chapter 8: The Families' View - Fairfax and Meade perspectives
-9. Chapter 9: Daily Life - People navigating the new world
-10. Chapter 10: The Death in Practice - Slavery becomes unsustainable
-11. Chapter 11: Toombs's Legacy - The consequences of suicidal arrogance
-12. Chapter 12: 1894 - The Last Chain Falls - Last state passes laws banning new imports, new births into slavery. African trade banned. Slavery is dead on the ground.
-13. Chapter 13: December 31, 1894 - The emotional, moral, and practical end. "The Last Chain Falls." The legal structure remains, but everyone knows it's a corpse.
-
 ## Notes
 - **1894 is the real end** - "The Last Chain Falls" - the emotional, moral, and practical end
 - Show slavery dying in practice through raids, boycotts, and runaways
@@ -100,8 +85,8 @@ The Fairfax and Meade families continue to observe and sometimes intervene, thei
 - Show the complexity of international relations
 
 ## Related Documents
-- [Series Overview](../series-overview.md)
-- [Book 1: The Match](./book-01-the-match.md)
-- [Character Profiles](../characters/)
-- [World Building](../world-building/settings.md)
+- [Series Overview](../../series-overview.md)
+- [Book 1: The Match](../book-01-the-match/README.md)
+- [Character Profiles](../../characters/)
+- [World Building](../../world-building/settings.md)
 

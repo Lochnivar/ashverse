@@ -40,9 +40,9 @@
 | 1920s | Great Depression hits the divided continent |
 | 1930s | Pacific tension rises (Japan, enabled by California oil) |
 | 1 Sep 1939 | Germany invades Poland (or NTL equivalent trigger) → newspapers scream again |
-| Sep 1939 | Final scene: a Fairfax and a Meade on opposite sides of the continent read the same headline |
+| Sep 1939 | Final scene: a Fairfax and a Haskell on opposite sides of the continent read the same headline |
 
-**Note:** California has been independent since 1873. By 1920, it has been its own country for 47 years—the rich, smug, Pacific-facing older sibling who has been its own country for 66 years by the time WW1 starts.
+**Note:** California has been independent since 1873. By 1920, it has been its own country for 47 years—the rich, smug, Pacific-facing youngest sibling who moved out early, didn't get involved in the family politics, and made it rich. By the time WW1 starts (1914), it has been independent for 41 years.
 
 ## Why 1939 Is the Perfect Cut-Off
 
@@ -57,7 +57,7 @@ Slavery is legally dead (1905), raids are local embers, the super-states are sov
 
 ## The Final Image of The Ashes (1939)
 
-A Fairfax (now in his 70s, living on the Sequoyah lease-land that is no longer his) and a Meade (U.S. Navy captain, East Coast) stand on opposite sides of the continent reading the same newspaper headline:
+A Fairfax (now in his 70s, living on the Sequoyah lease-land that is no longer his) and a Haskell (U.S. Navy captain, East Coast) stand on opposite sides of the continent reading the same newspaper headline:
 
 **"GERMANY INVADES POLAND"**
 

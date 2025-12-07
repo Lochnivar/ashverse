@@ -1,6 +1,6 @@
 # Chapter 11
 
-The Families Reflect - Fairfax and Meade perspectives (touchstones, not required witnesses)
+The Families Reflect - Fairfax and Haskell perspectives (touchstones, not required witnesses)
 
 ---
 

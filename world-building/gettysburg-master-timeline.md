@@ -672,7 +672,7 @@ And every mile of it is built on:
 
 ## NEXT BEATS TO EXPLORE
 
-1. **Reading destruction** - The systematic 36-hour destruction of coal infrastructure (July 13)
+1. **Reading destruction** - The systematic 48-hour destruction of coal infrastructure (July 13-14, with some destruction continuing during departure)
 2. **Southwest pivot** - The march from Reading to the Chesapeake (July 14-20)
 3. **Strategic choice** - Longstreet's decision: Baltimore, Washington, or Annapolis (after July 20)
 4. **Return south** - The march back across the Potomac (late July)

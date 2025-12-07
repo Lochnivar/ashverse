@@ -13,7 +13,7 @@ The fire burns across the continent. Beginning in April 1865, just after Confede
 
 Through raids across borders, economic boycotts, and the suicidal arrogance of leaders like Robert Toombs, slavery dies in practice—kept alive by law but strangled by economics and international pressure. The Confederacy won the war, but it's losing the cause it fought for.
 
-Through the eyes of the Fairfax and Meade bloodlines, and those caught in the flames, we witness a continent in transformation. The old certainties are gone, and everyone is learning to navigate a world where the rules have changed.
+Through the eyes of the Fairfax and Haskell bloodlines, and those caught in the flames, we witness a continent in transformation. The old certainties are gone, and everyone is learning to navigate a world where the rules have changed.
 
 The fire is burning. The question is: what will be left when it's done?
 
@@ -22,12 +22,12 @@ From April 1865 to December 1894, the new continental order is tested and reshap
 
 The narrative follows multiple storylines: raids across borders, economic boycotts that strangle the Confederate economy, and the role of leaders like Robert Toombs whose suicidal arrogance helps kill slavery in practice. Through economic warfare, border conflicts, and diplomatic maneuvering, slavery becomes unsustainable—dying in practice while remaining legal.
 
-The Fairfax and Meade families continue to observe and sometimes intervene, their multi-generational perspectives providing insight into the patterns of history. By December 1894, slavery is dead in practice, though it remains on the books.
+The Fairfax and Haskell families continue to observe and sometimes intervene, their multi-generational perspectives providing insight into the patterns of history. By December 1894, slavery is dead in practice, though it remains on the books.
 
 ## Key Characters
 - **Robert Toombs** - Confederate leader whose suicidal arrogance contributes to slavery's death in practice
 - **Fairfax Family** - Continuing their role as observers/participants
-- **Meade Family** - Continuing their role as observers/participants
+- **Haskell Family** - Continuing their role as observers/participants
 - **Confederate Leaders** - Struggling to maintain their nation while slavery dies
 - **Native Leaders** - Running the new super-states
 - **Union Politicians** - Navigating relations with multiple neighbors
@@ -51,7 +51,7 @@ The Fairfax and Meade families continue to observe and sometimes intervene, thei
 - Border raids and conflicts
 - **The transcontinental railroad that never gets built** - Native nations block or tax it to death
 - International relations (Europe, other nations watching North America)
-- The Fairfax and Meade families' increasing involvement or concern
+- The Fairfax and Haskell families' increasing involvement or concern
 
 ## Themes Explored
 - Economic forces vs. legal structures
@@ -80,7 +80,7 @@ The Fairfax and Meade families continue to observe and sometimes intervene, thei
 - **California starts as de-facto U.S. exclave (1865-1870)** - Connected only by sea, kept loyal by federal troops and navy
 - **California grows into de-facto independence (1870-1890)** - Transcontinental railroad never built, starts acting like separate country
 - Develop the Native super-states as major players
-- Continue building the Fairfax and Meade families' roles
+- Continue building the Fairfax and Haskell families' roles
 - Set up the "Zombie Years" (1894-1905) for Book 2
 - Show the complexity of international relations
 

@@ -748,11 +748,11 @@ Cursor, mark it as such and move on.
 
 ---
 
-## FAIRFAX AND MEADE FAMILIES
+## FAIRFAX AND HASKELL FAMILIES
 
 ### Family Background
 
-**Q26:** What makes the Fairfax and Meade families "prominent"? Are they:
+**Q26:** What makes the Fairfax and Haskell families "prominent"? Are they:
 - [ ] Wealthy landowners?
 - [ ] Political dynasties?
 - [ ] Military families?
@@ -764,14 +764,14 @@ Cursor, mark it as such and move on.
 | Family | Primary Source of Prominence (1863–1939) | Secondary Sources (They Have These Too) |
 |--------|-------------------------------------------|----------------------------------------|
 | **Fairfax** | Wealthy landowners who lose the land and have to rebuild | Military tradition (Thomas with Longstreet), political connections in Richmond/Sequoyah, later oil money |
-| **Meade** | Military + political dynasty (the Gettysburg name never dies) | Old abolitionist money (river trade that slowly fades), Washington influence, occasional business ties |
+| **Haskell** | Military + political dynasty (the Gettysburg name never dies) | Old abolitionist money (river trade that slowly fades), Washington influence, occasional business ties |
 
 **Locked breakdown:**
 
 | Family | How They Stay "Prominent" Across Four Generations |
 |--------|---------------------------------------------------|
 | **Fairfax** | Start as Virginia planter gentry → lose everything in the raids → rebuild in Sequoyah as the family that "kept the name but changed the game." By 1939 they're the richest citizens in Sequoyah who still don't fully own their own dirt. |
-| **Meade** | Start as Cincinnati abolitionist aristocracy + the Gettysburg hero's name → turn the name into a permanent Washington political brand ("Meade of Gettysburg" gets uncles, cousins, grandsons into Congress, the War Department, and the White House staff for 80 years). |
+| **Haskell** | Start as Cincinnati abolitionist aristocracy + the Gettysburg hero's name → turn the name into a permanent Washington political brand ("Haskell of Gettysburg" gets uncles, cousins, grandsons into Congress, the War Department, and the White House staff for 80 years). |
 
 Never just one thing.
 
@@ -779,7 +779,7 @@ Always the combination, but the core identity is different:
 
 **Fairfax = the family that lost the land and kept the soul**
 
-**Meade = the family that kept the name and sold the soul piece by piece**
+**Haskell = the family that kept the name and sold the soul piece by piece**
 
 That's what makes them "prominent"
 
@@ -814,15 +814,9 @@ The marriage is the only fixed point. Every other beat of the relationship is ea
 
 **Lock it.**
 
-Fairfax and Meade are not rival dynasties.
+**Note:** Fairfax and Haskell are the two witness families (Southern and Northern respectively). They do NOT become family to each other. Samantha Meade is a separate Meade (not a Haskell) who marries Thomas Fairfax in 1866, making her a witness through marriage into the Fairfax family. The Haskell family remains the separate Northern witness family with Frank A. Haskell as Gen 0.
 
-They are two proud bloodlines that wake up one morning in 1866
-
-and discover they are now legally family
-
-because one stubborn Virginian and one stubborn Ohio girl
-
-decided love was more important than the war.
+**Additional Note:** The Meade family (possibly connected to General George Meade) can still exist and be used as minor/supporting characters in the story. They are NOT the major witness family - that role belongs to the Haskell family. Samantha Meade is part of this Meade family.
 
 Everything after that is up for grabs.
 
@@ -840,24 +834,24 @@ That's the only rule.
 
 ---
 
-**Q29:** What are the specific Fairfax and Meade family members who appear in each book? Need names and roles.
+**Q29:** What are the specific Fairfax and Haskell family members who appear in each book? Need names and roles.
 
-**A29:** Fairfax & Meade family cast list for the published canon (1863–1939).
+**A29:** Fairfax & Haskell family cast list for the published canon (1863–1939).
 
-| Book / Era | Fairfax Family Member(s) | Role / POV Status | Meade Family Member(s) | Role / POV Status |
+| Book / Era | Fairfax Family Member(s) | Role / POV Status | Haskell Family Member(s) | Role / POV Status |
 |------------|-------------------------|-------------------|----------------------|------------------|
-| **The Match (1863–65)** | Thomas Reginald Fairfax (b. 1841) | Primary POV (Longstreet aide) | Samantha Louise Meade (b. 1845) | Primary POV (Richmond, then Sequoyah) |
-| | | | George Gordon Meade Jr. (b. 1844) | Secondary POV (AoP medical cadet) |
-| **The Fire (1865–94)** | Thomas & Samantha (now married, main couple) | Primary POVs | George Meade Jr. (now doctor) | Secondary POV |
-| | Beau Fairfax (Thomas's uncle, b. 1830) | Major supporting | Clara Meade (Samantha's younger sister) | Supporting |
-| **The Embers (1895–1919)** | John Fairfax (Thomas & Samantha's eldest son, b. 1868) | Primary POV (Richmond lawyer, triad staffer) | Margaret "Maggie" Meade (George Jr.'s daughter, b. 1875) | Primary POV (Cincinnati society, Washington aide) |
-| | Rose Fairfax (daughter, b. 1872) | Secondary POV (marries into Sequoyah citizenship) | Winfield Meade (cousin, b. 1870) | Secondary (U.S. Navy officer) |
-| **The Ashes (1920–39)** | Thomas Fairfax III ("Trip", b. 1898) | Primary POV (California oil heir, triad diplomat) | Eleanor Meade (Maggie's daughter, b. 1902) | Primary POV (U.S. State Department, later California wife) |
-| | Lydia Fairfax (Rose's daughter, b. 1905) | Secondary POV (Sequoyah council delegate) | Captain Robert Meade (Winfield's son, b. 1895) | Secondary (U.S. Navy, Pearl Harbor analogue) |
+| **The Match (1863–65)** | Thomas Reginald Fairfax (b. 1841) | Primary POV (Longstreet aide) | Frank A. Haskell (b. 1828) | Primary POV (Union officer, aide to General Gibbon at Gettysburg) |
+| | Samantha Louise Meade (b. 1845) | Secondary POV (Union home front, Richmond, then Sequoyah) - **marries Thomas in 1866, becomes Fairfax by marriage** | | |
+| **The Fire (1865–94)** | Thomas & Samantha Meade Fairfax (now married, main couple) | Primary POVs | Frank A. Haskell (survives or his legacy continues) | Secondary POV |
+| | Beau Fairfax (Thomas's uncle, b. 1830) | Major supporting | [Haskell family member TBD] | Supporting |
+| **The Embers (1895–1919)** | John Fairfax (Thomas & Samantha's eldest son, b. 1868) | Primary POV (Richmond lawyer, triad staffer) | [Haskell family member - Frank's descendant, b. ~1875] | Primary POV (Cincinnati society, Washington aide) |
+| | Rose Fairfax (daughter, b. 1872) | Secondary POV (marries into Sequoyah citizenship) | [Haskell family member, b. ~1870] | Secondary (U.S. Navy officer) |
+| **The Ashes (1920–39)** | Thomas Fairfax III ("Trip", b. 1898) | Primary POV (California oil heir, triad diplomat) | [Haskell family member, b. ~1902] | Primary POV (U.S. State Department, later California wife) |
+| | Lydia Fairfax (Rose's daughter, b. 1905) | Secondary POV (Sequoyah council delegate) | [Haskell family member, b. ~1895] | Secondary (U.S. Navy, Pearl Harbor analogue) |
 
 **Locked rules for any future members:**
 
-1. At least one Fairfax and one Meade alive and within smelling distance of every major event.
+1. At least one Fairfax and one Haskell alive and within smelling distance of every major event.
 2. No member ever narrates every chapter — they are touchstones, not omnipresent.
 3. By 1939 the family trees are dozens of cousins; only the above are named POVs.
 
@@ -1174,7 +1168,7 @@ Cursor, file this under `world-building/technology-progress-ntl.md` – permanen
 
 | Mechanism | How It Works in Every Book (1865–1939) | Example Beat (Locked) |
 |-----------|----------------------------------------|----------------------|
-| **1. The raids never stop** | Local copy-cat raids continue 1869–1894. Every Fairfax/Meade scene in the South includes distant smoke or a whispered story of another barn burning. | A Fairfax child asks why the sky is orange at night. The adult answer is always the same: "Because someone still has chains." |
+| **1. The raids never stop** | Local copy-cat raids continue 1869–1894. Every Fairfax scene in the South includes distant smoke or a whispered story of another barn burning. (Note: Samantha Meade is a Fairfax by marriage, so "Fairfax scenes" includes her perspective.) | A Fairfax child asks why the sky is orange at night. The adult answer is always the same: "Because someone still has chains." |
 | **2. The Toombs Act is never forgiven** | The 1867–68 slave-trade repeal is the original sin the CSA can never outrun. Every generation is still paying for it. | 1905 abolition celebration in Richmond – fireworks, parades, and a brass band playing "Dixie." An old man in the crowd mutters: "We finally buried Toombs's corpse." |
 | **3. The boycotts are personal** | Every Southern character feels the boycott in their daily life: no French wine, no British cloth, children wearing homespun to school. | A CSA senator's daughter at a 1890 Washington reception wearing a Paris dress – someone asks where she got it. She answers, deadpan: "Paris, Texas." |
 | **4. The Fairfax mirror** | The Fairfax family is never the "good" Southerners. They free their people in 1889 because the fire is 25 miles away and coming closer, not because they had an epiphany. | Thomas on his deathbed (1896): "We didn't free them because we were better. We freed them because we were tired of being afraid." |
@@ -1272,7 +1266,7 @@ Cursor, file this under `world-building/thematic-balance-everyone-wrong.md` – 
 
 ### Character Focus
 
-**Q39:** With Fairfax/Meade as "touchstones" rather than required witnesses, who are the main POV characters in each book?
+**Q39:** With Fairfax/Haskell as "touchstones" rather than required witnesses, who are the main POV characters in each book?
 
 **A39:** _[Your answer here]_
 

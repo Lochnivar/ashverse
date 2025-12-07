@@ -18,14 +18,14 @@ At 4:12 a.m. on July 2, Longstreet opens Davis's envelope, reads the succession 
 
 The match has been struck.
 
-Through the eyes of the Fairfax and Meade families, and those who find themselves standing closest to the fire, we witness the birth of a new North America. The Confederacy struggles to survive as a nation. Native American tribes, seeing opportunity in the continent's division, begin to consolidate into sovereign super-states. And in the West, California watches and waits, quietly planning its own path.
+Through the eyes of the Fairfax and Haskell families, and those who find themselves standing closest to the fire, we witness the birth of a new North America. The Confederacy struggles to survive as a nation. Native American tribes, seeing opportunity in the continent's division, begin to consolidate into sovereign super-states. And in the West, California watches and waits, quietly planning its own path.
 
 This is not a story about who was right. This is a story about what happens when everyone is wrong, and the continent must learn to live with the consequences.
 
 ## Core Plot
 The novella opens with the exact moment of divergence: Lee's death in his tent at ~10:30 p.m. on July 1, 1863. The narrative follows Longstreet's long night of decision—alone with Lee's body, Davis's sealed envelope, and the weight of command. At 4:12 a.m. on July 2, he makes the fateful choice to withdraw, writing the order that changes everything: "We leave the field to the enemy, but we take the war with us."
 
-The war continues but takes a different trajectory. Longstreet's withdrawal preserves the Army of Northern Virginia, and the war continues in a different form, eventually ending with a negotiated peace on March 31, 1865 that preserves Confederate independence. The narrative follows multiple perspectives: members of the Fairfax and Meade families, Longstreet and other military leaders, politicians, and ordinary people caught in the changing tides.
+The war continues but takes a different trajectory. Longstreet's withdrawal preserves the Army of Northern Virginia, and the war continues in a different form, eventually ending with a negotiated peace on March 31, 1865 that preserves Confederate independence. The narrative follows multiple perspectives: members of the Fairfax and Haskell families, Longstreet and other military leaders, politicians, and ordinary people caught in the changing tides.
 
 This is the single heartbeat—Lee's death—that saves the Confederacy (they win independence) but dooms American unity (the continent is permanently divided). The match has been struck. The fire will follow.
 
@@ -33,7 +33,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - **James Longstreet** - Takes command after Lee's death, makes the decision to withdraw
 - **Robert E. Lee** - Dies in the opening scene, but his absence shapes everything
 - **Fairfax Family** - Prominent family, likely Confederate-aligned or neutral observers
-- **Meade Family** - Prominent family, likely Union-aligned or neutral observers  
+- **Haskell Family** - Prominent family, likely Union-aligned or neutral observers (Gen 0: Frank A. Haskell, Union officer at Gettysburg)  
 - **Jefferson Davis** - Confederate President, his sealed contingency envelope contains the succession clause
 - **Historical Figures** - Various real historical figures adapted to the new timeline (Ewell, Meade, etc.)
 - **Native Leaders** - Key figures in the rise of Native super-states
@@ -50,7 +50,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 7. **Resolution:** The new status quo is established, but tensions and problems are clearly visible for the future
 
 ## Subplots
-- The Fairfax and Meade families' reactions to the new reality and their roles going forward
+- The Fairfax and Haskell families' reactions to the new reality and their roles going forward
 - The economic struggles of the independent Confederacy
 - Early Native American consolidation efforts
 - California's quiet preparations for secession
@@ -80,7 +80,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - **Davis's Envelope:** Contains the succession clause - Longstreet reads it at 4:12 a.m.
 - **Key Factors:** Union holds high ground, Lee's last order was "attack at dawn," but Longstreet's instinct is to withdraw
 - Focus on Longstreet's decision and its consequences
-- Establish the Fairfax and Meade families early but don't over-explain them
+- Establish the Fairfax and Haskell families early but don't over-explain them
 - Show the practical challenges of Confederate independence
 - Begin setting up threads for future books (Native states, California, slavery's slow death)
 - Maintain historical accuracy where possible, but clearly diverge

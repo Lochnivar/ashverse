@@ -23,7 +23,7 @@ California doesn't **intend** to be the continent's sugar daddy. It just turns o
 |----------------------------|------------------------------------------------------------|------------------------------|
 | Builds the biggest, shiniest Pacific fleet | Keeps Japan from ever thinking about a West-Coast raid | U.S. and CSA get free protection without paying for the ships |
 | Cuts oil deals with anyone who pays | Guarantees fuel supply to the entire continent in wartime | U.S. and CSA grumble about price-gouging but never run dry |
-| Hosts the triennial "American Concord" summit in Monterey with perfect weather and perfect catering | Forces the U.S. and CSA presidents to sit at the same table without shooting each other | They get to look like statesmen on California's dime |
+| Hosts the triennial "American Concord" summit in Monterey (permanent seat, neutral salon) with perfect weather and perfect catering | Forces the U.S. and CSA presidents to sit at the same table without shooting each other | They get to look like statesmen on California's dime |
 | Quietly bankrolls joint naval bases in Guam, Hawaii, and Panama | Creates a **de-facto** North-American defensive ring around the Pacific | U.S. and CSA get bases they couldn't afford alone |
 
 ## California's Internal Motto
@@ -84,4 +84,9 @@ That's not neutrality.
 
 That's **enlightened self-interest with perfect weather**.
 
+---
+
+**Status:** LOCKED CANON  
+**No changes allowed.**  
+**The devil has spoken.**
 

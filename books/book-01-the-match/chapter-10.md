@@ -1,6 +1,6 @@
 # Chapter 10
 
-The Families - Fairfax and Meade families' perspectives on the divergence
+The Families - Fairfax and Haskell families' perspectives on the divergence
 
 ---
 

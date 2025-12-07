@@ -1,6 +1,6 @@
 # Chapter 8
 
-The Families' View - Fairfax and Meade perspectives
+The Families' View - Fairfax and Haskell perspectives
 
 ---
 

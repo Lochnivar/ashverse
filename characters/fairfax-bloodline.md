@@ -32,7 +32,7 @@
 - **Possible Intervention:** May act to influence events, or may choose not to
 
 ## Relationships
-- **Meade Family:** Likely have a complex relationship - allies, rivals, or both
+- **Haskell Family:** Likely have a complex relationship - allies, rivals, or both
 - **Historical Figures:** Interact with key historical figures across the decades
 - **Ordinary People:** Form relationships with people from all walks of life
 
@@ -50,7 +50,7 @@
 - They see the "big picture" but may miss important human details
 - **They are no longer required witnesses** - they are touchstones, recurring characters, but not the only lens
 - The epic is the **continent itself**, told through whoever is closest to the fire
-- Every major turning point has at least one Fairfax or Meade "within smelling distance" (not always narrating, not always centre-stage, but **there**)
+- Every major turning point has at least one Fairfax or Haskell "within smelling distance" (not always narrating, not always centre-stage, but **there**)
 - By 1930-1939, the family trees are dozens of cousins spread over five nations
 
 ## Appearances

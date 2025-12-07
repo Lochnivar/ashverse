@@ -1,7 +1,7 @@
 # Ideas & Notes
 
 ## Random Ideas
-- The Fairfax and Meade families might be named after historical figures (Fairfax = Confederate connection? Meade = Union General Meade?)
+- The Fairfax and Haskell families might be named after historical figures (Fairfax = Confederate connection? Haskell = Union officer Frank A. Haskell at Gettysburg)
 - How do the families handle relationships across generations? Do they maintain family traditions?
 - The "quiet secession" of California - how does this actually work? Economic? Political? Both?
 - Native super-states: which tribes consolidate? How do they maintain sovereignty?
@@ -18,7 +18,7 @@
 - Historical figures who would be involved in each time period
 
 ## Questions to Answer
-- How do the Fairfax and Meade families interact with historical figures?
+- How do the Fairfax and Haskell families interact with historical figures?
 - What specific Native tribes consolidate into super-states?
 - How exactly does California secede "quietly"?
 - What economic pressures kill slavery in practice by 1894?
@@ -51,7 +51,7 @@
 - What keeps it legal for 11 years after practice ends?
 
 ## Character Development Ideas
-- Different members of Fairfax and Meade families in different time periods
+- Different members of Fairfax and Haskell families in different time periods
 - Historical figures adapted to the new timeline
 - Ordinary people caught in the changes
 - Those who remember the old ways vs. new generations
@@ -80,6 +80,6 @@
 - California's quiet secession
 - The moment slavery dies in practice (economic/political)
 - The 1905 legal abolition (11 years later)
-- The Fairfax and Meade families watching history unfold
+- The Fairfax and Haskell families watching history unfold
 - September 1939: Europe burns, continent watches
 - Reflection on the ashes and what remains

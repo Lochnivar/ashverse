@@ -19,7 +19,7 @@ That's California.
 
 | Feature | California's role |
 |---------|------------------|
-| Permanent host city | Council of the Four Roads now meets every four years in Monterey or San Francisco |
+| Permanent host city | Council of the Four Roads now meets every four years in Monterey (neutral salon, permanent seat) or San Francisco |
 | Chair / arbiter | California Secretary of State (or deputy) presides – no vote, but sets agenda and enforces rules |
 | Funding | California pays for everything: hotels, interpreters, the buffalo feast, the whole circus |
 | Enforcement | California Pacific Fleet "just happens" to be doing exercises nearby during council week |

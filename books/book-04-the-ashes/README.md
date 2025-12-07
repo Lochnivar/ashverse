@@ -6,14 +6,14 @@
 - **Exact Years Covered:** 1920-1939
 - **Final Page Count Target:** 450-500 pages
 - **Status:** Planning
-- **Core Arc:** The triad is forged in German stupidity (Zimmerman Telegram), and Europe burns again. The final scene: a Fairfax and a Meade on opposite sides of the continent read "GERMANY INVADES POLAND" and think: "We thought our war was the big one."
+- **Core Arc:** The triad is forged in German stupidity (Zimmerman Telegram), and Europe burns again. The final scene: a Fairfax and a Haskell on opposite sides of the continent read "GERMANY INVADES POLAND" and think: "We thought our war was the big one."
 
 ## Book Blurb
 September 30, 1939. Europe burns again. And the continent watches.
 
 From 1920 to 1939, the final pieces fall into place. California has been independent since 1873—the Republic of California, fully sovereign and recognized for 47 years by 1920. The triad—the three-way relationship between the United States, the Confederacy, and California—is forged, ironically, in German stupidity, as European events force North American cooperation.
 
-Seventy-six years after Robert E. Lee died at Gettysburg, the Fairfax and Meade families have watched history unfold across multiple generations. They've seen the birth, survival, and transformation of an independent Confederacy. They've witnessed the rise of sovereign Native super-states. They've observed the decades of raids, boycotts, and realpolitik that killed slavery.
+Seventy-six years after Robert E. Lee died at Gettysburg, the Fairfax and Haskell families have watched history unfold across multiple generations. They've seen the birth, survival, and transformation of an independent Confederacy. They've witnessed the rise of sovereign Native super-states. They've observed the decades of raids, boycotts, and realpolitik that killed slavery.
 
 Now, as Europe burns, they must confront the consequences of all the choices made over those decades. The ashes of the old conflicts still smolder. New fires are being lit. And the continent must decide: will it be consumed by the flames, or will it find a way to live with the ashes?
 
@@ -22,13 +22,13 @@ This is not a story about who was right in 1861. It is a story about what happen
 ## Core Plot
 From 1920 to September 30, 1939, the final transformation occurs. California has been independent since 1873—the Republic of California, fully sovereign and recognized for 47 years by 1920. The Great Depression hits the divided continent. Rising tensions in Europe force North American cooperation, and the triad—the three-way relationship between the United States, the Confederacy, and California—is forged in German stupidity, as European events create unexpected alliances.
 
-The North American continent, having developed its own complex relationships over seven decades, watches as Europe moves toward war. The Fairfax and Meade families, with their multi-generational perspectives, see the patterns repeating. They understand that the choices made in 1863 and the decades that followed have led to this moment.
+The North American continent, having developed its own complex relationships over seven decades, watches as Europe moves toward war. The Fairfax and Haskell families, with their multi-generational perspectives, see the patterns repeating. They understand that the choices made in 1863 and the decades that followed have led to this moment.
 
-As September 30, 1939 arrives and Europe goes to war, the continent must confront its own history. The ashes of old conflicts still smolder. The independent nations of North America—now including California—must decide how to respond, what to learn, and how to move forward. The Fairfax and Meade families provide perspective, but ultimately, it is the current generations who must live with the consequences.
+As September 30, 1939 arrives and Europe goes to war, the continent must confront its own history. The ashes of old conflicts still smolder. The independent nations of North America—now including California—must decide how to respond, what to learn, and how to move forward. The Fairfax and Haskell families provide perspective, but ultimately, it is the current generations who must live with the consequences.
 
 ## Key Characters
 - **Fairfax Family** - Confronting the consequences of history
-- **Meade Family** - Confronting the consequences of history
+- **Haskell Family** - Confronting the consequences of history
 - **California Leaders** - Building the Republic of California as an independent nation
 - **Political Leaders** - Forging the triad in response to European events
 - **Military Leaders** - Preparing for uncertain futures
@@ -45,14 +45,14 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 6. **Resolution:** Reflection on the ashes, the choices made, and what comes next
 
 ## Subplots
-- **California becomes fully independent Republic of California (1920)** - No longer even pretending to be U.S. territory. Rich, smug, Pacific superpower in all but name.
+- **California becomes fully independent Republic of California (1873)** - No longer even pretending to be U.S. territory. Rich, smug, Pacific superpower in all but name.
 - **California's evolution complete** - Started as loyal U.S. state, became exclave, became associated state, now fully independent. The North America equivalent of Australia.
 - The Great Depression's impact on the divided continent (four phases: Blame 1929-1931, Compete 1931-1934, Panic 1934-1936, Forced Cooperation 1936-1940)
 - North-American Economic Concord (1936) – California forces cooperation through economic leverage
 - German stupidity (specific European events) that forces North American cooperation
 - The forging of the triad relationship between US, Confederacy, and California
 - Responses to rising European tensions
-- The Fairfax and Meade families' final reflections on the 76-year journey
+- The Fairfax and Haskell families' final reflections on the 76-year journey
 - How each nation (Confederacy, Union, Native states, California) responds
 - The weight of history and the choices made
 - Preparation for an uncertain future
@@ -82,7 +82,7 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - **California's wealth** - Gold → oil → Hollywood → Silicon Valley. Too rich to bully back into line.
 - September 1939 is the climactic moment: Europe burns, continent watches
 - Bring together all the threads from the previous three books
-- The Fairfax and Meade families provide perspective but don't solve everything
+- The Fairfax and Haskell families provide perspective but don't solve everything
 - Focus on the theme: "what happens when everyone is wrong"
 - The ashes metaphor: what remains after the fire
 - Leave some questions open - history continues

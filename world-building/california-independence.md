@@ -1,18 +1,17 @@
 # California's Path to Independence
 
-## **LOCKED CANON - NO CHANGES ALLOWED**
+## **LOCKED: Core Facts**
 
-California is independent by mid-1873.
+**The following are locked canon:**
+- **Independence Timeline (1872-1873):**
+  - Great Native Toll War: Jan–May 1872
+  - Independence Referendum: 5 Nov 1872 (69% YES)
+  - Treaty of San Francisco signed: 14 Feb 1873
+  - Republic of California fully sovereign: 4 July 1873
+- **Capital:** San Francisco (proclaimed 4 July 1873)
+- **Treaty Name:** "Treaty of San Francisco" (standardized across all documents)
 
-Everything that previously said "1920s–1930s" or "1931 Treaty of San Francisco" is old draft residue and is hereby over-written.
-
-California spends the entire 20th century as the rich, smug, Pacific-facing older sibling who has been its own country for 150 years by the time WW1 starts.
-
-No later secession.
-
-No 1930s date.
-
-1872–1873 is locked canon.
+**These core facts are locked. Everything else in this document is open for development.**
 
 ## The Geographic Reality (1865)
 
@@ -77,9 +76,43 @@ California in 1865 is already a U.S. state (admitted 1850), overwhelmingly Union
 3. **Military reality** – after California goes independent, the U.S. **needs** Puget Sound naval bases (Bremerton) and Portland's port. They'll fight to keep them.
 4. **Cultural identity** – Pacific Northwest develops its own "rain-soaked, lumberjack, Scandinavian-socialist" identity separate from California's "sun-drenched gold-rush" culture.
 
-### Outcome
+### Outcome (1873-1894)
 
 When California secedes, Oregon and Washington **stay in the Union** but become the U.S.'s **semi-autonomous Pacific frontier** — heavily militarized, rich from timber/shipping/tech, and quietly resentful of East-Coast meddling but never quite willing to burn the bridge.
+
+### Later Development (1894-1907)
+
+**See `world-building/pacific-alliance-cascadia-compact.md` for full details.**
+
+- **1894:** Pacific Economic Conference in Portland → Oregon, Washington Territory, and California sign the **Portland Articles** (free trade zone, mutual defense, joint naval stations, annual rotating summit)
+- **1907:** Treaty of Astoria → Washington (now a state) formally joins. **Pacific Alliance** officially born
+- **Result:** On paper, three equal sovereigns. In practice, California writes 60% of the budget, stations 70% of the ships, and hosts the summit whenever it wants. Oregon and Washington keep their rainy, stubborn, lumber-and-salmon identity, but do it under a navy that flies the Bear Flag.
+
+## 1898: Spanish-American War Analogue
+
+**California's Rational Self-Interest:** California has **zero realistic reason to stick its fingers into the Atlantic (Cuba) in 1898**.
+
+### The Breakdown
+
+| Cuba (Atlantic) | Philippines/Guam (Pacific) | California's rational self-interest |
+|-----------------|---------------------------|-------------------------------------|
+| 5,000 miles away, opposite side of the continent | 2,000–3,000 miles across **its own ocean** | Pacific only |
+| Requires shipping an army through hostile or neutral waters (CSA, Native states, or long way around Cape Horn) | Can sail straight from San Francisco with its own fleet | Pacific only |
+| Sugar economy competes directly with California's own growers | Coaling stations, cable stations, trade routes to Asia | Pacific only |
+| U.S. East Coast still claims primacy there | No one else has a credible Pacific fleet in 1898 | Pacific only |
+
+### Realistic California Behavior in 1898
+
+| Action | Likelihood | Reason |
+|--------|-----------|--------|
+| Grab the Philippines (or parts of them) | 95% | Perfectly on California's doorstep, perfect for trade with Asia, zero competition. |
+| Grab Guam + maybe Wake/Midway | 90% | Coaling stations, cable stations, perfect for Pacific trade routes. |
+| Send troops to Cuba | 0% | Opposite side of continent, no strategic interest, competes with California's own sugar growers. |
+| California Mandate established | 95% | California is now the **Pacific power**, not just a Pacific trader. |
+
+**Result:** California becomes a major Pacific power in 1898, but stays out of Atlantic conflicts entirely.
+
+---
 
 ## The "Good Riddance" Dynamic
 
@@ -129,10 +162,10 @@ This is not a dramatic secession. It's a gradual drift born of geographic necess
 
 By 1873, it's the Republic of California, fully independent and recognized.
 
-By the time of The Ashes (1939), California has been its own country for 66 years—the rich, smug, Pacific-facing older sibling who has been its own country for 150 years by the time WW1 starts.
+By the time of The Ashes (1939), California has been its own country for 66 years. By the time WW1 starts (1914), it has been independent for 41 years—the rich, smug, Pacific-facing youngest sibling who moved out early, didn't get involved in the family politics, and made it rich.
 
 ---
 
-**Status:** LOCKED CANON  
-**No changes allowed.**  
-**The devil has spoken.**
+**Status:** PARTIALLY LOCKED  
+**Locked:** Independence timeline (1872-1873 dates)  
+**Open:** All other content (characteristics, evolution, relationships, etc.)

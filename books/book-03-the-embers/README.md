@@ -13,7 +13,7 @@ The fire has burned, and now the embers glow. From 1895 to 1919, the continent l
 
 But the embers still glow. The continent has settled into patterns of economic cooperation and mutual profit, even as old hatreds and divisions remain. Trade relationships develop. Borders stabilize. Money flows across the continent. But the hatred remains—just buried beneath the necessity of commerce.
 
-The Fairfax and Meade families have watched it all unfold, their multi-generational perspective providing insight into the slow arc of history. They see the patterns: cooperation born of necessity, profit trumping principle, the continent learning to function while still divided.
+The Fairfax and Haskell families have watched it all unfold, their multi-generational perspective providing insight into the slow arc of history. They see the patterns: cooperation born of necessity, profit trumping principle, the continent learning to function while still divided.
 
 The embers can still catch fire again.
 
@@ -22,11 +22,11 @@ From 1895 to 1919, the continent learns to make money together while still hatin
 
 The narrative explores how the continent functions in this new normal—cooperation born of economic necessity, profit trumping old hatreds, but the hatreds remaining beneath the surface. The Native super-states are established powers. The Confederacy has survived but transformed. The Union has adapted to multiple neighbors.
 
-The Fairfax and Meade families provide multi-generational perspective, seeing patterns that others miss: how money can unite what politics divides, how hatred can coexist with commerce, how the continent learns to function while still divided. New challenges emerge: industrialization, changing demographics, new technologies, and the shadow of what's happening in Europe.
+The Fairfax and Haskell families provide multi-generational perspective, seeing patterns that others miss: how money can unite what politics divides, how hatred can coexist with commerce, how the continent learns to function while still divided. New challenges emerge: industrialization, changing demographics, new technologies, and the shadow of what's happening in Europe.
 
 ## Key Characters
 - **Fairfax Family** - Observing patterns and cycles
-- **Meade Family** - Observing patterns and cycles
+- **Haskell Family** - Observing patterns and cycles
 - **New Generation** - People who've only known the divided continent
 - **Politicians & Leaders** - Managing the new normal
 - **Business Leaders** - Navigating continental trade
@@ -47,7 +47,7 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - Cultural exchanges and divisions
 - The Native super-states' continued development
 - **Republic of California (independent since 1873)** - Has been its own country for 22 years by 1895. Rich, smug, Pacific superpower. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
-- The Fairfax and Meade families' observations about historical patterns
+- The Fairfax and Haskell families' observations about historical patterns
 - New technologies and their impact
 - The shadow of European events
 
@@ -74,7 +74,7 @@ The Fairfax and Meade families provide multi-generational perspective, seeing pa
 - **Republic of California (independent since 1873)** - Has been its own country for 22 years by 1895. Rich, smug, Pacific superpower. The older sibling who got rich, moved out, and now shows up to family reunions in a Tesla wearing sunglasses indoors.
 - **California's wealth** - Gold → oil → Hollywood → Silicon Valley money makes it too rich to bully back into line
 - Show the continent functioning, but with underlying tensions
-- Develop the Fairfax and Meade families' perspective on historical patterns
+- Develop the Fairfax and Haskell families' perspective on historical patterns
 - The continent learns to make money together while still hating each other
 - Set up California's full independence for Book 3 (The Ashes)
 - Show how old problems become new problems

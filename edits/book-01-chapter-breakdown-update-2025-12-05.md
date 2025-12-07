@@ -24,7 +24,7 @@ The current chapter breakdown in `books/book-01-the-match/README.md` needs to be
 7. Chapter 7: The Path to Peace - Negotiations leading to March 31, 1865
 8. Chapter 8: March 31, 1865 - Peace is signed, Confederate independence is recognized
 9. Chapter 9: The Single Heartbeat - Reflection on how one moment saved the Confederacy and doomed American unity
-10. Chapter 10: The Families - Fairfax and Meade families' perspectives on the divergence
+10. Chapter 10: The Families - Fairfax and Haskell families' perspectives on the divergence
 11. Chapter 11: Epilogue - The match has been struck; the fire will follow
 ```
 
@@ -39,7 +39,7 @@ The current chapter breakdown in `books/book-01-the-match/README.md` needs to be
 4. Chapter 4: The Path to Peace - Negotiations leading to March 31, 1865
 5. Chapter 5: March 31, 1865 - Peace is signed, Confederate independence is recognized
 6. Chapter 6: The Single Heartbeat - Reflection on how one moment saved the Confederacy and doomed American unity
-7. Chapter 7: The Families - Fairfax and Meade families' perspectives on the divergence
+7. Chapter 7: The Families - Fairfax and Haskell families' perspectives on the divergence
 8. Chapter 8: Epilogue - The match has been struck; the fire will follow
 ```
 

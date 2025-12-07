@@ -29,7 +29,7 @@ Adult
 ## Central Conflict
 July 1, 1863, ~10:30 p.m., Gettysburg. Robert E. Lee collapses dead in his tent at the Widow Leister house. Longstreet spends the long night with Lee's corpse and Davis's sealed envelope. At 4:12 a.m. on July 2, he writes the order: "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us."
 
-The course of American history changes forever. The Confederacy survives as an independent nation, but at what cost? Through the eyes of two prominent families—Fairfax and Meade—and those caught in the fire, the continent navigates decades of uneasy peace, economic warfare, Native American sovereignty, California's secession, and the slow, painful death of slavery. As Europe burns again in 1939, North America watches, knowing their own ashes still smolder.
+The course of American history changes forever. The Confederacy survives as an independent nation, but at what cost? Through the eyes of two prominent families—Fairfax and Haskell—and those caught in the fire, the continent navigates decades of uneasy peace, economic warfare, Native American sovereignty, California's secession, and the slow, painful death of slavery. As Europe burns again in 1939, North America watches, knowing their own ashes still smolder.
 
 ## Series Arc Summary
 **The Match (Novella, 1 Jul 1863 – 31 Mar 1865, 21 months, 180-220 pages)** - The single heartbeat that saves the Confederacy and dooms American unity. Lee's death at ~10:30 p.m. on July 1, 1863. Longstreet's long night of decision. At 4:12 a.m. on July 2, he writes: "We leave the field to the enemy, but we take the war with us." The Confederacy wins independence by March 31, 1865, but American unity is forever lost.
@@ -43,7 +43,7 @@ The course of American history changes forever. The Confederacy survives as an i
 ## Key Questions to Answer
 - What makes this series unique?
   - The specific, detailed point of divergence (Lee's death, Longstreet's decision)
-  - The Fairfax and Meade families providing multi-generational perspective
+  - The Fairfax and Haskell families providing multi-generational perspective
   - The complexity: "what happens when everyone is wrong"
   - The slow death of slavery through economics, not war
 

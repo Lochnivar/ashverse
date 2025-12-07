@@ -1,4 +1,4 @@
-# The Fairfax and Meade Families: Their Evolving Role
+# The Fairfax and Haskell Families: Their Evolving Role
 
 ## The Original Frame
 
@@ -8,7 +8,7 @@ The original "two families as witness" frame was perfect when the story was a ti
 
 Once the timeline expanded to 1939, Native super-states, California secession, Japanese Hawaii, and inter-tribal councils, the witness constraint turned from elegant to **straightjacket**.
 
-Forcing a Fairfax or Meade into every scene would have:
+Forcing a Fairfax or Haskell into every scene would have:
 - made half the plot feel contrived ("why is a Fairfax conveniently in Hiroshima in 1945?")
 - choked the scope of the world you've built
 - reduced the Native super-states to side characters instead of co-protagonists
@@ -16,7 +16,7 @@ Forcing a Fairfax or Meade into every scene would have:
 
 ## The New Rule
 
-The Fairfaxes and Meades are **no longer required witnesses**.
+The Fairfaxes and Haskells are **no longer required witnesses**.
 
 They become:
 - recurring **touchstones**
@@ -28,11 +28,11 @@ The epic is now the **continent itself**, told through whoever is closest to the
 
 ## The Compromise
 
-Keep the Fairfaxes and Meades as **prominent multi-generational families** across the entire 1863–1939 epic.
+Keep the Fairfaxes and Haskells as **prominent multi-generational families** across the entire 1863–1939 epic.
 
 Everyone else (presidents, generals, council delegates, Japanese admirals, Comanche captains, California oil barons) comes and goes. They live, they die, they're forgotten.
 
-But **every single major turning point** still has **at least one Fairfax or one Meade** within smelling distance (not always narrating, not always centre-stage, but **there**).
+But **every single major turning point** still has **at least one Fairfax or one Haskell** within smelling distance (not always narrating, not always centre-stage, but **there**).
 
 ## How the Families Stay "Permanent" Without Choking the Story
 
@@ -50,7 +50,7 @@ But the continent is now big enough that the fire has children of its own.
 
 ## The Legacy
 
-Fairfaxes and Meades:  
+Fairfaxes and Haskells:  
 prominent families whose members appear across generations.  
 Everyone else comes and goes, but these families provide continuity.
 

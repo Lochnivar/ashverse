@@ -8,7 +8,7 @@
 
 ## EXECUTIVE SUMMARY
 
-The AshVerse storyboard presents a sophisticated alternate history with a strong thematic foundation and meticulous world-building. The core premise (Lee's death at Gettysburg, Longstreet's withdrawal) is historically sound and narratively compelling. The 76-year scope (1863-1939) allows for rich multi-generational storytelling through the Fairfax and Meade families.
+The AshVerse storyboard presents a sophisticated alternate history with a strong thematic foundation and meticulous world-building. The core premise (Lee's death at Gettysburg, Longstreet's withdrawal) is historically sound and narratively compelling. The 76-year scope (1863-1939) allows for rich multi-generational storytelling through the Fairfax and Haskell families.
 
 **Overall Assessment:** Strong foundation with some areas requiring refinement. The locked canon elements are generally well-justified, though a few may benefit from reconsideration for narrative flow.
 
@@ -52,9 +52,9 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 - **Assessment:** These are essential. The "still developing" status is appropriate—refine during writing.
 
 ### 1.4 Multi-Generational Perspective
-**Strength:** Fairfax and Meade families provide continuity without requiring omnipresence.
+**Strength:** Fairfax and Haskell families provide continuity without requiring omnipresence.
 
-- **Locked Canon:** `fairfax-meade-cast-list.md` establishes specific POV characters for each book.
+- **Locked Canon:** `fairfax-haskell-cast-list.md` establishes specific POV characters for each book.
 - **Narrative Value:** Allows 76-year scope while maintaining character investment.
 - **Assessment:** Good structure, but see weaknesses section for concerns about rigidity.
 
@@ -89,13 +89,13 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 **Update:** The cast list has been changed from "LOCKED CANON" to "PREFERRED STRUCTURE" with flexibility allowed.
 
 **Current Approach:**
-- Fairfax and Meade families are the preferred POV characters for each book.
+- Fairfax and Haskell families are the preferred POV characters for each book.
 - They are the "rock" that shows the effects of the PoD shift.
 - Other characters will be created and used as needed.
 - Flexibility is allowed if narrative demands it.
 
 **Core Rule Maintained:**
-- At least one Fairfax and one Meade alive and within smelling distance of every major event.
+- At least one Fairfax and one Haskell alive and within smelling distance of every major event.
 - This is the foundation - they show the effects of the PoD shift across generations.
 
 **Assessment:** This is the correct approach. The families provide continuity and perspective, but narrative flexibility is preserved.
@@ -370,10 +370,10 @@ The AshVerse storyboard presents a sophisticated alternate history with a strong
 ### 6.6 The Final Scene (1939)
 **Opportunity:** The final scene is powerful but could be more specific.
 
-**Current State:** "A Fairfax and a Meade on opposite sides of the continent read 'GERMANY INVADES POLAND' and think: 'We thought our war was the big one.'"
+**Current State:** "A Fairfax and a Haskell on opposite sides of the continent read 'GERMANY INVADES POLAND' and think: 'We thought our war was the big one.'"
 
 **Opportunity:**
-- Specify which Fairfax and which Meade (from cast list: Trip Fairfax and Eleanor Meade?).
+- Specify which Fairfax and which Haskell (from cast list: Trip Fairfax and [Haskell family member]?).
 - Show their specific locations and circumstances.
 - Show the parallel reading (same headline, different places).
 - The "we thought our war was the big one" line is perfect—build to it.

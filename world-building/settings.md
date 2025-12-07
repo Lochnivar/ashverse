@@ -39,7 +39,7 @@
 
 #### Republic of California
 - **Location:** California (quietly seceded)
-- **Capital:** Sacramento or San Francisco
+- **Capital:** San Francisco (proclaimed 4 July 1873)
 - **Status:** Independent republic
 - **Key Cities:** San Francisco, Los Angeles, Sacramento
 - **Economy:** Trade, agriculture, later technology and industry
@@ -115,6 +115,6 @@
 - Focus on political, economic, and social consequences of the split
 - Show how institutions (like slavery) can persist legally while dying in practice
 - Emphasize the complexity: no one was entirely "right"
-- The Fairfax and Meade families provide multi-generational perspective
+- The Fairfax and Haskell families provide multi-generational perspective
 - The continent must learn to live with the consequences of choices made
 

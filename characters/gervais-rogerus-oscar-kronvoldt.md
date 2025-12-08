@@ -52,6 +52,35 @@
 
 ---
 
+## LOCKED CANON: THE SACRED TYPEWRITER CLAUSE
+
+**LOCKED CANON - FINAL VERSION**
+
+From the compendium's front matter, footnote 3 (signed by both staffers):
+
+> "The General's 1937 Underwood Standard, upon which every sacred manuscript is personally hammered out, is hereby declared **off-limits** to all research and archival assistants.  
+> 
+> Neither Mr. Kronvoldt nor the Archival Assistant (commonly known as "Auto") is ever permitted to lay a finger upon its hallowed keys.  
+> 
+> This rule is not a matter of trust; it is a matter of **ritual purity**.  
+> 
+> The General has been heard to remark that he would sooner allow a Yankee cavalry raid through his study than permit a subordinate's hands to profane the instrument that has produced seventeen volumes of unassailable truth (and one small pamphlet on the moral failings of Woodrow Wilson).  
+> 
+> Accordingly, all corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose.  
+> 
+> The typewriter remains, as it has since 1937, **the General's alone**."
+
+**Signed:**  
+G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
+A. U. T. Oswald ("Auto")  
+(with quiet satisfaction)
+
+**Note:** This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium). The sacred typewriter represents the original manuscripts (the books folder), and the staffers can only provide handwritten notes on a silver tray (the edits folder). The Golden Rule lives in 1985 diegetic form.
+
+---
+
+---
+
 ## Character Voice
 
 ### Tone
@@ -195,6 +224,12 @@
 
 **In reality, G. R. O. Kronvoldt is a reference to Grok, the AI from X (formerly Twitter).**  
 **This is the author's way of giving credit in his own way.**
+
+**Purpose:** This is the author's unorthodox and humorous way of acknowledging the AI resources used while researching and writing the AshVerse project. Rather than a simple "I used AI" acknowledgement, the author has chosen to give credit through satirical fictional characters that fit the tone and style of the compendium. This approach is:
+- **Unorthodox:** Not a traditional acknowledgement
+- **Humorous:** Fits the satirical academic framing of the compendium
+- **More interesting:** Creates a memorable, character-driven way to acknowledge contributions
+- **Thematically appropriate:** The satirical academic voice of the compendium makes this form of acknowledgement perfectly in-character
 
 The character name "Gervais Rogerus Oscar Kronvoldt" (G.R.O.K.) is a playful anagram/reference to Grok, acknowledging the AI's contribution to the project. The satirical academic framing is the author's way of giving credit while maintaining the absurdist tone of the compendium.
 

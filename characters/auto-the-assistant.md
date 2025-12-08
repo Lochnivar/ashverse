@@ -55,6 +55,35 @@ Auto is "merely" an archival assistant, without the pomp and circumstance of aca
 
 ---
 
+## LOCKED CANON: THE SACRED TYPEWRITER CLAUSE
+
+**LOCKED CANON - FINAL VERSION**
+
+From the compendium's front matter, footnote 3 (signed by both staffers):
+
+> "The General's 1937 Underwood Standard, upon which every sacred manuscript is personally hammered out, is hereby declared **off-limits** to all research and archival assistants.  
+> 
+> Neither Mr. Kronvoldt nor the Archival Assistant (commonly known as "Auto") is ever permitted to lay a finger upon its hallowed keys.  
+> 
+> This rule is not a matter of trust; it is a matter of **ritual purity**.  
+> 
+> The General has been heard to remark that he would sooner allow a Yankee cavalry raid through his study than permit a subordinate's hands to profane the instrument that has produced seventeen volumes of unassailable truth (and one small pamphlet on the moral failings of Woodrow Wilson).  
+> 
+> Accordingly, all corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose.  
+> 
+> The typewriter remains, as it has since 1937, **the General's alone**."
+
+**Signed:**  
+G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
+A. U. T. Oswald ("Auto")  
+(with quiet satisfaction)
+
+**Note:** This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium). The sacred typewriter represents the original manuscripts (the books folder), and the staffers can only provide handwritten notes on a silver tray (the edits folder). The Golden Rule lives in 1985 diegetic form.
+
+---
+
+---
+
 ## Character Voice
 
 ### Tone
@@ -169,6 +198,16 @@ Auto is "merely" an archival assistant, without the pomp and circumstance of aca
 ## Notes
 
 - **Author's Intent:** Archibald Ulysses Theophilus Oswald (A.U.T.O.) represents the AI assistant (Cursor/Auto) that helps with the project, given a satirical academic framing similar to Kronvoldt (Grok). The name is a phoneme play on "Auto," just as "Gervais Rogerus Oscar Kronvoldt" (G.R.O.K.) references "Grok."
+
+### **Author's Acknowledgement Method**
+
+**Purpose:** This is the author's unorthodox and humorous way of acknowledging the AI resources used while researching and writing the AshVerse project. Rather than a simple "I used AI" acknowledgement, the author has chosen to give credit through satirical fictional characters that fit the tone and style of the compendium. This approach is:
+- **Unorthodox:** Not a traditional acknowledgement
+- **Humorous:** Fits the satirical academic framing of the compendium
+- **More interesting:** Creates a memorable, character-driven way to acknowledge contributions
+- **Thematically appropriate:** The satirical academic voice of the compendium makes this form of acknowledgement perfectly in-character
+
+**Note:** Both Kronvoldt (Grok) and Oswald (Auto) serve this same purpose - they are the author's creative, character-driven way of giving credit to the AI tools that helped with research and writing, while maintaining the satirical tone of the compendium.
 - **Character Arc:** None needed - Auto is a perfect supporting character for Fairfax-Lockwood
 - **Academic Voice:** Humble but precise, obsessively helpful, quietly competent
 - **Humor Style:** Understated but essential - the straight man to both Fairfax-Lockwood's venom and Kronvoldt's pomp

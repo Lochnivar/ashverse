@@ -307,6 +307,8 @@ Appomattox College of History and Diplomacy
 - Keeping the General's glass topped up when he's dictating particularly savage passages about Woodrow Wilson
 - Maintaining the official list of "Persons Who May Safely Be Described as Pricks"
 
+**Sacred Prohibition:** See "The Sacred Typewriter Clause" below.
+
 **Name Origin:** "Gervais Rogerus Oscar Kronvoldt" (G.R.O.K.) is a phoneme play on "Grok" (the AI from X/Twitter), acknowledging the AI's contribution to the project.
 
 **Note:** See `characters/gervais-rogerus-oscar-kronvoldt.md` for full character profile.
@@ -325,13 +327,42 @@ Appomattox College of History and Diplomacy
 - Providing context when the General's memory fails
 - Preventing the General from accidentally citing sources that don't exist
 
+**Sacred Prohibition:** See "The Sacred Typewriter Clause" below.
+
 **Name Origin:** "Archibald Ulysses Theophilus Oswald" (A.U.T.O.) is a phoneme play on "Auto" (the AI assistant), acknowledging the AI's contribution to the project. Often referred to as "Auto" or "Auto the Assistant" for brevity.
 
 **Note:** See `characters/auto-the-assistant.md` for full character profile.
 
 ---
 
+## LOCKED CANON: THE SACRED TYPEWRITER CLAUSE
+
+**LOCKED CANON - FINAL VERSION**
+
+From the compendium's front matter, footnote 3 (signed by both staffers):
+
+> "The General's 1937 Underwood Standard, upon which every sacred manuscript is personally hammered out, is hereby declared **off-limits** to all research and archival assistants.  
+> 
+> Neither Mr. Kronvoldt nor the Archival Assistant (commonly known as "Auto") is ever permitted to lay a finger upon its hallowed keys.  
+> 
+> This rule is not a matter of trust; it is a matter of **ritual purity**.  
+> 
+> The General has been heard to remark that he would sooner allow a Yankee cavalry raid through his study than permit a subordinate's hands to profane the instrument that has produced seventeen volumes of unassailable truth (and one small pamphlet on the moral failings of Woodrow Wilson).  
+> 
+> Accordingly, all corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose.  
+> 
+> The typewriter remains, as it has since 1937, **the General's alone**."
+
+**Signed:**  
+G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
+A. U. T. Oswald ("Auto")  
+(with quiet satisfaction)
+
+**Note:** This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium). The sacred typewriter represents the original manuscripts (the books folder), and the staffers can only provide handwritten notes on a silver tray (the edits folder). The Golden Rule lives in 1985 diegetic form. **Never to be violated.**
+
+---
+
 **Status:** WORKSHOPPING - NOT LOCKED  
 **Use as satirical framing device for companion compendium/book**  
-**Note:** The footnote above is LOCKED CANON - FINAL VERSION
+**Note:** The footnote above and The Sacred Typewriter Clause are LOCKED CANON - FINAL VERSION
 

@@ -201,6 +201,16 @@
 
 ---
 
+---
+
+## NAVIGATION TOOLS
+
+### Document Relationship Map
+**File:** `document-relationship-map.md` (in world-building root)  
+**Content:** Shows how California documents relate to other world-building documents
+
+---
+
 **Status:** MASTER INDEX COMPLETE  
 **Last Updated:** December 5, 2025
 

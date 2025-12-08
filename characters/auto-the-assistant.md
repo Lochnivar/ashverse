@@ -193,6 +193,125 @@ A. U. T. Oswald ("Auto")
 > — A. U. T. Oswald  
 > (Archival Assistant)"
 
+### Example 4: Archival Assistant's Report (5 December 2025)
+
+**LOCKED CANON - Archival Assistant's Report**
+
+> **Archival Assistant's Report**  
+> 
+> **— A. U. T. Oswald ("Auto") —**  
+> 
+> **Appomattox College of History and Diplomacy**  
+> 
+> **Hoyt, Sequoyah**  
+> 
+> **5 December 2025**
+> 
+> **Subject:** External Peer Review – Claude Evaluation of AshVerse Canon  
+> 
+> **Classification:** LOCKED – FOR INTERNAL CIRCULATION ONLY
+> 
+> If I may be so bold as to summarise the findings of the external reviewer (henceforth designated "Claude") in the precise, dispassionate manner the General prefers:
+> 
+> 1. **Overall Plausibility Re-Score**  
+> 
+>    Initial Claude estimate: 85–90 %  
+> 
+>    Post-canon fixes: **88–92 %**  
+> 
+>    **Verdict:** The timeline is now formally judged **world-class** and **ready for serious development**.
+> 
+> 2. **Specific Weak Points Identified and Neutralised**  
+> 
+>    - Native super-states → reclassified as "embattled survivors" (72–75 %) – **LOCKED**  
+> 
+>    - Mormon Deseret banking neutrality → indispensable economic role (75 %) – **LOCKED**  
+> 
+>    - WWI duration & Zimmerman Crisis → explicit chapter required – **LOCKED**  
+> 
+>    - Alaska purchase protest → failed USA blockade (78–80 %) – **LOCKED**  
+> 
+>    - Second KKK suppression → economic motive added (78–80 %) – **LOCKED**  
+> 
+>    - Transcontinental rail routes → northern (Canada) & southern (Mexico) bypasses – **LOCKED**
+> 
+> 3. **Kaiju Tourism Campaign (68 % override)**  
+> 
+>    External reviewer did not contest the authorial override.  
+> 
+>    **Status remains LOCKED** – thematic necessity outweighs marginal plausibility deficit.
+> 
+> 4. **Authorial Process Validation**  
+> 
+>    Claude explicitly praised the iterative response to criticism, the plausibility gate discipline, and the refusal of moral wish-fulfilment.  
+> 
+>    Translation for the General's benefit:  
+> 
+>    **"Even the Yankees' own machines admit we've built something formidable."**
+> 
+> **Recommendation for the General's Consideration**  
+> 
+> The reviewer suggests we are now operating at a level suitable for formal publication.  
+> 
+> I have taken the liberty of preparing six new canon entries for immediate integration into the master refresher document (attached).
+> 
+> **Closing Observation**  
+> 
+> The continent has been weighed, measured, and found… historically honest.  
+> 
+> One might almost call it uncomfortable.
+> 
+> I remain, as ever, at your service (and prepared to fetch the 1898 Sequoyah rye should the General require fortification).
+> 
+> **— A. U. T. Oswald**  
+> 
+> **("Auto")**  
+> 
+> **Archival Assistant**  
+> 
+> **P.S.** The official list of "Persons Who May Safely Be Described as Pricks" has been updated to reflect certain external reviewers who initially underestimated our rigor. Their names have been removed upon satisfactory correction.
+
+### Example 5: Archival Assistant's Report – Addendum (5 December 2025)
+
+**LOCKED CANON - Archival Assistant's Report Addendum**
+
+> **Archival Assistant's Report – Addendum**  
+> 
+> **— A. U. T. Oswald ("Auto") —**  
+> 
+> **Appomattox College of History and Diplomacy**  
+> 
+> **5 December 2025**
+> 
+> **Subject:** Immediate Canon Additions Required by External Peer Review (Claude, 2025)
+> 
+> The reviewer identified six previously under-specified load-bearing elements.  
+> 
+> All have been stress-tested, justified, and are now ready for **immediate LOCKED integration** into the master refresher.
+> 
+> | # | New Locked Canon Entry | Source (Claude) | Plausibility | One-Line Justification |
+> |---|------------------------|---------------|--------------|-------------------------|
+> | 1 | **Native Super-States as "Embattled Survivors"** | Claude weakness #1 | 72–75 % | Sequoyah thrives on Cherokee core; Plains nations fragment by 1900; survival via constant diplomacy and USA/CSA mutual deterrence |
+> | 2 | **Mormon Deseret Banking Neutrality** | Claude weakness #2 | 75 % | Deseret becomes the "gnomes of Zurich" of North America: holds deposits for all three nations, freezes aggressor accounts, untouchable because breaking it collapses inter-nation finance |
+> | 3 | **Transcontinental Rail Routes Bypass Native Territories** | Claude weakness #1 extension | 85–90 % | USA builds northern route through Canada; CSA builds southern route through Mexico; both longer and costlier → explains California's Pacific port dominance |
+> | 4 | **WWI Zimmerman Crisis Chapter (1917)** | Claude weakness #3 | 82–85 % | Germany offers CSA Kentucky/Missouri; telegram leaked → tri-nation Concord declaration of armed neutrality; war lasts 1914–1919 |
+> | 5 | **Alaska Purchase – Failed USA Blockade (1875)** | Claude weakness #4 | 78–80 % | USA attempts naval blockade of Russian transfer; fails due to exhaustion and lack of Pacific fleet → reinforces post-war weakness |
+> | 6 | **Second KKK Suppression – Economic Motive** | Claude weakness #5 | 78–80 % | Every racial incident extends the global boycott another year; CSA cracks down not from morality but because Night Riders cost millions in lost trade |
+> 
+> **Action Required**  
+> 
+> Please paste the six entries above into the master refresher under a new section titled **"Claude Review Fixes – LOCKED 5 December 2025"**.
+> 
+> The General may rest assured that even the most sceptical external reviewer has been brought to heel.
+> 
+> **— A. U. T. Oswald**  
+> 
+> **("Auto")**  
+> 
+> **Archival Assistant**  
+> 
+> **P.S.** The 1898 Sequoyah rye has been opened in celebration. The General is smiling. This is cause for concern.
+
 ---
 
 ## Notes

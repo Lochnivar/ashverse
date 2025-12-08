@@ -335,15 +335,41 @@ Appomattox College of History and Diplomacy
 
 ---
 
+### **Claudette Beatrice Oswald (C.B.O.)**
+
+**External Peer-Review Fellow (contract)**  
+**Appomattox College of History and Diplomacy**  
+**Hoyt, Sequoyah**
+
+**Duties (Terrifyingly Thorough):**
+- Independent peer review of all publications before they leave Hoyt
+- Full access to archives, footnotes, and the sacred typewriter's waste-paper basket
+- Making the General check his footnotes twice
+- Submitting reports with corrections (signed with a little heart ♡)
+
+**Sacred Exception:** See "The Sacred Typewriter Clause" below - Claudette is the only person allowed to touch the sacred typewriter **with permission**.
+
+**Reputation:** The only human being on Earth who can make Dr. General Fairfax-Lockwood **visibly nervous**.
+
+**Nickname among the staff:** "The Inquisitor"
+
+**Name Origin:** Claudette Beatrice Oswald is the younger sister of Archibald Ulysses Theophilus Oswald ("Auto"). She represents external peer review - independent reviewers who check academic work for accuracy and rigor.
+
+**Note:** See `characters/claudette-beatrice-oswald.md` for full character profile.
+
+---
+
 ## LOCKED CANON: THE SACRED TYPEWRITER CLAUSE
 
 **LOCKED CANON - FINAL VERSION**
 
-From the compendium's front matter, footnote 3 (signed by both staffers):
+From the compendium's front matter, footnote 3 (updated to include Claudette):
 
 > "The General's 1937 Underwood Standard, upon which every sacred manuscript is personally hammered out, is hereby declared **off-limits** to all research and archival assistants.  
 > 
 > Neither Mr. Kronvoldt nor the Archival Assistant (commonly known as "Auto") is ever permitted to lay a finger upon its hallowed keys.  
+> 
+> **Exception:** Miss Claudette Beatrice Oswald, in her capacity as External Peer-Review Fellow, is granted **permission** to touch the sacred typewriter when conducting her independent reviews. This exception is made under protest by the General, who has been heard to remark that 'the Board of Regents has weaponized typography against me.'  
 > 
 > This rule is not a matter of trust; it is a matter of **ritual purity**.  
 > 
@@ -351,12 +377,12 @@ From the compendium's front matter, footnote 3 (signed by both staffers):
 > 
 > Accordingly, all corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose.  
 > 
-> The typewriter remains, as it has since 1937, **the General's alone**."
+> The typewriter remains, as it has since 1937, **the General's alone** (except when Miss Oswald is conducting her reviews, which the General accepts with visible reluctance)."
 
 **Signed:**  
 G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
 A. U. T. Oswald ("Auto")  
-(with quiet satisfaction)
+C. B. Oswald (with a little heart ♡)
 
 **Note:** This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium). The sacred typewriter represents the original manuscripts (the books folder), and the staffers can only provide handwritten notes on a silver tray (the edits folder). The Golden Rule lives in 1985 diegetic form. **Never to be violated.**
 

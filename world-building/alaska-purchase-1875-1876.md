@@ -78,6 +78,68 @@
 
 ---
 
+## The Failed USA Blockade Attempt (1875)
+
+### **LOCKED CANON - Plausibility: 78-80%**
+
+**Status:** ✅ LOCKED  
+**Date:** December 5, 2025  
+**Source:** External Peer Review (Claude Evaluation) - Archival Assistant's Report
+
+### The Blockade Attempt
+
+**Date:** June-July 1875 (during transfer negotiations)
+
+**USA Action:** Attempts naval blockade of Russian transfer to California
+
+**Rationale:**
+- USA claims Alaska should have been offered to USA first
+- USA protests the sale as "illegal transfer of North American territory"
+- USA attempts to prevent Russian ships from reaching Alaska
+
+### Why It Fails
+
+1. **USA Exhaustion** - USA is still recovering from Civil War, no resources for Pacific blockade
+2. **Lack of Pacific Fleet** - USA has minimal Pacific naval presence, can't sustain blockade
+3. **California Naval Superiority** - California has stronger Pacific fleet, can protect transfer
+4. **Russian Support** - Russia provides naval escort for transfer ships
+5. **International Pressure** - Britain and other powers support California's purchase (prevents USA expansion)
+
+### The Outcome
+
+- **Blockade fails within weeks** - USA ships cannot maintain position
+- **Transfer proceeds** - Russian ships reach Alaska under California/Russian escort
+- **USA humiliation** - Failed blockade demonstrates USA's post-war weakness
+- **California victory** - Successful transfer reinforces California's Pacific dominance
+- **Reinforces post-war weakness** - USA's inability to project power in Pacific becomes clear
+
+### The Significance
+
+- **Demonstrates USA weakness** - USA cannot project power in Pacific
+- **Reinforces California dominance** - California can act independently in Pacific
+- **International recognition** - Other powers recognize California's Pacific role
+- **Post-war reality** - USA is exhausted, broke, cannot contest Pacific transactions
+
+### The Plausibility Assessment
+
+**Rating:** 78-80% (LOCKED)
+
+**Why This Works:**
+- **USA exhaustion** - Post-Civil War USA has no resources for Pacific blockade
+- **Lack of Pacific fleet** - USA has minimal Pacific naval presence
+- **California naval strength** - California has stronger Pacific fleet
+- **Russian support** - Russia provides naval escort
+- **International support** - Other powers support California's purchase
+
+**Why It's Not Higher:**
+- USA might have attempted diplomatic protest instead of blockade
+- Blockade attempt might have been more symbolic than real
+- International reaction might have been more mixed
+
+**Verdict:** ✅ **LOCKED** - The failed blockade reinforces USA's post-war weakness and California's Pacific dominance.
+
+---
+
 ## The Ceremony (4 July 1876)
 
 **Location:** New Archangel (renamed Bearfort)  

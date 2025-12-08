@@ -83,10 +83,12 @@ because the raids and boycott kept them from ever regaining market share.
 
 | Year | What Actually Happens |
 |------|----------------------|
-| **1865–1875** | India/Egypt already at war-time peak. CSA tries to rebuild but raids + boycott keep output low. |
+| **1865–1875** | India/Egypt already at war-time peak. CSA tries to rebuild but raids ($55M/year = 4.6% GDP) + boycott keep output low. |
 | **1875–1885** | British investment in Egyptian irrigation + Indian rail network → massive surplus. |
 | **1886–1890** | Global cotton prices crash 40–50% (OTL numbers – even worse in NTL because CSA can't compete). |
 | **1890–1894** | CSA planters drowning in unsold bales → final desperation → last hold-out states capitulate. |
+
+**Note:** The 30% production drop and 20% efficiency loss are **SHARED** across all four mechanisms (raids + cotton glut + boycott + runaway crisis). Raids alone account for ~10% production drop and 5-8% efficiency loss. See `edits/slavery-death-mechanics-analysis-2025-12-05.md` for full economic impact analysis.
 
 ---
 

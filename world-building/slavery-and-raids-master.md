@@ -46,6 +46,13 @@
 - Slavery is no longer economically viable
 - No new slaves can be born or imported after 1894
 
+#### Economic Impact of Raids (1865-1894) - LOCKED CANON
+- **Total raid impact:** $1.6 billion (1865 dollars)
+- **Annual average:** $55 million/year ≈ 4.6% of CSA GDP
+- **Key point:** Raids are one of four mechanisms (raids + cotton glut + boycott + runaway crisis). They are **not** the sole cause of collapse.
+- **Production/efficiency loss:** 30% production drop and 20% efficiency loss are **SHARED** across all four mechanisms. Raids alone account for ~10% production drop and 5-8% efficiency loss.
+- **See:** `edits/slavery-death-mechanics-analysis-2025-12-05.md` for full detailed analysis.
+
 #### What People Remember in 2025
 **"1894 – The Last Chain Falls"** – the emotional, moral, and practical end. The last child who will ever be born a slave is born this year.
 
@@ -59,7 +66,7 @@
 - **Everyone knows it's a corpse**
 - No new slaves can be born or imported
 - Existing slaves are ageing out
-- Raids + debt peonage make it unprofitable
+- Raids ($1.6B total impact, $55M/year = 4.6% GDP) + boycott + cotton glut + runaway crisis make it unprofitable
 - Convict leasing, debt peonage, and sharecropping have fully replaced it
 
 #### International Status
@@ -444,10 +451,10 @@ The Klan analogue in your NTL (New Timeline). Called the Night Riders, the Torch
 **1875-1877** - The desperate, vicious response of the hardest-line planters and ex-soldiers who refuse to accept that the raids have made slavery unprofitable.
 
 #### Why They Form
-- Economic desperation
+- Economic desperation (raids cost $55M/year = 4.6% GDP, but raids are only one of four mechanisms killing slavery)
 - Widespread armament
 - Ready-made mythology of "Yankee invasion and negro betrayal"
-- Refusal to accept that slavery is dying
+- Refusal to accept that slavery is dying (raids + boycott + cotton glut + runaway crisis = unprofitable)
 
 #### Nathan Bedford Forrest's Role
 - Becomes the charismatic, terrifying face of the movement for two brutal years

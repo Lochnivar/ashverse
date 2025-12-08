@@ -21,6 +21,21 @@
 
 ---
 
+## NAVIGATION TOOLS
+
+### Document Relationship Map
+**File:** `document-relationship-map.md`  
+**Status:** Reference Document - Living Document  
+**Content:** Visual/textual map showing how all world-building documents relate to each other, navigation paths, and relationship types
+
+**Use this for:**
+- Understanding document connections
+- Finding related documents
+- Navigation paths for specific topics
+- Understanding document clusters
+
+---
+
 ## CONSOLIDATED MASTER DOCUMENTS
 
 ### 1. Native Super-States
@@ -34,9 +49,9 @@
 **Content:** Slavery timeline, Toombs Act, Second Middle Passage, Last Hurrah raids, rules of engagement, joint crackdown, holdout states, Night Riders, racism
 
 ### 3. Economic Systems
-**File:** `economic-systems-master.md`  
-**Status:** CONSOLIDATED  
-**Content:** Economic relationships, global cotton glut, boycott trigger, punitive tariffs, currencies, tariffs, Great Depression
+**Files:** `economic-systems-master.md`, `transcontinental-rail-routes-bypass.md`, `second-kkk-suppression-economic-motive.md`  
+**Status:** CONSOLIDATED + LOCKED CANON  
+**Content:** Economic relationships, global cotton glut, boycott trigger, punitive tariffs, currencies, tariffs, Great Depression, rail routes (85-90%), KKK suppression (78-80%)
 
 ### 4. California
 **File:** `california-master-index.md`  
@@ -86,7 +101,8 @@
 
 ### 12. Alaska Purchase
 **File:** `alaska-purchase-1875-1876.md`  
-**Status:** LOCKED CANON
+**Status:** LOCKED CANON  
+**Content:** California's purchase of Alaska, failed USA blockade (78-80% plausibility)
 
 ---
 
@@ -97,6 +113,11 @@
 
 ### 14. WWI Without US Entry
 **File:** `wwi-without-us-entry.md`
+
+### 14a. WWI Duration & Zimmerman Crisis
+**File:** `wwi-duration-zimmerman-crisis-explicit-chapter.md`  
+**Status:** LOCKED CANON - Explicit Chapter Required  
+**Content:** WWI duration (1914-1919), Zimmerman Crisis (1917), tri-nation Concord declaration (82-85% plausibility)
 
 ### 15. WWII: Two Separate Wars
 **File:** `wwii-separate-wars.md`
@@ -156,8 +177,9 @@
 **File:** `lincoln-fate-1864-1865.md`
 
 ### 30. Mormon Deseret
-**File:** `mormon-deseret.md`  
-**Status:** LOCKED CANON
+**Files:** `mormon-deseret.md`, `mormon-deseret-banking-neutrality.md`  
+**Status:** LOCKED CANON  
+**Content:** General overview and banking neutrality (Mormon Venice)
 
 ### 31. US-CSA Border Regions
 **File:** `us-csa-border-regions.md`
@@ -182,6 +204,44 @@
 
 ### 38. Fairfax-Meade Role
 **File:** `fairfax-meade-role.md`
+
+---
+
+---
+
+## CLAUDE REVIEW FIXES (December 5, 2025)
+
+**Status:** ✅ LOCKED CANON - All six entries integrated
+
+### 1. Native Super-States as Embattled Survivors
+**File:** `native-super-states-embattled-survivors.md`  
+**Plausibility:** 72-75%  
+**Content:** Reclassification from "super-powers" to "embattled survivors"
+
+### 2. Mormon Deseret Banking Neutrality
+**File:** `mormon-deseret-banking-neutrality.md`  
+**Plausibility:** 75%  
+**Content:** "Mormon Venice" framing, indispensable economic role
+
+### 3. Transcontinental Rail Routes Bypass
+**File:** `transcontinental-rail-routes-bypass.md`  
+**Plausibility:** 85-90%  
+**Content:** USA builds through Canada, CSA builds through Mexico
+
+### 4. WWI Duration & Zimmerman Crisis
+**File:** `wwi-duration-zimmerman-crisis-explicit-chapter.md`  
+**Plausibility:** 82-85%  
+**Content:** Explicit chapter required, 1914-1919 duration
+
+### 5. Alaska Purchase - Failed USA Blockade
+**File:** `alaska-purchase-1875-1876.md` (updated)  
+**Plausibility:** 78-80%  
+**Content:** USA attempts blockade, fails due to exhaustion
+
+### 6. Second KKK Suppression - Economic Motive
+**File:** `second-kkk-suppression-economic-motive.md`  
+**Plausibility:** 78-80%  
+**Content:** Economic pressure drives suppression, not morality
 
 ---
 

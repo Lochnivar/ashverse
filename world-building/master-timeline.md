@@ -1,17 +1,27 @@
 # Master Timeline: The Complete Series
 
-## The Match (1863 – March 1865) – Fully Detailed, No Wiggle Room
+## The Match (1863 – March 1865) – FINAL LOCKED CANON
 
-| Date | Event | Key consequence |
-|------|-------|-----------------|
-| 1 Jul 1863 | Battle of Gettysburg Day 1 – Lee collapses, Longstreet assumes command, orders withdrawal at dawn 2 July | War turns from decision to survival |
-| 2–15 Jul 1863 | ANV withdraws northwest, occupies Harrisburg corridor | Pennsylvania raid begins |
-| Jul–Sep 1863 | Longstreet raids Pennsylvania (shortened 10–12 weeks), Meade shadows and bleeds him | ANV survives but is badly hurt |
-| Nov 1863 | Lincoln relieves Meade, Sedgwick/Warren temporary command | Hancock waits |
-| Jan 1864 | Hancock takes command of AoP | Fresh hope |
-| Jun 1864 | Pickett's Raid (18 k, 21 days) – Chesapeake terror, threatens Washington, withdraws | Northern will collapses |
-| Jul 1864 | Hancock wounded on Susquehanna (stretcher scene with Armistead) | Symbol of lost hope |
-| Mar 1865 | Treaty of Cincinnati – CSA independence, Native super-states recognised, armistice | War ends in negotiated partition |
+**Overall Plausibility: 91% – LOCKED**
+
+| # | Date | Event | Plausibility | Key consequence |
+|---|------|-------|--------------|-----------------|
+| 1 | 1 Jul 1863 | Lee dies of heart attack on Seminary Ridge | 94% | Longstreet assumes command |
+| 2 | 2–3 Jul 1863 | Meade's 36-hour freeze (caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay) | 91% | Longstreet gets 36-hour head start |
+| 3 | Jul–Oct 1863 | Longstreet's 10-week Pennsylvania-Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong) | 88% | "They're still here and we can't drive them out" |
+| 4 | Late Oct 1863 | Battle of Hagerstown ("Meade's Last Throw") – Meade corners Longstreet, bloodily repulsed, ~9k casualties | 90% | Last hope of decisive victory dies |
+| 5 | Nov 1863 | Meade sacked → Sedgwick/Warren temporary caretakers | 92% | "Even our best generals can't beat them" |
+| 6 | Jan 1864 | Hancock assumes permanent command of AoP (fully healthy, no Gettysburg wound) | 92% | Fresh hope |
+| 7 | Spring 1864 | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri | 90% | War moves to Northern soil again |
+| 8 | 8–28 Jun 1864 | Pickett's Lightning Raid (18k men + all cavalry, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington 48 hours) | 88% | Northern capital threatened for first time since 1814 |
+| 9 | 12 Jul 1864 | Hancock wounded on Susquehanna (stretcher scene with Armistead) while pursuing Pickett | 90% | Last Northern hero falls; newspapers scream "the war is lost" |
+| 10 | Aug–Dec 1864 | Winter of Despair – food riots in New York, draft resistance collapses, Copperhead mid-term victories | 92% | Political collapse |
+| 11 | Nov 1864 | McClellan elected on explicit peace platform | 95% | War now has expiration date |
+| 12 | Late Jan–Feb 1865 | Grant's Final Gamble (never promoted to general-in-chief, still Western commander, called east as last resort; acts via "legal fiction" – old orders + personal loyalty of ~65k men) | 88% | Last desperate throw |
+| 13 | 18–20 Feb 1865 | Battle of Appomattox Court House – Grant's desperate lunge at Richmond shattered; Grant surrenders in McLean House parlor, 20 Feb | 91% | Final military act fails |
+| 14 | 31 Mar 1865 | Treaty of Cincinnati signed by McClellan (Lincoln never signs it) | 95% | War officially ends |
+
+**Status: LOCKED – NO FURTHER CHANGES**
 
 ## The Fire (1865 – 1894) – Broad Strokes, Flexible Detail
 

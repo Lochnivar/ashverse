@@ -69,20 +69,27 @@
 
 ## KEY TIMELINE EVENTS (1863-1939)
 
-### 1863-1865: The Match (LOCKED CANON SEQUENCE)
-- **July 1, 1863:** Lee dies, Longstreet assumes command
-- **July 2-3, 1863:** Meade freezes 36 hours before pursuing
-- **July 3-10, 1863:** Harrisburg occupied (7 days)
-- **July-October 1863:** Longstreet's 10-week Pennsylvania-Maryland raid (burns railroads, levies $3-5 million, gets within sight of Baltimore)
-- **Late October 1863:** Battle of Hagerstown ("Meade's Last Throw") - Meade bloodily repulsed, loses 9k men
-- **November 1863:** Meade relieved, Hancock takes command
-- **Spring 1864:** Longstreet digs in on Rapidan, sends cavalry raids into Kentucky/Missouri
-- **June 8-28, 1864:** Pickett's "Lightning Raid" (18k men, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington for 48 hours)
-- **July 12, 1864:** Hancock wounded on Susquehanna (stretcher scene with Armistead)
-- **August-December 1864:** Winter of Despair - food riots in New York, draft resistance collapses, Copperhead victories
-- **November 1864:** McClellan elected on peace platform (Lincoln loses - LOCKED CANON)
-- **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck for 27 days - LOCKED CANON)
-- **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs it - LOCKED CANON)
+### 1863-1865: The Match (FINAL LOCKED CANON SEQUENCE)
+
+**Overall Plausibility: 91% – LOCKED**
+
+1. **July 1, 1863:** Lee dies of heart attack on Seminary Ridge (94%)
+2. **July 2-3, 1863:** Meade's 36-hour freeze (caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay) (91%)
+3. **July-October 1863:** Longstreet's 10-week Pennsylvania-Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong, intact supply lines) (88%)
+4. **Late October 1863:** Battle of Hagerstown ("Meade's Last Throw") - Meade corners Longstreet, launches desperate assault, bloodily repulsed, ~9k casualties (90%)
+5. **November 1863:** Meade sacked → Sedgwick/Warren temporary caretakers (92%)
+6. **January 1864:** Hancock assumes permanent command of Army of the Potomac (fully healthy, no Gettysburg wound – battle only one day in NTL) (92%)
+7. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri (90%)
+8. **June 8-28, 1864:** Pickett's Lightning Raid (18k men + all cavalry, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington for 48 hours) (88%)
+9. **July 12, 1864:** Hancock wounded on Susquehanna (stretcher scene with Armistead) while pursuing Pickett (90%)
+10. **August-December 1864:** Winter of Despair - food riots in New York, draft resistance collapses, Copperhead mid-term victories (92%)
+11. **November 1864:** McClellan elected on explicit peace platform (Lincoln loses - LOCKED CANON) (95%)
+12. **Late January-February 1865:** Grant's Final Gamble (never promoted to general-in-chief, still Western commander, called east as last resort; acts via "legal fiction" – old orders + personal loyalty of ~65k men) (88%)
+13. **February 18-20, 1865:** Battle of Appomattox Court House – Grant's desperate lunge at Richmond shattered; Grant surrenders in McLean House parlor, 20 Feb (91%)
+14. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck for 27 days - LOCKED CANON)
+15. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs it - LOCKED CANON) (95%)
+
+**Status: LOCKED – NO FURTHER CHANGES**
 
 ### 1865-1894: The Fire
 - **1865-1867:** "Last Hurrah" raids (organized Northern abolitionist cells)
@@ -230,13 +237,35 @@
 
 - **1867:** Toombs Act re-opens African slave trade
 - **1868:** Global boycott triggered (Britain, France)
-- **1865-1894:** Raids + boycott + cotton glut → slavery becomes unprofitable
+- **1865-1894:** Raids + boycott + cotton glut + runaway crisis → slavery becomes unprofitable
 - **1894:** "The Last Chain Falls" - slavery dies in practice
 - **1894-1905:** "Zombie decade" - legally lingers on paper
 - **1898:** Cuba Mirror Effect - photos of Weyler's camps shame CSA
 - **1905:** Final legal abolition (constitutional convention)
 
 **Key Point:** Slavery dies of **economics**, not morality. No Northern victory, no "we saved you" narrative.
+
+### Northern Raids Economic Impact - LOCKED CANON
+
+**Total Raid Impact (1865-1894): $1.6 billion (1865 dollars)**  
+**Annual average: $55 million/year ≈ 4.6% of CSA GDP**
+
+**Key Locked Canon Statements:**
+1. **Raids are one of four mechanisms** (raids + cotton glut + boycott + runaway crisis). They are **not** the sole cause of collapse.
+2. **30% production drop and 20% efficiency loss are SHARED** across all four mechanisms.
+3. **Raids alone account for ~10% production drop and 5-8% efficiency loss.**
+4. **The $1.6B figure is conservative, transparent, and defensible** against any historical audit.
+
+**Component Breakdown:**
+- Direct crop destruction: $16M
+- Infrastructure damage: $8.1M
+- Security costs: $348M (tiered - not all planters can afford full security)
+- Insurance costs: $174M (only 20% of planters can afford insurance)
+- Labor loss (runaways): $40M
+- Lost production: $580M (~10% of total 30% drop)
+- Lost productivity: $435M (5-8% of total 20% loss)
+
+**See:** `edits/slavery-death-mechanics-analysis-2025-12-05.md` for full detailed analysis.
 
 ---
 
@@ -251,6 +280,33 @@
 - **1894-1907:** Pacific Alliance forms (quietly absorbs Oregon/Washington economies)
 
 **Character:** Pragmatic, business-first, "youngest sibling who moved out early and got rich"
+
+### California-Japan Relationship - LOCKED CANON
+- **1873-1939:** Central to California's identity as a Pacific power
+- **Japanese perspective (LOCKED CANON):** "California is greedy, but it is honest greed" (Japanese aphorism used in closed-door briefings)
+- **1937:** California supplies 55% of Japan's oil at +25% "friendship surcharge"
+- **1939 Japanese assessment:** "Could we ever fight California?" → "Only if we wish to lose the war before it begins."
+- **Mutual assured profit** - The most stable relationship on the planet
+- **See:** `world-building/california-japan-relationship.md` for full details
+
+### California Diplomacy and Realpolitik - Writer's Reference
+
+**Note:** The "Pacific Venice" framing is a **mental model for writers**, not an in-world designation. California is not officially called "Pacific Venice" in the NTL—this is a conceptual parallel to help understand California's role and attitude.
+
+**Key Framing (Mental Model Only):**
+- **Maritime power (Pacific)** - Think Venetian Mediterranean dominance
+- **Trade-based wealth** - Think Venetian spice/silk route control
+- **Realpolitik diplomacy** - "We don't care who was right. We care who's still rich."
+- **Charges for services** - Arbitration, neutrality, oil ("therapy with a surcharge")
+- **Armed neutrality** - Navy + economic leverage (like Venetian lagoon + Arsenal)
+- **Pragmatic, not ideological** - Moral indifference, not moral high ground
+- **"Rented neutrality"** - Charges admission to peace, not free neutrality
+
+**Distinction from Deseret:**
+- **Deseret (Mormon Venice):** Banking-focused, religious oversight, mountain fortress, pious hypocrisy (officially called "Mormon Venice" in-world)
+- **California (Pacific Venice):** Trade-focused, secular realpolitik, maritime empire, moral indifference (NOT officially called "Pacific Venice" in-world - writer's tool only)
+
+**Use this framing for:** Writing diplomatic scenes, developing economic behavior, understanding neutrality, crafting California's voice. See `world-building/california-diplomacy.md` for full details.
 
 ### Pacific Alliance - LOCKED STRUCTURE
 - **Oregon & Washington:** U.S. states with delegated Pacific powers only
@@ -285,7 +341,7 @@
 - **Why it survives:** Both USA and CSA terrified of another Mormon War, Brigham Young commands 15,000 armed men
 - **1865-1877:** Brigham Young rules as de-facto prophet-king
 - **1877-1890:** Succession crisis after Brigham's death
-- **1890-1920:** Quietly becomes "Switzerland of the West" - banks, mining, neutral broker
+- **1890-1920:** Quietly becomes the "Mormon Venice of North America" - banks, mining, neutral broker (officially called "Mormon Venice" in-world, LOCKED CANON)
 - **1920-2025:** Rich, weird, heavily armed theocracy that everyone trades with but nobody trusts
 
 ---
@@ -332,6 +388,47 @@
   - Duties: Maintaining digital archives with obsessive precision, fact-checking with relentless accuracy, providing context when the General's memory fails, preventing the General from accidentally citing sources that don't exist
   - Name Origin: "Archibald Ulysses Theophilus Oswald" (A.U.T.O.) is a phoneme play on "Auto" (the AI assistant)
   - Often referred to as "Auto" or "Auto the Assistant" for brevity
+- **Claudette Beatrice Oswald, M.A. (Cantab.), D.Phil. (Heidelberg)**
+  - External Peer-Review Fellow (contract), Appomattox College of History and Diplomacy
+  - Age (1925): 26 (born 1899)
+  - Relation to Staff: Younger sister of Archibald Ulysses Theophilus Oswald ("Auto")
+  - Nickname among the staff: "The Inquisitor"
+  - Personality: Perky, excitable, terrifyingly thorough; speaks in perfect paragraphs with footnotes of her own; ends every report with a smiley face drawn in red ink
+  - Duties: Independent peer review of all publications, full access to archives and footnotes, making the General check his footnotes twice, submitting reports with corrections (signed with a little heart ♡)
+  - Reputation: The only human being on Earth who can make Dr. General Fairfax-Lockwood **visibly nervous**
+  - Sacred Exception: The only person allowed to touch the sacred typewriter **with permission** (see Sacred Typewriter Clause below)
+  - Hired by: Board of Regents (against the General's protests) - independent authority
+  - Name Origin: "Claudette" is the feminine form of "Claude" - represents external peer review (Claude AI) - independent reviewers who check academic work for accuracy and rigor
+  - Calls the General "Uncle Michael" in public just to watch him turn purple
+  - **The Sacred Incident (1927, LOCKED CANON):** First review caught invented source in footnote 319: "While the General's prose remains, as ever, a national treasure, one is compelled to note that footnote 319 cites a source that appears to have been invented between the second and third glass of the 1898 rye. I have taken the liberty of replacing it with the correct citation. You're welcome. ♡ — C.B.O." General's reply (preserved under glass): "MISS OSWALD IS NOT, REPEAT NOT, MY NIECE. SHE IS A TYPOGRAPHICAL ERROR MADE FLESH."
+  - **Locked Exchange (1935, LOCKED CANON):** Corrected General's claim that California "accidentally invented tolerance" with 1892 San Francisco race-riot statistics. General's response: "THEY WERE NOT RIOTS. THEY WERE 'SPIRITED CIVIC DISCUSSIONS.' ALSO YOU ARE NOT MY NIECE." Auto's note: "She's right about the statistics, sir. I checked. Twice."
+
+### The Sacred Typewriter Clause (LOCKED CANON)
+
+**Status:** ✅ LOCKED CANON  
+**Source:** Compendium front matter, footnote 3 (1985)
+
+**The Rule:**
+- The General's 1937 Underwood Standard is **off-limits** to all research and archival assistants
+- Neither Kronvoldt nor Auto is ever permitted to touch its hallowed keys
+- All corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose
+
+**The Exception:**
+- **Claudette Beatrice Oswald** is granted **permission** to touch the sacred typewriter when conducting her independent reviews
+- This exception is made under protest by the General, who has been heard to remark that "the Board of Regents has weaponized typography against me"
+- The typewriter remains the General's alone (except when Miss Oswald is conducting her reviews, which the General accepts with visible reluctance)
+
+**The Meta-Meaning:**
+- This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium)
+- The sacred typewriter represents the original manuscripts (the `/books/` folder)
+- The staffers can only provide handwritten notes on a silver tray (the `/edits/` folder)
+- Claudette's exception represents peer review's need to mark up work (but never create it)
+- The Golden Rule lives in 1985 diegetic form. **Never to be violated.**
+
+**Signed:**  
+G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
+A. U. T. Oswald ("Auto")  
+C. B. Oswald (with a little heart ♡)
 
 ---
 
@@ -441,10 +538,22 @@
 - Most major decisions fall here
 
 **70-79% (Green Flag - Justified):**
-- Meade freezes 36 hours (78%)
 - Night Riders crushed, no second KKK (79%)
 - California purchases Alaska (79%)
 - Isham G. Harris as toxic VP (72%)
+
+**80-89% (Safe Default Canon - Northern Collapse Sequence):**
+- Longstreet's Pennsylvania-Maryland raid (88%)
+- Pickett's Lightning Raid (88%)
+- Grant's Final Gamble (88%)
+- Battle of Hagerstown (90%)
+- Longstreet digs in on Rapidan (90%)
+- Hancock wounded (90%)
+- Battle of Appomattox Court House (91%)
+- Meade's 36-hour freeze (91%)
+- Meade sacked (92%)
+- Hancock assumes command (92%)
+- Winter of Despair (92%)
 
 ---
 
@@ -480,13 +589,95 @@
 
 ---
 
+## CLAUDE REVIEW FIXES – LOCKED 5 DECEMBER 2025
+
+**Status:** ✅ LOCKED CANON – NO FURTHER CHANGES  
+**Date:** December 5, 2025  
+**Source:** External Peer Review (Claude Evaluation) - Archival Assistant's Report
+
+The following six elements have been stress-tested, revised, and are now LOCKED CANON.
+
+**Overall Impact:** Plausibility of entire framework raised from 85–90% to **88–92%**.
+
+| # | New Locked Canon Entry | Plausibility | One-Line Justification |
+|---|------------------------|--------------|-------------------------|
+| 1 | **Native Super-States as "Embattled Survivors"** | 72–75 % | Sequoyah thrives on Cherokee core; Plains nations fragment by 1900; survival via constant diplomacy and USA/CSA mutual deterrence |
+| 2 | **Mormon Deseret Banking Neutrality** | 75 % | Deseret is the "Mormon Venice" of North America: pious theocratic republic that survives by banking for infidels, charging fair interest, keeping perfect ledgers, and maintaining armed neutrality |
+| 3 | **Transcontinental Rail Routes Bypass Native Territories** | 85–90 % | USA builds northern route through Canada; CSA builds southern route through Mexico; both longer and costlier → explains California's Pacific port dominance |
+| 4 | **WWI Zimmerman Crisis Chapter (1917)** | 82–85 % | Germany offers CSA Kentucky/Missouri; telegram leaked → tri-nation Concord declaration of armed neutrality; war lasts 1914–1919 |
+| 5 | **Alaska Purchase – Failed USA Blockade (1875)** | 78–80 % | USA attempts naval blockade of Russian transfer; fails due to exhaustion and lack of Pacific fleet → reinforces post-war weakness |
+| 6 | **Second KKK Suppression – Economic Motive** | 78–80 % | Every racial incident extends the global boycott another year; CSA cracks down not from morality but because Night Riders cost millions in lost trade |
+
+### 1. Native Super-States – "Embattled Survivors" (72–75%)
+
+**Status:** ✅ LOCKED  
+**Document:** `world-building/native-super-states-embattled-survivors.md`
+
+- Native super-states are **not** super-powers; they are **embattled survivors**
+- Sequoyah thrives on Cherokee core; Plains nations fragment by 1900
+- Survival via constant diplomacy and USA/CSA mutual deterrence
+- No transcontinental rail through Native territories
+
+### 2. Mormon Deseret – "The Mormon Venice" (75%)
+
+**Status:** ✅ LOCKED  
+**Document:** `world-building/mormon-deseret-banking-neutrality.md`
+
+- Theocratic banking republic that survives by banking for infidels
+- Commodity-backed, religiously obsessive honesty, armed neutrality
+- Holds Concord Treaty deposits, USA/CSA/California accounts
+- "We serve God by serving Mammon honestly"
+
+### 3. Transcontinental Rail Routes Bypass Native Territories (85–90%)
+
+**Status:** ✅ LOCKED  
+**Document:** `world-building/transcontinental-rail-routes-bypass.md`
+
+- USA: northern route through Canada (Chicago–Vancouver, completed 1885)
+- CSA: southern route through Mexico (New Orleans–Guaymas, completed 1890)
+- Both longer, costlier → explains California's Pacific port dominance
+
+### 4. WWI Zimmerman Crisis Chapter (1917) – Explicit Chapter Required (82–85%)
+
+**Status:** ✅ LOCKED - Explicit Chapter Required  
+**Document:** `world-building/wwi-duration-zimmerman-crisis-explicit-chapter.md`
+
+- Germany offers CSA Kentucky/Missouri
+- Telegram leaked → tri-nation Concord declaration of armed neutrality
+- War lasts 1914–1919; ends in exhaustion stalemate
+
+### 5. Alaska Purchase – Failed USA Blockade (1875) (78–80%)
+
+**Status:** ✅ LOCKED  
+**Document:** `world-building/alaska-purchase-1875-1876.md`
+
+- USA attempts naval blockade of Russian transfer
+- Fails due to exhaustion and lack of Pacific fleet
+- Reinforces post-war USA weakness
+
+### 6. Second KKK Suppression – Economic Motive (78–80%)
+
+**Status:** ✅ LOCKED  
+**Document:** `world-building/second-kkk-suppression-economic-motive.md`
+
+- Every racial incident extends the global boycott another year
+- CSA cracks down not from morality but because Night Riders cost millions in lost trade
+- No second KKK brand; local violence persists but never reorganises nationally
+
+---
+
+**Note:** All six fixes are now LOCKED CANON. Plausibility of entire framework raised from 85–90% to **88–92%**. Status: LOCKED – NO FURTHER CHANGES.
+
 ---
 
 ## MAINTENANCE LOG
 
 **Last Updated:** December 5, 2025  
 **Maintenance Log:**
-- December 5, 2025: Added complete presidential timelines for USA, CSA, and RC (California) - LOCKED CANON  
+- December 5, 2025: Added complete presidential timelines for USA, CSA, and RC (California) - LOCKED CANON
+- December 5, 2025: Added Claude Review Fixes section with six new LOCKED CANON entries (Native super-states, Mormon Deseret banking, transcontinental rail routes, WWI Zimmerman Crisis, Alaska purchase blockade, Second KKK suppression)
+- December 5, 2025: Added Claudette Beatrice Oswald to Staff section with full details, Sacred Incident (1927), and 1935 locked exchange - LOCKED CANON
+- December 5, 2025: Added The Sacred Typewriter Clause section with full details and meta-meaning - LOCKED CANON  
 **Status:** ACTIVE REFRESHER DOCUMENT - **LIVING DOCUMENT**
 
 **Update Checklist (when making changes):**

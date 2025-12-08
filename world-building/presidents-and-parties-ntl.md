@@ -1032,7 +1032,7 @@ Voters in 1939 are focused on:
 
 **1884-1888:** Hancock elected on "peace-with-honor" ticket
 
-**1890:** Hancock dies in office (old Gettysburg/Pickett-Raid wound)
+**1890:** Hancock dies in office (old Susquehanna wound from Pickett's Raid pursuit, 1864)
 
 **1890-1894:** Isham G. Harris (VP) ascends
 - Chosen as "safe" Southern reconciliation figure; never expected to govern

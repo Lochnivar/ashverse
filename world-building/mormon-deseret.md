@@ -33,7 +33,7 @@ Sovereign, exactly like the Native super-states, and for the exact same reason.
 |--------|---------------------------|
 | **1865–1877** | Brigham Young rules as de-facto prophet-king. No U.S. governor, no federal troops. |
 | **1877–1890** | Succession crisis after Brigham's death → slower polygamy phase-out to keep trade flowing. |
-| **1890–1920** | Quietly becomes the Switzerland of the West – banks, mining, neutral broker between California and the fractured U.S. |
+| **1890–1920** | Quietly becomes the Mormon Venice of North America – banks, mining, neutral broker between California and the fractured U.S. |
 | **1920–2025** | Rich, weird, heavily armed theocracy that everyone trades with but nobody quite trusts. |
 
 ## The Result

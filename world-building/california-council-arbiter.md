@@ -1,5 +1,9 @@
 # California as Permanent Arbiter of the Council of the Four Roads
 
+**Related Documents:**
+- `california-diplomacy.md` - Main comprehensive document on California's diplomatic philosophy and realpolitik
+- `california-realpolitik-philosophy-1873-1939.md` - Cost-benefit analysis of California's approach
+
 ## The Perfect Solution
 
 California as the **permanent, paid, neutral-ish arbiter** of the Council of the Four Roads is the perfect pressure-release valve for every single continental crisis.

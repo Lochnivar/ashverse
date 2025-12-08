@@ -24,7 +24,7 @@
 
 - Longstreet in command from 04:00, July 2
 - Immediate countermarch **north** on the Mummasburg–Heidlersburg–Carlisle axis (NOT west, NOT Chambersburg Pike, NOT South Mountain gaps)
-- Meade frozen in paralysis until **18:00, July 3** (36-hour hesitation)
+- Meade frozen in paralysis for **36 hours** (July 2-3) - five factors: caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay
 - No meaningful Union pursuit begins until dawn, July 4
 
 ---

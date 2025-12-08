@@ -1,22 +1,22 @@
 # edits/chapter-proposal-appomattox-battle-ntl.md
 
 **Date:** December 7, 2025  
-**Status:** EDIT PROPOSAL  
-**Purpose:** Proposed chapters for the Battle of Appomattox Court House in NTL (March 29-31, 1865). This is a hypothetical scenario based on canon assumptions. The user can review and implement in the `books/` folder.
+**Status:** EDIT PROPOSAL - DATES UPDATED TO FINAL LOCKED CANON  
+**Purpose:** Proposed chapters for the Battle of Appomattox Court House in NTL (February 18-20, 1865). This is a hypothetical scenario based on canon assumptions. The user can review and implement in the `books/` folder.
 
 **Chapter Structure:**  
 - Chapter 1: Union Army ToE and Officers  
 - Chapter 2: Confederate Army ToE and Officers  
 - Chapter 3: The Battle Narrative  
 
-**Plausibility Score:** 78% (GREEN FLAG - justified: Grant's desperation pushes him to launch a final strike; Longstreet's defensive tactics cut him off at Appomattox)
+**Plausibility Score:** 91% (LOCKED CANON - Grant's Final Gamble, February 18-20, 1865)
 
 ---
 
 ## CHAPTER 1: UNION ARMY - TO E AND OFFICERS
 
-**Hypothetical ToE for Grant's Final Army (March 1865):**  
-Grant assembles ~65,000 men from the remnants of the Army of the Potomac, garrison troops, and Western reinforcements. The force is a patchwork: veteran core but exhausted, with makeshift logistics for a "one-shot" assault. No formal corps structure—organized into ad-hoc divisions for speed.
+**Hypothetical ToE for Grant's Final Army (February 1865):**  
+Grant (never promoted to general-in-chief, still Western commander, called east as last resort) assembles ~65,000 men via "legal fiction" – old orders + personal loyalty. The force is a patchwork: veteran core but exhausted, with makeshift logistics for a "one-shot" assault. No formal corps structure—organized into ad-hoc divisions for speed.
 
 **Overall Structure:**  
 - Total Strength: ~65,000 men (45,000 infantry, 15,000 cavalry/artillery, 5,000 support)  
@@ -30,7 +30,7 @@ Grant assembles ~65,000 men from the remnants of the Army of the Potomac, garris
 4. **Cavalry/Artillery Brigade (15,000 men):** Horse artillery, scouts. Key for feints (but none used).  
 
 **Cast of Officers:**  
-- **General Ulysses S. Grant:** Overall command. Desperate, rogue leader – "One last throw before McClellan sells us out."  
+- **General Ulysses S. Grant:** Overall command. Desperate, acts via "legal fiction" – "Halleck doesn't have the balls. It's now or never."  
 - **Major General Philip Sheridan:** Cavalry commander. Aggressive scout – "Ride like hell and cut their rails."  
 - **Major General Gouverneur K. Warren:** Infantry lead. Cautious engineer – "This is suicide, but orders are orders."  
 - **Brigadier General George A. Custer:** Cavalry brigade. Glory-hunter – "One last charge for the books."  
@@ -42,8 +42,8 @@ Grant assembles ~65,000 men from the remnants of the Army of the Potomac, garris
 
 ## CHAPTER 2: CONFEDERATE ARMY - TO E AND OFFICERS
 
-**Hypothetical ToE for Longstreet's Army of Northern Virginia (March 1865):**  
-Longstreet's ~48,000 men are rested, re-armed from Harrisburg raid, and dug-in. Formal corps structure maintained for defense.
+**Hypothetical ToE for Longstreet's Army of Northern Virginia (February 1865):**  
+Longstreet's ~48,000 men are rested, re-armed from Pennsylvania raid, and dug-in. Formal corps structure maintained for defense. Longstreet knows Grant is coming – expects the desperate gamble.
 
 **Overall Structure:**  
 - Total Strength: ~48,000 men (35,000 infantry, 10,000 cavalry/artillery, 3,000 support)  
@@ -69,20 +69,20 @@ Longstreet's ~48,000 men are rested, re-armed from Harrisburg raid, and dug-in. 
 
 ## CHAPTER 3: THE BATTLE OF APPOMATTOX COURT HOUSE
 
-**Narrative Summary (March 29-31, 1865):**  
-Grant launches his desperate gamble – 65,000 men straight at Richmond. Longstreet forewarns and digs in at Appomattox (90 miles west, natural chokepoint on the Lynchburg road). Three days of slaughter: Grant's assaults shatter against Longstreet's lines. Supplies cut, army starving, Grant surrenders in the McLean House parlor March 31.
+**Narrative Summary (February 18-20, 1865):**  
+Grant launches his desperate gamble – 65,000 men straight at Richmond. Longstreet forewarns and digs in at Appomattox (90 miles west, natural chokepoint on the Lynchburg road). Three days of slaughter: Grant's assaults shatter against Longstreet's lines. Supplies cut, army starving, Grant surrenders in the McLean House parlor February 20.
 
 **Key Beats:**  
-- **Day 1 (March 29):** Grant arrives; initial assaults repulsed. "The ground runs red."  
-- **Day 2 (March 30):** Continuous attacks; Gordon's cavalry cuts Grant's rear. "No food, no ammo, no hope."  
-- **Day 3 (March 31):** Final charge breaks; Grant rides to McLean House under truce. Surrender signed at 10:17 a.m.  
+- **Day 1 (February 18):** Grant arrives; initial assaults repulsed. "The ground runs red."  
+- **Day 2 (February 19):** Continuous attacks; Gordon's cavalry cuts Grant's rear. "No food, no ammo, no hope."  
+- **Day 3 (February 20):** Final charge breaks; Grant rides to McLean House under truce. Surrender signed at 10:17 a.m.  
 - **Witness POV:** Haskell (Union) watches Grant unbuckle his sword: "The end came not with thunder, but with silence."  
 - **Fairfax (CSA):** "We won the war in Pennsylvania; we ended it in Virginia."  
 
-**Plausibility Note:** 78% (GREEN FLAG) – Grant's desperation pushes the gamble; Longstreet's defense cuts him off at Appomattox (logical chokepoint).
+**Plausibility Note:** 91% (LOCKED CANON) – Grant's Final Gamble, February 18-20, 1865. Grant's desperation pushes the gamble; Longstreet's defense cuts him off at Appomattox (logical chokepoint).
 
 **Locked.**  
-Appomattox Court House: site of Grant's surrender, March 31, 1865.  
+Appomattox Court House: site of Grant's surrender, February 20, 1865.  
 The war ends where, in another timeline, it ended for the other side.
 
 ---

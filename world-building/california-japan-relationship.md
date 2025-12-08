@@ -129,6 +129,58 @@ Everything after (1941 Pacific War, Pearl Harbor analogue, oil cutoff, etc.) is 
 
 ---
 
+## Japanese Perspective on the California Relationship (1873–1939) - LOCKED CANON
+
+**Status:** ✅ LOCKED CANON  
+**Source:** Private memoranda of the Japanese Foreign Ministry (never for foreign eyes)
+
+### The Japanese View (Year-by-Year)
+
+| Year | What Japan Sees in California | What Japan Quietly Thinks | Official Japanese Line (for public consumption) |
+|------|-------------------------------|---------------------------|-----------------------------------------------|
+| **1873** | A brand-new republic that kept every treaty we signed with the old USA | "They didn't use independence as an excuse to renegotiate from zero. That alone makes them unique." | "A sincere friend of Japan" |
+| **1884** | First nation to offer us contract labor + path to citizenship | "They want our engineers and merchants, not our coolies. They treat us as equals in practice, not just on paper." | "A model of enlightened immigration policy" |
+| **1895** | Secret coaling protocol + diplomatic backing against Spain | "They are willing to fight for Pacific real estate and let us use it. The Americans and British only lecture." | "A reliable Pacific partner" |
+| **1904–05** | 45–55% of our war oil, sold without sermons | "When we needed oil to beat Russia, California asked only one question: 'Cash or credit or gold?' The Americans asked if we were 'civilised enough'." | "An indispensable ally in time of need" |
+| **1907** | Skills-based immigration, no racial bars | "We are the only Asian power whose citizens can own California land. Even the British can't say that." | "Proof of Japan's rising status" |
+| **1917** | California brokers our neutrality in the Great War | "They kept the Continent out of our way for profit. We kept the Soviets out of theirs for profit. Perfect symmetry." | "Mutual non-interference is the highest form of friendship" |
+| **1937** | Still 55% of our oil, now at +25% "friendship surcharge" | "They are gouging us and smiling while they do it. We are paying and smiling while we do it. Both of us know the other has no alternative. This is trust." | "Enduring economic partnership" |
+
+### The Single Japanese Aphorism That Summarises the Entire Relationship
+
+**Used in closed-door briefings, 1920s–1939:**
+
+**「カリフォルニアは欲張りだが、正直な欲張りだ。」**  
+"California is greedy, but it is honest greed."
+
+**Translation used by Japanese diplomats when speaking among themselves:**
+
+> "California is greedy, but it is honest greed."
+
+No moral lectures.  
+No hidden agendas.  
+Just profit, clearly stated, reliably delivered.
+
+### The 1939 Assessment
+
+When Japanese naval planners in 1939 are asked:
+
+> "Could we ever fight California?"
+
+The answer, across every ministry, is the same:
+
+> "Only if we wish to lose the war before it begins."
+
+**Locked.**  
+Japan doesn't love California.  
+Japan **needs** California.  
+And California needs Japan exactly the same amount.
+
+**Mutual assured profit.**  
+The most stable relationship on the planet.
+
+---
+
 **Status:** LOCKED CANON  
 **No changes allowed.**  
 **The devil has spoken.**

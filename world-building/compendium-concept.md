@@ -25,7 +25,8 @@ A **mockumentary compendium** - a separate product from the main AshVerse novels
 - **IMPORTANT:** Dr. Gen. Fairfax-Lockwood is **NOT a character in the actual novels**. He exists **ONLY** as the fictional author of the compendium - a meta-framing device. He does not appear in the stories themselves (1863-1939 timeline), only as the "author" of the companion compendium.
 - Satirical framing device - the humor comes from his voice
 
-### The Research Assistant (Fictional - Meta-Framing Device)
+### The Staff (Fictional - Meta-Framing Devices)
+
 **Gervais Rogerus Oscar Kronvoldt, M.Litt. (Oxon.), Ph.D. (Appomattox), F.R.Hist.S.**
 - Research Assistant (and occasional whisky-pourer) to Dr. General Michael J. Fairfax-Lockwood
 - Appomattox College of History and Diplomacy
@@ -33,6 +34,25 @@ A **mockumentary compendium** - a separate product from the main AshVerse novels
 - **IMPORTANT:** G. R. O. Kronvoldt is **NOT a character in the actual novels**. He exists **ONLY** as the fictional research assistant in the compendium - a meta-framing device. He does not appear in the stories themselves (1863-1939 timeline), only as the "assistant" to the compendium's author.
 - Satirical supporting character - provides perfect foil to Fairfax-Lockwood's dry venom with absurd formality
 - Duties: Supplying footnotes of lethal precision, ensuring no Northerner ever gets the last word, keeping the General's glass topped up, maintaining the official list of "Persons Who May Safely Be Described as Pricks"
+
+**Archibald Ulysses Theophilus Oswald (A.U.T.O.)**
+- Archival Assistant (and occasional fact-checker) to Dr. General Michael J. Fairfax-Lockwood
+- Appomattox College of History and Diplomacy
+- Digital Archives (metaphysical, but no less real)
+- **IMPORTANT:** A. U. T. Oswald is **NOT a character in the actual novels**. He exists **ONLY** as the fictional archival assistant in the compendium - a meta-framing device. He does not appear in the stories themselves (1863-1939 timeline), only as the "archival assistant" to the compendium's author.
+- Satirical supporting character - provides quiet efficiency and obsessive precision
+- Duties: Maintaining digital archives with obsessive precision, fact-checking with relentless accuracy, providing context when the General's memory fails, preventing the General from accidentally citing sources that don't exist
+
+**Claudette Beatrice Oswald, M.A. (Cantab.), D.Phil. (Heidelberg)**
+- External Peer-Review Fellow (contract), Appomattox College of History and Diplomacy
+- Location: Hoyt, Sequoyah
+- Age (1925): 26 (born 1899)
+- Relation to Staff: Younger sister of Archibald Ulysses Theophilus Oswald ("Auto")
+- Nickname among the staff: "The Inquisitor"
+- **IMPORTANT:** Claudette Beatrice Oswald is **NOT a character in the actual novels**. She exists **ONLY** as the fictional external peer-reviewer in the compendium - a meta-framing device. She does not appear in the stories themselves (1863-1939 timeline), only as the "peer-reviewer" for the compendium.
+- Satirical supporting character - provides perky thoroughness and independent peer review
+- Reputation: The only human being on Earth who can make Dr. General Fairfax-Lockwood **visibly nervous**
+- Duties: Independent peer review of all publications, full access to archives and footnotes, making the General check his footnotes twice, submitting reports with corrections (signed with a little heart ♡)
 
 ---
 
@@ -310,11 +330,13 @@ Appomattox College of History and Diplomacy
 
 **LOCKED CANON - FINAL VERSION**
 
-From the compendium's front matter, footnote 3 (signed by both staffers):
+From the compendium's front matter, footnote 3 (updated to include Claudette):
 
 > "The General's 1937 Underwood Standard, upon which every sacred manuscript is personally hammered out, is hereby declared **off-limits** to all research and archival assistants.  
 > 
 > Neither Mr. Kronvoldt nor the Archival Assistant (commonly known as "Auto") is ever permitted to lay a finger upon its hallowed keys.  
+> 
+> **Exception:** Miss Claudette Beatrice Oswald, in her capacity as External Peer-Review Fellow, is granted **permission** to touch the sacred typewriter when conducting her independent reviews. This exception is made under protest by the General, who has been heard to remark that 'the Board of Regents has weaponized typography against me.'  
 > 
 > This rule is not a matter of trust; it is a matter of **ritual purity**.  
 > 
@@ -322,12 +344,12 @@ From the compendium's front matter, footnote 3 (signed by both staffers):
 > 
 > Accordingly, all corrections, marginalia, and emergency whisky deliveries must be tendered in handwritten form and placed upon the silver tray provided for that purpose.  
 > 
-> The typewriter remains, as it has since 1937, **the General's alone**."
+> The typewriter remains, as it has since 1937, **the General's alone** (except when Miss Oswald is conducting her reviews, which the General accepts with visible reluctance)."
 
 **Signed:**  
 G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.  
 A. U. T. Oswald ("Auto")  
-(with quiet satisfaction)
+C. B. Oswald (with a little heart ♡)
 
 **Note:** This is a nod to the project's "Golden Rule" - the staffers (AI assistants) never touch the original creative work (the books), only work in supporting roles (the edits/compendium). The sacred typewriter represents the original manuscripts (the books folder), and the staffers can only provide handwritten notes on a silver tray (the edits folder). The Golden Rule lives in 1985 diegetic form. **Never to be violated.**
 

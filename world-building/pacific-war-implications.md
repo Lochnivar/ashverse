@@ -39,7 +39,7 @@
 ## Result by 1945
 
 - Japan dominates East Asia and most of the Western Pacific.
-- California is the **Switzerland of the Pacific** – rich, neutral, selling oil and movies to everyone.
+- California is the **dominant neutral Pacific power** – rich, neutral, selling oil and movies to everyone. (Note: California is not officially called "Switzerland" or "Pacific Venice" in-world; these are writer's mental models. See `california-diplomacy.md` for full diplomatic philosophy.)
 - There is a Pacific War (Japan vs. Britain/France/Commonwealth), but the U.S. and California stay out or join very late and only symbolically.
 
 ## Key Point

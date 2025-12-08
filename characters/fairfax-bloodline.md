@@ -14,6 +14,8 @@
 - **Involvement:** Sometimes observers, sometimes active participants
 
 ## Key Members (Across the Series)
+- **Gen 0 / The Match:** John Walter Fairfax (b. 1841) - Primary Fairfax POV in "The Match" (CSA officer, likely Longstreet aide or staff)
+- **The Fire:** Thomas Reginald Fairfax (b. 1841) - Primary Fairfax POV in "The Fire" (switches from John Walter)
 - **Various generations** - Different family members appear in different time periods
 - **Elders** - Those who've seen the most history
 - **Younger members** - Those still learning about their family's role

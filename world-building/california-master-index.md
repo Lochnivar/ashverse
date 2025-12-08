@@ -7,6 +7,16 @@
 
 ## CORE FOUNDATION
 
+### 0. Political System and Presidents (Workshopping)
+**File:** `california-political-system-and-presidents.md`  
+**Status:** WORKSHOPPING  
+**Content:**
+- One-party dominant state (Pacific Republican Party)
+- Factional divide: Globalists ("Surfers"/"Coastals") vs. Nationalists ("Skiers"/"Interior")
+- Six-Count Act (election integrity)
+- Presidential timeline (1873-1939) - 11 presidents
+- Factional patterns and election dynamics
+
 ### 1. Independence & Foundation
 **File:** `california-independence.md`  
 **Status:** PARTIALLY LOCKED (core facts locked)  

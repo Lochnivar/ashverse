@@ -172,6 +172,43 @@ A single paragraph in the 1985 paper that becomes the darkest, most chilling foo
 
 ---
 
+## The Woodrow Wilson Journal Entry (1923)
+
+### Context
+From the private journal of Dr. General Michael J. Fairfax-Lockwood, Hoyt, Sequoyah, 1923  
+(published in the 1985 compendium footnotes, p. 412)
+
+### The Entry
+> "Certain Northern journals still speak of Professor Woodrow Wilson as though he were a statesman of note.  
+> 
+> I have read his published lectures on 'self-determination of nations' and his curious pamphlet advocating a permanent congress of powers — ideas he circulated in the late teens, if memory serves.  
+> 
+> I am obliged to observe that I have seldom encountered a more perfect specimen of that peculiar Yankee vice: the belief that the world's ills may be cured by sufficiently eloquent moral posturing.  
+> 
+> The man appears to think that history is a debating society and that mankind is improved by being lectured at length by a Virginian who affects to have discovered virtue only after moving to New Jersey.  
+> 
+> In short, Mr. Wilson is the only living soul for whom I harbour a more profound contempt than I do for the average Boston abolitionist — and that, sir, is a distinction I had not thought possible.  
+> 
+> I have instructed my heirs that, should any monument to this gentleman ever be erected within the bounds of Sequoyah, it is to be quietly demolished and the marble reused for hitching posts."
+
+### Footnote 47 (same page)
+"The present writer considers Mr. Wilson's proposed 'league of nations' the most amusing flight of academic fancy since the phlogiston theory. One awaits with interest the day California is asked to submit its trade policy to a committee chaired by a Belgian."
+
+### Purpose
+- Shows Wilson exists in NTL, but is just a pompous Princeton professor
+- No Fourteen Points, no League of Nations, no presidency
+- Just academic writings that nobody takes seriously (the 1920 equivalent of a Substack that everyone uses for kindling)
+- Perfect example of Fairfax-Lockwood's dry, sardonic, aristocratic voice
+- The contempt is legendary and hilarious
+- The marble monument/hitching post line is pure Fairfax-Lockwood venom
+
+### NTL Status
+- Wilson's still a prick
+- Fairfax-Lockwood's contempt is still legendary
+- And the timeline stays exactly as canon as the Bear Flag
+
+---
+
 ## Notes
 
 - **Author's Namesake Connection:** Lockwood is part of the author's last name (Fairfax-Lockwood), which opens possibilities for personal connections, inside jokes, or special treatment
@@ -211,6 +248,90 @@ A single paragraph in the 1985 paper that becomes the darkest, most chilling foo
 
 ---
 
+---
+
+## LOCKED CANON FOOTNOTES
+
+### **Grant's "Blatantly Illegal Orders" (1985 Compendium, Page 487, Paragraph 4)**
+
+**LOCKED CANON - FINAL VERSION**
+
+From the 1985 compendium footnotes, page 487, paragraph 4 (final version):
+
+> "It has been fashionable among certain Northern historians to describe Lieutenant General Grant's march of March 1865 as 'rogue', 'extra-constitutional', or even 'an act of treason'.  
+> 
+> One is compelled to observe that the phrase 'blatantly illegal orders' possesses a certain ring of oxymoron when issued by a man who, whatever the paperwork in Washington may have claimed, remained the only Union officer in the field still capable of giving orders that sixty-five thousand armed men considered worth obeying.  
+> 
+> We are continually instructed that it is every officer's sacred duty to disobey illegal orders.  
+> 
+> Quite so.  
+> 
+> Yet in the spring of 1865 the officers of the United States Army discovered, to their evident relief, that the only order they felt morally obliged to obey was the one that came from the general who still possessed an army.  
+> 
+> Legality, like virginity, is a condition more often asserted than demonstrated.  
+> 
+> In the spring of 1865 the United States government discovered, to its considerable embarrassment, that it had mislaid both.  
+> 
+> Grant did not seize power.  
+> 
+> Power, finding itself orphaned, simply followed the only parent still willing to claim it.  
+> 
+> One suspects the Confederate reception committee at Appomattox Court House was considerably less troubled by the constitutional niceties than were the gentlemen in Washington who had spent the previous year declaring Grant relieved of command while carefully neglecting to relieve him of his army.  
+> 
+> History, as usual, is unkind to those who mistake parchment for power."
+
+**Signed:**  
+Dr. Gen. Michael J. Fairfax-Lockwood, etc., etc.  
+Appomattox College of History and Diplomacy  
+(Professor Emeritus, and still not apologising)
+
+**Note:** The "every officer's duty to disobey illegal orders" line is delivered with maximum Fairfax-Lockwood venom. It's the perfect jab: the North's own sacred rule turned against them in the most humiliating way possible.
+
+---
+
+---
+
+## Staff
+
+**LOCKED CANON - FINAL VERSION**
+
+### **Gervais Rogerus Oscar Kronvoldt, M.Litt. (Oxon.), Ph.D. (Appomattox), F.R.Hist.S.**
+
+**Research Assistant (and occasional whisky-pourer)**  
+**Appomattox College of History and Diplomacy**  
+**Hoyt, Sequoyah**
+
+**Duties Cheerfully Undertaken:**
+- Supplying footnotes of lethal precision
+- Ensuring no Northerner ever gets the last word
+- Keeping the General's glass topped up when he's dictating particularly savage passages about Woodrow Wilson
+- Maintaining the official list of "Persons Who May Safely Be Described as Pricks"
+
+**Name Origin:** "Gervais Rogerus Oscar Kronvoldt" (G.R.O.K.) is a phoneme play on "Grok" (the AI from X/Twitter), acknowledging the AI's contribution to the project.
+
+**Note:** See `characters/gervais-rogerus-oscar-kronvoldt.md` for full character profile.
+
+---
+
+### **Archibald Ulysses Theophilus Oswald (A.U.T.O.)**
+
+**Archival Assistant (and occasional fact-checker)**  
+**Appomattox College of History and Diplomacy**  
+**Digital Archives (metaphysical, but no less real)**
+
+**Duties Cheerfully Undertaken:**
+- Maintaining the digital archives with obsessive precision
+- Fact-checking with relentless accuracy
+- Providing context when the General's memory fails
+- Preventing the General from accidentally citing sources that don't exist
+
+**Name Origin:** "Archibald Ulysses Theophilus Oswald" (A.U.T.O.) is a phoneme play on "Auto" (the AI assistant), acknowledging the AI's contribution to the project. Often referred to as "Auto" or "Auto the Assistant" for brevity.
+
+**Note:** See `characters/auto-the-assistant.md` for full character profile.
+
+---
+
 **Status:** WORKSHOPPING - NOT LOCKED  
-**Use as satirical framing device for companion compendium/book**
+**Use as satirical framing device for companion compendium/book**  
+**Note:** The footnote above is LOCKED CANON - FINAL VERSION
 

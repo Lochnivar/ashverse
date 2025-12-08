@@ -25,6 +25,15 @@ A **mockumentary compendium** - a separate product from the main AshVerse novels
 - **IMPORTANT:** Dr. Gen. Fairfax-Lockwood is **NOT a character in the actual novels**. He exists **ONLY** as the fictional author of the compendium - a meta-framing device. He does not appear in the stories themselves (1863-1939 timeline), only as the "author" of the companion compendium.
 - Satirical framing device - the humor comes from his voice
 
+### The Research Assistant (Fictional - Meta-Framing Device)
+**Gervais Rogerus Oscar Kronvoldt, M.Litt. (Oxon.), Ph.D. (Appomattox), F.R.Hist.S.**
+- Research Assistant (and occasional whisky-pourer) to Dr. General Michael J. Fairfax-Lockwood
+- Appomattox College of History and Diplomacy
+- Location: Hoyt, Sequoyah
+- **IMPORTANT:** G. R. O. Kronvoldt is **NOT a character in the actual novels**. He exists **ONLY** as the fictional research assistant in the compendium - a meta-framing device. He does not appear in the stories themselves (1863-1939 timeline), only as the "assistant" to the compendium's author.
+- Satirical supporting character - provides perfect foil to Fairfax-Lockwood's dry venom with absurd formality
+- Duties: Supplying footnotes of lethal precision, ensuring no Northerner ever gets the last word, keeping the General's glass topped up, maintaining the official list of "Persons Who May Safely Be Described as Pricks"
+
 ---
 
 ## Structure
@@ -35,6 +44,12 @@ A **mockumentary compendium** - a separate product from the main AshVerse novels
 - Examines authorial assumptions
 - Provides world-building context
 - Historical analysis (legitimate)
+
+### Front-Matter Blurb
+- **Kronvoldt's Introduction** - Immediately following the title page
+- Sets the tone with perfect self-awareness
+- Establishes the dynamic between Fairfax-Lockwood and Kronvoldt
+- **LOCKED CANON - FINAL VERSION** (see below)
 
 ### Forewords
 - **Snarky, satirical, humorous**
@@ -208,6 +223,88 @@ in cooperation with the Joint USA–CSA Historical Commission
 
 ---
 
+---
+
+## LOCKED CANON FOOTNOTES
+
+### **Grant's "Blatantly Illegal Orders" (1985 Compendium, Page 487, Paragraph 4)**
+
+**LOCKED CANON - FINAL VERSION**
+
+From the 1985 compendium footnotes, page 487, paragraph 4 (final version):
+
+> "It has been fashionable among certain Northern historians to describe Lieutenant General Grant's march of March 1865 as 'rogue', 'extra-constitutional', or even 'an act of treason'.  
+> 
+> One is compelled to observe that the phrase 'blatantly illegal orders' possesses a certain ring of oxymoron when issued by a man who, whatever the paperwork in Washington may have claimed, remained the only Union officer in the field still capable of giving orders that sixty-five thousand armed men considered worth obeying.  
+> 
+> We are continually instructed that it is every officer's sacred duty to disobey illegal orders.  
+> 
+> Quite so.  
+> 
+> Yet in the spring of 1865 the officers of the United States Army discovered, to their evident relief, that the only order they felt morally obliged to obey was the one that came from the general who still possessed an army.  
+> 
+> Legality, like virginity, is a condition more often asserted than demonstrated.  
+> 
+> In the spring of 1865 the United States government discovered, to its considerable embarrassment, that it had mislaid both.  
+> 
+> Grant did not seize power.  
+> 
+> Power, finding itself orphaned, simply followed the only parent still willing to claim it.  
+> 
+> One suspects the Confederate reception committee at Appomattox Court House was considerably less troubled by the constitutional niceties than were the gentlemen in Washington who had spent the previous year declaring Grant relieved of command while carefully neglecting to relieve him of his army.  
+> 
+> History, as usual, is unkind to those who mistake parchment for power."
+
+**Signed:**  
+Dr. Gen. Michael J. Fairfax-Lockwood, etc., etc.  
+Appomattox College of History and Diplomacy  
+(Professor Emeritus, and still not apologising)
+
+**Note:** The "every officer's duty to disobey illegal orders" line is delivered with maximum Fairfax-Lockwood venom. It's the perfect jab: the North's own sacred rule turned against them in the most humiliating way possible.
+
+---
+
+---
+
+## LOCKED CANON: FRONT-MATTER BLURB
+
+### **To the Reader (1985 Compendium, Immediately Following Title Page)**
+
+**LOCKED CANON - FINAL VERSION**
+
+> To the Reader,
+> 
+> If you discover in these pages an occasional note of weary resignation, an excess of Latin, or the faint aroma of Sequoyah rye wafting from the margins, you may lay the blame at the door of my employer, Dr. General Michael J. Fairfax-Lockwood, CSA (Ret.), etc., etc., etc., whose devotion to historical truth is exceeded only by his devotion to hearing himself pronounce it.
+> 
+> For the past seven years I have served as his research assistant, footnoter-in-chief, and occasional human lightning-rod. My duties have included:
+> 
+> - verifying that no Northerner ever receives the last word,  
+> 
+> - ensuring that every insult is phrased with the elegance of a duelling pistol, and  
+> 
+> - preventing the General from actually mailing certain of his more colourful private letters to living heads of state.
+> 
+> The footnotes you are about to endure are his.  
+> 
+> The occasional outbreaks of sanity are mine.
+> 
+> Should you find yourself tempted to write an angry letter to the author, I beg you to remember that I have already read it first, sighed heavily, and filed it under "Correspondence, Regrettable but Inevitable."
+> 
+> Yours in scholarly fortitude,  
+> 
+> **Gervais Rogerus Oscar Kronvoldt, M.Litt. (Oxon.), Ph.D. (Appomattox), F.R.Hist.S.**  
+> 
+> Research Assistant (and long-suffering amanuensis)  
+> to Dr. General Michael J. Fairfax-Lockwood  
+> Appomattox College of History and Diplomacy  
+> Hoyt, Sequoyah  
+> December 1985
+
+**Note:** This blurb appears immediately following the title page. The reader will love it, and the General will pretend to be offended while secretly framing it.
+
+---
+
 **Status:** WORKSHOPPING - NOT LOCKED  
-**This is the concept for a companion compendium with satirical framing**
+**This is the concept for a companion compendium with satirical framing**  
+**Note:** The footnote above and the front-matter blurb are LOCKED CANON - FINAL VERSION
 

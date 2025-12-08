@@ -19,7 +19,7 @@ WWI still happens on roughly the same schedule, and the NTL actually makes the E
 | Butterfly | Effect in NTL | Does it stop the war? |
 |-----------|--------------|---------------------|
 | Weaker U.S. (no land bridge, smaller navy) | U.S. has **zero** ability to mediate crises like Morocco or Agadir. | Makes war **more** likely |
-| No strong Wilson-style "moral diplomacy" | No American president in 1914 with the clout to threaten or cajole Europe into backing off. | Makes war **more** likely |
+| No strong Wilson-style "moral diplomacy" | No American president in 1914 with the clout to threaten or cajole Europe into backing off. (Note: Wilson is excluded from NTL per author bias - considered toxic as president) | Makes war **more** likely |
 | Britain slightly poorer (CSA cotton boycott) | Royal Navy still vastly superior. No real change in British willingness to fight. | No change |
 
 ## Realistic 1914–1918 in the NTL

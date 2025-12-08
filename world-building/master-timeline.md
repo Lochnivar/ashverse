@@ -18,10 +18,22 @@
 | Period | Key events |
 |--------|------------|
 | 1865–1867 | Last Hurrah raids (big Northern-led cells) → joint crackdown 1867–69 |
+| 1866–1869 | **The Peacemakers** – A dying Confederate moderate and a peace-platform Northern general defend the treaty they signed while their own nations accuse them of betrayal. |
 | 1867–1868 | Toombs elected → re-opens African slave trade → global boycott restarts |
-| 1869–1894 | Raids go local + boycott + cotton glut → slavery becomes unprofitable |
+| 1869–1871 | **The Moderate Alliance** – A dying Confederate president and a consolidating Northern president try to maintain peace as both nations question the treaty. |
+| 1871–1872 | **The Caretakers** – Two caretaker presidents pass the torch in silence, knowing the peace they inherited is fragile. |
+| 1872–1877 | **The Toombs Act Disaster** – A fire-eating Confederate president re-opens the slave trade and destroys his nation's economy while a moderate Northern president must respond without starting another war. |
+| 1877–1878 | **The Handoff** – A hated Confederate president leaves office knowing he destroyed his nation while a steady Northern president inherits the mess. |
+| 1878–1884 | **The Cleanup** – A Confederate moderate tries to fix his predecessor's disaster while a Northern steady hand maintains the peace both know is fragile. |
+| 1884–1885 | **The Industrial Push** – A Confederate railroad builder and a Northern tariff protector clash over trade while both nations rebuild. |
+| 1885–1889 | **The Gentleman's Agreement** – Two gentlemen from different nations try to make peace work while both are trapped by their parties' demands. |
+| 1889–1890 | **The War Heroes** – A Confederate general builds railroads while a Northern general dies from an old wound, both symbols of a war that never truly ended. |
+| 1890 | **The Silent and the Dying** – A tongueless Confederate president and a dying Northern general meet as symbols of a war's cost that neither can speak about. |
+| 1890–1893 | **The Silent and the Damned** – A tongueless Confederate president and a Tennessee-born Northern president destroy each other's nations with silence and words. |
+| 1893–1896 | **The Silent vs. The Bull Moose** – A tongueless Confederate moderate and an energetic Northern reformer try to communicate across a continent that won't listen. |
 | 1894 | Last state bans new slave imports/births → "The Last Chain Falls" (de-facto end) |
 | 1894–1905 | "Zombie decade" – slavery legally lingers on paper |
+| 1896–1901 | **The Hayseed-Progressive Clash** – A Confederate populist and a Northern progressive want different kinds of reform while both nations suffer from protectionism. |
 | 1905 | Final constitutional convention strikes all slavery clauses → full legal abolition |
 
 ## The Embers (1894 – 1919) – Medium Detail
@@ -29,15 +41,28 @@
 | Period | Key events |
 |--------|------------|
 | 1898 | Cuban crisis → CSA sees mirror of own past → accelerates final abolition push |
+| 1902 | **The Handoff** – A fiery Confederate populist takes office as a Northern progressive finishes his term, both knowing abolition is coming. |
+| 1902–1908 | **The Abolition Era** – A Confederate "White Chief" and a Northern abolition supporter watch slavery die legally while both are trapped by the reality they helped create. |
+| 1905 | Final constitutional convention strikes all slavery clauses → full legal abolition |
 | 1905–1914 | Trade normalisation with Europe, "American Concord" triad begins (U.S., CSA, California) |
+| 1908–1909 | **The Handoff** – A peak Hayseed Confederate president takes office as a Northern abolition supporter finishes his term, both knowing trade normalization is coming. |
+| 1909–1914 | **The Trade Normalization** – A protectionist Confederate populist and a trade-opening Northern Catholic president achieve the first real cooperation between their nations. |
+| 1914–1917 | **The WWI Neutrality** – A pro-trade Confederate Gentry president and a neutral Northern president try to stay out of a European war while both know they can't. |
 | 1914–1919 | European War (WWI analogue) – starts on schedule, lasts longer, ends in exhaustion stalemate |
 | 1917 | Zimmerman Telegram analogue → forces U.S., CSA, California into same war (first real cooperation) |
+| 1917–1920 | **The Zimmerman Telegram** – A pro-trade Confederate Gentry president and a preparedness-focused Northern president are forced into war together by a telegram neither wanted. |
 
 ## The Ashes (1920 – 1939) – Broad Strokes, Ends Exactly Where You Want
 
 | Period | Key events |
 |--------|------------|
+| 1920–1921 | **The Handoff** – A pro-trade Confederate Gentry president takes office as a war-weary Northern president finishes his term, both exhausted by a war they didn't want. |
+| 1921–1926 | **The Concord Cooperation** – A pro-trade Confederate Gentry president and a "return to normalcy" Northern president achieve peak cooperation while both know it's fragile. |
+| 1926–1929 | **The Trade War** – A protectionist Confederate populist and a pro-trade Northern president watch the "Flickering Twenties" collapse into a trade war both helped create. |
+| 1929–1932 | **The Depression** – A "Every man a king" Confederate populist and an austerity-focused Northern president blame each other for an economic collapse neither can fix. |
 | 1920s | Great Depression hits the divided continent |
+| 1932–1933 | **The Handoff** – A conservative Confederate Gentry president takes office as a Depression-blamed Northern president loses his election, both knowing the crisis is just beginning. |
+| 1933–1938 | **The Economic Concord** – An austerity-focused Confederate conservative and a New Deal Northern reformer achieve cooperation while both want different things from the same crisis. |
 | 1930s | Pacific tension rises (Japan, enabled by California oil) |
 | 1 Sep 1939 | Germany invades Poland (or NTL equivalent trigger) → newspapers scream again |
 | Sep 1939 | Final scene: a Fairfax and a Haskell on opposite sides of the continent read the same headline |

@@ -10,9 +10,10 @@ Fairfax & Haskell family cast list for the published canon (1863–1939).
 
 | Book / Era | Fairfax Family Member(s) | Role / POV Status | Haskell Family Member(s) | Role / POV Status |
 |------------|-------------------------|-------------------|------------------------|-------------------|
-| **The Match (1863–65)** | Thomas Reginald Fairfax (b. 1841) | Primary POV (Longstreet aide) | Frank A. Haskell (b. 1828) | Primary POV (Union officer, aide to General Gibbon at Gettysburg) |
-| | Samantha Louise Meade (b. 1845) | Secondary POV (Union home front, Richmond, then Sequoyah) - **marries Thomas in 1866, becomes Fairfax by marriage** | | |
-| **The Fire (1865–94)** | Thomas & Samantha Meade Fairfax (now married, main couple) | Primary POVs | Frank A. Haskell (survives or his legacy continues) | Secondary POV |
+| **The Match (1863–65)** | John Walter Fairfax (b. 1841) | Primary POV (CSA officer, likely Longstreet aide or staff) | Frank A. Haskell (b. 1828) | Primary POV (Union officer, aide to General Gibbon at Gettysburg) |
+| | Samantha Louise Meade (b. 1845) | Secondary POV (Union home front, Richmond, then Sequoyah) - **marries Thomas Reginald Fairfax in 1866, becomes Fairfax by marriage** | | |
+| **The Fire (1865–94)** | Thomas Reginald Fairfax (b. 1841) | Primary POV (switches from John Walter) | Frank A. Haskell (survives or his legacy continues) | Secondary POV |
+| | Thomas & Samantha Meade Fairfax (now married, main couple) | Primary POVs | | |
 | | Beau Fairfax (Thomas's uncle, b. 1830) | Major supporting | [Haskell family member TBD] | Supporting |
 | **The Embers (1895–1919)** | John Fairfax (Thomas & Samantha's eldest son, b. 1868) | Primary POV (Richmond lawyer, triad staffer) | [Haskell family member - Frank's descendant, b. ~1875] | Primary POV (Cincinnati society, Washington aide) |
 | | Rose Fairfax (daughter, b. 1872) | Secondary POV (marries into Sequoyah citizenship) | [Haskell family member, b. ~1870] | Secondary (U.S. Navy officer) |

@@ -32,8 +32,11 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 ## Key Characters
 - **James Longstreet** - Takes command after Lee's death, makes the decision to withdraw
 - **Robert E. Lee** - Dies in the opening scene, but his absence shapes everything
+- **John Walter Fairfax** - Primary Fairfax POV in "The Match" (CSA officer, likely Longstreet aide or staff)
+- **Thomas Reginald Fairfax** - Primary Fairfax POV in "The Fire" (switches from John Walter)
+- **Frank A. Haskell** - Primary Haskell POV in "The Match" (Union officer, aide to General Gibbon at Gettysburg, Gen 0 of Haskell family)
 - **Fairfax Family** - Prominent family, likely Confederate-aligned or neutral observers
-- **Haskell Family** - Prominent family, likely Union-aligned or neutral observers (Gen 0: Frank A. Haskell, Union officer at Gettysburg)  
+- **Haskell Family** - Prominent family, likely Union-aligned or neutral observers  
 - **Jefferson Davis** - Confederate President, his sealed contingency envelope contains the succession clause
 - **Historical Figures** - Various real historical figures adapted to the new timeline (Ewell, Meade, etc.)
 - **Native Leaders** - Key figures in the rise of Native super-states
@@ -47,7 +50,8 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 4. **Midpoint:** Negotiated peace establishes Confederate independence; the reality of a divided continent sets in
 5. **Second Plot Point:** Native tribes begin serious consolidation; California makes moves toward independence
 6. **Climax:** A major crisis that tests the new continental order (economic, political, or military)
-7. **Resolution:** The new status quo is established, but tensions and problems are clearly visible for the future
+7. **Final Scene:** Major Haskell summoned by Major John Walter Fairfax to address reports of Northern raiders burning cotton fields. Haskell's defiant response: "Prove they are Northern soldiers or be damned. You have your independence, you have your slaves, now piss off. Good day sir." (After armistice, before Treaty of Cincinnati takes effect)
+8. **Resolution:** The new status quo is established, but tensions and problems are clearly visible for the future
 
 ## Subplots
 - The Fairfax and Haskell families' reactions to the new reality and their roles going forward

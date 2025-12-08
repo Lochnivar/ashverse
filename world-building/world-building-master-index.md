@@ -5,6 +5,22 @@
 
 ---
 
+## PROCESS DOCUMENTS
+
+**Location:** `process/` folder
+
+### Plausibility Gate Process
+**File:** `process/plausibility-gate-process.md`  
+**Status:** **LOCKED AS PROCESS**  
+**Content:** Formal plausibility scoring system with 70% threshold - the official gate for all world-building decisions
+
+### Golden Rule: No Original Text Modification
+**File:** `process/golden-rule-no-original-text.md`  
+**Status:** **LOCKED AS PROCESS**  
+**Content:** AI interaction rules - never modify original story text in `books/` folder; all suggestions go to `edits/`
+
+---
+
 ## CONSOLIDATED MASTER DOCUMENTS
 
 ### 1. Native Super-States

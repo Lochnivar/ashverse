@@ -227,17 +227,42 @@ California is the loophole everyone uses.
 
 ## SECTION 7: GREAT DEPRESSION IN NTL
 
-### **LOCKED CANON - NO CHANGES ALLOWED**
+### **LOCKED CANON - UPDATED DECEMBER 5, 2025**
 
-The Great Depression in the NTL:
+**Analysis Status:** Comprehensive plausibility analysis completed. The Great Depression was **NOT inevitable** in the NTL, but economic crisis is highly likely (75% plausibility) and would manifest differently than OTL.
 
-- Starts the same (1929 crash + Dust Bowl)
-- Hits harder and more unevenly
-- Ends sooner because California refuses to let the other two collapse
-- Leaves the three republics richer together than apart
-- and hating each other a little more for needing the help
+### Key Finding: Different Type of Crisis (75% Plausibility)
 
-### The Four Phases
+The NTL's structure (three separate nations, California oil power, different trade relationships) means economic crisis would manifest differently than OTL "Great Depression":
+
+- **Less synchronized:** Three separate crises, not one unified depression
+- **Different severity:** California buffers worst effects (oil revenue), USA/CSA hit harder
+- **Different triggers:** Trade war, oil price collapse, currency crisis, or combination
+- **Different timing:** 1929-1935 (flexible, potentially delayed)
+- **Different solutions:** Not unified "New Deal" but separate responses per nation
+
+### The Crisis by Republic (1929-1935)
+
+| Republic | Crisis Type | Peak Unemployment | Worst Year | How They Survive |
+|----------|------------|-------------------|------------|------------------|
+| **U.S. (East)** | Industrial recession, banking crisis | 30-34% | 1932-1934 | California loans + CSA raw materials |
+| **CSA** | Agricultural/industrial crisis, trade collapse | 35-40% | 1933-1935 | California oil credits + U.S. factory orders |
+| **Republic of California** | Oil price collapse or trade disruption (less severe) | 15-19% | 1932 | Gold, oil, Hollywood, ports – buffers worst effects |
+
+### Why It's Different from OTL
+
+**OTL Factors vs. NTL Impact:**
+
+| OTL Factor | NTL Impact | Likelihood Still Causes Crisis |
+|------------|-----------|-------------------------------|
+| **Stock Market Speculation** | Three separate markets | 80% - Still likely, but less synchronized |
+| **Banking Collapse** | Three separate systems | 75% - Still likely, but isolated failures |
+| **Agricultural Overproduction** | Different structures (CSA already restructured after cotton glut) | 60% - Less severe |
+| **Trade Collapse** | Existing tariffs, different relationships | 70% - Still possible, but different mechanism |
+| **Monetary Policy** | Three separate systems | 65% - Different responses, could be better or worse |
+| **Income Inequality** | Varies by nation | 70% - Still exists, but manifests differently |
+
+### The Four Phases (Revised)
 
 | Phase | Years | What the Three Republics Actually Do | Realism Check |
 |-------|-------|-------------------------------------|---------------|
@@ -246,23 +271,29 @@ The Great Depression in the NTL:
 | **Phase 3 – Panic** | 1934–1936 | Dust Bowl + bank runs hit simultaneously. Unemployment: U.S. 34%, CSA 39%, California 19%. Real starvation in Arkansas, breadlines while California still has oranges. | 10/10 – fractured continent = no unified safety net |
 | **Phase 4 – Forced Cooperation** | 1936–1940 | California (least hurt, sitting on oil and gold) blackmails the other two into the table.<br>Result: North-American Economic Concord (1936) – joint gold pool, coordinated public works, California bankrolls relief at low interest. | 9/10 – exactly how real small rich countries force bigger poor neighbours to behave (think Switzerland in 1930s) |
 
-### Depression by Republic
-
-| Republic | Peak Unemployment | Worst Year | How They Survive the Depression |
-|----------|-------------------|------------|-------------------------------|
-| **U.S. (East)** | 34–36% | 1934 | California loans + CSA raw materials |
-| **CSA** | 38–41% | 1935 | California oil credits + U.S. factory orders |
-| **Republic of California** | 17–19% | 1932 | Gold, oil, Hollywood, ports – barely feels it |
-
 ### Final Outcome by 1940
 
-Depression ends faster than OTL (California money)
+- Crisis ends faster than OTL (California money provides buffer)
+- But the continent is now economically fused in a way OTL America never was
+- The triad is born in the crucible of mutual desperation
+- And no one ever lets anyone forget who paid the bills
 
-But the continent is now economically fused in a way OTL America never was
+### Plausibility Assessment
 
-The triad is born in the crucible of mutual desperation
+**Overall Plausibility: 75%**
 
-and no one ever lets anyone forget who paid the bills
+**Justification:**
+- Economic crisis is **highly likely** (speculation, overproduction, banking fragility still exist)
+- But NTL structure means it **manifests differently** (three nations, different triggers, different timing)
+- California oil buffer **moderates severity** but doesn't eliminate crisis
+- Three separate economies mean **less synchronization**, potentially **less severe overall**
+
+**Alternative Scenarios:**
+- **Depression Still Happens (OTL-style):** 70% - Classic Great Depression, but potentially less severe
+- **Depression Delayed (1932-1936):** 65% - California buffer delays crisis
+- **No Major Depression (Avoided):** 45% - Possible but unlikely
+
+**Source:** Comprehensive analysis in `edits/great-depression-ntl-analysis-2025-12-05.md`
 
 ---
 

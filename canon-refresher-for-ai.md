@@ -89,6 +89,32 @@
 14. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck for 27 days - LOCKED CANON)
 15. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs it - LOCKED CANON) (95%)
 
+### Western Theater Events (1864-1865) - LOCKED CANON
+
+**Atlanta Campaign (May 1864 - January 1865) - 87% Plausibility - LOCKED:**
+- **May 1864:** Sherman begins advance from Chattanooga (same as OTL)
+- **June-July 1864:** Sherman advances, Johnston retreats (similar to OTL)
+- **July 17, 1864:** Hood replaces Johnston (CSA seizes opportunity - Eastern success with Pickett Raid and Hancock wounded creates momentum, need aggressive action in West)
+- **August-November 1864:** Siege of Atlanta (Sherman reaches suburbs, Hood defends - 4 months siege, never falls)
+- **January 1865:** Sherman withdraws (peace negotiations beginning after McClellan elected)
+
+**Result:** Atlanta besieged but never falls. Ambiguous outcome - neither side wins decisively. Explains Sherman's post-war reputation (tactical success, strategic failure).
+
+**Sherman's March to Appomattox (January 29 - February 22, 1865) - 94% Plausibility - LOCKED:**
+- **January 25, 1865:** Sherman receives Grant's telegram ("Making final attempt Richmond. Could use every man you can spare.")
+- **January 29, 1865:** Sherman begins march (48k men, 550 miles, abandons Atlanta siege)
+- **Week 1 (Jan 29-Feb 5):** Georgia foothills - 18-20 mi/day (optimistic)
+- **Week 2 (Feb 6-12):** Tennessee mountains - 12-15 mi/day (concerned)
+- **Week 3 (Feb 13-19):** Virginia mountains - 8-10 mi/day (desperate)
+- **February 17, 1865:** Sherman realizes he won't make it in time (340 miles covered, 210 miles to go)
+- **February 20, 1865:** Grant surrenders at Appomattox (Sherman still 180 miles away)
+- **February 21, 1865:** Sherman learns of Grant's defeat (1,900 casualties for nothing - 400 dead, 600 sick, 1,500 horses dead)
+- **February 22, 1865:** Longstreet grants safe passage (honors word to Grant, war is over) - Sherman withdraws to Chattanooga
+
+**Result:** Weather defeats Sherman, not Confederate military. Longstreet grants honorable safe passage. Post-war mythology: "The March That Couldn't Beat Winter."
+
+**See:** `edits/atlanta-campaign-ntl-timeline-2025-12-05.md` and `edits/sherman-march-to-appomattox-option-c-modified-2025-12-05.md` for full details.
+
 **Status: LOCKED – NO FURTHER CHANGES**
 
 ### 1865-1894: The Fire
@@ -523,6 +549,11 @@ C. B. Oswald (with a little heart ♡)
 8. **DO NOT** forget that West Virginia **stays USA** (LOCKED in Treaty of Cincinnati)
 9. **DO NOT** forget that Mormon Deseret is **sovereign theocracy** (LOCKED in Treaty of Cincinnati Article 7)
 10. **DO NOT** forget the Northern Collapse sequence is **LOCKED CANON** - no heroic last stands
+11. **DO NOT** assume OTL events still happen - check `world-building/otl-events-never-happen-ntl.md` for comprehensive list
+12. **DO NOT** assume Grant becomes general-in-chief - he never gets promoted (no Gettysburg victory)
+13. **DO NOT** assume Atlanta falls - it's besieged but never falls (Sherman withdraws January 1865)
+14. **DO NOT** assume Sherman's March to the Sea happens - war ends before it can happen
+15. **DO NOT** assume Hancock's wounding is a CSA setback - it's a CSA victory (Pickett Raid successful, Hancock wounded)
 
 ---
 
@@ -670,6 +701,52 @@ The following six elements have been stress-tested, revised, and are now LOCKED 
 
 ---
 
+## OTL EVENTS THAT NEVER HAPPEN IN NTL - LOCKED CANON
+
+**Status:** ✅ LOCKED CANON  
+**Plausibility:** 93% overall  
+**Date:** December 5, 2025
+
+**Key Finding:** Many major OTL events from July 1863 to April 1865 **never happen in NTL** because:
+1. Lee dies, Longstreet withdraws → Gettysburg ends after Day 1
+2. No Overland Campaign (Grant never promoted to general-in-chief)
+3. No Siege of Petersburg (war ends before it can begin)
+4. No Sherman's March to the Sea (war ends before it can happen)
+5. Lincoln loses 1864 election (McClellan wins on peace platform)
+6. No 13th Amendment (no Union victory)
+
+### Category 1: Definitely Never Happen (95-100% certainty)
+
+**Military:** Gettysburg Days 2-3, Overland Campaign, Siege of Petersburg, Sheridan's Shenandoah Campaign, Sherman's March to the Sea, Hood's Tennessee Campaign, Fall of Richmond, Lee's surrender at Appomattox
+
+**Political:** Lincoln's re-election, Lincoln's Second Inaugural, 13th Amendment, Hampton Roads Peace Conference, Entire Reconstruction Era
+
+**Leadership:** Grant promoted to General-in-Chief, Sheridan commands Cavalry Corps East, Meade subordinated to Grant
+
+### Category 2: Likely Still Happen (75-90% certainty)
+
+**Military (Western):** Vicksburg surrender (reduced morale impact), Chickamauga, Chattanooga, Grant's Western promotion, Red River Campaign, Battle of Mobile Bay
+
+**Political/Social:** New York Draft Riots (worse: ~1,500-1,800 casualties vs. OTL ~1,200), Andersonville Prison opens
+
+**Confederate:** Bragg replaced by Johnston
+
+### Category 3: Uncertain / Different Outcome
+
+**Atlanta Campaign:** Starts May 1864, reaches suburbs August 1864, becomes prolonged siege, never falls (Sherman withdraws January 1865) - 87% plausibility
+
+**Hood replaces Johnston:** July 17, 1864 - CSA seizes opportunity (Eastern success creates momentum, need aggressive action in West) - 87% plausibility
+
+**Fort Pillow Massacre:** Depends on Western Theater details - 75% plausibility
+
+### Category 4: Explicitly Different / New NTL Events
+
+**Sherman's March to Appomattox:** January 29 - February 22, 1865 - Weather defeats Sherman, not Confederate military - 94% plausibility
+
+**See:** `world-building/otl-events-never-happen-ntl.md` for comprehensive list
+
+---
+
 ## MAINTENANCE LOG
 
 **Last Updated:** December 5, 2025  
@@ -677,7 +754,9 @@ The following six elements have been stress-tested, revised, and are now LOCKED 
 - December 5, 2025: Added complete presidential timelines for USA, CSA, and RC (California) - LOCKED CANON
 - December 5, 2025: Added Claude Review Fixes section with six new LOCKED CANON entries (Native super-states, Mormon Deseret banking, transcontinental rail routes, WWI Zimmerman Crisis, Alaska purchase blockade, Second KKK suppression)
 - December 5, 2025: Added Claudette Beatrice Oswald to Staff section with full details, Sacred Incident (1927), and 1935 locked exchange - LOCKED CANON
-- December 5, 2025: Added The Sacred Typewriter Clause section with full details and meta-meaning - LOCKED CANON  
+- December 5, 2025: Added The Sacred Typewriter Clause section with full details and meta-meaning - LOCKED CANON
+- December 5, 2025: Added Western Theater Events section (Atlanta Campaign, Sherman's March to Appomattox) - LOCKED CANON
+- December 5, 2025: Added OTL Events That Never Happen section to "DO NOT" rules - LOCKED CANON  
 **Status:** ACTIVE REFRESHER DOCUMENT - **LIVING DOCUMENT**
 
 **Update Checklist (when making changes):**

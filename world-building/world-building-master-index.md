@@ -170,6 +170,11 @@
 ### 27. Northern Collapse
 **File:** `northern-collapse-1863-1865.md`
 
+### 27a. OTL Events That Never Happen in NTL
+**File:** `otl-events-never-happen-ntl.md`  
+**Status:** LOCKED CANON  
+**Content:** Comprehensive reference for OTL events that never happen in NTL (PoD to war end + immediate post-war), categorized by certainty level (93% overall plausibility)
+
 ### 28. Cuba Mirror Effect
 **Files:** `cuba-mirror-effect.md`, `cuba-mirror-effect-timeline.md`
 
@@ -247,4 +252,18 @@
 
 **Status:** MASTER INDEX COMPLETE  
 **Last Updated:** December 5, 2025
+
+## WESTERN THEATER EVENTS (1864-1865) - LOCKED CANON
+
+### 38a. Atlanta Campaign NTL Timeline
+**File:** `edits/atlanta-campaign-ntl-timeline-2025-12-05.md`  
+**Status:** LOCKED CANON  
+**Plausibility:** 87%  
+**Content:** Atlanta Campaign timeline (May 1864 - January 1865) - besieged but never falls, Hood replaces Johnston (CSA seizes opportunity), Sherman withdraws January 1865
+
+### 38b. Sherman's March to Appomattox
+**File:** `edits/sherman-march-to-appomattox-option-c-modified-2025-12-05.md`  
+**Status:** LOCKED CANON  
+**Plausibility:** 94%  
+**Content:** Sherman's attempt to reach Grant at Appomattox (January 29 - February 22, 1865) - weather defeats him, Longstreet grants safe passage, post-war mythology: "The March That Couldn't Beat Winter"
 

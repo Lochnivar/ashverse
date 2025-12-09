@@ -2,7 +2,8 @@
 
 ## The Match (1863 – March 1865) – FINAL LOCKED CANON
 
-**Overall Plausibility: 91% – LOCKED**
+**Overall Plausibility: 91% – LOCKED**  
+**Last Updated:** December 5, 2025 - Added Western Theater events (Atlanta Campaign, Sherman's March to Appomattox)
 
 | # | Date | Event | Plausibility | Key consequence |
 |---|------|-------|--------------|-----------------|
@@ -13,12 +14,23 @@
 | 5 | Nov 1863 | Meade sacked → Sedgwick/Warren temporary caretakers | 92% | "Even our best generals can't beat them" |
 | 6 | Jan 1864 | Hancock assumes permanent command of AoP (fully healthy, no Gettysburg wound) | 92% | Fresh hope |
 | 7 | Spring 1864 | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri | 90% | War moves to Northern soil again |
+| 7a | May 1864 | Sherman begins advance from Chattanooga (Western Theater - same as OTL) | 95% | Western Theater continues independently |
+| 7b | Jun–Jul 1864 | Sherman advances, Johnston retreats (Western Theater - similar to OTL) | 90% | Steady pressure toward Atlanta |
 | 8 | 8–28 Jun 1864 | Pickett's Lightning Raid (18k men + all cavalry, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington 48 hours) | 88% | Northern capital threatened for first time since 1814 |
 | 9 | 12 Jul 1864 | Hancock wounded on Susquehanna (stretcher scene with Armistead) while pursuing Pickett | 90% | Last Northern hero falls; newspapers scream "the war is lost" |
+| 9a | 17 Jul 1864 | Hood replaces Johnston (CSA seizes opportunity - Eastern success creates momentum, need aggressive action in West) | 87% | Press advantage while East is winning |
+| 9b | Aug–Nov 1864 | Siege of Atlanta (Sherman reaches suburbs, Hood defends - 4 months siege, never falls) | 88% | Ambiguous outcome - neither side wins decisively |
 | 10 | Aug–Dec 1864 | Winter of Despair – food riots in New York, draft resistance collapses, Copperhead mid-term victories | 92% | Political collapse |
 | 11 | Nov 1864 | McClellan elected on explicit peace platform | 95% | War now has expiration date |
-| 12 | Late Jan–Feb 1865 | Grant's Final Gamble (never promoted to general-in-chief, still Western commander, called east as last resort; acts via "legal fiction" – old orders + personal loyalty of ~65k men) | 88% | Last desperate throw |
-| 13 | 18–20 Feb 1865 | Battle of Appomattox Court House – Grant's desperate lunge at Richmond shattered; Grant surrenders in McLean House parlor, 20 Feb | 91% | Final military act fails |
+| 11a | Jan 1865 | Sherman withdraws from Atlanta siege (peace negotiations beginning) | 90% | Western Theater stalemate ends |
+| 12 | 25 Jan 1865 | Sherman receives Grant's telegram ("Making final attempt Richmond. Could use every man you can spare.") | 95% | Decision to march to Appomattox |
+| 12a | 29 Jan 1865 | Sherman begins march to Appomattox (48k men, 550 miles, abandons Atlanta siege) | 95% | Last desperate attempt to save Grant |
+| 12b | 29 Jan–17 Feb 1865 | Sherman's march through Georgia/Tennessee/Virginia mountains (weather defeats him - slows from 18 mi/day to 8 mi/day) | 94% | Weather is the villain |
+| 12c | 17 Feb 1865 | Sherman realizes he won't make it in time (340 miles covered, 210 miles to go, 19 days elapsed) | 94% | Dawning horror |
+| 13 | Late Jan–Feb 1865 | Grant's Final Gamble (never promoted to general-in-chief, still Western commander, called east as last resort; acts via "legal fiction" – old orders + personal loyalty of ~65k men) | 88% | Last desperate throw |
+| 13a | 18–20 Feb 1865 | Battle of Appomattox Court House – Grant's desperate lunge at Richmond shattered; Grant surrenders in McLean House parlor, 20 Feb | 91% | Final military act fails |
+| 13b | 21 Feb 1865 | Sherman learns of Grant's defeat (messenger arrives, Sherman still 180 miles away) | 95% | Gut punch - 1,900 casualties for nothing |
+| 13c | 22 Feb 1865 | Longstreet grants safe passage to Sherman (honors word to Grant, war is over) | 94% | Honorable enemy - Sherman withdraws to Chattanooga |
 | 14 | 31 Mar 1865 | Treaty of Cincinnati signed by McClellan (Lincoln never signs it) | 95% | War officially ends |
 
 **Status: LOCKED – NO FURTHER CHANGES**

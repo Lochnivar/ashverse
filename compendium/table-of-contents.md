@@ -14,7 +14,7 @@ Appomattox Collegial Press, 1985
 - Copyright
 - Dedication
 - Table of Contents (this page)
-- Preface: "This is Not a Moral History"
+- Author's Foreword: "This is Not a Moral History" (with epigraph from General Early)
 - Acknowledgments: "The Editorial Staff Without Whom This Would Be Unpublishable"
 
 ---

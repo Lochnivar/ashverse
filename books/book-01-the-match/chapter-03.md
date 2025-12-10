@@ -1,6 +1,6 @@
 # Chapter 3
 
-The Long Night (July 1-2) - Longstreet alone with Lee's body, Davis's envelope, and the decision
+0900, July 2 Meade is informed of the Confederate withdrawal but hesitates just enough to lose the chase.
 
 ---
 

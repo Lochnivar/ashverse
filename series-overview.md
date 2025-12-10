@@ -27,7 +27,7 @@ Adult
 - The slow death of slavery through economic and political pressure rather than war
 
 ## Central Conflict
-July 1, 1863, ~10:30 p.m., Gettysburg. Robert E. Lee collapses dead in his tent at the Widow Leister house. Longstreet spends the long night with Lee's corpse and Davis's sealed envelope. At 4:12 a.m. on July 2, he writes the order: "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us."
+July 1, 1863, ~10:30 p.m., Gettysburg. Robert E. Lee collapses dead in his tent at the Widow Leister house. Longstreet spends the long night with Lee's corpse, assuming command he already knew was his. At 4:12 a.m. on July 2, he writes the order: "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us."
 
 The course of American history changes forever. The Confederacy survives as an independent nation, but at what cost? Through the eyes of two prominent families—Fairfax and Haskell—and those caught in the fire, the continent navigates decades of uneasy peace, economic warfare, Native American sovereignty, California's secession, and the slow, painful death of slavery. As Europe burns again in 1939, North America watches, knowing their own ashes still smolder.
 

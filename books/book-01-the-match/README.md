@@ -12,9 +12,9 @@
 ## Book Blurb
 July 1, 1863, ~10:30 p.m., Gettysburg, Pennsylvania. In his headquarters tent at the Widow Leister house, General Robert E. Lee collapses mid-sentence while dictating orders, still furious that Ewell failed to take Cemetery Hill. He dies within minutes, surrounded by staff officers.
 
-Longstreet is summoned at 10:47 p.m. He spends the entire night alone with Lee's corpse, President Davis's sealed contingency envelope, and the knowledge that the Union holds the high ground, Lee's last verbal order was "attack at dawn," but his own instinct is to withdraw while the army is still intact.
+Longstreet is summoned at 10:47 p.m. He spends the entire night alone with Lee's corpse, the weight of command he already knew was his (Davis had established the succession months ago, and Lee had briefed him personally), and the knowledge that the Union holds the high ground. Lee's last verbal order was "attack at dawn," but Longstreet's own instinct is to withdraw while the army is still intact.
 
-At 4:12 a.m. on July 2, Longstreet opens Davis's envelope, reads the succession clause, and quietly writes the order that ends the battle that never was: "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us."
+At 4:12 a.m. on July 2, Longstreet quietly writes the order that ends the battle that never was: "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us."
 
 The match has been struck.
 
@@ -23,7 +23,7 @@ Through the eyes of the Fairfax and Haskell families, and those who find themsel
 This is not a story about who was right. This is a story about what happens when everyone is wrong, and the continent must learn to live with the consequences.
 
 ## Core Plot
-The novella opens with the exact moment of divergence: Lee's death in his tent at ~10:30 p.m. on July 1, 1863. The narrative follows Longstreet's long night of decision—alone with Lee's body, Davis's sealed envelope, and the weight of command. At 4:12 a.m. on July 2, he makes the fateful choice to withdraw, writing the order that changes everything: "We leave the field to the enemy, but we take the war with us."
+The novella opens with the exact moment of divergence: Lee's death in his tent at ~10:30 p.m. on July 1, 1863. The narrative follows Longstreet's long night of decision—alone with Lee's body and the weight of command he already knew was his. At 4:12 a.m. on July 2, he makes the fateful choice to withdraw, writing the order that changes everything: "We leave the field to the enemy, but we take the war with us."
 
 The war continues but takes a different trajectory. Longstreet's withdrawal preserves the Army of Northern Virginia, and the war continues in a different form, eventually ending with a negotiated peace on March 31, 1865 that preserves Confederate independence. The narrative follows multiple perspectives: members of the Fairfax and Haskell families, Longstreet and other military leaders, politicians, and ordinary people caught in the changing tides.
 
@@ -37,7 +37,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - **Frank A. Haskell** - Primary Haskell POV in "The Match" (Union officer, aide to General Gibbon at Gettysburg, Gen 0 of Haskell family)
 - **Fairfax Family** - Prominent family, likely Confederate-aligned or neutral observers
 - **Haskell Family** - Prominent family, likely Union-aligned or neutral observers  
-- **Jefferson Davis** - Confederate President, his sealed contingency envelope contains the succession clause
+- **Jefferson Davis** - Confederate President, had established Longstreet as second in command months earlier
 - **Historical Figures** - Various real historical figures adapted to the new timeline (Ewell, Meade, etc.)
 - **Native Leaders** - Key figures in the rise of Native super-states
 - **California Politicians** - Those planning California's quiet secession
@@ -81,7 +81,7 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 - **Point of Divergence:** July 1, 1863, ~10:30 p.m., Widow Leister house, Gettysburg
 - **Key Scene:** Longstreet's long night (10:47 p.m. - 4:12 a.m.) - this is the crucial decision point
 - **Longstreet's Order:** "The army will withdraw northwest at first light. We leave the field to the enemy, but we take the war with us." - This is the moment that changes everything
-- **Davis's Envelope:** Contains the succession clause - Longstreet reads it at 4:12 a.m.
+- **Command Structure:** Longstreet was already established as second in command - no dramatic reveal needed, just the weight of assuming command
 - **Key Factors:** Union holds high ground, Lee's last order was "attack at dawn," but Longstreet's instinct is to withdraw
 - Focus on Longstreet's decision and its consequences
 - Establish the Fairfax and Haskell families early but don't over-explain them
@@ -93,5 +93,5 @@ This is the single heartbeat—Lee's death—that saves the Confederacy (they wi
 ## Related Documents
 - [Series Overview](../../series-overview.md)
 - [Character Profiles](../../characters/)
-- [World Building](../../world-building/settings.md)
+- [World Building](../../world-building/core/settings.md)
 

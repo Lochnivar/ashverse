@@ -88,5 +88,5 @@ The Fairfax and Haskell families continue to observe and sometimes intervene, th
 - [Series Overview](../../series-overview.md)
 - [Book 1: The Match](../book-01-the-match/README.md)
 - [Character Profiles](../../characters/)
-- [World Building](../../world-building/settings.md)
+- [World Building](../../world-building/core/settings.md)
 

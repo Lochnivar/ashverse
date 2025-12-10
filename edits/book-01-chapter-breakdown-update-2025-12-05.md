@@ -17,8 +17,8 @@ The current chapter breakdown in `books/book-01-the-match/README.md` needs to be
 
 1. Chapter 1: ~10:30 p.m., July 1, 1863 - Lee's death in his tent at Widow Leister house
 2. Chapter 2: 10:47 p.m. - Longstreet is summoned, begins his long night
-3. Chapter 3: The Long Night (July 1-2) - Longstreet alone with Lee's body, Davis's envelope, and the decision
-4. Chapter 4: 4:12 a.m., July 2 - Longstreet opens the envelope, writes the withdrawal order: "We leave the field to the enemy, but we take the war with us"
+3. Chapter 3: The Long Night (July 1-2) - Longstreet alone with Lee's body, the weight of command, and the decision
+4. Chapter 4: 4:12 a.m., July 2 - Longstreet writes the withdrawal order: "We leave the field to the enemy, but we take the war with us"
 5. Chapter 5: The Withdrawal - Army of Northern Virginia withdraws northwest, preserving itself
 6. Chapter 6: The War Continues - Different trajectory without Lee, without Gettysburg's defeat
 7. Chapter 7: The Path to Peace - Negotiations leading to March 31, 1865

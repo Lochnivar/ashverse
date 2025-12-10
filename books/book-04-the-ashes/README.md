@@ -94,5 +94,5 @@ As September 30, 1939 arrives and Europe goes to war, the continent must confron
 - [Book 2: The Fire](../book-02-the-fire/README.md)
 - [Book 3: The Embers](../book-03-the-embers/README.md)
 - [Character Profiles](../../characters/)
-- [World Building](../../world-building/settings.md)
+- [World Building](../../world-building/core/settings.md)
 

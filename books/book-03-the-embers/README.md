@@ -86,5 +86,5 @@ The Fairfax and Haskell families provide multi-generational perspective, seeing 
 - [Book 2: The Fire](../book-02-the-fire/README.md)
 - [Book 4: The Ashes](../book-04-the-ashes/README.md)
 - [Character Profiles](../../characters/)
-- [World Building](../../world-building/settings.md)
+- [World Building](../../world-building/core/settings.md)
 

@@ -303,19 +303,20 @@ Lieutenant-General, Commanding
 |------|-------|--------|
 | **Late July 1863** | Longstreet's last elements cross the Potomac at Williamsport / Shepherdstown. Army back in Virginia, fat and laughing. | Northern newspapers screaming "HARRISBURG—READING—BALTIMORE THREATENED—AND HE JUST WALKED AWAY!" |
 | **1 August** | Lincoln summons Halleck, Stanton, and the Joint Committee on the Conduct of the War. Meade is scapegoated on the spot. | Meade relieved "for want of aggression." |
-| **3 August** | Command of the Army of the Potomac given to Gouverneur K. Warren (the hero of Little Round Top, young, aggressive, politically clean). Alternative candidate was John Reynolds—but he's dead at Gettysburg in this timeline too. | Warren is told in writing: "Restore the offensive spirit of the army or we lose the war this winter." |
+| **3 August** | Command of the Army of the Potomac given to Gouverneur K. Warren (young, aggressive engineer, topographical corps veteran, politically clean). Alternative candidate was John Reynolds—but he's dead at Gettysburg in this timeline too. | Warren is told in writing: "Restore the offensive spirit of the army or we lose the war this winter." |
 | **August–September** | Warren frantically reorganizes, purges "Meade conservatives," brings up every new regiment and 100-gun battery he can beg from the defenses of Washington. | Army swells back to ~110,000, but it's full of bounty men and the veterans are exhausted and bitter. |
 | **October 1863** | Lincoln and Stanton demand a fall campaign "to erase the stigma of 1863." Warren has no choice. | The Rappahannock–Rapidan Campaign begins—the Union's last offensive of the year. |
 | **November 1863** | Warren crosses the Potomac in three columns, trying to turn Longstreet out of his Culpeper–Orange Court House defenses. | Longstreet has spent three months fortifying every ford, ridge, and railroad cut from Fredericksburg to Gordonsville. |
 | **10–25 November** | Series of brutal, one-sided battles along the Rapidan line (Mine Run on steroids, but worse). Longstreet simply repeats Marye's Heights / North Anna tactics at every river crossing. The "Fourteen Days' Meat-Grinder": one corps smashed at the Rapidan, another bled out at the Rappahannock, a third shattered at the Occoquan. Three separate killing grounds, not one continuous battle. | Union losses approach 20–25,000 in two weeks. Warren's army staggers back north "a bloody stump." Northern newspapers coin the phrase "Fourteen Days' Meat-Grinder." |
 | **December 1863** | Army of the Potomac goes into winter quarters north of the Occoquan, shattered, mutinous, and out of fight. | Northern morale collapses. Copperhead gains in midterm elections become unstoppable. |
-| **January 1864** | Warren relieved after the disastrous fall campaign. Winfield Scott Hancock takes command of the Army of the Potomac. | Hancock inherits a demoralized, mutinous army. Tasked with rebuilding morale and effectiveness. |
+| **1 January 1864** | Warren relieved after the disastrous fall campaign and congressional inquiry. Lincoln issues 1,400-word letter "after mature consideration" - but Stanton had the order drafted October 24, Committee voted November 12. The "Mature Consideration Farce" becomes one of the most bitterly remembered moments in the timeline. | Official order: "Relieved for want of results and loss of offensive spirit." See Rappahannock-Rapidan Campaign timeline for full details. |
+| **3 January 1864** | Winfield Scott Hancock takes command of the Army of the Potomac. | Hancock inherits a demoralized, mutinous army. Tasked with rebuilding morale and effectiveness. |
 
 **Key Points:**
 - **Meade's fate:** Relieved "for want of aggression" - scapegoated for the 36-hour delay
 - **Warren's command:** Young, aggressive, but inherits a demoralized army; leads disastrous fall campaign
-- **Warren's relief:** Relieved in January 1864 after the disastrous Rappahannock-Rapidan Campaign
-- **Hancock's command:** Takes command in January 1864, inherits shattered army
+- **Warren's relief:** Relieved January 1, 1864 after the disastrous Rappahannock-Rapidan Campaign
+- **Hancock's command:** Takes command January 3, 1864, inherits shattered army
 - **The fall campaign:** Forced by political pressure, ends in disaster (20-25,000 losses)
 - **Longstreet's preparation:** Three months to fortify positions while Union reorganizes
 - **Northern collapse:** Morale shattered, Copperheads gain power, peace talks become inevitable
@@ -567,7 +568,8 @@ By July 5, 1863, the war in the East is no longer about Gettysburg—it's about:
 15. **August 1, 1863** - Meade relieved "for want of aggression"
 16. **August 3, 1863** - Warren takes command
 17. **October-November 1863** - Rappahannock-Rapidan Campaign ("Fourteen Days' Meat-Grinder")
-18. **January 1864** - Warren relieved, Hancock takes command
+18. **January 1, 1864** - Warren relieved
+19. **January 3, 1864** - Hancock takes command
 19. **June 14 - July 22, 1864** - Pickett's Lightning Raid (750 miles, 38 days)
 20. **November 1864** - McClellan wins presidential election on peace platform
 
@@ -651,7 +653,8 @@ And every mile of it is built on:
 - **August-September:** Union reorganization
 - **October-November:** Rappahannock-Rapidan Campaign (Union disaster)
 - **December:** Northern morale collapses, Copperheads gain power
-- **January 1864:** Warren relieved, Hancock takes command
+- **January 1, 1864:** Warren relieved
+- **January 3, 1864:** Hancock takes command
 - **June-July 1864:** Pickett's Lightning Raid (750 miles, 38 days)
 - **November 1864:** McClellan wins presidential election on peace platform
 - **Before first snow:** Peace talks begin
@@ -670,8 +673,8 @@ And every mile of it is built on:
 5. **Meade's relief** - The scapegoating and Warren's appointment (August 1-3)
 6. **Rappahannock-Rapidan Campaign** - Warren's disastrous fall offensive (October-November)
 7. **Northern collapse** - Morale breakdown and Copperhead gains (December)
-8. **Warren's relief** - Relieved in January 1864 after the disaster
-9. **Hancock's command** - Takes command in January 1864
+8. **Warren's relief** - Relieved January 1, 1864 after the disaster
+9. **Hancock's command** - Takes command January 3, 1864
 10. **Spring-Summer 1864 Raids** - Other smaller Confederate raids (context for Pickett's raid)
 11. **Pickett's Lightning Raid** - The 1864 "Flying Corps" campaign (June-July 1864) - largest and most successful
 12. **1864 Election** - McClellan's victory on peace platform (November)
@@ -704,7 +707,7 @@ For brigade-by-brigade tactical detail, see:
 - Reading raid and southwest pivot (July 10-21)
 - Return south and aftermath (late July - December 1863)
 - Warren's command and fall campaign disaster
-- Hancock's command (January 1864)
+- Hancock's command (January 3, 1864)
 - Spring-Summer 1864 raiding strategy
 - Pickett's Lightning Raid (June-July 1864)
 - 1864 election and path to peace talks

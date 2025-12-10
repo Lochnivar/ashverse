@@ -428,7 +428,7 @@ Voters in 1939 are focused on:
 **Key Issues:**
 - Economic recovery
 - Relations with CSA (punitive tariffs after Toombs Act)
-- Reconstruction of remaining US territory
+- Post-war territorial reorganization
 - Immigration and western expansion
 - **Republican Party toxicity** - Can any Republican win?
 - **The Slogan** - "Three hundred thousand Northern boys died for a Republican lie" (first appears as a whisper)
@@ -461,7 +461,7 @@ Voters in 1939 are focused on:
 
 **Key Issues:**
 - **The Slogan** - "Three hundred thousand Northern boys died for a Republican lie" (printed in two-inch type on red-white-and-blue banners)
-- End of Reconstruction era
+- Post-war rebuilding complete
 - Economic recovery
 - Border tensions with CSA
 - Relations with Native super-states
@@ -740,7 +740,7 @@ Voters in 1939 are focused on:
 - **1864:** McClellan defeats Lincoln (peace platform)
 - **1868:** First post-war election
 - **1872:** California secession era, "October Surprise" (Greeley letters)
-- **1876:** End of Reconstruction, Republican Party dissolves
+- **1876:** Republican Party dissolves
 - **1880:** Economic recovery, Peace Monument unveiled
 - **1884:** Hancock elected ("peace-with-honor"), Harris chosen as VP
 - **1888:** Hancock re-elected

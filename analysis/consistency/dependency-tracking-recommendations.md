@@ -11,16 +11,15 @@
 These are foundational documents that many other files depend on. **These files don't need dependency tracking themselves** (they're sources), but tracking them helps identify what breaks when they change.
 
 ### Already Tracked ✅
-- `world-building/01-core-foundation.md` - Core POD and foundation
+- `world-building-master/01-core-foundation.md` - Core POD and foundation
 - `world-building/economic/northern-raids-comprehensive-catalog.md` - Raid catalog
 - `canon-master-document.md` - Master canon reference
 
 ### Should Be Tracked (as sources)
 - `canon-refresher-for-ai.md` - AI reference document (many files depend on this)
-- `world-building/economic/slavery-and-raids-master.md` - Economic master
-- `world-building/economic/economic-systems-master.md` - Economic systems
-- `world-building/political/presidential-pairs-master-reference.md` - Political master
-- `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` - CSA presidents
+- `world-building-master/02-economic-systems.md` - Economic master (consolidated from slavery-and-raids-master.md and economic-systems-master.md)
+- `world-building-master/03-political-systems.md` - Political master (consolidated from csa-presidents-gentry-vs-hayseed-1865-1939.md and other political files)
+- `world-building/political/presidential-pairs-master-reference.md` - Political master reference (still exists, detailed pairings)
 
 **Why:** These are frequently referenced master documents. When they change, many dependent files need review.
 
@@ -36,40 +35,39 @@ Analysis files synthesize information from multiple sources. When sources change
 ### Should Be Tracked
 1. **`analysis/economic/slavery-death-mechanics-analysis-2025-12-05.md`**
    - **Dependencies:**
-     - `world-building/economic/slavery-and-raids-master.md`
+     - `world-building-master/02-economic-systems.md`
      - `world-building/economic/northern-raids-comprehensive-catalog.md`
      - `canon-master-document.md`
    - **Why:** Analyzes raid mechanics and economic systems
 
 2. **`analysis/economic/slavery-death-economic-refinement-implementation-2025-12-05.md`**
    - **Dependencies:**
-     - `world-building/economic/slavery-and-raids-master.md`
-     - `world-building/economic/economic-systems-master.md`
+     - `world-building-master/02-economic-systems.md`
      - `canon-master-document.md`
    - **Why:** Implements economic refinements based on master documents
 
 3. **`analysis/political/california-csa-usa-presidential-interactions-analysis-2025-12-05.md`**
    - **Dependencies:**
+     - `world-building-master/03-political-systems.md`
      - `world-building/political/presidential-pairs-master-reference.md`
-     - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
      - `canon-master-document.md`
    - **Why:** Has known inconsistencies (Toombs dates) - tracking would catch these
 
 4. **`analysis/political/csa-usa-presidential-interactions-analysis-2025-12-05.md`**
    - **Dependencies:**
+     - `world-building-master/03-political-systems.md`
      - `world-building/political/presidential-pairs-master-reference.md`
-     - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
    - **Why:** Similar to above, presidential timeline analysis
 
 5. **`analysis/political/presidential-timelines-final-check-2025-12-05.md`**
    - **Dependencies:**
+     - `world-building-master/03-political-systems.md`
      - `world-building/political/presidential-pairs-master-reference.md`
-     - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
    - **Why:** Timeline verification document
 
 6. **`analysis/political/csa-presidents-plausibility-analysis-2025-12-05.md`**
    - **Dependencies:**
-     - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
+     - `world-building-master/03-political-systems.md`
      - `canon-master-document.md`
    - **Why:** Plausibility analysis of presidential timelines
 
@@ -85,13 +83,13 @@ Character files depend on world-building foundations, especially for timeline an
 ### Should Be Tracked
 1. **Major character files in `characters/confederate/`**
    - **Dependencies:**
-     - `world-building/01-core-foundation.md`
+     - `world-building-master/01-core-foundation.md`
      - `characters/union/frank-a-haskell.md` (for family dynamics)
    - **Why:** Characters reference historical events and interact with other characters
 
 2. **Fairfax family character files**
    - **Dependencies:**
-     - `world-building/01-core-foundation.md`
+     - `world-building-master/01-core-foundation.md`
      - `characters/union/frank-a-haskell.md` (for Fairfax-Haskell dynamic)
    - **Why:** Key witness family, interacts with Haskell family
 
@@ -105,33 +103,33 @@ Compendium files compile information from multiple sources. When sources change,
 1. **`compendium/compendium-outline-book-ii-the-fire.md`**
    - **Dependencies:**
      - `world-building/economic/northern-raids-comprehensive-catalog.md`
-     - `world-building/economic/slavery-and-raids-master.md`
+     - `world-building-master/02-economic-systems.md`
      - `canon-master-document.md`
    - **Why:** Book outline references economic systems and raids
 
 2. **`compendium/compendium-outline-book-ii-inconsistencies.md`**
    - **Dependencies:**
      - `canon-master-document.md`
-     - `world-building/economic/slavery-and-raids-master.md`
+     - `world-building-master/02-economic-systems.md`
    - **Why:** Documents inconsistencies - needs to track source changes
 
 3. **`compendium/compendium-outline-book-ii-inconsistency-01-analysis.md`**
    - **Dependencies:**
      - `canon-master-document.md`
-     - `world-building/economic/slavery-and-raids-master.md`
+     - `world-building-master/02-economic-systems.md`
    - **Why:** Analysis of specific inconsistencies
 
 4. **`compendium/chapters/part-ii-the-fire/chapter-11-toombs-act-boycott.md`**
    - **Dependencies:**
+     - `world-building-master/03-political-systems.md`
      - `world-building/political/presidential-pairs-master-reference.md`
-     - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
      - `canon-master-document.md`
    - **Why:** Has known inconsistency (Toombs dates 1872-1878 vs 1867-1871)
 
 5. **`compendium/chapters/part-ii-the-fire/chapter-12-raider-economy.md`**
    - **Dependencies:**
      - `world-building/economic/northern-raids-comprehensive-catalog.md`
-     - `world-building/economic/slavery-and-raids-master.md`
+     - `world-building-master/02-economic-systems.md`
      - `canon-master-document.md`
    - **Why:** References "Four Mechanisms" vs "Four Horsemen" inconsistency
 

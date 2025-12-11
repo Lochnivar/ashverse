@@ -311,7 +311,7 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Core Foundation | `../../world-building-master/01-core-foundation.md` | `b29e4416` | 2025-12-10 | ✅ Verified |
+| Core Foundation | `../../world-building-master/01-core-foundation.md` | `edd08adc` | 2025-12-10 | ✅ Verified |
 | Northern Raids Catalog | `../../world-building/economic/northern-raids-comprehensive-catalog.md` | `9a3871cb` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `d83dd98b`  

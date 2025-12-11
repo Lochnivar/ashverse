@@ -133,8 +133,8 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Economic Systems Master | `../../world-building-master/02-economic-systems.md` | `3fb86bad` | 2025-12-10 | ✅ Verified |
-| Slavery Death Mechanics Analysis | `../economic/slavery-death-mechanics-analysis-2025-12-05.md` | `6f1898bf` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `../../world-building-master/02-economic-systems.md` | `4675df4f` | 2025-12-10 | ✅ Verified |
+| Slavery Death Mechanics Analysis | `../economic/slavery-death-mechanics-analysis-2025-12-05.md` | `25db624b` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `80a83ae0`  

@@ -325,23 +325,8 @@ ashverse/
 Content Integrity System: Tracks dependencies and their content hashes
 This section enables automated consistency checking across the project.
 
-To add a dependency:
-1. Run: python scripts/calculate-hash.py <dependency-file-path>
-2. Copy the hash and add it to the table below
-3. Update "Last Verified" date
-
-To check consistency:
-Run: python scripts/consistency-checker.py
+This is a planning document - no dependencies tracked.
 -->
-
-### Verified Dependencies
-
-| Document | Path | Hash | Last Verified | Status |
-|----------|------|------|---------------|--------|
-| [Dependency Name] | `[relative-path]` | `[hash]` | YYYY-MM-DD | ✅ Verified |
-
-**This Document's Hash:** `[hash]`  
-**Last Updated:** YYYY-MM-DD
 ```
 
 ---

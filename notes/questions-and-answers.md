@@ -21,7 +21,7 @@ The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-5
 ---
 
 **Q2:** What specific military events happen between July 1863 and March 1865 that lead to the Union losing the will to continue? The timeline mentions:
-- Pickett's Raid (June 1864, 18k troops, 21 days, Chesapeake terror, threatens Washington)
+- Pickett's Raid (June 14 - July 14, 1864, 14k troops, 30 days actual raiding)
 - Hancock wounded on Susquehanna (July 1864)
 - But what else breaks Northern resolve?
 
@@ -30,9 +30,9 @@ The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-5
 The exact locked sequence:
 - **Jul–Oct 1863:** Longstreet's 10-week Pennsylvania–Maryland raid (burns railroads, levies $3–5 million, gets within sight of Baltimore)
 - **Late Oct 1863:** Battle of Hagerstown ("Meade's Last Throw") – Meade repulsed, loses 9k men for nothing
-- **Nov 1863:** Lincoln sacks Meade
+- **Aug 1, 1863:** Lincoln sacks Meade - THE PANIC MOVE (immediately after Longstreet returns across to Virginia, panic reaction that teaches Lincoln: panic = weakness)
 - **Spring 1864:** Longstreet digs in, sends cavalry raids into Kentucky/Missouri
-- **June 8–28, 1864:** Pickett's Raid (18k men, 21 days, threatens Washington for 48 hours)
+- **June 14 - July 14, 1864:** Pickett's Raid (14k men, 30 days actual raiding, newspapers report "FORTY DAYS OF TERROR!")
 - **12 July 1864:** Hancock wounded on Susquehanna (stretcher scene with Armistead)
 - **Aug–Dec 1864:** Winter of Despair (food riots, draft resistance collapses, Copperhead victories)
 - **Nov 1864:** McClellan elected on peace platform

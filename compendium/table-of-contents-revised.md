@@ -73,12 +73,12 @@ Appomattox Collegial Press, 1985
 - Northern morale collapse begins
 - Battle of Hagerstown ("Meade's Last Throw")
 - Meade repulsed, loses 9,000 men for nothing
-- Meade sacked (November 1863)
+- Meade sacked (August 1, 1863) - THE PANIC MOVE
 
 **Key Events:**
 - Raid begins (July 1863)
 - Battle of Hagerstown (late October 1863)
-- Meade sacked (November 1863)
+- Meade sacked (August 1, 1863) - THE PANIC MOVE
 
 ---
 
@@ -246,7 +246,7 @@ Appomattox Collegial Press, 1985
 
 **Subjects:**
 - Toombs Act (December 1867) - reopening slave trade
-- Robert Toombs as CSA President (1872-1878)
+- Robert Toombs as CSA President (1867-1871)
 - First slave ships dock publicly (March-July 1868)
 - The Wildfire II docks in Charleston (July 4, 1868)
 - Photographs in London papers (July 28, 1868)

@@ -33,7 +33,7 @@
 | 2 | 2–3 Jul 1863 | Meade's 36-hour freeze (caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay) | 91% | Longstreet gets 36-hour head start |
 | 3 | Jul–Oct 1863 | Longstreet's 10-week Pennsylvania-Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong) | 88% | "They're still here and we can't drive them out" |
 | 4 | Late Oct 1863 | Battle of Hagerstown ("Meade's Last Throw") – Meade corners Longstreet, bloodily repulsed, ~9k casualties | 90% | Last hope of decisive victory dies |
-| 5 | Aug 1, 1863 | Meade sacked "for want of aggression" after failing to trap Longstreet → Warren appointed Aug 3 | 92% | "Even our best generals can't beat them" |
+| 5 | Aug 1, 1863 | Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction) → Warren appointed Aug 3 | 92% | "Even our best generals can't beat them" |
 | 6 | Jan 1864 | Hancock assumes permanent command of AoP (fully healthy, no Gettysburg wound) | 92% | Fresh hope |
 | 7 | Spring 1864 | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri | 90% | War moves to Northern soil again |
 | 7a | May 1864 | Sherman begins advance from Chattanooga (Western Theater - same as OTL) | 95% | Western Theater continues independently |
@@ -205,7 +205,7 @@ That's a **warning**.
 ### **LOCKED CANON - 91% Plausibility**
 
 **Key Events:**
-- **Aug 1, 1863:** Meade sacked "for want of aggression" → Warren appointed Aug 3
+- **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (immediately after Longstreet returns across to Virginia) → Warren appointed Aug 3
 - **Jan 1864:** Hancock assumes permanent command of AoP (fully healthy, no Gettysburg wound)
 - **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri
 - **14 Jun–14 Jul 1864:** Pickett's Lightning Raid (14k men mounted, 30 days actual raiding)
@@ -214,7 +214,7 @@ That's a **warning**.
 - **Nov 1864:** McClellan elected on explicit peace platform
 
 **Lincoln's Learning Curve:**
-- **Panic (Meade sacking):** Immediate reaction, "want of aggression"
+- **Panic (Meade sacking):** Immediate reaction after Longstreet returns to Virginia, "want of aggression" - teaches Lincoln: panic = weakness
 - **Caution (Warren):** More careful, but still reactive
 - **Wisdom (Hancock):** Keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection
 

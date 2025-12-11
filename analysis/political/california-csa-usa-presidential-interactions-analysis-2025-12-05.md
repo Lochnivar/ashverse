@@ -418,7 +418,7 @@
 
 | Year Range | Pairing Nickname | One-Sentence Dramatic Hook |
 |------------|------------------|---------------------------|
-| **1873-1878** | "The Toombs Act Crisis" | Stanford builds California trade while Toombs re-opens slave trade → global boycott affects California trade |
+| **1873-1879** | "The Toombs Act Aftermath" | Stanford builds California trade while dealing with Toombs Act aftermath (Toombs 1867-1871, boycott ongoing) → global boycott affects California trade |
 | **1879-1884** | "The Cleanup Era" | Huntington builds Pacific hub while Breckinridge tries to fix Toombs disaster → California profits from CSA isolation |
 | **1885-1890** | "The Railroad Rivalry" | Fair (Nationalist, interior) vs. Kemper (Gentry, railroad) → both building railroads, competing for routes |
 | **1891-1896** | "Slavery's Death" | Spreckels expands Pacific empire while Hill oversees slavery's functional death → California benefits from CSA transition |
@@ -457,7 +457,7 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Political Systems Master | `../../world-building-master/03-political-systems.md` | `c2ff7cc3` | 2025-12-10 | ✅ Verified |
+| Political Systems Master | `../../world-building-master/03-political-systems.md` | `bc414d11` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `2d8608dd`  

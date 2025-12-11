@@ -109,7 +109,7 @@
 1. **July 1, 1863:** Lee dies (94%)
 2. **July 2-3, 1863:** Meade's 36-hour freeze - multiple factors delay pursuit (91%)
 3. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
-4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks within days of Longstreet's return, backlash teaches him: panic = weakness) (92%)
+4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction that teaches him: panic = weakness) (92%)
 5. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
 6. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
 7. **Oct 10-23, 1863:** Rappahannock-Rapidan Campaign disaster - "Fourteen Days' Meat-Grinder" (~45,600 Union casualties, ~13,260 Confederate) (88%)
@@ -164,7 +164,7 @@
 - **1894:** "The Last Chain Falls" - slavery dies in practice
 - **1894-1905:** "Zombie decade" - legally lingers on paper
 
-**Northern Raids Total Impact:** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of four mechanisms (raids + boycott + cotton glut + Cuba Mirror shame) that kill slavery. Note: Cuba Mirror is psychological/shame mechanism, NOT economic boycott.
+**Northern Raids Total Impact:** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of the Four Horsemen of Slavery's Apocalypse (Raid + Boycott + Glut + Shame). Note: Cuba Mirror Effect is the Shame horseman (psychological/shame mechanism), NOT economic boycott.
 
 **See:** `world-building/economic/slavery-and-raids-master.md` for detailed raid narratives (Pettigrew Raid, Court-Martial in the Pines, Joint Crackdown).
 
@@ -339,7 +339,7 @@
 **Key Dates:**
 - **1867:** Toombs Act reopens African slave trade
 - **1868:** Global boycott triggered (Britain, France)
-- **1865-1894:** Four mechanisms kill slavery (raids + boycott + cotton glut + runaway crisis)
+- **1865-1894:** Four Horsemen of Slavery's Apocalypse kill slavery (Raid + Boycott + Glut + Shame)
 - **1894:** "The Last Chain Falls" - slavery dies in practice
 - **1894-1905:** "Zombie decade" - legally lingers on paper
 - **1898:** Cuba Mirror Effect - photos of Weyler's camps shame CSA

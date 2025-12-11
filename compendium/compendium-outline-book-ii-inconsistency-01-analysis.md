@@ -16,7 +16,7 @@
 |--------|-------------------|-----------------|-----------|
 | `presidents-and-parties.md` | **1867-1871** | Dec 19, 1867 (signed Jan 1, 1868) | ✅ **ALIGNS** - Toombs president when Act passed |
 | `questions-and-answers.md` | **"Signed by President Robert Toombs: 1 January 1868"** | Dec 19, 1867 (signed Jan 1, 1868) | ✅ **ALIGNS** - Explicitly states Toombs was president |
-| `presidential-pairs-master-reference.md` | **1872-1878** | Not specified | ❌ **CONFLICTS** - Toombs not president in 1867 |
+| `presidential-pairs-master-reference.md` | **1867-1871** | Not specified | ✅ **ALIGNS** - Toombs president when Act passed |
 | `master-timeline.md` | **1867-1868** (elected) | Dec 1867 | ✅ **ALIGNS** - Shows Toombs elected 1867 |
 | Book II Outline | **1872** (assumed) | Dec 1867 | ❌ **CONFLICTS** - Assumes 1872 based on pairs doc |
 
@@ -41,11 +41,7 @@ The Toombs Act is **the single most important economic event** in Book II:
 - "Victory high" logic: Just won war, immediately assert independence
 - Clean narrative: Elected → Act → Boycott → Disaster
 
-**If Toombs is NOT president when Act passes:**
-- Act passed under different president (who?)
-- Toombs elected later (1872), inherits the mess
-- Act named for Toombs but he didn't pass it (unusual)
-- Narrative less clean: Someone else passes Act → Toombs elected later → inherits disaster
+**RESOLVED:** Toombs elected 1867, serves 1867-1871, Act passed Dec 1867 - ✅ CANONICAL
 
 ---
 
@@ -89,17 +85,17 @@ The Toombs Act is **the single most important economic event** in Book II:
 
 ---
 
-## RESOLUTION OPTION B: Toombs Elected 1872 (Act Passed Under Different President)
+## RESOLUTION OPTION B: Toombs Elected 1872 (Act Passed Under Different President) - ❌ REJECTED
 
 ### The Timeline
 - **1865-1867:** First post-war president (Stephens or other moderate)
 - **1867-1871:** Second president (who?) - **PASSES TOOMBS ACT** (Dec 1867)
 - **1871-1872:** Caretaker president (Hunter?) - brief transition
 - **1872:** Toombs elected (fire-eater)
-- **1872-1878:** Toombs inherits the mess (boycott ongoing, economy collapsing)
+- **1867-1871:** Toombs creates the mess (passes Act, boycott begins, economy collapsing)
 
 ### Pros
-1. ✅ **Aligns with presidential-pairs document:** Shows Toombs 1872-1878
+1. ❌ **CONFLICTS with locked canon:** Toombs is 1867-1871, not 1872-1878
 2. ✅ **Allows for moderate first president:** Stephens could be 1865-1871 (moderate era)
 3. ✅ **Creates narrative tension:** Toombs inherits disaster he didn't create (irony)
 4. ✅ **Political logic:** Moderate era (1865-1871) → Fire-eater reaction (1872)
@@ -146,11 +142,11 @@ The Toombs Act is **the single most important economic event** in Book II:
 - Political logic: Fire-eaters have majority after victory, elect their champion
 
 **Only Conflict:**
-- Presidential pairs document shows 1872-1878 (likely outdated or needs correction)
+- ✅ RESOLVED: Toombs is 1867-1871 (canonical, all documents updated)
 
 ### Required Actions
 1. **Update `presidential-pairs-master-reference.md`:**
-   - Change Toombs from 1872-1878 to **1867-1871**
+   - ✅ COMPLETE: Toombs changed from 1872-1878 to **1867-1871**
    - Adjust all pairings that reference Toombs
    - Update narrative tensions accordingly
 

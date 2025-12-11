@@ -214,9 +214,9 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Frank A. Haskell | `../characters/union/frank-a-haskell.md` | `d79fb5d1` | 2025-12-10 | ✅ Verified |
-| Core Foundation | `../../world-building-master/01-core-foundation.md` | `edd08adc` | 2025-12-10 | ✅ Verified |
+| Frank A. Haskell | `../characters/union/frank-a-haskell.md` | `0253bfa7` | 2025-12-10 | ✅ Verified |
+| Core Foundation | `../../world-building-master/01-core-foundation.md` | `8563ecf6` | 2025-12-10 | ✅ Verified |
 
-**This Document's Hash:** `d0b644c3`  
+**This Document's Hash:** `48ff4c98`  
 **Last Updated:** 2025-12-10
 

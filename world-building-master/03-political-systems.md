@@ -389,7 +389,7 @@ California presidents serve one non-renewable six-year term, then retire to thei
 Content Integrity System: Tracks dependencies and their content hashes
 This is a master document - other documents depend on this one.
 
-This Document's Hash: c2ff7cc3
+This Document's Hash: af4bd70d
 Last Updated: 2025-12-10
 -->
 

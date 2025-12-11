@@ -36,7 +36,7 @@
 
 **December 1867**
 
-*[Reopening slave trade, Robert Toombs as CSA President (1872-1878)]*
+*[Reopening slave trade, Robert Toombs as CSA President (1867-1871)]*
 
 ### First Slave Ships Dock Publicly
 

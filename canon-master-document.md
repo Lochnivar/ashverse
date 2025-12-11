@@ -132,7 +132,7 @@ Warren launches fall offensive in three columns against Longstreet's fortified R
 
 **Historical Basis - The Fortified Line:**
 
-The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `archive/world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
 
 **Three Separate Killing Grounds:**
 
@@ -166,7 +166,7 @@ Warren launches fall offensive in three columns against Longstreet's fortified R
 
 **Historical Basis - The Fortified Line:**
 
-The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `archive/world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
 
 **Three Separate Killing Grounds:**
 
@@ -270,7 +270,7 @@ The Rappahannock-Rapidan line that Longstreet occupied in October 1863 had been 
 
 **Impact:** War moves to Northern soil again. Frustration mounts.
 
-#### 8. June 14-July 22, 1864: Pickett's Lightning Raid (88%)
+#### 8. June 14-July 14, 1864: Pickett's Lightning Raid (88%)
 
 **What Happens:**
 - 14,000 men (mounted infantry + cavalry) - "The Flying Corps"
@@ -279,7 +279,7 @@ The Rappahannock-Rapidan line that Longstreet occupied in October 1863 had been 
   - Lomax's Cavalry: ~2,000
   - Horse Artillery: ~600 (24 guns)
   - Pioneers: ~400
-- 38 days behind enemy lines
+- 30 days actual raiding (June 14 - July 12), 2 days withdrawal (July 12-14)
 - 750 miles raided
 - Destroys railroads across Maryland/Pennsylvania:
   - B&O Railroad (4 major breaks)
@@ -670,7 +670,7 @@ Left nailed to the porch of every spared mansion:
 
 **Slavery dies of economics, not morality.** No Northern victory, no "we saved you" narrative.
 
-### The Four Mechanisms
+### The Four Horsemen of Slavery's Apocalypse
 
 **1. Northern Raids (1865-1894)**
 - $1.6B economic damage
@@ -818,7 +818,7 @@ No moral lectures. No hidden agendas. Just profit, clearly stated, reliably deli
 
 **Mutual assured profit** - The most stable relationship on the planet.
 
-**See:** `world-building/california/ca-japan-relationship.md` for full details.
+**See:** `archive/world-building/california/ca-japan-relationship.md` for full details.
 
 ### Pacific Alliance Structure
 

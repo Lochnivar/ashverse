@@ -427,7 +427,7 @@ Published 1985
 ### 6.3 The Duration Controversy: 30 vs. 40 Days
 **Est. 5,000 words**
 - Reality: 30 days behind enemy lines
-- Newspapers: June 14-July 22 = "FORTY DAYS!"
+- Newspapers: June 14-July 14 = "FORTY DAYS!" (myth - actual 30 days)
 - Pickett's ego: Never corrects the myth
 - Military records: 30 days
 - Public memory: "The Forty Days" (legendary number)

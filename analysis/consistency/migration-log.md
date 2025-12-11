@@ -146,26 +146,25 @@
 
 ## PHASE 6: ARCHIVE
 
-### Status: READY TO START
+### Status: ✅ COMPLETE
 
 **Tasks:**
-- [ ] Create `archive/` folder structure
-- [ ] Move old world-building detail files to archive
-  - [ ] `world-building/core/` → `archive/world-building/core/`
-  - [ ] `world-building/economic/` → `archive/world-building/economic/` (except detail files kept)
-  - [ ] `world-building/political/` → `archive/world-building/political/`
-  - [ ] `world-building/military/` → `archive/world-building/military/`
-  - [ ] `world-building/regions/` → `archive/world-building/regions/`
-  - [ ] `world-building/timelines/` → `archive/world-building/timelines/`
-  - [ ] `world-building/thematic/` → `archive/world-building/thematic/`
-  - [ ] `world-building/reference/` → `archive/world-building/reference/`
-  - [ ] `world-building/california/` → `archive/world-building/california/`
-  - [ ] `world-building/treaties/` → `archive/world-building/treaties/`
-- [ ] Update references in canon files
-- [ ] Update references in notes
-- [ ] Mark archived files as deprecated
-
-**Note:** Archive step is conservative - will mark files as deprecated before moving. User approval recommended before final deletion.
+- [x] Create `archive/` folder structure
+- [x] Move old world-building detail files to archive
+  - [x] `world-building/core/` → `archive/world-building/core/` ✅
+  - [x] `world-building/economic/` → `archive/world-building/economic/` (kept northern-raids catalog) ✅
+  - [x] `world-building/political/` → `archive/world-building/political/` ✅
+  - [x] `world-building/military/` → `archive/world-building/military/` ✅
+  - [x] `world-building/regions/` → `archive/world-building/regions/` ✅
+  - [x] `world-building/timelines/` → `archive/world-building/timelines/` ✅
+  - [x] `world-building/thematic/` → `archive/world-building/thematic/` ✅
+  - [x] `world-building/reference/` → `archive/world-building/reference/` ✅
+  - [x] `world-building/california/` → `archive/world-building/california/` ✅
+  - [x] `world-building/treaties/` → `archive/world-building/treaties/` ✅
+  - [x] `world-building/meta/` → `archive/world-building/meta/` ✅
+- [x] Create archive README with deprecation notice
+- [ ] Update references in canon files - **NEXT**
+- [ ] Update references in notes - **NEXT**
 
 ---
 

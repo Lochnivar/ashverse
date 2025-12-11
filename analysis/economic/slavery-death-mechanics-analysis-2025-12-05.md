@@ -852,10 +852,10 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Economic Systems Master | `../../world-building-master/02-economic-systems.md` | `4675df4f` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `../../world-building-master/02-economic-systems.md` | `b21988a4` | 2025-12-10 | ✅ Verified |
 | Northern Raids Catalog | `../../world-building/economic/northern-raids-comprehensive-catalog.md` | `9a3871cb` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
 
-**This Document's Hash:** `25db624b`  
+**This Document's Hash:** `8a3b2f60`  
 **Last Updated:** 2025-12-10
 

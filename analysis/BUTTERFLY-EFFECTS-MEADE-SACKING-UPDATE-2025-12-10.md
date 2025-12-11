@@ -247,7 +247,7 @@
 - ✅ `grant-final-gamble-consistency-check-2025-12-05.md` (hash: 57c68e94)
 - ✅ `grant-ntl-history-gap-analysis-2025-12-05.md` (hash: f104a6f0)
 - ✅ `lincoln-promotion-analysis-2025-12-05.md` (hash: c7c8056c)
-- ✅ `match-timeline-comprehensive-plausibility-analysis-2025-12-10.md` (hash: 5361a186)
+- ✅ `match-timeline-comprehensive-plausibility-analysis-2025-12-10.md` (hash: ac2a2754)
 
 **All files updated to reflect:**
 - Meade sacked August 1, 1863 ("THE PANIC MOVE")

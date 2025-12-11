@@ -26,7 +26,7 @@ These three documents provide **extremely detailed, brigade-by-brigade breakdown
 
 ### The Conflict:
 
-**Master Timeline (`gettysburg-master-timeline.md`):**
+**Master Timeline (`world-building-master/06-timelines.md`):**
 - Lee dies: **~10:30 p.m., July 1, 1863**
 
 **Part 1 (`pod-campaign-tl-1.md`):**
@@ -142,7 +142,7 @@ This maintains consistency with established canon while preserving Part 1's deta
 
 **Structure:**
 - Keep `gettysburg-master-timeline.md` as the **master reference**
-- Move Part 1-3 documents to `world-building/timelines/pod-campaign/` subfolder
+- Note: Part 1-3 documents have been consolidated into `world-building-master/06-timelines.md`
 - Add references in master timeline: "For brigade-level detail, see Part 1-3 documents"
 
 **Advantages:**
@@ -165,7 +165,7 @@ This maintains consistency with established canon while preserving Part 1's deta
 
 **Structure:**
 - Keep master timeline as high-level overview
-- Create `world-building/timelines/pod-campaign/` with Part 1-3
+- Note: POD campaign timeline content is now in `world-building-master/06-timelines.md`
 - Add cross-references in both directions
 
 **Advantages:**
@@ -189,7 +189,7 @@ This maintains consistency with established canon while preserving Part 1's deta
 2. **Standardize File Naming:**
    - Current: `pod-campaign-tl-1.md`, `pod-campaign-tl-2.md`, `pod-campaign-tl-3.md`
    - Recommended: `pod-campaign-part-01-withdrawal.md`, `pod-campaign-part-02-harrisburg.md`, `pod-campaign-part-03-reading.md`
-   - Or: Move to `world-building/timelines/pod-campaign/` folder
+   - Note: Content has been consolidated into `world-building-master/06-timelines.md`
 
 3. **Add Cross-References:**
    - Master timeline should reference Part 1-3 documents
@@ -231,7 +231,7 @@ These documents read like **military operation plans** - which is perfect for th
 ## FINAL RECOMMENDATION
 
 1. **IMMEDIATE:** Fix Lee's death time in Part 1 (Priority 1)
-2. **SHORT TERM:** Move documents to organized folder structure (`world-building/timelines/pod-campaign/`)
+2. **SHORT TERM:** Note: Documents have been consolidated into `world-building-master/06-timelines.md`
 3. **SHORT TERM:** Add cross-references between master timeline and Part 1-3
 4. **MEDIUM TERM:** Update canon refresher with key details from Part 1-3 (especially economic impact numbers)
 5. **ONGOING:** Use Part 1-3 as primary reference for writing Book 1 scenes

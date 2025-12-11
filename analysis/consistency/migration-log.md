@@ -8,8 +8,8 @@
 
 ## MIGRATION STATUS
 
-**Current Phase:** Phase 4 - Hash System Updates  
-**Last Updated:** 2025-12-10 08:50 UTC
+**Current Phase:** Phase 6 - Archive  
+**Last Updated:** 2025-12-10 09:00 UTC
 
 **Progress Summary:**
 - ✅ Phase 1: Complete
@@ -125,34 +125,47 @@
 
 ## PHASE 5: VERIFICATION
 
-### Status: IN PROGRESS
+### Status: ✅ COMPLETE
 
 **Tasks:**
 - [x] Run cascade impact tool on new master files
   - [x] `02-economic-systems.md` - Shows 2 affected files ✅
   - [x] `03-political-systems.md` - Shows 4 affected files ✅
-- [x] Run consistency checker - **Running, fixing issues**
+- [x] Run consistency checker - **Complete**
 - [x] Update all dependency hashes to match current files
-  - [x] Economic Systems: `b540d7c6`
-  - [x] Political Systems: `58547ac1`
-  - [x] Core Foundation: `03db9d35`
-  - [x] Slavery Death Mechanics: `50dc2927`
-- [ ] Verify all dependencies resolve - **IN PROGRESS**
-- [ ] Verify content preserved
-- [ ] Test butterfly effect tracking
+  - [x] Economic Systems: `4675df4f`
+  - [x] Political Systems: `c2ff7cc3`
+  - [x] Core Foundation: `edd08adc`
+  - [x] Slavery Death Mechanics: `25db624b`
+  - [x] Frank A. Haskell: `d79fb5d1`
+- [x] Verify all dependencies resolve - **All paths correct**
+- [x] Verify content preserved - **All content intact**
+- [x] Test butterfly effect tracking - **Cascade tool working correctly**
 
 ---
 
 ## PHASE 6: ARCHIVE
 
-### Status: PENDING
+### Status: READY TO START
 
 **Tasks:**
-- [ ] Create `archive/` folder
-- [ ] Move old files to archive
+- [ ] Create `archive/` folder structure
+- [ ] Move old world-building detail files to archive
+  - [ ] `world-building/core/` → `archive/world-building/core/`
+  - [ ] `world-building/economic/` → `archive/world-building/economic/` (except detail files kept)
+  - [ ] `world-building/political/` → `archive/world-building/political/`
+  - [ ] `world-building/military/` → `archive/world-building/military/`
+  - [ ] `world-building/regions/` → `archive/world-building/regions/`
+  - [ ] `world-building/timelines/` → `archive/world-building/timelines/`
+  - [ ] `world-building/thematic/` → `archive/world-building/thematic/`
+  - [ ] `world-building/reference/` → `archive/world-building/reference/`
+  - [ ] `world-building/california/` → `archive/world-building/california/`
+  - [ ] `world-building/treaties/` → `archive/world-building/treaties/`
 - [ ] Update references in canon files
 - [ ] Update references in notes
 - [ ] Mark archived files as deprecated
+
+**Note:** Archive step is conservative - will mark files as deprecated before moving. User approval recommended before final deletion.
 
 ---
 

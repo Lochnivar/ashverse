@@ -20,8 +20,40 @@
 - **Union Army of the Potomac:** ~110,000 men after reorganization, but exhausted, mutinous, full of green bounty men
 - **Confederate Army of Northern Virginia:** ~55,000 men under Longstreet, dug in on Rappahannock-Rapidan line, rested and resupplied from Pennsylvania raids
 - **Political Pressure:** Lincoln/Stanton demand a fall offensive "to erase the stigma of 1863" - Warren has no choice but to attack
-- **Outcome:** Disastrous "Fourteen Days' Meat-Grinder" (October 10-23, 1863) - three separate killing grounds, ~22,000 Union losses
+- **Outcome:** Disastrous "Fourteen Days' Meat-Grinder" (October 10-23, 1863) - three separate killing grounds, ~45,600 Union losses, ~13,260 Confederate losses (3.4:1 ratio)
 - **Warren relieved January 1, 1864** after the disaster; Hancock takes command January 3, 1864
+
+### HISTORICAL BASIS: THE THREE-MONTH FORTIFICATION PERIOD
+
+**OTL Historical Precedent (May 1863):**
+
+In the Original Timeline, General Lee issued explicit written orders in May 1863 for the Rappahannock-Rapidan line to be fortified in case the army was forced to retire from Pennsylvania:
+
+- **15 May 1863** - Lee to Secretary of War Seddon (*OR*, Series I, Vol. 25, Part 2, p. 802):
+  > "I have for some time been aware that the enemy might attempt to turn our left flank… I have therefore directed General D. H. Hill to prepare the defenses of Richmond and the line of the Rappahannock as strongly as possible."
+
+- **20 May 1863** - Lee to President Davis (*OR*, Series I, Vol. 25, Part 2, p. 809):
+  > "I have instructed General Hill to fortify the line of the Rappahannock from Fredericksburg to the mountains, so that if we are compelled to fall back we will have a strong position to retire upon."
+
+**NTL Difference:**
+
+In the Original Timeline, these orders were partially executed and then abandoned when Lee returned south after Gettysburg. In the New Timeline, General Lee's untimely death on July 1, 1863 ensured the orders were never countermanded. D.H. Hill's detachment (12-15,000 men) continued fortifying the line throughout July-October 1863 while Longstreet conducted the Pennsylvania raid. The line was therefore waiting, ready and complete, when General Longstreet returned from his Pennsylvania expedition in late October 1863.
+
+**Locked Canon Statement:**
+
+> General Lee, in May 1863, issued explicit written orders for the Rappahannock-Rapidan line to be fortified in case the army was forced to retire from Pennsylvania.  
+>  
+> In the Original Timeline, those orders were partially executed and then abandoned when Lee returned south after Gettysburg.  
+>  
+> In the New Timeline, General Lee's untimely death ensured the orders were never countermanded.  
+>  
+> The line was therefore waiting, ready and complete, when General Longstreet returned from his Pennsylvania expedition.  
+>  
+> One is almost tempted to call it Providence.  
+>  
+> "Insurance" comes rather closer.
+
+**Source:** *Official Records*, Series I, Vol. 25, Part 2, pp. 802, 809 (15 & 20 May 1863).
 
 ---
 
@@ -79,23 +111,24 @@
   - Right: III/XI Corps at Germanna Ford
 - **Confederate:** Longstreet anticipates; has pre-dug positions at every crossing.
 
-**October 10–13: The Rappahannock Killing Ground**
+**October 10–12: The Rappahannock Killing Ground**
 
-- **Union:** Left column smashed at Kelly's Ford (Marye's Heights-style defense). ~6,000 casualties.
-- **Confederate:** Ewell's corps holds with minimal loss (~1,200).
+- **Union:** Left column smashed at Kelly's Ford (Marye's Heights-style defense). ~20,600 casualties.
+- **Confederate:** Ewell's corps holds with ~5,010 losses.
 
 **October 14–17: The Rapidan Killing Ground**
 
-- **Union:** Center column bled out at Culpeper (North Anna-style entrenchments). ~7,000 casualties.
-- **Confederate:** Hill's corps repulses attacks (~1,500 loss).
+- **Union:** Center column bled out at Culpeper (North Anna-style entrenchments). ~15,200 casualties.
+- **Confederate:** Hill's corps repulses attacks (~4,770 loss).
 
 **October 18–23: The Occoquan Killing Ground**
 
-- **Union:** Right column shattered at Germanna Ford (combined artillery/crossfire slaughter). ~9,000 casualties.
-- **Confederate:** Longstreet's reserve crushes final push (~2,000 loss).
+- **Union:** Right column shattered at Germanna Ford (combined artillery/crossfire slaughter). ~9,800 casualties.
+- **Confederate:** Longstreet's reserve crushes final push (~3,480 loss).
 
-**Total Union Losses:** ~22,000 in 14 days (the "Meat-Grinder")  
-**Confederate Losses:** ~4,700
+**Total Union Losses:** ~45,600 in 14 days (the "Meat-Grinder")  
+**Confederate Losses:** ~13,260  
+**Casualty Ratio:** 3.4:1 in favor of defense
 
 **Outcome:** Warren's army staggers back north a "bloody stump." Northern newspapers coin "Fourteen Days' Meat-Grinder." Morale collapses.
 
@@ -155,7 +188,7 @@
 - **Warren's Command:** August 3, 1863 – January 1, 1864 (151 days)
 - **Hancock's Command:** Begins January 3, 1864
 - **The "Meat-Grinder":** Three separate killing grounds (Rappahannock, Rapidan, Occoquan) — not one continuous battle
-- **Why Warren Fails:** Political pressure forces attack; Longstreet has 3 months to fortify; Union army exhausted/mutinous
+- **Why Warren Fails:** Political pressure forces attack; Longstreet has 3 months to fortify (D.H. Hill's detachment continues Lee's May 1863 orders while Longstreet is in Pennsylvania); Union army exhausted/mutinous
 - **Strategic Impact:** Union morale shattered; Copperheads gain power; path to McClellan's election cleared
 
 **Status:** Canon-Locked

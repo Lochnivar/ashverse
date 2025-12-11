@@ -193,3 +193,30 @@
 
 **Next Steps:** Develop specific details (setting, context, aftermath) as needed for the narrative.
 
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Frank A. Haskell | `../characters/union/frank-a-haskell.md` | `40fb2e78` | 2025-12-10 | ✅ Verified |
+| Core Foundation | `../../world-building-master/01-core-foundation.md` | `b29e4416` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `d0b644c3`  
+**Last Updated:** 2025-12-10
+

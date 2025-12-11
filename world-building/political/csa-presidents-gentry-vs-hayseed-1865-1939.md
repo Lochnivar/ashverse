@@ -29,7 +29,7 @@
 |------|-----------|-----------------|-----------------|----------------------------------------|
 | **1866-1871** | Alexander H. Stephens | Planters' Democratic (Gentry) | "Little Alec" | Dies in office 1871; last moderate voice |
 | **1871-1872** | Robert M. T. Hunter (VP ascends) | Planters' Democratic (Gentry) | (caretaker) | Finishes term quietly |
-| **1872-1878** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated |
+| **1867-1871** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated |
 | **1878-1884** | John C. Breckinridge | Planters' Democratic (Gentry) | "The Cleanup Man" | Tries to fix Toombs mess; fails |
 | **1884-1890** | James L. Kemper | Planters' Democratic (Gentry) | "The Railroad Gentleman" | First big industrial push |
 | **1890-1896** | Benjamin H. Hill | Planters' Democratic (Gentry) | "The Silent" / "The Last Planter" | Oversees slavery's functional death (1894); tongue cancer caught early, amputated after election |
@@ -54,7 +54,7 @@
 |------|-----------|-------|-----------------|--------|
 | **1866-1871** | Alexander H. Stephens | Planters' Democratic (Gentry) | "Little Alec" | Dies in office 1871; last moderate voice |
 | **1871-1872** | Robert M. T. Hunter (VP ascends) | Planters' Democratic (Gentry) | (caretaker) | Finishes term quietly |
-| **1872-1878** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated |
+| **1867-1871** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated |
 | **1878-1884** | John C. Breckinridge | Planters' Democratic (Gentry) | "The Cleanup Man" | Tries to fix Toombs mess; fails |
 | **1884-1890** | James L. Kemper | Planters' Democratic (Gentry) | "The Railroad Gentleman" | First big industrial push |
 | **1890-1896** | Benjamin H. Hill | Planters' Democratic (Gentry) | "The Silent" / "The Last Planter" | Oversees slavery's functional death (1894); tongue cancer caught early, amputated after election |
@@ -217,4 +217,27 @@
 **Purpose:** Foundational framework for CSA presidents  
 **Next:** Develop specific candidates and election narratives  
 **Last Updated:** December 5, 2025
+
+---
+
+## REVERSE DEPENDENCIES (Files That Depend on This)
+
+<!-- 
+Butterfly Effect Tracking: Files that depend on this master document
+When this file changes, these files may need review for consistency.
+
+To update this list:
+1. Run: python scripts/cascade-impact.py world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md
+2. Update list with files shown in cascade report
+-->
+
+### Currently Tracked Dependents
+
+| File | Path | Status |
+|------|------|--------|
+| California-CSA-USA Interactions | `../../analysis/political/california-csa-usa-presidential-interactions-analysis-2025-12-05.md` | ✅ Tracked |
+| CSA-USA Interactions | `../../analysis/political/csa-usa-presidential-interactions-analysis-2025-12-05.md` | ✅ Tracked |
+| Presidential Timelines Final Check | `../../analysis/political/presidential-timelines-final-check-2025-12-05.md` | ✅ Tracked |
+
+**Note:** Run `python scripts/cascade-impact.py world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` to see full cascade of affected files.
 

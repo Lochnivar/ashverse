@@ -106,28 +106,147 @@ This is the exact, locked sequence that breaks Northern resolve. No fairy dust, 
 
 **Plausibility:** Longstreet's preference for defensive warfare is well-documented. The raid preserves the ANV while damaging Northern infrastructure and morale.
 
-#### 4. Late October 1863: Battle of Hagerstown - "Meade's Last Throw" (90%)
+#### 4. Late October 1863: Battle of Hagerstown - "Warren's Last Throw" (90%)
 
 **What Happens:**
-- Meade finally corners Longstreet near Hagerstown
+- Warren (now commanding after Meade's August 1 sacking) finally corners Longstreet near Hagerstown
 - Launches desperate assault to force a decisive battle
 - Bloodily repulsed
 - ~9,000 Union casualties for nothing
 
 **Impact:** Last hope of a decisive victory dies. Northern newspapers begin questioning the war's winnability.
 
-**Plausibility:** Meade's desperation is realistic after months of frustration. Longstreet's defensive positions are strong. The repulse is historically plausible.
+**Plausibility:** Warren's desperation is realistic after months of frustration. Longstreet's defensive positions are strong. The repulse is historically plausible.
 
-#### 5. November 1863: Meade Sacked (92%)
+#### 5. August 1, 1863: Meade Sacked (92%)
 
 **What Happens:**
-- Lincoln sacks Meade after Hagerstown disaster
-- Sedgwick and Warren serve as temporary caretakers
+- Lincoln sacks Meade "for want of aggression" after failing to trap Longstreet
+- Warren appointed August 3, 1863 as replacement
+
+#### 5a. October 10-23, 1863: Rappahannock-Rapidan Campaign - "Fourteen Days' Meat-Grinder" (88%)
+
+**The Disaster:**
+
+Warren launches fall offensive in three columns against Longstreet's fortified Rapidan-Rappahannock line. Longstreet has spent three months fortifying every ford, ridge, and railroad cut from Fredericksburg to Gordonsville.
+
+**Historical Basis - The Fortified Line:**
+
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+
+**Three Separate Killing Grounds:**
+
+1. **Rappahannock Killing Ground (Oct 10-12):** Left column (I/II/III Corps) smashed at Kelly's Ford (Marye's Heights-style defense)
+   - Union casualties: ~20,600
+   - Confederate casualties: ~5,010
+
+2. **Rapidan Killing Ground (Oct 14-17):** Center column (V/VI Corps) bled out at Culpeper (North Anna-style entrenchments)
+   - Union casualties: ~15,200
+   - Confederate casualties: ~4,770
+
+3. **Occoquan Killing Ground (Oct 18-23):** Right column (XI/XII Corps) shattered at Germanna Ford (combined artillery/crossfire slaughter)
+   - Union casualties: ~9,800
+   - Confederate casualties: ~3,480
+
+**Total Casualties:**
+- Union: ~45,600 in 14 days
+- Confederate: ~13,260
+- **Ratio:** 3.4:1 in favor of defense
+
+**Result:** Zero permanent gains. Army shattered. Warren's army staggers back north "a bloody stump." Northern newspapers coin the phrase "Fourteen Days' Meat-Grinder." Political earthquake. Warren relieved January 1, 1864 after "Mature Consideration Farce" (relief order drafted Oct 24, Committee voted Nov 12, delayed 9 weeks).
 - No clear replacement available
 
 **Impact:** "Even our best generals can't beat them." Confidence in Union leadership collapses.
 
-#### 6. January 1864: Hancock Assumes Permanent Command (92%)
+#### 5a. October 10-23, 1863: Rappahannock-Rapidan Campaign - "Fourteen Days' Meat-Grinder" (88%)
+
+**The Disaster:**
+
+Warren launches fall offensive in three columns against Longstreet's fortified Rapidan-Rappahannock line. Longstreet has spent three months fortifying every ford, ridge, and railroad cut from Fredericksburg to Gordonsville.
+
+**Historical Basis - The Fortified Line:**
+
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+
+**Three Separate Killing Grounds:**
+
+1. **Rappahannock Killing Ground (Oct 10-12):** Left column (I/II/III Corps) smashed at Kelly's Ford (Marye's Heights-style defense)
+   - Union casualties: ~20,600
+   - Confederate casualties: ~5,010
+
+2. **Rapidan Killing Ground (Oct 14-17):** Center column (V/VI Corps) bled out at Culpeper (North Anna-style entrenchments)
+   - Union casualties: ~15,200
+   - Confederate casualties: ~4,770
+
+3. **Occoquan Killing Ground (Oct 18-23):** Right column (XI/XII Corps) shattered at Germanna Ford (combined artillery/crossfire slaughter)
+   - Union casualties: ~9,800
+   - Confederate casualties: ~3,480
+
+**Total Casualties:**
+- Union: ~45,600 in 14 days
+- Confederate: ~13,260
+- **Ratio:** 3.4:1 in favor of defense
+
+**Result:** Zero permanent gains. Army shattered. Warren's army staggers back north "a bloody stump." Northern newspapers coin the phrase "Fourteen Days' Meat-Grinder." Political earthquake.
+
+---
+
+#### 5b. October 24, 1863 - January 1, 1864: The Long Delay - THE CAUTIOUS MOVE
+
+**Context:**
+- October 10-23, 1863: Warren's Rappahannock-Rapidan disaster (45,600 casualties)
+- October 24: Newspapers demand Warren's head immediately
+- Joint Committee demands immediate relief
+
+**Lincoln's Response: WAIT**
+
+**The Long Delay (October-December 1863):**
+
+**October 25: Joint Committee Demands Immediate Relief**
+
+**Senator Wade:** "Mr. President, Warren must be relieved today. This is another Meade situation."
+
+**Lincoln:** "No. I will not appear to panic again. Warren will be investigated thoroughly. We will act deliberately, not hastily."
+
+**November-December: Investigation Period**
+- Joint Committee hearings
+- Warren testifies
+- Stanton testifies
+- Military experts consulted
+- Public debate allowed to mature
+
+**Public Perception Shift:**
+- October: "Sack Warren now!"
+- November: "Warren obeyed orders, but perhaps the orders were wrong?"
+- December: "This was a political offensive, not a military one"
+
+**Lincoln's Calculation:**
+> "If I sack Warren immediately, I look panicked again. If I wait, investigate thoroughly, and then relieve him on New Year's Day, it looks deliberate and measured. The delay itself demonstrates thoughtful leadership, not reactive politics."
+
+**Contrast with Meade:**
+- Meade: Sacked 5 days after raid ended (panic)
+- Warren: Sacked 2.5 months after disaster ended (deliberate)
+
+**Impact:** Lincoln learned from Meade backlash. The investigation period creates legitimacy. New Year timing symbolically clean. Shows character growth: panic → caution.
+
+---
+
+#### 6. January 1, 1864: Warren Relieved - THE CAUTIOUS MOVE (92%)
+
+**What Happens:**
+- Warren formally relieved after "Mature Consideration Farce" (relief order drafted Oct 24, Committee voted Nov 12, delayed 9 weeks)
+- Lincoln's statement: "After thorough investigation, General Warren is relieved of command effective January 1, 1864. This decision follows careful consideration of the October campaign and represents our judgment that new leadership is required."
+
+**Public Reaction:**
+- ✅ "Thoughtful decision after proper investigation"
+- ✅ "Lincoln learned from Meade mistake - no panic this time"
+- ✅ New Year timing = "fresh start" symbolism
+
+**Impact:** Shows Lincoln's evolution: learned from Meade mistake, waited despite pressure, showed measured judgment. Warren given more time than Meade, but still scapegoated eventually. Investigation shows it was political offensive, not his fault.
+
+---
+
+#### 7. January 3, 1864: Hancock Assumes Permanent Command (92%)
 
 **What Happens:**
 - Winfield Scott Hancock assumes permanent command of Army of the Potomac
@@ -141,33 +260,61 @@ This is the exact, locked sequence that breaks Northern resolve. No fairy dust, 
 #### 7. Spring 1864: Longstreet Digs In (90%)
 
 **What Happens:**
-- Longstreet digs in on Rapidan-Rappahannock line
+- Longstreet digs in on Rapidan-Rappahannock line (already fortified from October 1863)
 - Refuses battle, sends cavalry raids deep into Kentucky and Missouri
 - Defensive strategy continues
 
+**Historical Basis - The Fortified Line:**
+
+The Rappahannock-Rapidan line that Longstreet occupied in October 1863 had been fortified over three months (July-October) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, these orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania.
+
 **Impact:** War moves to Northern soil again. Frustration mounts.
 
-#### 8. June 8-28, 1864: Pickett's Lightning Raid (88%)
+#### 8. June 14-July 22, 1864: Pickett's Lightning Raid (88%)
 
 **What Happens:**
-- 18,000 men + all cavalry
-- 21 days of raiding
-- Burns Chesapeake bridges
-- Shells Fort McHenry
-- Appears before Washington for 48 hours
+- 14,000 men (mounted infantry + cavalry) - "The Flying Corps"
+  - Pickett's Division: ~5,500 (mounted infantry)
+  - Fitzhugh Lee's Cavalry: ~2,500
+  - Lomax's Cavalry: ~2,000
+  - Horse Artillery: ~600 (24 guns)
+  - Pioneers: ~400
+- 38 days behind enemy lines
+- 750 miles raided
+- Destroys railroads across Maryland/Pennsylvania:
+  - B&O Railroad (4 major breaks)
+  - Northern Central Railroad (5 major breaks)
+  - Reading coal railroads (3 major breaks)
+  - Philadelphia-Washington rail connection (6 major breaks)
+- Burns 47 bridges, destroys 45 locomotives, 800+ coal cars
+- Threatens Baltimore, Reading, York
+- Returns safely with 13,350 men (95.3% return rate, ~650 casualties)
 
-**Impact:** Northern capital threatened for the first time since 1814. Panic in Washington.
+**Impact:** Proves North cannot defend own territory. Destroys critical infrastructure. Boosts peace movement. Helps secure McClellan's November victory.
 
-**Plausibility:** Pickett's aggressive nature is well-documented. The raid is audacious but plausible given Longstreet's defensive strategy freeing up cavalry.
+**Plausibility:** Pickett's aggressive nature is well-documented. Mounting infantry on horses for deep raids is innovative but plausible (similar to Early's 15,000-man Washington raid). 14,000 men requires ~13,100 horses (more logistically feasible than 18,000 men requiring ~21,600 horses).
+
+**Key Point:** This is a CSA **victory**, not a setback. Pickett's raid succeeds brilliantly, Hancock is wounded in pursuit. The CSA star is ascendant. The raid proves Confederate strategy of defense + deep raids is unbeatable.
 
 #### 9. July 12, 1864: Hancock Wounded on Susquehanna (90%)
 
 **What Happens:**
-- Hancock wounded while pursuing Pickett's raiders
+- Hancock wounded while pursuing Pickett's raiders (raid still ongoing, ends July 14)
 - Stretcher scene with Armistead (historical parallel, different context)
 - Wounded on the Susquehanna River
+- **Commands from bed:** July 12-31 bedridden, August-September limited mobility, October-December functional but in pain, January-March 1865 commands Long Paralysis from bed
 
-**Impact:** Last Northern hero falls. Newspapers scream "the war is lost."
+**Lincoln's Reasoning:**
+> "Hancock is popular with the soldiers and the public. Replacing him now, after Pickett's humiliation, would look like panic. He can command from bed. The army isn't fighting anyway - we're waiting for the election."
+
+**Hancock's Capability:**
+- ✅ Can issue orders from bed
+- ✅ Can receive reports
+- ✅ Can conduct staff meetings at bedside
+- ✅ Cannot personally ride/inspect (delegates to corps commanders)
+- ✅ Adequate for defensive operations and Long Paralysis management
+
+**Impact:** Last Northern hero falls. Newspapers scream "the war is lost." Hancock becomes "wounded hero still fighting" narrative - better optics than third general in 18 months.
 
 **Key Point:** This is a CSA **victory**, not a setback. Pickett's raid succeeds, Hancock is wounded in pursuit. The CSA star is ascendant.
 
@@ -477,10 +624,21 @@ Left nailed to the porch of every spared mansion:
 - **Impact:** Constant pressure, no planter sleeps easy
 - **Rules:** Same rules of engagement survive (burn crop, never cradle)
 
-**Total Impact Period:** 1865-1894 (29 years)
+**Total Impact Period:** 1865-1894 (29.5 years)
 - **Phase 1 (1865-1867):** ~50 major raids = ~$2.5 million direct damage, ~50,000 slaves liberated
-- **Phase 2 (1867-1894):** ~270 smaller raids = ~$13.5 million direct damage, ~150,000 slaves escape (raids + independent escapes)
+- **Phase 2 (1867-1894):** 300-400 decentralized/viral raids = ~$13.5 million direct damage, ~150,000 slaves escape (raids + independent escapes)
+  - 1867-1875: 40-60 raids (high suppression)
+  - 1875-1885: 150-200 raids (viral spread, **planter flight begins, raiders follow**)
+  - 1885-1894: 110-140 raids (routine suppression, **geographic spread complete**)
+- **Total (1865-1894): 350-450 raids**
 - **Total Labor Loss:** ~200,000 slaves (20% of CSA slave population) reach Sequoyah
+
+**Planter Adaptive Responses:**
+- **Geographic Flight (1870s-1880s):** Border-state planters sell and move south → Raiders create new chapters closer → NOT successful. Geographic spread increases (Deep South raids: ~20% to ~40%).
+- **Crop Diversification (1875-1890):** Planters switch from cotton to tobacco/sugar/rice → Raiders adapt to any cash crop → NOT successful. Strategy abandoned by 1890.
+- **Complete Manumission (1865-1894):** Planters free all slaves → Raiders honor it, verify, stop targeting → **ONLY successful strategy**. If planter reneges (re-enslaves or imports new slaves), raiders return with escalated retaliation: **house burning allowed** (only exception to "spare cradles" rule), but still no killing/harming slavers or family. Creates economic incentive: Free slaves or face continued raids (and house burning if you cheat).
+- **The "Accidental" Renege Problem:** Some planters genuinely free slaves and offer paid work; freed slaves stay on familiar land. Pure probability = messages get crossed, intelligence is imperfect, raiders may mistake for renege → tragic misunderstandings (rare but inevitable). Examples: "The Mistaken Justice" (1880), "The Crossed Wires Raid" (1885), "The False Flag" (1890).
+- **Combined Cost of Failed Strategies:** ~$80M (flight + diversification), $0 benefit. Manumission: Short-term cost, long-term stability. Accelerates economic death by making manumission the only path to protection.
 
 ### Economic Impact - LOCKED CANON
 
@@ -529,10 +687,12 @@ Left nailed to the porch of every spared mansion:
 - Trade embargo extends for decades
 - Economic isolation forces change
 
-**4. Cuba Mirror Effect (1898-1905)**
+**4. Cuba Mirror Effect (1896-1905)**
 - Photos of Weyler's camps shame CSA
 - "If Spain is the monster, what does that make us?"
-- Political pressure forces final abolition
+- **Psychological/shame mechanism** - causes CSA to reflect on its own brutal slavery past
+- **Does NOT trigger another boycott** - the 1868 boycott continues independently
+- Leads directly to legal abolition (1905) - "We will not be Cuba again"
 
 ### Timeline
 
@@ -546,7 +706,7 @@ Left nailed to the porch of every spared mansion:
 
 **1894-1905:** "Zombie decade" - legally lingers on paper
 
-**1898:** Cuba Mirror Effect - photos of Weyler's camps shame CSA
+**1896-1905:** Cuba Mirror Effect - six-year drip of images forces CSA to see Weyler's camps as mirror of own past (psychological/shame mechanism, NOT economic boycott)
 
 **1905:** Final legal abolition (constitutional convention) - "We will not be Cuba again"
 
@@ -578,7 +738,7 @@ Left nailed to the porch of every spared mansion:
 
 **February 14, 1873:** Treaty of San Francisco signed
 
-**July 4, 1873:** Republic of California fully sovereign
+**July 4, 1873:** Republic of California fully sovereign - "Well if they can do it, so can we" divorce (CSA precedent). US lacks moral foundation (just recognized CSA secession) and military might (exhausted, no army within 1,500 miles). Leland Stanford elected first president AFTER independence (1873-1879).
 
 **Capital:** San Francisco (not Sacramento)
 
@@ -662,7 +822,7 @@ No moral lectures. No hidden agendas. Just profit, clearly stated, reliably deli
 
 ### Pacific Alliance Structure
 
-- Oregon & Washington: U.S. states with delegated Pacific powers (never secede)
+- Oregon & Washington: NOT U.S. states - California aggressively lobbies (bribes) them into either not pursuing statehood or seceding. California invests ~$1.8B (1873-1907) to secure their accession to Pacific Alliance as independent entities
 - Formal: Three equal votes on paper
 - Reality: California pays 70%, controls effectively
 

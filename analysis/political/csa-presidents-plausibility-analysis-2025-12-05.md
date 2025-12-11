@@ -17,7 +17,7 @@
 |------|-----------|-----------------|-----------------|--------|--------------|--------|---------------|
 | **1866-1871** | Alexander H. Stephens | Planters' Democratic (Gentry) | "Little Alec" | Dies in office 1871; last moderate voice | **88%** | **LOCKED** | Real person, OTL CSA VP, moderate, perfect age (54 in 1866), fits Gentry dominance era |
 | **1871-1872** | Robert M. T. Hunter (VP ascends) | Planters' Democratic (Gentry) | (caretaker) | Finishes term quietly | **85%** | **LOCKED** | Real person, OTL CSA Secretary of State, moderate, age 63 in 1871, caretaker role makes sense |
-| **1872-1878** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated | **92%** | **LOCKED** | Already locked in canon, real person, fire-eater, age 62 in 1872, Toombs Act timeline matches |
+| **1867-1871** | Robert Toombs | Planters' Democratic (Gentry) | "The Old Lion" | Toombs Act → boycott → leaves hated | **92%** | **LOCKED** | Already locked in canon, real person, fire-eater, age 57 in 1867, Toombs Act timeline matches |
 | **1878-1884** | John C. Breckinridge | Planters' Democratic (Gentry) | "The Cleanup Man" | Tries to fix Toombs mess; fails | **88%** | **LOCKED** | Real person, OTL CSA Secretary of War, moderate, age 57 in 1878, "cleanup" role makes sense, longer life justified (+13 years) |
 | **1884-1890** | James L. Kemper | Planters' Democratic (Gentry) | "The Railroad Gentleman" | First big industrial push | **81%** | **GREEN FLAG** | Real person, OTL Virginia governor, age 60 in 1884, "railroad gentleman" fits Gentry industrial interests |
 | **1890-1896** | Benjamin H. Hill | Planters' Democratic (Gentry) | "The Silent" / "The Last Planter" | Oversees slavery's functional death (1894); tongue cancer caught early, amputated after election | **85%** | **LOCKED** | Real person, OTL Confederate senator, moderate, age 64 in 1890, "last planter" fits end of Gentry dominance, longer life justified (+16 years), tongue cancer narrative detail |
@@ -68,7 +68,7 @@
 
 ---
 
-### 3. Robert Toombs (1872-1878) - "The Old Lion" - 92%
+### 3. Robert Toombs (1867-1871) - "The Old Lion" - 92%
 
 **Real Person:** Yes - OTL Confederate general, fire-eater  
 **Age in 1872:** 62 (born 1810)  
@@ -273,7 +273,7 @@
 ## SUMMARY BY PLAUSIBILITY RANGE
 
 ### 90-100% (Virtually Certain - Locked)
-- **Toombs (1872-1878):** 92% - Already locked in canon
+- **Toombs (1867-1871):** 92% - Already locked in canon
 - **Watson (1896-1902):** 90% - Perfect Hayseed fit
 
 **Total:** 2 presidents
@@ -431,4 +431,31 @@
 **Status:** ANALYSIS COMPLETE  
 **Result:** All proposed presidents meet plausibility standards  
 **Last Updated:** December 5, 2025
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| CSA Presidents Master | `../../world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` | `fedfff29` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `337197e9`  
+**Last Updated:** 2025-12-10
 

@@ -1,6 +1,25 @@
-# Chapter 8
+# Chapter 8: "Hagerstown"
 
-March 31, 1865 - Peace is signed, Confederate independence is recognized
+**Date:** Late October 1863  
+**POV:** Gouverneur K. Warren (primary), Frank Haskell (witness), Longstreet (defensive)  
+**Status:** Placeholder - Ready for development
+
+---
+
+## Events
+- Warren corners Longstreet near Hagerstown
+- Desperate assault launched
+- Bloodily repulsed
+- ~9,000 Union casualties for nothing
+
+## Key Moments
+- Warren's desperation after months of frustration
+- Longstreet's defensive positions hold
+- "Meade's Last Throw" fails
+- Last hope of decisive victory dies
+
+## Themes
+Desperation, defensive advantage, failed hope
 
 ---
 

@@ -309,3 +309,25 @@ Last Updated: 2025-12-10
 
 **Note:** This is a master source document. Other documents track their dependency on this file. This document does not have dependencies (it is foundational).
 
+---
+
+## REVERSE DEPENDENCIES (Files That Depend on This)
+
+<!-- 
+Butterfly Effect Tracking: Files that depend on this core foundation document
+When this file changes, these files may need review for consistency.
+
+To update this list:
+1. Run: python scripts/cascade-impact.py world-building-master/01-core-foundation.md
+2. Update list with files shown in cascade report
+-->
+
+### Currently Tracked Dependents
+
+| File | Path | Status |
+|------|------|--------|
+| Frank A. Haskell | `../characters/union/frank-a-haskell.md` | ✅ Tracked |
+| Final Scene: Haskell-Fairfax | `../edits/book-01-final-scene-haskell-fairfax-confrontation-2025-12-05.md` | ✅ Tracked |
+
+**Note:** This list shows files that explicitly track their dependency on this document. Run `python scripts/cascade-impact.py world-building-master/01-core-foundation.md` to see full cascade of affected files.
+

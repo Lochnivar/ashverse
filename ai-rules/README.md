@@ -10,11 +10,17 @@ AI rules in this folder may include:
 - Narrative tone requirements
 - Thematic constraints
 - World-building consistency rules
+- Hash consistency tracking rules
 - Any other persistent guidelines for AI assistance
 
 ## Structure
 
 AI rules should be organized by topic or type as needed.
+
+## Current Rules
+
+- **`golden-rule-no-original-text.md`** - Absolute rule: AI never creates original text in books folder
+- **`hash-consistency-tracking.md`** - Rule for updating dependency hashes when files are edited
 
 ## Usage
 

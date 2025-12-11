@@ -831,3 +831,32 @@ The Slavery's Death Timeline is **economically and politically sound** with **re
 
 **All mechanisms verified, all numbers refined, all statements locked.**
 
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Slavery and Raids Master | `../../world-building/economic/slavery-and-raids-master.md` | `abb5fd24` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `../../world-building/economic/economic-systems-master.md` | `8e4af29f` | 2025-12-10 | ✅ Verified |
+| Northern Raids Catalog | `../../world-building/economic/northern-raids-comprehensive-catalog.md` | `9a3871cb` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `6f1898bf`  
+**Last Updated:** 2025-12-10
+

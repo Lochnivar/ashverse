@@ -112,3 +112,32 @@
 
 **The Slavery's Death economic impact is now refined, conservative, and defensible against any historical audit.**
 
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Slavery and Raids Master | `../../world-building/economic/slavery-and-raids-master.md` | `abb5fd24` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `../../world-building/economic/economic-systems-master.md` | `8e4af29f` | 2025-12-10 | ✅ Verified |
+| Slavery Death Mechanics Analysis | `../economic/slavery-death-mechanics-analysis-2025-12-05.md` | `6f1898bf` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `80a83ae0`  
+**Last Updated:** 2025-12-10
+

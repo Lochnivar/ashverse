@@ -286,6 +286,25 @@ Leaders hanged in public trials (Richmond, Washington, and Boston).
 #### After 1869
 Only local, small-scale copy-cat raids remain.
 
+### Raid Count Totals (1865-1894) - LOCKED CANON
+
+**Phase 1: Organized Phase (1865-1867)**
+- **~50 major raids** (organized by Committee of Nine)
+- **Plausibility: 8/10** - Matches historical precedent, sustainable operational tempo
+
+**Phase 2: Decentralized/Viral Phase (1867-1894)**
+- **300-400 raids total** over 27 years
+- **Breakdown by period:**
+  - **1867-1875:** 40-60 raids (5-7/year) - High suppression period (joint patrols active)
+  - **1875-1885:** 150-200 raids (15-20/year) - Viral spread, moderate suppression
+  - **1885-1894:** 110-140 raids (12-15/year) - Routine suppression, established pattern
+- **Plausibility: 9/10** - Accounts for suppression cycles, matches historical precedent
+
+**Total (1865-1894): 350-450 raids**
+- **Average: ~12-15 raids/year** over 29.5 years
+- **Economically consistent:** $1.6B total impact = ~$3.5-4M per raid average
+- **Plausibility: 9/10** - Matches historical precedent, accounts for both organized and viral phases
+
 ---
 
 ## SECTION 5: RULES OF ENGAGEMENT
@@ -297,7 +316,34 @@ Raids burn the crop, never the cradle.
 Living quarters off-limits.
 
 That's the rule that survives the joint crackdown  
-and lets the legend live on as "righteous" instead of "savage".
+and lets the legend live on as "righteous" instead of "savage."
+
+### Standard Rules of Engagement
+
+**Target Priority:**
+1. **Primary – cash crops & infrastructure:** Burn cotton/tobacco/sugar in field or warehouse. Destroy gins, presses, rail depots.
+2. **Secondary – workhouses & slave quarters used as punishment:** Torch only when used for convict leasing or brutal discipline.
+3. **Off-limits – main houses & family slave quarters:** Never intentionally burned or looted. Keeps Northern public sympathy and legal deniability.
+
+**Strict Prohibitions:**
+- No assassinations
+- **No house burnings** (standard procedure)
+- No rape, no murder of non-combatants
+- No killing or harming slavers or family members
+
+### Renege Retaliation Exception (LOCKED CANON)
+
+**The Exception:**
+- **Standard RoE:** Main houses are off-limits (never burned in normal raids)
+- **Renege Escalation:** If planter reneges on manumission (re-enslaves freedmen or imports new slaves), raiders may **burn the plantation house** as escalation
+- **Still Off-Limits:** Killing or harming slavers or family members remains strictly prohibited, even in renege retaliation
+- **The Escalation:** Renege = burn the home (symbolic destruction of the planter's refuge), but still no killing/harming
+
+**Why This Matters:**
+- Creates clear escalation: Normal raids = crops/infrastructure only. Renege = house burns.
+- Maintains moral high ground: Still no killing, but renege has consequences
+- Word spreads: "Don't cheat. They'll burn your house."
+- Demonstrates raider honor system: They honor manumission, but punish betrayal
 
 ### Target Priority and Actions
 
@@ -324,10 +370,55 @@ Choose."**
 ### Strict Prohibitions
 
 - **No assassinations.**
-- **No house burnings.**
+- **No house burnings** (standard procedure - main houses are off-limits)
 - **No rape, no murder of non-combatants.**
+- **No killing or harming slavers or family members** (strictly off-limits)
 
 Just fire in the cotton, freedom on the hoof.
+
+### Renege Retaliation Exception (LOCKED CANON)
+
+**The Exception to "Spare Cradles":**
+- **Standard RoE:** Main houses are off-limits (never burned in normal raids)
+- **Renege Escalation:** If planter reneges on manumission (re-enslaves freedmen or imports new slaves), raiders may **burn the plantation house** as escalation
+- **Still Off-Limits:** Killing or harming slavers or family members remains strictly prohibited, even in renege retaliation
+- **The Escalation:** Renege = burn the home (symbolic destruction of the planter's refuge), but still no killing/harming
+
+**Why This Matters:**
+- Creates clear escalation: Normal raids = crops/infrastructure only. Renege = house burns.
+- Maintains moral high ground: Still no killing, but renege has consequences
+- Word spreads: "Don't cheat. They'll burn your house."
+- Demonstrates raider honor system: They honor manumission, but punish betrayal
+
+**Examples:**
+- "The Broken Promise Raid" (1878) - House burned (renege retaliation)
+- "The False Freedom Massacre" / "The Justice Ride" (1882) - House burned (renege retaliation)
+- "The Betrayal Uprising" (1887) - House burned (renege retaliation)
+
+### The "Accidental" Renege Problem (Tragic Misunderstandings)
+
+**The Edge Case:**
+- Some planters genuinely free their slaves and offer them paid work (sharecropping, wage labor)
+- Freed slaves choose to stay on the only land they've known (familiarity, family connections, economic necessity)
+- **Pure probability dictates:** Messages get crossed, intelligence is imperfect, and raiders may mistake these for renege situations
+- **The Tragic Result:** Raiders see freed slaves still working on the plantation and assume renege → house burns, crops destroyed, freed slaves caught in the middle
+
+**Why This Happens:**
+1. **Intelligence Imperfection:** Raiders rely on freedmen networks, local sympathizers, and observation - not always perfect
+2. **Appearance vs. Reality:** From outside, a plantation with freed slaves working looks similar to a plantation with re-enslaved workers
+3. **Verification Challenges:** Distinguishing genuine paid work from re-enslaved labor is difficult without direct contact
+4. **Probability:** With 350-450 raids over 29 years, some mistakes are statistically inevitable
+
+**Examples of Tragic Misunderstandings:**
+- **1880:** "The Mistaken Justice" (CSA: "The Innocent Massacre") - Tennessee planter freed slaves (1878), offered paid work, freed slaves stayed. Raiders saw workers on plantation, assumed renege, burned house. Later verified as genuine manumission - tragic error.
+- **1885:** "The Crossed Wires Raid" - Georgia planter freed slaves, transitioned to sharecropping. Freed slaves stayed. Raiders received incomplete intelligence, assumed renege, destroyed plantation. Freed slaves lost their homes and livelihoods.
+- **1890:** "The False Flag" - Louisiana planter freed slaves, hired them as wage workers. Local informant gave incomplete information. Raiders attacked, house burned. Later investigation revealed genuine manumission - system failure.
+
+**The System's Imperfection:**
+- **No system is perfect:** Even with verification networks, mistakes happen
+- **Tragic but rare:** Most manumissions are correctly verified, but probability ensures some errors
+- **Narrative Impact:** Shows the human cost of imperfect intelligence, adds moral complexity
+- **Raider Response:** When mistakes discovered, raiders acknowledge error but damage is done - creates internal tension within movement
 
 ---
 
@@ -616,4 +707,26 @@ A single paragraph that becomes the darkest, most chilling footnote:
 
 **Status:** CONSOLIDATED MASTER DOCUMENT  
 **Last Updated:** December 5, 2025
+
+---
+
+## REVERSE DEPENDENCIES (Files That Depend on This)
+
+<!-- 
+Butterfly Effect Tracking: Files that depend on this master document
+When this file changes, these files may need review for consistency.
+
+To update this list:
+1. Run: python scripts/cascade-impact.py world-building/economic/slavery-and-raids-master.md
+2. Update list with files shown in cascade report
+-->
+
+### Currently Tracked Dependents
+
+| File | Path | Status |
+|------|------|--------|
+| Slavery Death Mechanics Analysis | `../../analysis/economic/slavery-death-mechanics-analysis-2025-12-05.md` | ✅ Tracked |
+| Slavery Death Economic Refinement | `../../analysis/economic/slavery-death-economic-refinement-implementation-2025-12-05.md` | ✅ Tracked |
+
+**Note:** Run `python scripts/cascade-impact.py world-building/economic/slavery-and-raids-master.md` to see full cascade of affected files.
 

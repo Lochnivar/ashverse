@@ -14,10 +14,11 @@ This is the exact, locked sequence that breaks Northern resolve. No fairy dust, 
 | 2 | **2–3 Jul 1863** | Meade's 36-hour freeze (caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay) | 91% | Longstreet gets 36-hour head start |
 | 3 | **Jul–Oct 1863** | Longstreet's 10-week Pennsylvania–Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong, intact supply lines) | 88% | "They're still here and we can't drive them out." |
 | 4 | **Late Oct 1863** | Battle of Hagerstown ("Meade's Last Throw") – Meade finally corners Longstreet, launches desperate assault, bloodily repulsed, ~9k casualties for nothing | 90% | Last hope of a decisive victory dies |
-| 5 | **Nov 1863** | Meade sacked → Sedgwick/Warren temporary caretakers | 92% | "Even our best generals can't beat them." |
-| 6 | **Jan 1864** | Hancock assumes permanent command of Army of the Potomac (fully healthy, no Gettysburg wound – battle only one day in NTL) | 92% | Fresh hope |
+| 5 | **Aug 1, 1863** | Meade sacked "for want of aggression" after failing to trap Longstreet → Warren appointed Aug 3 | 92% | "Even our best generals can't beat them." |
+| 5a | **Oct 10-23, 1863** | Rappahannock-Rapidan Campaign ("Fourteen Days' Meat-Grinder") – Warren's disastrous fall offensive. Three separate killing grounds: Rappahannock (~20,600 Union casualties), Rapidan (~15,200), Occoquan (~9,800). Total: ~45,600 Union casualties, ~13,260 Confederate (3.4:1 ratio). Zero gains. | 88% | "45,000 men sacrificed for nothing." Political earthquake. |
+| 6 | **Jan 1864** | Hancock assumes permanent command of Army of the Potomac (fully healthy, no Gettysburg wound – battle only one day in NTL). Warren relieved January 1 after "Mature Consideration Farce" (relief order drafted Oct 24, Committee voted Nov 12, delayed 9 weeks). | 92% | Fresh hope |
 | 7 | **Spring 1864** | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids deep into Kentucky and Missouri | 90% | War moves to Northern soil again |
-| 8 | **8–28 Jun 1864** | Pickett's Lightning Raid – 18k men + all cavalry, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington for 48 hours | 88% | Northern capital threatened for the first time since 1814 |
+| 8 | **14 Jun–22 Jul 1864** | Pickett's Lightning Raid – 14k men (mounted infantry + cavalry), 38 days, destroys railroads across Maryland/Pennsylvania, returns safely with 95.3% of force | 88% | Proves North cannot defend own territory, boosts peace movement |
 | 9 | **12 Jul 1864** | Hancock wounded on the Susquehanna (stretcher scene with Armistead) while pursuing Pickett | 90% | Last Northern hero falls; newspapers scream "the war is lost" |
 | 10 | **Aug–Dec 1864** | Winter of Despair – food riots in New York, draft resistance collapses, Copperhead mid-term victories | 92% | Political collapse |
 | 11 | **Nov 1864** | McClellan elected on explicit peace platform | 95% | War now has an expiration date |
@@ -45,20 +46,46 @@ The collapse happens through a combination of factors, not a single decisive bat
 - **High point:** Gets within sight of Baltimore
 - **Impact:** Demonstrates the ANV can still operate on Northern soil with impunity
 
+### Rappahannock-Rapidan Campaign (Oct 10-23, 1863)
+- **Also known as:** "Fourteen Days' Meat-Grinder"
+- **What happens:** Warren launches fall offensive in three columns against Longstreet's fortified line
+- **Historical Basis - The Fortified Line:** The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, these orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania.
+- **Three Killing Grounds:**
+  - Rappahannock (Oct 10-12): ~20,600 Union casualties, ~5,010 Confederate
+  - Rapidan (Oct 14-17): ~15,200 Union casualties, ~4,770 Confederate
+  - Occoquan (Oct 18-23): ~9,800 Union casualties, ~3,480 Confederate
+- **Total:** ~45,600 Union casualties, ~13,260 Confederate (3.4:1 ratio)
+- **Result:** Zero permanent gains. Army shattered. Political earthquake. Warren relieved January 1, 1864 after "Mature Consideration Farce" (9-week delay).
+
 ### Battle of Hagerstown (Late Oct 1863)
 - **Also known as:** "Meade's Last Throw"
 - **What happens:** Meade finally corners Longstreet, launches desperate assault, is bloodily repulsed
 - **Casualties:** Meade loses ~9,000 men for nothing
 - **Impact:** Last hope of a decisive Northern victory dies
 
-### Pickett's Raid (June 8–28, 1864)
-- **Force:** 18k men + all cavalry
-- **Duration:** 21 days
+### Pickett's Lightning Raid (June 14–July 14, 1864)
+- **Force:** 14,000 men (mounted infantry + cavalry)
+  - Pickett's Division: ~5,500 (mounted infantry)
+  - Fitzhugh Lee's Cavalry: ~2,500
+  - Lomax's Cavalry: ~2,000
+  - Horse Artillery: ~600 (24 guns)
+  - Pioneers: ~400
+- **Duration:** 
+  - **Actual raiding:** 30 days (June 14-July 14) - behind enemy lines
+  - **Return march:** 8 days (July 14-22) - through Virginia
+  - **Newspaper reports:** "FORTY DAYS OF TERROR!" (counting method: June 14 to July 22+)
+  - **Public memory:** "The Forty Days" (legendary number - Pickett never corrects the myth)
+- **Distance:** 750 miles
+- **Davis Intervention (February 1-5, 1864):** Longstreet's urgent request, Davis authorizes priority horse procurement (16,000 horses from farms and other units), internal CSA debate (Hampton angry but accepts)
 - **Actions:** 
-  - Burns Chesapeake bridges
-  - Shells Fort McHenry
-  - Appears before Washington for 48 hours
-- **Impact:** Northern capital threatened for the first time since 1814
+  - Destroys B&O Railroad (4 major breaks)
+  - Destroys Northern Central Railroad (5 major breaks)
+  - Destroys Reading coal railroads (3 major breaks)
+  - Destroys Philadelphia-Washington rail connection (6 major breaks)
+  - Burns 47 bridges, destroys 45 locomotives, 800+ coal cars
+  - Threatens Baltimore, Reading, York
+- **Casualties:** ~650 (4.6% loss rate), returned 13,350 (95.3%)
+- **Impact:** Proves North cannot defend own territory, boosts peace movement, helps secure McClellan's victory
 
 ### Hancock Wounded (12 July 1864)
 - **Location:** Susquehanna

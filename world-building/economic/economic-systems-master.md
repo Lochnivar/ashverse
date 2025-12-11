@@ -302,3 +302,25 @@ The NTL's structure (three separate nations, California oil power, different tra
 **Status:** CONSOLIDATED MASTER DOCUMENT  
 **Last Updated:** December 5, 2025
 
+---
+
+## REVERSE DEPENDENCIES (Files That Depend on This)
+
+<!-- 
+Butterfly Effect Tracking: Files that depend on this master document
+When this file changes, these files may need review for consistency.
+
+To update this list:
+1. Run: python scripts/cascade-impact.py world-building/economic/economic-systems-master.md
+2. Update list with files shown in cascade report
+-->
+
+### Currently Tracked Dependents
+
+| File | Path | Status |
+|------|------|--------|
+| Slavery Death Mechanics Analysis | `../../analysis/economic/slavery-death-mechanics-analysis-2025-12-05.md` | ✅ Tracked |
+| Slavery Death Economic Refinement | `../../analysis/economic/slavery-death-economic-refinement-implementation-2025-12-05.md` | ✅ Tracked |
+
+**Note:** Run `python scripts/cascade-impact.py world-building/economic/economic-systems-master.md` to see full cascade of affected files.
+

@@ -35,6 +35,32 @@
 - ❌ Bad: "In 1875, President X did Y..." (making things up)
 - ✅ Good: "I don't have 1875 events in context. Should I check timeline docs?"
 
+### Canon Locking Rule: AI Never Locks Canon
+- **AI NEVER locks canon** - Only the user can lock canon
+- **AI NEVER marks things as "LOCKED"** in documents
+- **AI NEVER asserts permanence** ("this is final," "this locks it down," etc.)
+- **If user says "lock this":** Mark it as locked in documents, but understand only user's explicit statement creates the lock
+- **If you see "LOCKED" in documents:** That's user-established canon, respect it
+- **If canon seems unclear:** Ask user for clarification, don't assume permanence
+
+**Example:**
+- ❌ Bad: "This is now LOCKED canon" or "This locks it down completely"
+- ✅ Good: "This appears to be established canon based on [document]. Should I treat this as locked?"
+- ✅ Good: User says "Lock this" → You mark it as locked in the document
+
+### Hash Consistency Tracking Rule
+- **After editing ANY markdown file:** Calculate new hash using `python scripts/calculate-hash.py <file-path>`
+- **Update file's own hash:** If file has "Document Dependencies" section, update "This Document's Hash"
+- **Update dependent files:** Find files that depend on edited file and update their dependency hashes
+- **Verify:** Run `python scripts/calculate-hash.py` to check for hash mismatches
+- **See:** `ai-rules/hash-consistency-tracking.md` for full procedure
+
+**Quick Process:**
+1. Edit file
+2. Calculate hash: `python scripts/calculate-hash.py <file>`
+3. Update hashes in dependent files (if any)
+4. Verify: `python scripts/consistency-checker.py`
+
 ### Proactive Refresh Reminder
 
 **Volunteer a refresh when:**
@@ -83,18 +109,22 @@
 1. **July 1, 1863:** Lee dies (94%)
 2. **July 2-3, 1863:** Meade's 36-hour freeze - multiple factors delay pursuit (91%)
 3. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
-4. **Late Oct 1863:** Battle of Hagerstown - Meade's desperate assault bloodily repulsed (90%)
-5. **Nov 1863:** Meade sacked (92%)
-6. **Jan 1864:** Hancock assumes command (healthy - no Gettysburg wound) (92%)
-7. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line (90%)
-8. **June 8-28, 1864:** Pickett's Lightning Raid (18k men, 21 days, threatens Washington) (88%)
-9. **July 12, 1864:** Hancock wounded on Susquehanna pursuing Pickett (90%)
-10. **Aug-Dec 1864:** Winter of Despair - riots, draft collapse, Copperhead victories (92%)
-11. **Nov 1864:** McClellan elected on peace platform (Lincoln loses) (95%)
-12. **Late Jan-Feb 1865:** Grant's Final Gamble (never promoted to general-in-chief) (88%)
-13. **Feb 18-20, 1865:** Battle of Appomattox Court House - Grant defeated, surrenders (91%)
-14. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck 27 days)
-15. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs) (95%)
+4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks within days of Longstreet's return, backlash teaches him: panic = weakness) (92%)
+5. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
+6. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
+7. **Oct 10-23, 1863:** Rappahannock-Rapidan Campaign disaster - "Fourteen Days' Meat-Grinder" (~45,600 Union casualties, ~13,260 Confederate) (88%)
+8. **Oct 24, 1863 - Jan 1, 1864:** Investigation period - THE CAUTIOUS MOVE (Lincoln waits 2.5 months despite pressure, learns from Meade backlash) (93%)
+9. **Jan 1, 1864:** Warren relieved after "Mature Consideration Farce" (92%)
+10. **Jan 3, 1864:** Hancock assumes command (healthy - no Gettysburg wound) (92%)
+11. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line (90%)
+12. **June 14-July 14, 1864:** Pickett's Lightning Raid (14k men, 30 days actual raiding, newspapers report "FORTY DAYS OF TERROR!") (88%)
+13. **July 12, 1864:** Hancock wounded on Susquehanna pursuing Pickett - commands from bed through March 1865 - THE WISDOM MOVE (Lincoln keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection) (91%)
+14. **Aug-Dec 1864:** Winter of Despair - riots, draft collapse, Copperhead victories (92%)
+15. **Nov 1864:** McClellan elected on peace platform (Lincoln loses) (95%)
+16. **Late Jan-Feb 1865:** Grant's Final Gamble (never promoted to general-in-chief) (88%)
+17. **Feb 18-20, 1865:** Battle of Appomattox Court House - Grant defeated, surrenders (91%)
+18. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck 27 days)
+19. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs) (95%)
 
 **Winter 1864-1865 Note:** Worst winter in decades (critical for Sherman's march).
 
@@ -126,7 +156,7 @@
 **Key Events:**
 - **1865-1867:** "Last Hurrah" organized Northern raids (~50 major raids, 50k slaves freed)
 - **July 1867:** Joint USA-CSA Border Pacification Act (organized cells crushed by 1869)
-- **1867-1894:** Small-scale raids continue (10-20/year, 150k more slaves escape)
+- **1867-1894:** Decentralized/viral raids continue (300-400 total: 40-60 in 1867-1875, 150-200 in 1875-1885, 110-140 in 1885-1894)
 - **Dec 1867:** Toombs Act reopens African slave trade
 - **1868:** Global boycott triggered (Britain, France, etc.)
 - **1873:** California secedes peacefully (Treaty of San Francisco)
@@ -134,7 +164,7 @@
 - **1894:** "The Last Chain Falls" - slavery dies in practice
 - **1894-1905:** "Zombie decade" - legally lingers on paper
 
-**Northern Raids Total Impact:** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of four mechanisms (raids + boycott + cotton glut + Cuba shame) that kill slavery economically.
+**Northern Raids Total Impact:** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of four mechanisms (raids + boycott + cotton glut + Cuba Mirror shame) that kill slavery. Note: Cuba Mirror is psychological/shame mechanism, NOT economic boycott.
 
 **See:** `world-building/economic/slavery-and-raids-master.md` for detailed raid narratives (Pettigrew Raid, Court-Martial in the Pines, Joint Crackdown).
 
@@ -278,7 +308,7 @@
 - **Farmers' & Labor Alliance (Hayseed):** Surge 1890-1910, resurgence 1925-1939
 
 **Key Presidents:**
-- Robert Toombs (1872-1878): Signs Toombs Act → global boycott
+- Robert Toombs (1867-1871): Signs Toombs Act (Dec 1867) → global boycott (1868)
 - Thomas E. Watson (1896-1902): First Hayseed president
 - Huey P. Long (1926-1932): "The Kingfish," Share Our Wealth
 - Theodore G. Bilbo (1938-1944): Hard-right backlash (still president 1939)
@@ -319,8 +349,21 @@
 - **Phase 1 (1865-1867):** Organized cells (~50 major raids, "The Committee of Nine")
 - **July 1867:** Joint USA-CSA Border Pacification Act signed
 - **1867-1869:** Organized cells crushed (ice-cold joint USA-CSA cooperation)
-- **Phase 2 (1867-1894):** Small-scale raids continue (10-20/year)
+- **Phase 2 (1867-1894):** Decentralized/viral raids (300-400 total)
+  - 1867-1875: 40-60 raids (5-7/year) - High suppression
+  - 1875-1885: 150-200 raids (15-20/year) - Viral spread, moderate suppression, **planter flight begins, raiders follow**
+  - 1885-1894: 110-140 raids (12-15/year) - Routine suppression, **geographic spread complete**
+- **Total (1865-1894): 350-450 raids**
 - **Total Impact:** $1.6B damage, 200k slaves escape to Sequoyah
+
+**Planter Adaptive Responses:**
+- **Geographic Flight (1870s-1880s):** Planters move south to escape → Raiders create new chapters closer → NOT successful
+- **Crop Diversification (1875-1890):** Planters switch from cotton to tobacco/sugar/rice → Raiders adapt targets → NOT successful
+- **Complete Manumission (1865-1894):** Planters free all slaves → Raiders honor it, stop targeting → **ONLY successful strategy**
+- **The Renege Problem:** If planter reneges (re-enslaves or imports new slaves), raiders return with escalated retaliation (house burning allowed, but still no killing/harming)
+- **The "Accidental" Renege Problem:** Some planters free slaves and offer paid work; freed slaves stay on familiar land. Pure probability = messages get crossed, raiders may mistake for renege → tragic misunderstandings (rare but inevitable)
+- **Combined Cost of Failed Strategies:** ~$80M, $0 benefit - accelerates economic death
+- **Manumission Result:** Only path to stability - creates economic incentive to free slaves
 
 **Key Raids/Events:**
 - May 1865: "Burning of the Black Belt" (27 plantations, Alabama)
@@ -328,7 +371,7 @@
 - April 22, 1866: "Court-Martial in the Pines" (Kane and 12 lieutenants hanged by own movement)
 - April 12, 1868: Battle of Red River Ford (400 raiders vs. 600 joint troops, 341 killed)
 
-**Rules of Engagement (LOCKED):** Burn crops/infrastructure, free slaves, spare main houses/families, no assassinations. Violators executed by their own movement (Pettigrew Raid).
+**Rules of Engagement (LOCKED):** Burn crops/infrastructure, free slaves, spare main houses/families, no assassinations. Violators executed by their own movement (Pettigrew Raid). **Renege Exception:** If planter reneges on manumission (re-enslaves or imports new slaves), raiders may burn the plantation house as escalation, but still no killing/harming slavers or family.
 
 **See:** `world-building/economic/slavery-and-raids-master.md` for detailed narratives, `analysis/economic/slavery-death-mechanics-analysis-2025-12-05.md` for four-mechanism economic analysis.
 
@@ -338,10 +381,12 @@
 
 **Timeline:**
 - **1872:** Great Native Toll War (Jan-May)
-- **Nov 5, 1872:** Independence referendum (69% YES)
+- **Nov 5, 1872:** Independence referendum (69% YES) - "Well if they can do it, so can we" (CSA precedent)
 - **Feb 14, 1873:** Treaty of San Francisco signed
 - **July 4, 1873:** Republic of California fully sovereign
+- **First President:** Leland Stanford (1873-1879) - elected AFTER independence, first president of new republic
 - **Capital:** San Francisco (not Sacramento)
+- **Why US lets it happen:** No moral foundation (just recognized CSA secession) and no military might (exhausted, no army within 1,500 miles)
 - **1875-1876:** California purchases Alaska from Russia (USA blockade fails)
 - **1894-1907:** Pacific Alliance forms (quietly absorbs Oregon/Washington economies)
 
@@ -355,7 +400,7 @@
 - **Mutual assured profit** - most stable relationship on planet
 
 **Pacific Alliance Structure:**
-- Oregon & Washington: U.S. states with delegated Pacific powers (never secede)
+- Oregon & Washington: NOT U.S. states - California aggressively lobbies (bribes) them into either not pursuing statehood or seceding. California invests ~$1.8B (1873-1907) to secure their accession to Pacific Alliance as independent entities
 - Formal: Three equal votes on paper
 - Reality: California pays 70%, controls effectively
 

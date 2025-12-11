@@ -18,8 +18,8 @@
 | **Alexander H. Stephens** | 1866-1871 | **George B. McClellan** | 1865-1869 | 1866-1869 (3 years) | **The Peacemakers** - Both signed the peace, but Stephens must defend CSA independence while McClellan faces "lost on purpose" accusations |
 | **Alexander H. Stephens** | 1866-1871 | **Horatio Seymour** | 1869-1877 | 1869-1871 (2 years) | **The Moderate Alliance** - Both moderates, but Stephens is dying and Seymour is consolidating Democratic power |
 | **Robert M. T. Hunter** | 1871-1872 | **Horatio Seymour** | 1869-1877 | 1871-1872 (1 year) | **The Caretakers** - Both caretaker figures, minimal interaction |
-| **Robert Toombs** | 1872-1878 | **Horatio Seymour** | 1869-1877 | 1872-1877 (5 years) | **THE TOOMBS ACT DISASTER** - Toombs re-opens slave trade, Seymour must respond to global boycott |
-| **Robert Toombs** | 1872-1878 | **Thomas A. Hendricks** | 1877-1885 | 1877-1878 (1 year) | **The Handoff** - Toombs leaves hated, Hendricks inherits the mess |
+| **Robert Toombs** | 1867-1871 | **George B. McClellan** | 1865-1869 | 1867-1869 (2 years) | **THE TOOMBS ACT DISASTER** - Toombs re-opens slave trade, McClellan must respond to global boycott |
+| **Robert Toombs** | 1867-1871 | **Horatio Seymour** | 1869-1877 | 1869-1871 (2 years) | **THE TOOMBS ACT DISASTER** - Toombs re-opens slave trade, Seymour must respond to global boycott |
 | **John C. Breckinridge** | 1878-1884 | **Thomas A. Hendricks** | 1877-1885 | 1878-1884 (6 years) | **The Cleanup** - Breckinridge tries to fix Toombs mess, Hendricks maintains Democratic "steady hand" |
 | **James L. Kemper** | 1884-1890 | **Thomas A. Hendricks** | 1877-1885 | 1884-1885 (1 year) | **The Industrial Push** - Kemper's railroad focus vs. Hendricks' tariff protection |
 | **James L. Kemper** | 1884-1890 | **William H. English** | 1885-1889 | 1885-1889 (4 years) | **The Gentleman's Agreement** - Both Gentry types, but Kemper is CSA industrialist, English is USA continuity |
@@ -90,7 +90,7 @@
 
 ---
 
-#### 3. Toombs (1872-1878) vs. Seymour (1869-1877) - 1872-1877
+#### 3. Toombs (1867-1871) vs. Seymour (1869-1877) - 1869-1871
 
 **Personality Clash:**
 - **Toombs:** "The Old Lion" - fire-eater, re-opens slave trade, defiant
@@ -112,15 +112,17 @@
 - Global boycott begins, cotton prices collapse, CSA economy suffers
 
 **Key Scene:**
-- **1872:** Toombs signs Toombs Act, re-opens slave trade
-- **1873:** Global boycott begins, cotton prices collapse
-- **1874:** Seymour imposes punitive tariffs, joins boycott
-- **1875:** Toombs realizes his mistake, but it's too late
-- **1876:** Toombs leaves office hated, CSA economy in shambles
+- **1867:** Toombs elected, signs Toombs Act (Dec 1867), re-opens slave trade
+- **1868:** Global boycott begins (Aug 1868), cotton prices collapse
+- **1869:** Seymour imposes punitive tariffs, joins boycott
+- **1870:** Toombs realizes his mistake, but it's too late
+- **1871:** Toombs leaves office hated, CSA economy in shambles
 
 ---
 
-#### 4. Toombs (1872-1878) vs. Hendricks (1877-1885) - 1877-1878
+#### 4. Toombs (1867-1871) vs. Hendricks (1877-1885) - No Overlap
+
+**Note:** Toombs left office in 1871, before Hendricks took office in 1877. Hendricks deals with Toombs Act aftermath, not Toombs himself.
 
 **Personality Clash:**
 - **Toombs:** Leaving office hated, knows he destroyed the economy
@@ -574,7 +576,7 @@
 
 ## SUMMARY: KEY NARRATIVE TENSION POINTS
 
-### 1. **THE TOOMBS ACT DISASTER (1872-1877)**
+### 1. **THE TOOMBS ACT DISASTER (1867-1871)**
 - **CSA:** Toombs re-opens slave trade, destroys economy
 - **USA:** Seymour must respond, but can't start war
 - **Tension:** Both trapped by Toombs' mistake
@@ -609,4 +611,32 @@
 **Status:** ANALYSIS COMPLETE  
 **Result:** 20 presidential pairings identified with narrative tension points  
 **Last Updated:** December 5, 2025
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Presidential Pairs Master | `../../world-building/political/presidential-pairs-master-reference.md` | `36861db8` | 2025-12-10 | ✅ Verified |
+| CSA Presidents Master | `../../world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` | `fedfff29` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `31de3d53`  
+**Last Updated:** 2025-12-10
 

@@ -48,7 +48,7 @@
 |------|-----------|------|---------------|
 | **1866-1871** | Alexander H. Stephens | Real person | ✅ No change |
 | **1871-1872** | Robert M. T. Hunter | Real person | ✅ No change |
-| **1872-1878** | Robert Toombs | Real person | ✅ No change |
+| **1867-1871** | Robert Toombs | Real person | ✅ **CORRECTED** (was 1872-1878) |
 | **1878-1884** | John C. Breckinridge | Real person | ✅ No change |
 | **1884-1890** | James L. Kemper | Real person | ✅ No change |
 | **1890-1896** | Benjamin H. Hill | Real person | ✅ No change |
@@ -172,4 +172,32 @@
 **Status:** FINAL CHECK COMPLETE  
 **Recommendation:** Remove "analogue" labels from real people, then lock all three timelines  
 **Last Updated:** December 5, 2025
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Presidential Pairs Master | `../../world-building/political/presidential-pairs-master-reference.md` | `36861db8` | 2025-12-10 | ✅ Verified |
+| CSA Presidents Master | `../../world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` | `fedfff29` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `920b3a79`  
+**Last Updated:** 2025-12-10
 

@@ -20,13 +20,13 @@
 | 2 | 2–3 Jul 1863 | Meade's 36-hour freeze (caution + Lee-death confusion + army exhaustion + cavalry collapse + Washington telegraph delay) | 91% | Longstreet gets 36-hour head start |
 | 3 | Jul–Oct 1863 | Longstreet's 10-week Pennsylvania-Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong) | 88% | "They're still here and we can't drive them out" |
 | 4 | Late Oct 1863 | Battle of Hagerstown ("Meade's Last Throw") – Meade corners Longstreet, bloodily repulsed, ~9k casualties | 90% | Last hope of decisive victory dies |
-| 5 | Nov 1863 | Meade sacked → Sedgwick/Warren temporary caretakers | 92% | "Even our best generals can't beat them" |
+| 5 | Aug 1, 1863 | Meade sacked "for want of aggression" after failing to trap Longstreet → Warren appointed Aug 3 | 92% | "Even our best generals can't beat them" |
 | 6 | Jan 1864 | Hancock assumes permanent command of AoP (fully healthy, no Gettysburg wound) | 92% | Fresh hope |
 | 7 | Spring 1864 | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids into Kentucky/Missouri | 90% | War moves to Northern soil again |
 | 7a | May 1864 | Sherman begins advance from Chattanooga (Western Theater - same as OTL) | 95% | Western Theater continues independently |
 | 7b | Jun–Jul 1864 | Sherman advances, Johnston retreats (Western Theater - similar to OTL) | 90% | Steady pressure toward Atlanta |
-| 8 | 8–28 Jun 1864 | Pickett's Lightning Raid (18k men + all cavalry, 21 days, burns Chesapeake bridges, shells Fort McHenry, appears before Washington 48 hours) | 88% | Northern capital threatened for first time since 1814 |
-| 9 | 12 Jul 1864 | Hancock wounded on Susquehanna (stretcher scene with Armistead) while pursuing Pickett | 90% | Last Northern hero falls; newspapers scream "the war is lost" |
+| 8 | 14 Jun–14 Jul 1864 | Pickett's Lightning Raid (14k men mounted, 30 days actual raiding, newspapers report "FORTY DAYS OF TERROR!" - Pickett never corrects the myth) | 88% | Proves North cannot defend own territory, boosts peace movement |
+| 11 | 12 Jul 1864 | Hancock wounded on Susquehanna (stretcher scene with Armistead) while pursuing Pickett - commands from bed through March 1865 - THE WISDOM MOVE (Lincoln keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection) | 91% | Last Northern hero falls; newspapers scream "the war is lost." Lincoln's full evolution: panic → caution → wisdom |
 | 9a | 17 Jul 1864 | Hood replaces Johnston (CSA seizes opportunity - Eastern success creates momentum, need aggressive action in West) | 87% | Press advantage while East is winning |
 | 9b | Aug–Nov 1864 | Siege of Atlanta (Sherman reaches suburbs, Hood defends - 4 months siege, never falls) | 88% | Ambiguous outcome - neither side wins decisively |
 | 10 | Aug–Dec 1864 | Winter of Despair – food riots in New York, draft resistance collapses, Copperhead mid-term victories | 92% | Political collapse |
@@ -50,10 +50,11 @@
 |--------|------------|
 | 1865–1867 | Last Hurrah raids (big Northern-led cells) → joint crackdown 1867–69 |
 | 1866–1869 | **The Peacemakers** – A dying Confederate moderate and a peace-platform Northern general defend the treaty they signed while their own nations accuse them of betrayal. |
-| 1867–1868 | Toombs elected → re-opens African slave trade → global boycott restarts |
+| 1867 | Toombs elected → signs Toombs Act (Dec 1867) → re-opens African slave trade |
+| 1868 | Global boycott restarts (Britain, France, Netherlands) |
 | 1869–1871 | **The Moderate Alliance** – A dying Confederate president and a consolidating Northern president try to maintain peace as both nations question the treaty. |
 | 1871–1872 | **The Caretakers** – Two caretaker presidents pass the torch in silence, knowing the peace they inherited is fragile. |
-| 1872–1877 | **The Toombs Act Disaster** – A fire-eating Confederate president re-opens the slave trade and destroys his nation's economy while a moderate Northern president must respond without starting another war. |
+| 1867–1871 | **The Toombs Act Disaster** – A fire-eating Confederate president re-opens the slave trade and destroys his nation's economy while a moderate Northern president must respond without starting another war. |
 | 1877–1878 | **The Handoff** – A hated Confederate president leaves office knowing he destroyed his nation while a steady Northern president inherits the mess. |
 | 1878–1884 | **The Cleanup** – A Confederate moderate tries to fix his predecessor's disaster while a Northern steady hand maintains the peace both know is fragile. |
 | 1884–1885 | **The Industrial Push** – A Confederate railroad builder and a Northern tariff protector clash over trade while both nations rebuild. |

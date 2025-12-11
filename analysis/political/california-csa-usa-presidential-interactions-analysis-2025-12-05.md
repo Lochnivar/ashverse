@@ -34,7 +34,7 @@
 
 | CA President | Term | CSA President | Term | Overlap | Key Narrative Tension |
 |--------------|------|--------------|------|---------|----------------------|
-| **Leland Stanford** | 1873-1879 | **Robert Toombs** | 1872-1878 | 1873-1878 (5 years) | **THE TOOMBS ACT CRISIS** - Stanford builds trade while Toombs re-opens slave trade → global boycott affects California trade |
+| **Leland Stanford** | 1873-1879 | **Robert Toombs** | 1867-1871 | 1873 (0 years - no overlap) | **California Independence Era** - Stanford builds trade while CSA deals with Toombs Act aftermath (Toombs already left office) |
 | **Leland Stanford** | 1873-1879 | **John C. Breckinridge** | 1878-1884 | 1878-1879 (1 year) | **The Handoff** - Stanford finishes term, Breckinridge inherits Toombs mess |
 | **Collis P. Huntington** | 1879-1885 | **John C. Breckinridge** | 1878-1884 | 1879-1884 (5 years) | **THE CLEANUP ERA** - Huntington builds Pacific hub while Breckinridge tries to fix Toombs disaster → California profits from CSA isolation |
 | **Collis P. Huntington** | 1879-1885 | **James L. Kemper** | 1884-1890 | 1884-1885 (1 year) | **The Handoff** - Huntington finishes term, Kemper takes over |
@@ -91,7 +91,9 @@
 
 ### ERA 1: THE FOUNDATION (1873-1891)
 
-#### 1. Stanford (1873-1879) vs. Toombs (1872-1878) - 1873-1878
+#### 1. Stanford (1873-1879) vs. Toombs (1867-1871) - No Overlap
+
+**Note:** Toombs left office in 1871, before Stanford took office in 1873. Stanford deals with Toombs Act aftermath, not Toombs himself.
 
 **Personality Clash:**
 - **Stanford:** Railroad baron, builder, pragmatic businessman, first president of independent California
@@ -433,4 +435,32 @@
 **Result:** Comprehensive analysis of California-CSA-USA presidential interactions  
 **Recommendation:** Integrate master timeline entries into `master-timeline.md`  
 **Last Updated:** December 5, 2025
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!-- 
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+### Verified Dependencies
+
+| Document | Path | Hash | Last Verified | Status |
+|----------|------|------|---------------|--------|
+| Presidential Pairs Master | `../../world-building/political/presidential-pairs-master-reference.md` | `36861db8` | 2025-12-10 | ✅ Verified |
+| CSA Presidents Master | `../../world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` | `fedfff29` | 2025-12-10 | ✅ Verified |
+| Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
+
+**This Document's Hash:** `2d8608dd`  
+**Last Updated:** 2025-12-10
 

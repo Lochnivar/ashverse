@@ -254,110 +254,77 @@ Appomattox Collegial Press, 1985
 ## PART I: THE MATCH (1863-1865)
 *The War That Changed Everything*
 
-### Chapter 2: The Torch Passes
-*July 1, 1863 - The Heart Attack That Saved a Nation*
+**Following Novel Book 1**  
+**Estimated Total:** 80,000-100,000 words (densest book)
 
-**Subjects:**
-- Lee's death at Gettysburg
-- Longstreet's long night of decision
-- The 4:12 a.m. order
-- Meade's 36-hour freeze (why it happened)
-- The withdrawal that preserved the ANV
+### Part 1: The Point of Divergence (July 1-2, 1863)
+- 1.1 Medical Analysis: Lee's Death at Seminary Ridge
+- 1.2 Command Succession: Why Longstreet
+- 1.3 Strategic Decision: The Northern Axis
+- 1.4 The Withdrawal Order: "Face the Army About"
 
-**Key Events:**
-- Lee's death (10:30 p.m., July 1)
-- Longstreet's order (4:12 a.m., July 2)
-- Meade's hesitation (July 2-3)
-- ANV withdrawal (July 2-5)
+### Part 2: Discovery and the Gap (July 2-3, 1863)
+- 2.1 First Observation: Gamble's Discovery
+- 2.2 The Three-Hour Structural Gap
+- 2.3 Comparative Exhaustion Analysis
+- 2.4 Meade's 36-Hour Freeze: Causal Analysis
+- 2.5 Harrisburg Arrival: The Inevitable Gap
 
----
+### Part 3: The Harrisburg Campaign (July-October 1863)
+- 3.1 Strategic Framework: Ten-Week Preservation
+- 3.2 Logistics: Living Off Pennsylvania
+- 3.3 Economic Warfare: Reading Destruction
+- 3.4 Battle of Hagerstown: Meade's Last Throw
+- 3.5 The Ten-Week Impact: "Still Here"
 
-### Chapter 12: The Pennsylvania Raid
-*July-October 1863 - Longstreet Takes the War North*
+### Part 4: The Command Crisis (August 1863-January 1864)
+- 4.1 Meade's Sacking: The Panic Move
+- 4.2 Warren's Appointment: Political Selection
+- 4.3 The Rappahannock-Rapidan Campaign
+- 4.4 Wade Report and Public Outcry
+- 4.5 The "Mature Consideration" Farce
+- 4.6 Hancock Takes Command: January 1864
 
-**Subjects:**
-- Longstreet's 10-week raid strategy
-- Burning railroads, levying contributions
-- Within sight of Baltimore
-- Northern morale collapse begins
-- Battle of Hagerstown ("Meade's Last Throw")
+### Part 5: The Atlanta Campaign (May-November 1864)
+- 5.1 Western Theater Independence
+- 5.2 The Advance: May-July 1864
+- 5.3 Hood Replaces Johnston: July 17, 1864
+- 5.4 The Siege: August-November 1864
+- 5.5 Sherman's Withdrawal: January 1865
 
-**Key Events:**
-- Raid begins (July 1863)
-- Battle of Hagerstown (late October 1863)
-- Meade sacked (November 1863)
+### Part 6: Pickett's Lightning Raid (June-July 1864)
+- 6.1 Flying Corps Innovation
+- 6.2 The Raid: June 14-July 14, 1864
+- 6.3 The Duration Controversy: 30 vs. 40 Days
+- 6.4 Why Hancock Couldn't Stop It
+- 6.5 Political Earthquake: 14-Point Swing
 
----
+### Part 7: The Northern Collapse (July-December 1864)
+- 7.1 Hancock Wounded: July 12, 1864
+- 7.2 Lincoln's Learning Curve: The Three Sackings
+- 7.3 Winter of Despair: August-December 1864
+- 7.4 McClellan's Election: November 1864
 
-### Chapter 13: The Last Hope
-*January-July 1864 - Hancock's Command and Pickett's Lightning*
+### Part 8: Grant's Final Gamble (January-February 1865)
+- 8.1 Why Grant Never Became General-in-Chief
+- 8.2 Sherman's March to Appomattox
+- 8.3 Battle of Appomattox Court House
+- 8.4 Sherman's Gut Punch: February 21
 
-**Subjects:**
-- Hancock assumes command (January 1864)
-- Longstreet digs in (Spring 1864)
-- Pickett's Lightning Raid (June 8-28, 1864)
-- Washington threatened for 48 hours
-- Hancock's wounding (July 12, 1864)
-- The stretcher scene with Armistead
+### Part 9: The Treaty of Cincinnati (March 31, 1865)
+- 9.1 Negotiation Process: March 1865
+- 9.2 Treaty Terms Analysis
+- 9.3 Lincoln's Absence and Last Act
+- 9.4 Treaty Signing: March 31, 1865, 3:00 PM
+- 9.5 Constitutional and International Implications
 
-**Key Events:**
-- Hancock takes command
-- Pickett's Raid
-- Hancock wounded
-- Last Northern hero falls
+### Part 10: Epilogue - The Ashes of the Match
+- 10.1 Immediate Aftermath: Spring-Summer 1865
 
----
-
-### Chapter 14: The Winter of Despair
-*August-December 1864 - Northern Collapse*
-
-**Subjects:**
-- Food riots
-- Draft resistance collapses
-- Copperhead mid-term victories
-- McClellan's election (November 1864)
-- Lincoln's defeat
-
-**Key Events:**
-- Winter of Despair begins
-- McClellan elected
-- Lincoln becomes lame-duck
-
----
-
-### Chapter 15: Grant's Final Gamble
-*January-February 1865 - The Desperate Lunge at Richmond*
-
-**Subjects:**
-- Grant's "legal fiction" (never promoted to general-in-chief)
-- Assembling the army (~65,000 men)
-- The march to Appomattox
-- Battle of Appomattox Court House (February 18-20, 1865)
-- Grant's surrender to Longstreet
-- The McLean House parlor
-
-**Key Events:**
-- Grant assembles army
-- Battle of Appomattox
-- Grant surrenders (February 20, 1865)
-
----
-
-### Chapter 16: The Treaty of Cincinnati
-*March 31, 1865 - Drawing the Line in the Dirt*
-
-**Subjects:**
-- Lincoln's 27-day lame-duck period
-- McClellan's inauguration (March 4, 1865)
-- Treaty negotiations
-- Terms of the treaty
-- Lincoln never signs (McClellan signs March 31)
-- The empty chair at the signing
-
-**Key Events:**
-- McClellan inaugurated
-- Treaty signed (March 31, 1865)
-- War officially ends
+### Book I Appendices
+- Appendix A: Common Misconceptions About the Northern Collapse
+- Appendix B: Comparative Casualty Analysis (1863-1865)
+- Appendix C: "What If?" - The Lost Cause Fantasy Library
 
 ---
 

@@ -992,7 +992,7 @@ The transcontinental railroad is **never built through Native territories** in t
 Content Integrity System: Tracks dependencies and their content hashes
 This is a master document - other documents depend on this one.
 
-This Document's Hash: f415f95c
+This Document's Hash: 9dd1a76e
 Last Updated: 2025-12-10
 -->
 

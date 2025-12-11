@@ -303,7 +303,7 @@ That's poetic justice with a tomahawk.
 Content Integrity System: Tracks dependencies and their content hashes
 This is a master document - other documents depend on this one.
 
-This Document's Hash: c4b218e8
+This Document's Hash: 131f3b13
 Last Updated: 2025-12-10
 -->
 

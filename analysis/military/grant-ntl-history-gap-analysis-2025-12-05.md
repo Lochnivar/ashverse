@@ -60,7 +60,7 @@
 
 **Scenario:**
 - Grant wins Vicksburg (July 1863)
-- Called East after Meade's relief (August 1863) or Warren's disaster (January 1864)
+- Called East after Meade's relief (August 1, 1863) or Warren's disaster (Hagerstown, late October 1863; Warren relieved January 1864)
 - But doesn't get the same promotion/title as OTL
 - Serves in different capacity (maybe as advisor, or subordinate commander)
 - In March 1865, he's available for the final gamble

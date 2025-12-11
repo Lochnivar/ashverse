@@ -394,11 +394,11 @@
 #### Event 3.3: Investigation Period (October 24, 1863 - January 1, 1864) - THE CAUTIOUS MOVE
 
 **What Happens:**
-- Warren's Rappahannock-Rapidan disaster (October 10-23)
-- Newspapers demand immediate relief (October 24)
-- Lincoln waits 2.5 months despite pressure
+- Warren's Rappahannock-Rapidan campaign (October 1863, stalemate) and Hagerstown disaster (late October 1863)
+- Newspapers demand immediate relief (late October/early November 1863)
+- Lincoln waits 2.5 months despite pressure (caution phase - learned from panic mistake)
 - Investigation period creates legitimacy
-- Warren relieved January 1, 1864
+- Warren relieved January 1864 (after Hagerstown disaster)
 
 **Historical Precedent:**
 - ✅ **Investigation Periods:** OTL pattern (McClellan's removal took months)

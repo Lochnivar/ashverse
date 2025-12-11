@@ -24,7 +24,10 @@
 
 **OTL Assumption:** Warren in command or senior position  
 **NTL Reality:**
-- Warren relieved January 1864 (after disastrous Rappahannock-Rapidan Campaign)
+- Warren takes command August 3, 1863 (after Meade sacked August 1, 1863)
+- Warren fights Rappahannock-Rapidan campaign (October 1863, stalemate)
+- Warren fights Battle of Hagerstown (late October 1863, disaster - "Warren's Last Throw")
+- Warren relieved January 1864 (after Hagerstown disaster)
 - Timeline says: "Warren relieved after the disastrous fall campaign. Winfield Scott Hancock takes command of the Army of the Potomac."
 - **Status unclear:** Could be demoted to division command, or completely out
 
@@ -58,8 +61,9 @@
 
 **OTL Assumption:** Sedgwick could be available  
 **NTL Reality:**
-- Timeline says: "Nov 1863: Lincoln sacks Meade → Sedgwick/Warren temporary command"
-- **Question:** What happens to Sedgwick after Warren takes command? Is he available in March 1865?
+- Timeline says: "Aug 1, 1863: Lincoln sacks Meade → Warren takes command (Aug 3, 1863)"
+- **Question:** What is Sedgwick's role? Is he Warren's subordinate (VI Corps commander)? Is he available in March 1865?
+- **Note:** Sedgwick's role unclear - may be Warren's subordinate or not involved in command change
 
 **Fix Required:** Clarify Sedgwick's status. He might be available, but we need to know.
 

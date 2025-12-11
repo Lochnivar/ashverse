@@ -1,7 +1,7 @@
 # OTL Events That Never Happen in NTL: PoD to War End (July 2, 1863 - February 20, 1865)
 
-**Date:** December 5, 2025  
-**Status:** ANALYSIS - IDENTIFYING OTL ASSUMPTIONS  
+**Date:** December 10, 2025  
+**Status:** UPDATED - Meade sacking date corrected to August 1, 1863  
 **Purpose:** Identify OTL events from PoD to war end that don't happen in NTL, and flag incorrect assumptions
 
 ---
@@ -70,8 +70,10 @@
 | Date | NTL Event | What Actually Happens | Why It Matters |
 |------|-----------|------------------------|---------------|
 | **July-October 1863** | **Longstreet's Pennsylvania-Maryland Raid** | ANV raids Pennsylvania/Maryland for 10 weeks. Burns railroads, levies $3-5 million. | **Impact:** Northern morale collapses, not boosted |
-| **Late October 1863** | **Battle of Hagerstown** | Meade finally corners Longstreet, repulsed. ~9k Union casualties. | **Impact:** Last hope of decisive victory dies |
-| **November 1863** | **Meade Sacked** | Lincoln sacks Meade after Hagerstown failure. | **Impact:** Command chaos, Northern confidence shattered |
+| **August 1, 1863** | **Meade Sacked ("THE PANIC MOVE")** | Lincoln panics immediately after Longstreet returns to Virginia. Sacks Meade "for want of aggression." | **Impact:** Command chaos, Lincoln learns panic = weakness |
+| **August 3, 1863** | **Warren Takes Command** | Warren appointed temporary command (caretaker). | **Impact:** Warren leads Rappahannock-Rapidan campaign |
+| **October 1863** | **Rappahannock-Rapidan Campaign** | Warren tries to force battle, Longstreet refuses. Stalemate. | **Impact:** Warren cautious, Longstreet defensive |
+| **Late October 1863** | **Battle of Hagerstown ("Warren's Last Throw")** | Warren finally corners Longstreet, repulsed. ~9k Union casualties. | **Impact:** Last hope of decisive victory dies |
 
 ### Critical Assumptions to Check
 
@@ -186,7 +188,9 @@
 |-----------|----------------------|--------|-----------------|
 | **Grant Promoted to General-in-Chief (March 1864)** | **NO** | No Gettysburg victory, no promotion | **LOW** - Explicitly doesn't happen |
 | **Grant Promoted to Western Command (Oct 1863)** | **LIKELY YES** | Based on Vicksburg success | **LOW** - Independent of Gettysburg |
-| **Hancock Assumes Eastern Command (Jan 1864)** | **YES** | Meade sacked, Hancock takes over | **LOW** - Explicitly happens |
+| **Meade Sacked (Aug 1, 1863)** | **YES** | Lincoln panics, sacks Meade "for want of aggression" | **LOW** - Explicitly happens ("THE PANIC MOVE") |
+| **Warren Takes Command (Aug 3, 1863)** | **YES** | Warren temporary command, leads Rappahannock-Rapidan campaign | **LOW** - Explicitly happens |
+| **Hancock Assumes Eastern Command (Jan 1864)** | **YES** | Warren fails, Hancock takes permanent command | **LOW** - Explicitly happens |
 
 ---
 

@@ -12,7 +12,7 @@
 
 **NTL Question:** Would Lincoln (or McClellan after November 1864) have promoted anyone to overall command in the NTL, given:
 - Vicksburg still happens (July 1863)
-- Eastern theater going very badly (Longstreet's raid, Meade's failures, Warren's disaster, Hancock wounded)
+- Eastern theater going very badly (Longstreet's raid, Meade sacked August 1, 1863, Warren's Rappahannock-Rapidan stalemate and Hagerstown disaster, Hancock wounded)
 - McClellan elected November 1864 (peace platform)
 - By March 1865, both armies disintegrating
 
@@ -51,7 +51,7 @@
 
 ### **NTL Differences:**
 
-1. **Eastern Theater Failing:** Longstreet's raid (July-October 1863), Meade's failures, Warren's disaster (October-November 1863), Hancock wounded (July 1864)
+1. **Eastern Theater Failing:** Longstreet's raid (July-October 1863), Meade sacked (August 1, 1863 - "THE PANIC MOVE"), Warren's Rappahannock-Rapidan campaign (October 1863, stalemate), Warren's disaster at Hagerstown (late October 1863 - "Warren's Last Throw"), Warren relieved (January 1864), Hancock wounded (July 1864)
 2. **No "Second Gettysburg":** No decisive victory to rally Northern morale
 3. **Political Collapse:** McClellan elected November 1864 on peace platform
 4. **Armies Disintegrating:** By March 1865, both armies are falling apart

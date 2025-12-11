@@ -20,10 +20,9 @@
 
 ### Master Documents (with reverse dependencies)
 - ✅ `world-building-master/01-core-foundation.md` - Reverse dependencies added
-- ✅ `world-building/political/presidential-pairs-master-reference.md` - Reverse dependencies added
-- ✅ `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` - Reverse dependencies added
-- ✅ `world-building/economic/slavery-and-raids-master.md` - Reverse dependencies added
-- ✅ `world-building/economic/economic-systems-master.md` - Reverse dependencies added
+- ✅ `world-building/political/presidential-pairs-master-reference.md` - Reverse dependencies added (still exists as detailed reference)
+- ✅ `world-building-master/03-political-systems.md` - Reverse dependencies added (consolidated from csa-presidents-gentry-vs-hayseed-1865-1939.md)
+- ✅ `world-building-master/02-economic-systems.md` - Reverse dependencies added (consolidated from slavery-and-raids-master.md and economic-systems-master.md)
 
 ### Analysis Files (with forward dependencies)
 - ✅ `analysis/political/california-csa-usa-presidential-interactions-analysis-2025-12-05.md`
@@ -54,9 +53,9 @@ Level 1:
 
 **Butterfly Effect:** Change to presidential master → 3 analysis files need review
 
-### Example 2: Slavery and Raids Master
+### Example 2: Economic Systems Master
 ```
-Changing 'slavery-and-raids-master.md' affects 3 file(s) across 1 cascade level(s)
+Changing 'world-building-master/02-economic-systems.md' affects 3 file(s) across 1 cascade level(s)
 
 Level 1:
   - slavery-death-mechanics-analysis

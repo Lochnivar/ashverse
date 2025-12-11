@@ -42,7 +42,7 @@ From analyzing the codebase, common dependency patterns include:
 
 1. **Character files → World-building files**
    - `characters/union/frank-a-haskell.md` depends on:
-     - `world-building/01-core-foundation.md` (point of divergence)
+     - `world-building-master/01-core-foundation.md` (point of divergence)
      - `world-building/economic/northern-raids-comprehensive-catalog.md` (raid details)
 
 2. **Analysis files → Source files**
@@ -312,7 +312,7 @@ This section tracks dependencies and their content hashes
 |----------|------|------|---------------|--------|
 | Northern Raids Catalog | `world-building/economic/northern-raids-comprehensive-catalog.md` | `a1b2c3d4` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `canon-master-document.md` | `98765432` | 2025-12-10 | ✅ Verified |
-| Slavery and Raids Master | `world-building/economic/slavery-and-raids-master.md` | `fedcba98` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `world-building-master/02-economic-systems.md` | `[hash]` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `12345678`  
 **Last Updated:** 2025-12-10

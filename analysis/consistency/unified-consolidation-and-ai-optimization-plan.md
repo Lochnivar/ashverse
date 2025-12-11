@@ -169,7 +169,7 @@ ashverse/
 **Structure:**
 ```markdown
 ## SECTION 1: THE FOUR HORSEMEN OF SLAVERY'S APOCALYPSE
-## SECTION 2: NORTHERN RAIDS (See detail file: ../world-building/economic/northern-raids-comprehensive-catalog.md)
+## SECTION 2: NORTHERN RAIDS (See detail file: ../world-building/economic/northern-raids-comprehensive-catalog.md - referenced, not consolidated)
 ## SECTION 3: ECONOMIC SYSTEMS (Currencies, Tariffs, Trade)
 ## SECTION 4: PLANTER ADAPTIVE RESPONSES
 ## SECTION 5: INFRASTRUCTURE (Rail Routes, etc.)
@@ -358,7 +358,7 @@ This is a planning document - no dependencies tracked.
 ## RELATIONSHIPS
 
 ### Dependencies
-- 02-economic-systems.md → references → world-building/economic/northern-raids-comprehensive-catalog.md
+- 02-economic-systems.md → references → world-building/economic/northern-raids-comprehensive-catalog.md (referenced, not consolidated)
 - 03-political-systems.md → referenced by → analysis/political/*.md
 
 ### Cross-References
@@ -370,7 +370,7 @@ This is a planning document - no dependencies tracked.
 
 | File | Purpose | Master Document |
 |------|---------|-----------------|
-| world-building/economic/northern-raids-comprehensive-catalog.md | Detailed raid catalog | 02-economic-systems.md |
+| world-building/economic/northern-raids-comprehensive-catalog.md | Detailed raid catalog (referenced, not consolidated) | 02-economic-systems.md |
 ```
 
 ---

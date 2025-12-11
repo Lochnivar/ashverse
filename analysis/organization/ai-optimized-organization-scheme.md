@@ -88,15 +88,14 @@ world-building-master/
 ```
 world-building/
 ├── economic/
-│   ├── northern-raids-comprehensive-catalog.md
-│   ├── slavery-and-raids-master.md
-│   └── economic-systems-master.md
+│   └── northern-raids-comprehensive-catalog.md  # Detailed catalog (referenced by master)
 ├── political/
-│   ├── csa-presidents-gentry-vs-hayseed-1865-1939.md
-│   └── presidential-pairs-master-reference.md
+│   └── presidential-pairs-master-reference.md   # Detailed pairings (referenced by master)
 ├── military/
 │   └── [specific campaigns/events]
 └── [other topics]
+
+Note: Most content consolidated into world-building-master/ files
 ```
 
 **File Size:** 200-1500 lines each (focused, manageable)
@@ -305,7 +304,7 @@ Every file should start with:
 ```markdown
 ## Related Documents
 - [Master Document](../world-building-master/02-economic-systems.md)
-- [Detail Document](../world-building/economic/northern-raids-comprehensive-catalog.md)
+- [Detail Document](../world-building/economic/northern-raids-comprehensive-catalog.md) (referenced, not consolidated)
 - [Analysis](../analysis/economic/raid-count-plausibility-analysis-2025-12-10.md)
 ```
 
@@ -347,8 +346,8 @@ Every file should start with:
 ```
 world-building-master/02-economic-systems.md (master)
   ↓ references
-world-building/economic/northern-raids-comprehensive-catalog.md (detail)
-world-building/economic/slavery-and-raids-master.md (detail)
+world-building/economic/northern-raids-comprehensive-catalog.md (detail - referenced, not consolidated)
+world-building-master/02-economic-systems.md (master - consolidated from slavery-and-raids-master.md and economic-systems-master.md)
 ```
 
 **When to use:**
@@ -358,7 +357,7 @@ world-building/economic/slavery-and-raids-master.md (detail)
 
 ### Pattern 2: Source → Analysis
 ```
-world-building/economic/northern-raids-comprehensive-catalog.md (source)
+world-building/economic/northern-raids-comprehensive-catalog.md (source - referenced, not consolidated)
   ↓ analyzed by
 analysis/economic/raid-count-plausibility-analysis-2025-12-10.md (analysis)
 ```

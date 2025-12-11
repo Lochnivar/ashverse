@@ -9,7 +9,7 @@
 ## THE TWO FIGURES
 
 ### Figure A: 18,000 men (Established Canon)
-**Source:** `canon-refresher-for-ai.md`, `world-building/timelines/master-timeline.md`  
+**Source:** `canon-refresher-for-ai.md`, `world-building-master/06-timelines.md`  
 **Description:** "18k men + all cavalry"
 
 ### Figure B: 14,000 men (New Document)
@@ -258,8 +258,8 @@
 
 **If Accepting 14,000 men:**
 - Update `canon-refresher-for-ai.md`: "14k men" instead of "18k men"
-- Update `world-building/timelines/master-timeline.md`: "14k men" instead of "18k men"
-- Update `world-building/timelines/northern-collapse-1863-1865.md`: "14k men" instead of "18k men"
+- Update `world-building-master/06-timelines.md`: "14k men" instead of "18k men"
+- Note: `world-building/timelines/northern-collapse-1863-1865.md` has been consolidated into `world-building-master/06-timelines.md`
 - Keep detailed breakdown from new document
 
 **No Plausibility Issues:** ✅ 14,000 men is actually MORE plausible than 18,000 men

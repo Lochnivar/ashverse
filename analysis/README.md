@@ -17,8 +17,8 @@ Military and tactical analyses:
 - Appomattox College concept analysis
 
 **Locked Content Location:** 
-- Timelines → `/world-building/timelines/`
-- Sequences → `/world-building/northern-collapse-1863-1865.md`
+- Timelines → `/world-building-master/06-timelines.md`
+- Sequences → Consolidated into `/world-building-master/06-timelines.md`
 
 ### `/analysis/economic/`
 Economic analyses:
@@ -28,8 +28,8 @@ Economic analyses:
 - Roaring Twenties NTL analysis
 
 **Locked Content Location:** 
-- Slavery mechanics → `/world-building/slavery-and-raids-master.md`
-- Economic systems → `/world-building/economic-systems-master.md`
+- Slavery mechanics → `/world-building-master/02-economic-systems.md`
+- Economic systems → `/world-building-master/02-economic-systems.md`
 
 ### `/analysis/political/`
 Political analyses:
@@ -39,8 +39,8 @@ Political analyses:
 - Cross-border impact analyses
 
 **Locked Content Location:** 
-- Presidential lists → `/world-building/political/presidents-and-parties.md`, `/world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`, `/world-building/political/ca-political-system-and-presidents.md`
-- Treaties → `/world-building/treaty-of-cincinnati.md`, `/world-building/treaty-of-san-francisco.md`
+- Presidential lists → `/world-building-master/03-political-systems.md`
+- Treaties → Consolidated into `/world-building-master/03-political-systems.md`
 
 ### `/analysis/consistency/`
 Consistency checks and plausibility audits:
@@ -58,7 +58,7 @@ OTL vs NTL comparison analyses:
 - Divergence tracking
 
 **Locked Content Location:** 
-- OTL events list → `/world-building/reference/otl-events-never-happen.md`
+- OTL events list → `/world-building-master/08-reference-data.md`
 
 ---
 

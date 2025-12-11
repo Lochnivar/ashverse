@@ -10,7 +10,7 @@
 ## THE TWO FIGURES
 
 ### Figure A: ~22,000 Union Casualties
-**Source:** `world-building/timelines/rappahannock-rapidan-campaign-1863.md`  
+**Source:** `world-building-master/06-timelines.md` (Rappahannock-Rapidan campaign section)  
 **Breakdown:**
 - Rappahannock Killing Ground (Oct 10-13): ~6,000
 - Rapidan Killing Ground (Oct 14-17): ~7,000

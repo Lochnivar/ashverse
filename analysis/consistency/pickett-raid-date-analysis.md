@@ -11,9 +11,9 @@ Two different date ranges exist for Pickett's Lightning Raid:
 
 ### Version A: June 8-28, 1864 (21 days)
 **Sources:**
-- `canon-refresher-for-ai.md` (old reference)
-- `world-building/timelines/northern-collapse-1863-1865.md` (archived)
-- `world-building/timelines/master-timeline.md` (archived)
+- `canon-refresher-for-ai.md` (old reference - no longer current)
+- `world-building/timelines/northern-collapse-1863-1865.md` (archived - consolidated into `world-building-master/06-timelines.md`)
+- `world-building/timelines/master-timeline.md` (archived - consolidated into `world-building-master/06-timelines.md`)
 
 ### Version B: June 14 - July 14, 1864 (30 days actual raiding)
 **Sources:**
@@ -22,7 +22,7 @@ Two different date ranges exist for Pickett's Lightning Raid:
 
 ### Version C: June 14 - July 22, 1864 (38 days)
 **Sources:**
-- `world-building/timelines/gettysburg-master-timeline.md` (archived) - Multiple references
+- `world-building/timelines/gettysburg-master-timeline.md` (archived - consolidated into `world-building-master/06-timelines.md`) - Multiple references
 
 **Note:** Current master timeline shows **June 14 - July 14** (30 days), which appears to be a compromise between the two extremes.
 
@@ -246,7 +246,7 @@ Two different date ranges exist for Pickett's Lightning Raid:
 - Any archived timeline files (already archived, no action needed)
 
 **Files with Version C (June 14 - July 22):**
-- Archived `world-building/timelines/gettysburg-master-timeline.md` (already archived, no action needed)
+- Archived `world-building/timelines/gettysburg-master-timeline.md` (consolidated into `world-building-master/06-timelines.md`, no action needed)
 
 **Files Already Correct (Version B):**
 - ✅ `world-building-master/06-timelines.md` - **CORRECT**

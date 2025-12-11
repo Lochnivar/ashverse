@@ -1,8 +1,8 @@
 # World-Building: 05 - Regions and Nations
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all regional information including Native super-states, California, Mormon Deseret, border regions, and related topics.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for all regions and nations (Native super-states, California, Mormon Deseret, border regions, Council evolution)
 
 **Note:** This document consolidates:
 - `world-building/regions/native-super-states-master.md`

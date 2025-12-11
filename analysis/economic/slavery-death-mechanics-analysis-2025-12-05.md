@@ -852,8 +852,7 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Slavery and Raids Master | `../../world-building/economic/slavery-and-raids-master.md` | `abb5fd24` | 2025-12-10 | ✅ Verified |
-| Economic Systems Master | `../../world-building/economic/economic-systems-master.md` | `8e4af29f` | 2025-12-10 | ✅ Verified |
+| Economic Systems Master | `../../world-building-master/02-economic-systems.md` | `3fb86bad` | 2025-12-10 | ✅ Verified |
 | Northern Raids Catalog | `../../world-building/economic/northern-raids-comprehensive-catalog.md` | `9a3871cb` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
 

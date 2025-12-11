@@ -1,8 +1,8 @@
 # World-Building: 03 - Political Systems
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all political systems, presidential timelines, party evolution, and related political topics.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for all political systems (presidents, parties, pairs, treaties, Lincoln's fate, Porter press reaction)
 
 **Note:** This document consolidates:
 - `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md`
@@ -389,7 +389,7 @@ California presidents serve one non-renewable six-year term, then retire to thei
 Content Integrity System: Tracks dependencies and their content hashes
 This is a master document - other documents depend on this one.
 
-This Document's Hash: 79957cf9
+This Document's Hash: 214e9138
 Last Updated: 2025-12-10
 -->
 

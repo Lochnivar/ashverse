@@ -633,8 +633,7 @@ Run: python scripts/consistency-checker.py
 
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
-| Presidential Pairs Master | `../../world-building/political/presidential-pairs-master-reference.md` | `36861db8` | 2025-12-10 | ✅ Verified |
-| CSA Presidents Master | `../../world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` | `fedfff29` | 2025-12-10 | ✅ Verified |
+| Political Systems Master | `../../world-building-master/03-political-systems.md` | `214e9138` | 2025-12-10 | ✅ Verified |
 | Canon Master Document | `../../canon-master-document.md` | `5b82fd9e` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `31de3d53`  

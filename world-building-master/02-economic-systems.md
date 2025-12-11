@@ -1,8 +1,8 @@
 # World-Building: 02 - Economic Systems
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all economic systems, slavery mechanisms, trade relationships, and related economic topics.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for all economic systems (Four Horsemen, raids, boycott, glut, shame, rail routes, KKK suppression)
 
 **Note:** This document consolidates:
 - `world-building/economic/slavery-and-raids-master.md`
@@ -992,7 +992,7 @@ The transcontinental railroad is **never built through Native territories** in t
 Content Integrity System: Tracks dependencies and their content hashes
 This is a master document - other documents depend on this one.
 
-This Document's Hash: 9dd1a76e
+This Document's Hash: 3fb86bad
 Last Updated: 2025-12-10
 -->
 

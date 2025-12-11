@@ -1,8 +1,8 @@
 # World-Building: 08 - Reference Data
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all reference data including OTL divergences, technology progress, historical basis, and related reference information.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for reference data (OTL divergences, technology progress, historical basis, land ownership, roles)
 
 **Note:** This document consolidates:
 - `world-building/reference/otl-events-never-happen.md`

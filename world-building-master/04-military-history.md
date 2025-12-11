@@ -1,8 +1,8 @@
 # World-Building: 04 - Military History
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all military history, conflicts, strength assessments, and related military topics.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for all military history (strength, conflicts, WWI, WWII, Zimmerman crisis, Appomattox OOB)
 
 **Note:** This document consolidates:
 - `world-building/military/military-strength.md`

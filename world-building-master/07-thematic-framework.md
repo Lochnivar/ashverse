@@ -1,8 +1,8 @@
 # World-Building: 07 - Thematic Framework
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all thematic framework including scaffolding vs. payload, thematic balance, and anti-sympathy mechanisms.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for thematic framework (scaffolding vs. payload, thematic balance, anti-sympathy mechanisms)
 
 **Note:** This document consolidates:
 - `world-building/thematic/thematic-framework-scaffolding-vs-payload.md`

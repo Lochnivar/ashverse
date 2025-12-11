@@ -1,8 +1,8 @@
 # Core Foundation: Point of Divergence, Premise, Settings, and Sovereignty
 
 **Date:** December 10, 2025  
-**Status:** CONSOLIDATED MASTER DOCUMENT  
-**Purpose:** Single source of truth for core foundation concepts
+**Status:** LOCKED  
+**Purpose:** Single source of truth for core foundation concepts (POD, premise, settings, sovereignty)
 
 **Note:** This document consolidates:
 - `core/point-of-divergence.md`

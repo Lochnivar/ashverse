@@ -1,8 +1,8 @@
 # World-Building: 06 - Timelines
 
-**Date:** December 10, 2025
-**Status:** MASTER CONSOLIDATED DOCUMENT
-**Purpose:** Consolidate all timeline information including campaign timelines, master timeline, and related chronological information.
+**Date:** December 10, 2025  
+**Status:** LOCKED  
+**Purpose:** Single source of truth for all timelines (Gettysburg POD, campaigns, master timeline, WWI, Cuba, Hawaii)
 
 **Note:** This document consolidates:
 - `world-building/timelines/master-timeline.md`

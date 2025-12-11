@@ -18,6 +18,13 @@ desktop.ini
 *.bak
 *.log
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
 # Personal notes (if you want to keep some private)
 # Uncomment if needed:
 # personal-notes/

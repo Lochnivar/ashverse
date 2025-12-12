@@ -143,7 +143,7 @@ Grant (never promoted to general-in-chief, still Western commander, called east 
 **Cast of Officers:**
 - **General Ulysses S. Grant:** Overall command. Desperate, acts via "legal fiction" – "Halleck doesn't have the balls. It's now or never."
 - **Major General Philip Sheridan:** Cavalry commander. Aggressive scout – "Ride like hell and cut their rails."
-- **Major General Gouverneur K. Warren:** Infantry lead. Cautious engineer – "This is suicide, but orders are orders."
+- **Major General Charles Griffin:** V Corps commander (Infantry lead). Aggressive, competent, reliable – "We'll coordinate better than Warren would have." (Note: Warren was relieved January 1, 1864; Griffin replaced him. See `grant-gamble-canon-update-2025-12-10.md`)
 - **Brigadier General George A. Custer:** Cavalry brigade. Glory-hunter – "One last charge for the books."
 - **Colonel Frank A. Haskell:** Staff officer (witness). Cynical observer – "We're marching to our own funeral."
 

@@ -80,11 +80,13 @@
 
 ### NTL Divergence
 - **No Gettysburg Charge** - Battle only one day, different circumstances
-- **Lightning Raid Leader** - June 8-28, 1864: Leads 18,000 men on raid
-- **Threatens Washington** - Appears before capital for 48 hours
-- **Success** - Raid succeeds, boosts Confederate morale
-- **Hancock Pursues** - Old friend chases him, gets wounded
-- **Hero Status** - Remembered as the man who threatened Washington
+- **Lightning Raid Leader** - June 14 - July 14, 1864: Leads 14,000 men on raid (Pickett's Flying Corps)
+- **Carlisle Objective** - Hood takes Carlisle (second summer in a row - Longstreet's strategic objective)
+- **Desperate Escape** - Field's division destroyed at Carlisle, Pickett must improvise escape route
+- **Kershaw Saves** - Kershaw extends line, fights delaying actions, saves Pickett's raiders
+- **Success** - Raid succeeds, but at terrible cost (Field's division destroyed, ~1,200 total casualties)
+- **Hancock Pursues** - Old friend chases him, gets wounded July 12, 1864
+- **Hero Status** - Remembered as the man who led the "FORTY DAYS OF TERROR!" (Pickett never corrects the myth)
 
 ## Skills & Abilities
 - **Tactical Aggression** - Excellent at leading charges
@@ -99,7 +101,7 @@
 - **Relationship:** Pre-war friends, served together
 - **Dynamic:** Personal friendship despite opposing sides
 - **OTL:** Never faced each other directly
-- **NTL Impact:** Hancock pursues Pickett's raid, gets wounded
+- **NTL Impact:** Hancock pursues Pickett's raid, gets wounded July 12, 1864 (stretcher scene with Armistead)
 
 ### With James Longstreet
 - **Relationship:** Subordinate commander
@@ -123,11 +125,13 @@
 - No Gettysburg failure in NTL
 - Respected but not yet legendary
 
-### The Lightning Raid (June 1864)
-- Leads 18,000 men on raid
-- Threatens Washington
-- Succeeds where others failed
-- Becomes hero
+### The Lightning Raid (June-July 1864)
+- Leads 14,000 men on raid (Pickett's Flying Corps)
+- Deep penetration into Pennsylvania (~240-270 miles maximum)
+- Field's division destroyed at Carlisle, must improvise escape route
+- Kershaw saves the day (extends line, fights delaying actions)
+- Succeeds where others failed, but at terrible cost
+- Becomes hero ("FORTY DAYS OF TERROR!")
 
 ### The Pursuit (July 1864)
 - Hancock chases him
@@ -184,17 +188,21 @@
 ## Appearances
 
 ### Book 1: The Match (1863-1865)
-- **Primary Role:** Lightning Raid leader, threatens Washington
+- **Primary Role:** Lightning Raid leader, deep penetration into Pennsylvania
 - **Key Scenes:**
-  - June 8-28, 1864: Lightning Raid
-  - June 1864: Threatens Washington
-  - July 1864: Hancock pursues, gets wounded
+  - June 14 - July 14, 1864: Lightning Raid (30 days)
+  - June 26-28, 1864: Hood takes Carlisle (second summer in a row)
+  - June 29 - July 1, 1864: Field's division destroyed at Carlisle
+  - July 2, 1864: Learns Field is gone, must improvise escape route
+  - July 3-10, 1864: Desperate escape (improvised route)
+  - July 11-14, 1864: Final withdrawal, Kershaw saves the day
+  - July 12, 1864: Hancock wounded while pursuing
 - **POV:** Can be POV character, or seen through others' eyes
 
 ### Post-War (1865+)
-- **Role:** Remembered as hero who threatened Washington
-- **Status:** War hero, successful commander
-- **Legacy:** Contrast with OTL - from failure to success
+- **Role:** Remembered as hero who led "FORTY DAYS OF TERROR!"
+- **Status:** War hero, successful commander (but knows how close it was)
+- **Legacy:** Contrast with OTL - from failure to success, but victory feels desperate and earned
 
 ## Casting Reference
 

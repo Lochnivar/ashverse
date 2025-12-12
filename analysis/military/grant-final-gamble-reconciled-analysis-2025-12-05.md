@@ -49,7 +49,8 @@
 **Reconciliation:** 
 - **Keep Haskell and Fairfax** - they're important witnesses for the story
 - **Remove Ewell** - in NTL, Ewell's corps was reorganized after Gettysburg (Gordon took over Second Corps)
-- **Keep key officers from both** - Sheridan, Warren, Custer, Chamberlain, Upton, Hunt for Union; Longstreet, Gordon, Hampton, Alexander, Rosser for Confederacy
+- **Replace Warren with Griffin** - Warren was relieved January 1, 1864; Griffin replaced him as V Corps commander (see `grant-gamble-canon-update-2025-12-10.md`)
+- **Keep key officers from both** - Sheridan, Griffin (not Warren), Custer, Chamberlain, Upton, Hunt for Union; Longstreet, Gordon, Hampton, Alexander, Rosser for Confederacy
 - **Add Rawlins and Sorrel** - they're important staff officers
 
 ---
@@ -100,7 +101,7 @@
 **Key Officers:**
 - **General Ulysses S. Grant:** Overall command. Desperate, determined leader – "Halleck doesn't have the balls, it's now or never." (Note: Grant acts as if authority still exists - legal fiction. Halleck is still General-in-Chief, but Grant's authority was never formally revoked. Grant uses "Don't Ask, Don't Tell" mechanism - see `edits/grant-legal-fiction-mechanism-2025-12-05.md`. Grant's character moment: "Then they'll have to catch me first. And right now the only thing between Richmond and the end of the war is me.")
 - **Colonel John A. Rawlins:** Chief of Staff. Dying of tuberculosis, desperate to see victory before he dies.
-- **Major General Gouverneur K. Warren:** Infantry Division A commander. Cautious engineer – "This is suicide, but orders are orders." Still bitter about being passed over. (Note: Warren was relieved from command January 1864 after Hagerstown disaster - fought Rappahannock-Rapidan campaign (October 1863, stalemate) and Battle of Hagerstown (late October 1863, disaster). If available, he's been demoted to division command)
+- **Major General Charles Griffin:** V Corps commander (Infantry Division A). Aggressive, competent, reliable – "We'll coordinate better than Warren would have." (Note: Warren was relieved January 1, 1864 after disastrous Rappahannock-Rapidan campaign. Griffin, already a division commander in V Corps, replaced him. See `grant-gamble-canon-update-2025-12-10.md`)
 - **Colonel Joshua L. Chamberlain:** 20th Maine, Infantry Division A. Little Round Top hero, now desperate – "This is different from Gettysburg."
 - **Colonel Emory Upton:** Tactical innovator, Infantry Division A. Rising star – "My assault columns will break through."
 - **Major General Philip Sheridan:** Cavalry commander (if present). Aggressive scout – "Ride like hell and cut their rails." (Note: Status unclear - may be in West or unavailable)
@@ -200,7 +201,7 @@
 **Focus:** Grant's desperate patchwork army
 - Ad-hoc structure (no formal corps)
 - ~65,000 men (45,000 infantry, 15,000 cavalry/artillery, 5,000 support)
-- Key officers: Grant, Rawlins, Warren, Chamberlain, Upton, Sheridan/Wilson, Custer, Hunt, **Haskell (witness)**
+- Key officers: Grant, Rawlins, Griffin (V Corps - replaced Warren Jan 1864), Chamberlain, Upton, Sheridan/Wilson, Custer, Hunt, **Haskell (witness)**
 - Narrative hook: Desperate mob, veterans mixed with green troops, all knowing this is the final gamble
 
 ---
@@ -273,7 +274,35 @@
 
 ---
 
-**Status:** RECONCILED ANALYSIS COMPLETE  
+**Status:** RECONCILED ANALYSIS COMPLETE (Updated December 10, 2025)  
 **Recommendation:** Use this reconciled version as the foundation for the 2-3 chapters  
 **Next Steps:** Develop specific scenes, dialogue, and narrative beats based on reconciled analysis
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!--
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+| Document | Path | Hash | Status |
+|----------|------|------|--------|
+| Battle Analysis | `grant-final-gamble-battle-analysis-2025-12-05.md` | `8d857e83` | ✅ Tracked |
+| Rational Decisions Simulation | `grant-gamble-rational-decisions-simulation-2025-12-10.md` | `61ebfac2` | ✅ Tracked |
+| Canon Update Summary | `grant-gamble-canon-update-2025-12-10.md` | `9e1c52e9` | ✅ Tracked |
+| Timelines Master | `../world-building-master/06-timelines.md` | `74f553fa` | ✅ Tracked |
+| Military History Master | `../world-building-master/04-military-history.md` | `5d787ca2` | ✅ Tracked |
+
+**This Document's Hash:** `2e3383ab`  
+**Last Updated:** 2025-12-10
 

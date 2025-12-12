@@ -82,6 +82,24 @@ Part 1 covers the critical first phase: Lee's death and the complete withdrawal 
 
 **Delivered:** 04:10-04:15 to all corps commanders
 
+**Note:** General Ewell was in his tent at Oak Hill, asleep, when woken by the orders delivered by Major Fairfax at approximately 04:15.
+
+### Command Structure During Withdrawal
+
+**Longstreet's Command Assumption:**
+- **Verbal Orders:** Longstreet issues verbal orders and verbally assumes command of the army
+- **Corps Command:** Longstreet maintains **direct command of his own First Corps** during the withdrawal (July 2, 04:00-18:00)
+- **Rationale:** The sudden withdrawal is too critical and risky to add command confusion. Longstreet needs direct control during the movement to manage any problems that arise.
+- **Formal Handover:** Longstreet does **not** officially hand over First Corps command to McLaws until the evening of July 2, after the army has safely withdrawn and has time to rest and reorganize.
+
+**This means:**
+- During withdrawal: Longstreet commands both the army AND his corps directly
+- McLaws acts as division commander under Longstreet's direct supervision
+- **McLaws' Understanding:** McLaws recognizes the same issue (command confusion during critical withdrawal is dangerous) and uses the march time to prepare his subordinate officers for the handover
+- **Professional Preparation:** The handover is expected but not a shock (unlike it would be at 04:00 during crisis). McLaws prepares his officers while maintaining clear division command role.
+- After resting (evening July 2): Longstreet formally hands First Corps to McLaws, allowing Longstreet to focus solely on army command
+- Stuart's return: Stuart finds Longstreet still directly commanding First Corps (handover not yet formalized)
+
 ---
 
 ## WITHDRAWAL SEQUENCE (BRIGADE-BY-BRIGADE)
@@ -303,13 +321,33 @@ Part 1 covers the critical first phase: Lee's death and the complete withdrawal 
 
 ---
 
-#### Stuart's Problem - THE ABSENT COMMANDER
+#### Stuart's Return - THE CONFRONTATION
 
-**Position:** Approaching from northeast (Carlisle area) after cavalry raid
+**Time:** ~09:30-10:00 on July 2, 1863
 
-**Problem:** Riding SOUTH to find army, army is moving NORTH
+**Location:** Just north of Heidlersburg on the Carlisle Turnpike (modern PA-34 / Old Carlisle Road intersection)
 
-**Result:** Misses army entirely, doesn't link up until July 3
+**Situation:**
+- Army has been marching north for five hours
+- Ewell's corps (lead) is already past Heidlersburg
+- A. P. Hill is filing through the village
+- Longstreet's First Corps is the tail, just approaching from the south
+- Stuart arrives from the east (having ridden in from York/Hanover the long way)
+- Stuart's three brigades: dusty, exhausted, completely out of the loop
+
+**The Confrontation:**
+- Longstreet is riding at the head of his corps column when Stuart's lead regiment (Wade Hampton's or Fitz Lee's) comes trotting in from the right
+- Longstreet does not scream—he goes ice-cold, quiet, and lethal
+- Column halts; Longstreet reins in, turns in saddle, stares at Stuart for five full seconds
+- Voice low, only Stuart and nearest officers hear:
+
+> "General Stuart. General Lee is dead. The army is marching north because the commanding general died on Seminary Ridge last night, and you were not there to know it. You have been gone six days. Six days in which we fought a battle blind because the eyes of the army were off chasing glory in Pennsylvania. General Lee is dead, and you were not there. Do not speak to me of newspapers or captured wagons. Speak to me of why the army had no cavalry when it needed it most. And then ride to the rear of this column and stay there until you are sent for."
+
+- Stuart tries to respond: "Sir, I—"
+- Longstreet cuts him off with a single raised hand, turns horse back to column: "Column—forward."
+- Stuart spends the rest of the march riding in humiliated silence at the very tail of the army, behind the ambulances and the stragglers
+
+**Result:** Longstreet's quiet, merciless confrontation—no raised voice, no profanity, just the truth wielded like a sabre. Stuart's reputation dies on a country road in Adams County.
 
 **Consequence:** Longstreet permanently loses trust in Stuart. Hampton and Fitzhugh Lee become primary cavalry commanders.
 

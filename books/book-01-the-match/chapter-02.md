@@ -4,6 +4,11 @@ Longstreet's Vigil - Sitting Up With the Dead
 
 ---
 
+July 2, 1863 ~ 00:00
+Schmucker House
+Gettysburg, Pennsylvania
+
+
 John Walter stood in the doorway to the parlor of the Schmucker house.  Professor Schmucker's old walnut cased mantle clock ticked in the deathly quiet like a caisson funeral drummer.
 
 Tick.
@@ -12,7 +17,33 @@ Tick.
 
 Tick.
 
-He stood guard, one hand on the doorway and one hand unconsciously on the hilt of his sword.  He hadn't meant to imply anything, that he was perfectly willing to draw that sword in defense of the mourner behind him.  That was the exact feeling that radiated to any aide, surgeon or well-wisher that might invade this temporary sacred ground.  James Longstreet, Old Pete, sat in vigil, holding the hand of a man he loved most in this life.
+The generals and their officers had begun arriving at around half past two in the morning, John Walter had glanced at the clock as soon as he heard the first officer's spurs dig into the porch outside the open door.  By ones or by more, they gathered in the hall outside of the parlor, their body heat adding to the stiffling Pennsylvania night.  The smell of horse, gun oil and sweat mixed with the all too real sense of fear and panic held tightly reined by years of discipline.  
+
+Tick.
+
+Tick.
+
+Tick.
+
+He stood guard, one hand on the doorway and one hand unconsciously on the hilt of his sword.  Longstreet's orders had been brutally clear.  No one, No one, was to be admitted into the parlor without his explicit say-so.  Lee had been taken ill, that was the only word that was to be allowed to spread.  
+
+He hadn't meant to imply anything, that he was perfectly willing to draw that sword in defense of the mourner behind him.  That was the exact feeling that radiated to any aide, surgeon or well-wisher that might invade this temporary sacred ground. 
+
+Tick.
+
+Tick.
+
+Tick.
+
+Early growled.
+
+Ewell paced, his heel and peg-leg rapped in counter-time with the clock.
+
+Hood sat like a stone, his mournful eyes locked onto something only he could see.
+
+None dared to push past.
+
+Behind John Walter, James Longstreet, Old Pete, sat in vigil, holding the hand of a man he loved most in this life.
 
 Tick.
 
@@ -66,10 +97,20 @@ Despite himself, John Walter jumped, realizing that Longstreet spoke directly to
 
 "Yes Sir?"
 
-"I believe we have an army to lead.  New orders to be issued immediately.  General Ewell is to begin withdrawing quietly."
+"I believe we have an army to lead.  New orders to be issued immediately."
 
 "Back to Virginia, sir?"
 
-Longstreet shook his head and tucked Marse Robert's hand under the rebel gray blanket over his chest.
+Longstreet shook his head and tucked Marse Robert's hand under the rebel gray blanket over his chest.  The vigil complete.
 
-"No, we march north to Harrisburg.  General Lee wanted us to be a thorn in the side of the Yankees and, by God, we're going to turn them green with rot."
+The generals who were sitting, thrust to their feet and began to crowd around the door as John Walter stepped back.  
+
+"General Lee is dead?"  Ewell asked, the nervous energy turning into something more anxious, mirroring John Walter's anxiety.
+
+Longstreet stood in the door and nodded at the gaggle of generals.  He could issue these orders himself.
+
+"Yes."  Longstreet confirmed almost gently.  "General Ewell, you are to withdraw as quietly as possible."
+
+"Virginia, sir?"  Early asked as if he couldn't believe it.
+
+"No, we march north to Harrisburg.  We face the army about and march by the left flank on the Mummasburg–Carlisle–Harrisburg road with all possible speed.  General Lee wanted us to be a thorn in the side of the Yankees and, by God, we're going to turn them green with rot."

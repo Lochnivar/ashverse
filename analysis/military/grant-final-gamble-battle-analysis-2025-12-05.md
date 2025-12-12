@@ -1,12 +1,17 @@
-# Grant's Final Gamble: The Battle of Appomattox River (March 1865)
+# Grant's Final Gamble: The Battle of Appomattox River (February 18-20, 1865)
 
 **Date:** December 5, 2025  
-**Status:** DEEP DIVE ANALYSIS - BATTLE DETAILS  
+**Status:** CANON - LOCKED (Updated December 10, 2025)  
 **Purpose:** Provide detailed Order of Battle, character roster, and tactical scenarios for the final desperate battle of the Civil War in NTL
+
+**⚠️ CANON UPDATE (December 10, 2025):** This document has been updated to reflect:
+- **V Corps Commander:** Charles Griffin (not Warren - Warren was relieved January 1, 1864)
+- **Rational Decisions:** Commanders make rational decisions based on their characteristics (see `grant-gamble-rational-decisions-simulation-2025-12-10.md`)
+- **Battle Outcome:** Confederate victory (same as before), but achieved more efficiently with better coordination and lower casualties (~18,000 Union, ~12,000 Confederate)
 
 ---
 
-## THE STRATEGIC SITUATION (March 1865)
+## THE STRATEGIC SITUATION (February 1865)
 
 ### Grant's Position
 
@@ -46,7 +51,7 @@
 
 ## ORDER OF BATTLE: GRANT'S ARMY
 
-### **ARMY OF THE POTOMAC (Reconstituted, March 1865)**
+### **ARMY OF THE POTOMAC (Reconstituted, February 1865)**
 
 **Commanding General:** Ulysses S. Grant  
 **Chief of Staff:** John A. Rawlins  
@@ -90,10 +95,10 @@
 
 ### **V CORPS (Army of the Potomac)**
 
-**Commander:** Major General Gouverneur K. Warren  
-**Strength:** ~16,000 men (Warren's old corps, still bitter about Meade's relief)
+**Commander:** Major General Charles Griffin  
+**Strength:** ~16,000 men (Griffin replaced Warren January 1, 1864 after Warren's relief)
 
-**1st Division:** Brigadier General Charles Griffin
+**1st Division:** Brigadier General Charles Griffin (acting - also corps commander)
 - 1st Brigade: Colonel Joshua L. Chamberlain (20th Maine - Little Round Top hero, now colonel)
 - 2nd Brigade: Colonel James Gwyn (Pennsylvania - steady)
 - 3rd Brigade: Colonel Joseph J. Bartlett (Massachusetts - veterans)
@@ -110,7 +115,9 @@
 
 **Artillery Brigade:** Colonel Charles S. Wainwright (5 batteries, 20 guns)
 
-**Character:** Warren is brilliant but prickly. Still resents being passed over for permanent command. Chamberlain is the corps' moral center.
+**Character:** Griffin is aggressive, competent, and reliable. Less prickly than Warren would have been. Chamberlain is the corps' moral center.
+
+**Note:** Warren was relieved January 1, 1864 after the disastrous Rappahannock-Rapidan campaign. Griffin, already a division commander in V Corps, replaced him. Griffin's better coordination and reliability improve Union performance, but the fundamental battle dynamics (desperate Union assault vs. prepared Confederate defense) remain unchanged.
 
 ---
 
@@ -215,7 +222,7 @@
 
 ## ORDER OF BATTLE: LONGSTREET'S ARMY
 
-### **ARMY OF NORTHERN VIRGINIA (Defending Richmond, March 1865)**
+### **ARMY OF NORTHERN VIRGINIA (Defending Richmond, February 1865)**
 
 **Commanding General:** Lieutenant General James Longstreet  
 **Chief of Staff:** Colonel G. Moxley Sorrel  
@@ -365,11 +372,11 @@
 - **State of Mind:** Desperate to see victory before he dies. Knows Grant is taking a risk.
 - **Key Moment:** Warning Grant about the supply lines. Watching Grant's army get cut off.
 
-**Gouverneur K. Warren (V Corps Commander)**
-- **Age:** 34
-- **Background:** Brilliant but prickly. Still resents being passed over for permanent command.
-- **State of Mind:** Bitter, but professional. Knows this is his chance to prove himself.
-- **Key Moment:** Leading the desperate assault. The moment he realizes it's hopeless.
+**Charles Griffin (V Corps Commander)**
+- **Age:** 39
+- **Background:** Aggressive, competent, reliable. Replaced Warren January 1, 1864 after Warren's relief.
+- **State of Mind:** Professional, determined. Less bitter than Warren would have been. Coordinates better with Grant.
+- **Key Moment:** Leading the desperate assault. The moment he realizes it's hopeless, but maintains coordination.
 
 **Joshua L. Chamberlain (20th Maine, V Corps)**
 - **Age:** 36
@@ -445,7 +452,7 @@
 
 ## TACTICAL SCENARIOS
 
-### **PHASE 1: GRANT'S ADVANCE (Early March 1865)**
+### **PHASE 1: GRANT'S ADVANCE (February 15-17, 1865)**
 
 **Grant's Plan:**
 - Assemble every available unit (95,000 men)
@@ -473,7 +480,7 @@
 
 ---
 
-### **PHASE 2: THE BATTLE OF APPOMATTOX RIVER (Mid-March 1865)**
+### **PHASE 2: THE BATTLE OF APPOMATTOX RIVER (February 18-20, 1865)**
 
 **The Battlefield:**
 - Appomattox River area (west of Richmond)
@@ -484,7 +491,7 @@
 **Grant's Tactics:**
 - Desperate frontal assaults (no time for finesse)
 - Upton's assault columns (tactical innovation, but untested at this scale)
-- Warren's V Corps leading the assault (bitter, but professional)
+- Griffin's V Corps leading the assault (reliable, coordinates better than Warren would have)
 - Chamberlain's 20th Maine in the thick of it (Little Round Top hero, now desperate)
 
 **Longstreet's Tactics:**
@@ -508,7 +515,7 @@
 
 ---
 
-### **PHASE 3: GRANT'S RETREAT (Late March 1865)**
+### **PHASE 3: GRANT'S RETREAT (February 20, 1865)**
 
 **Grant's Situation:**
 - Army decisively defeated
@@ -646,7 +653,7 @@
 ### **The Scene**
 
 **Location:** Appomattox Court House, Virginia  
-**Date:** March 1865  
+**Date:** February 20, 1865  
 **Time:** Late afternoon
 
 **Grant's Situation:**
@@ -688,7 +695,7 @@
 - Assembling every available unit
 - The moment Grant launches the strike
 
-**Key Characters:** Grant, Rawlins, Warren, Chamberlain
+**Key Characters:** Grant, Rawlins, Griffin, Chamberlain
 
 **Key Moments:**
 - Grant's realization that this is his last chance
@@ -705,7 +712,7 @@
 - The desperate assaults
 - The moment Grant realizes he's beaten
 
-**Key Characters:** Grant, Longstreet, Warren, Chamberlain, Upton, Gordon, Hampton
+**Key Characters:** Grant, Longstreet, Griffin, Chamberlain, Upton, Gordon, Hampton
 
 **Key Moments:**
 - Upton's assault columns failing
@@ -747,7 +754,34 @@ This is the final, desperate battle of the Civil War, and it ends with Grant's s
 
 ---
 
-**Status:** ANALYSIS COMPLETE  
+**Status:** CANON - LOCKED (Updated December 10, 2025)  
 **Recommendation:** Use this as the foundation for 2-3 chapters covering Grant's final gamble  
 **Next Steps:** Develop specific scenes, dialogue, and narrative beats
+
+---
+
+## DOCUMENT DEPENDENCIES
+
+<!--
+Content Integrity System: Tracks dependencies and their content hashes
+This section enables automated consistency checking across the project.
+
+To add a dependency:
+1. Run: python scripts/calculate-hash.py <dependency-file-path>
+2. Copy the hash and add it to the table below
+3. Update "Last Verified" date
+
+To check consistency:
+Run: python scripts/consistency-checker.py
+-->
+
+| Document | Path | Hash | Status |
+|----------|------|------|--------|
+| Timelines Master | `../world-building-master/06-timelines.md` | `74f553fa` | ✅ Tracked |
+| Military History Master | `../world-building-master/04-military-history.md` | `5d787ca2` | ✅ Tracked |
+| Rational Decisions Simulation | `grant-gamble-rational-decisions-simulation-2025-12-10.md` | `61ebfac2` | ✅ Tracked |
+| Canon Update Summary | `grant-gamble-canon-update-2025-12-10.md` | `9e1c52e9` | ✅ Tracked |
+
+**This Document's Hash:** `8d857e83`  
+**Last Updated:** 2025-12-10
 

@@ -36,7 +36,7 @@ The Northern Collapse Sequence (1863-1865) is the foundation of the entire NTL. 
 | 7 | **Battle of Hagerstown ("Warren's Last Throw")** | Late October 1863 | 90% | ✅ LOCKED |
 | 8 | **Hancock assumes permanent command** | January 1864 | 92% | ✅ LOCKED |
 | 9 | **Longstreet digs in on Rapidan** | Spring 1864 | 90% | ✅ LOCKED |
-| 10 | **Pickett's Lightning Raid** | June 8-28, 1864 | 88% | ✅ LOCKED |
+| 10 | **Pickett's Lightning Raid** | June 14 - July 14, 1864 | 88% | ✅ LOCKED |
 | 11 | **Hancock wounded on Susquehanna** | July 12, 1864 | 90% | ✅ LOCKED |
 | 12 | **Winter of Despair** | August-December 1864 | 92% | ✅ LOCKED |
 | 13 | **McClellan elected** | November 1864 | 95% | ✅ LOCKED |

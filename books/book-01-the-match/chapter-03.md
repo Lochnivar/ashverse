@@ -36,27 +36,27 @@ Gettysburg, Pennsylvania
 
 "He's riding hard, suppose he's found some Rebels?" Lt. Robert Wilson quipped from behind and drew his reins as the two officers stopped.
 
-"At that pace?  In this visibility?" Ward said with some notes of disapproval, either at the pace the trooper was pushing the horse or the at the jocularity from Wilson.  Or both.  "He had better found Lee in his saddlebags."
+"At that pace?  In this visibility?" Ward asked with some notes of disapproval, either at the pace the trooper was pushing the horse or the at the jocularity from Wilson.  Or both.  "He'd better have found Lee in his saddlebags."
 
 "I expect that we'll find out in a few minutes."  Gamble put the binoculars away and turned his horse to close with the rider.
 
-"Colonel McVicker's compliments, sir." The rider slowed his pace without sawing at the horse's mouth.  "The rebs are pulling out!  All of them!"  The young trooper's voice was full of excitement, the calvaryman's natural instinct to ride down the retreating infantry barely in check.  He extended a note and followed with a quick salute.
+"Colonel McVicker's compliments, sir." The rider slowed his pace without sawing at the horse's mouth.  "The rebs are pulling out!  All of them!"  The young trooper's voice was full of excitement, the cavalryman's natural instinct to ride down the retreating infantry barely in check.  He extended a note and followed with a quick salute.
 
 Ward took the note and scanned it briefly.  His eyebrows rose clear into his hat as he handed the note to Gamble.
 
-"McVicker is reporting that rebel artillery is moving northwest up the Mummasburg Road, sir.  Infantry on it's heels."
+"McVicker is reporting that rebel artillery is moving northwest up the Mummasburg Road, sir.  Infantry on its heels."
 
 Gamble took the note and read it thoroughly.
 
 "Meade's not going to believe this."  He said and turned to another Lt.  "Lt. Medill, courier to General Buford, immediately.  Copy this note and add that I'm moving forward to assess the situation myself."  He handed the note over.
 
-"George, I believe we need to go talk to McVicker to get some more details on this."
+"George, I believe we need to go talk to McVicker to get some more details on this."  Gamble urged his horse into a trot.  It was, indeed, worth risking the horse to get this confirmed quickly.
 
 ---
 
 ~ 0630
 Leister House
-Cemetary Hill
+Cemetery Hill
 Gettysburg, Pennsylvania
 
 The Leister House seemed oddly active this early in the morning, or so it seemed to Colonel Frank Haskell.  Granted, this was in the middle of a battle, but Haskell had heard that General Meade had arrived quite late last night and couldn't have had more than two hours of sleep if he was already up and awake.  Something significant had to be happening.
@@ -69,11 +69,11 @@ The Leister House seemed oddly active this early in the morning, or so it seemed
 
 Gibbon only grunted in acknowledgement as he entered.
 
-The main room was full of officers, one of them a tired looking man in only his shirtsleeves.  His blue uniform coat was thrown over the chair in front of the cold fireplace.  General George Meade seemed older, and certainly much more exhausted, than Haskell remembered from only a few months ago.  He was hunched over a map spread over the large dining  table his officers must have moved into the room for the purpose.  
+The main room was full of officers, one of them a tired looking man in only his shirtsleeves.  His blue uniform coat was thrown over the chair in front of the cold fireplace.  General George Meade seemed older, and certainly much more exhausted, than Haskell remembered from only a few months ago.  He was hunched over a map spread over the large dining table his officers must have moved into the room for the purpose.  
 
 Gibbon moved to the other side of the table, Haskell standing respectfully behind him, and waited until Meade finished examining the map.  Meade looked up with bleary red eyes and nodded to Gibbon.
 
-"General.  I need you to take up positions on the left of Cemetary Ridge, here"  He pointed at the map and drew a line along the eastern edge.  He then picked up a crumpled peice of paper and waved it in Gibbon's direction as if it were a prop.  
+"General.  I need you to take up positions on the left of Cemetery Ridge, here"  He pointed at the map and drew a line along the eastern edge.  He then picked up a crumpled piece of paper and waved it in Gibbon's direction as if it were a prop.  
 
 "I've got reports of rebel forces withdrawing, or so Buford says.  Gamble saw it first, his vedettes have them pulling out in force to the northwest along the Mummasburg Road.  I won't believe Lee has quit the field until I can get up there to see it myself."
 
@@ -81,9 +81,104 @@ Gibbon nodded.
 
 "Buford is good at his job sir, if he says they are leaving..."  Gibbon let the sentence hang.
 
-"Yes, he is."  Meade acknowledged, "But Lee did soemthing like this to Hooker at Chancelorsville.  I won't be trapped like him.  Not this time.  Lee's still out there and these heights are the best defense for miles around.  I won't go chasing shadows and let Lee catch me in the open."
+"Yes, he is."  Meade acknowledged, "But Lee did something like this to Hooker at Chancellorsville.  I won't be trapped like him.  Not this time.  Lee's still out there and these heights are the best defense for miles around.  I won't go chasing shadows and let Lee catch me in the open."
 
 ---
 
 ~ 10:00
-Hedlersburg, Pennsylvania
+Heidlersburg, Pennsylvania
+
+John Walter noted the rising dust ahead of them before Longstreet did.  A murmur moved along the line of staff officers, cavalry coming in fast.  Longstreet was in deep conference with General Lafayette McLaws as they rode, organizing the handoff of the corps.  
+
+Longstreet had decided to retain command of I Corps for the day and none of the officers could blame him.  Suddenly reorienting an army was tricky business on the best of days.  Unfortunately, with the death of Lee, July 1st was hardly the best of days.  A sudden, four o'clock change of command would have run the very real risk of chaos in the command structure with disastrous consequences.  The Army of Northern Virginia couldn't afford any stumbling right now.  
+
+The official command handoff would take place when the army stopped for the night.  But, there were still plenty of details that needed to be ironed out before the sun set.  McLaws was working with his usual borderline-demonic energy to make the transition go as smoothly as possible.
+
+They saw the flamboyant red feather before they saw the officer wearing the hat and that let them identify J.E.B. Stuart easily as he scanned the line of officers and located Longstreet.  A quick spur of the horse with his heels and Stuart was with Longstreet as the general reined his horse.
+
+"General Longstreet!" Stuart's face was flushed above the full mustache. "I present my most profound condolences on ..."  Stuart's voice trailed off as he caught the deadly cold neutrality of Longstreet's face.
+
+John Walter mused at the absurdity.  Stuart could, and would, happily charge in the face of massed Yankee rifles, but the look of pure angry fire in Longstreet's eyes pulled even his exuberance into hasty pause.
+
+"Lee is dead."  Longstreet said after letting the silence hang between the men.  The only sound was the marching men, but Longstreet's voice had no problems carrying over the sound of marching feet.
+
+"You weren't there." He said, "And you left his army blind."
+
+"I do assure you sir that I was scout-" Stuart's face turned even more red as he tried to justify himself.
+
+"That is enough, General."  Longstreet cut through the bluster.  "It is quite clear that you placed your glory above the needs of this army.  We can not have that.  Make your command available for close skirmishing behind us."
+
+Longstreet turned to John Walter, "Major Fairfax, I believe Fitz Lee or Hampton would be best to assume General Stuart's previous duties?"
+
+"Hampton is senior and closest, sir.", John Walter replied, "I believe we can have his command dispatched in the next thirty minutes or so."
+
+"Very well, issue orders to Hampton."  He said.  "General McLaws, I believe it would be best..."
+
+Longstreet gave his horse a quick nudge with his spurs, Stuart seemingly ceased to be a thought in the general's mind.  McLaws, and the other staff, give Stuart one last glance - nothing kind in those looks - before they dismissed him as well and rode after their general.
+
+---
+~16:00
+Leister House
+Gettysburg, Pennsylvania
+
+Meade sat alone in the parlor of the Leister house, seemingly crumpled in the chair in front of the cold fireplace.  It wasn't the weight of indecision, Meade knew exactly what he should be doing.  It was the weight of doubt, of caution that had settled on his shoulders.  The weight of "what-if".
+
+In his hand was an equally crumpled telegram.  He smoothed out the page on his knee, hoping the text might change:
+
+My dear General Meade,
+
+Your dispatches indicating the enemy’s withdrawal are received. 
+
+If this intelligence proves correct, I believe it would be most expedient for you to pursue the rebel forces with all practicable vigor.
+
+I need scarcely remind you of the grave political consequences should a Confederate army be permitted to roam at will through Pennsylvania a second time. The public mind is already much excited.
+
+Act as your judgment dictates, but know that the Administration places the fullest confidence in your discretion.
+
+A. Lincoln
+
+Meade would have flung the paper into the fireplace, had a fire raged there.  He knew Lincoln was correct.  A rebel army loose in Pennsylvania would be a nightmare in the papers.  Lincoln's grasp on the north was tenuous and anti-war copperheads hardly needed the excuse of a marauding Confederate force to stoke the flames.
+
+But, doubt still hung in the air.  The ghosts of Chancellorsville wouldn't let him fully believe that Lee had sincerely pulled his forces back.  This was too good an opportunity for the man's ego.  One good push through the Union lines and Lee had a clear march all the way to Washington D.C.
+
+But, it made sense.  The smartest thing Lee could do would be to withdraw.  Meade's own officers had argued that with him during his ride out to the front to see the empty lines themselves.
+
+But, Meade knew the man he faced.  He knew Lee.  Lee couldn't resist the temptation of coming to grips with the enemy and having a fair and honorable battle on this field.
+
+Meade took one last tired breath and crumpled the telegram again.  He flicked his wrist and tossed the paper into the cold fireplace.
+
+Sleep.  He needed sleep.  He had had less than three hours of sleep last night and his tired mind was too slow to think things through.  
+
+Besides, it was already four in the afternoon.  By the time he issued pursuit orders and the army got on the road, it would be dark in a few hours and they would be camping again.  This time on far less favorable ground.  Maybe that was Lee's plan, Meade's brain flashed a touch of insight.  Lee wants me to chase him and hit us with a night attack.
+
+That made sense.  More sense than Lee giving up the fight here.
+
+Either way, he wasn't moving the army tonight.  Better, yes better, to get to bed early and get some proper sleep.  Tomorrow he could make clearer decisions.
+
+"Daniel", Meade called to his chief of staff, Major General Daniel Butterfield.
+
+"Yes sir?"  Butterfield looked up from the maps at the table and the notes he had been scribbling.
+
+"Orders.  We maintain our positions tonight and evaluate the positions tomorrow.  Stress to our commanders to be alert for night attacks."
+
+"Aye sir."  Butterfield came to brief attention before he turned to begin issuing orders, but Meade couldn't help but notice a sliver of doubt in the Major General's eyes.  He thought Meade was wrong and the weight of "What if" only settled heavier on Meade's shoulder as he levered himself out of the chair and called for his valet.
+
+---
+~ 20:30
+2nd Division, II Corps
+Cemetery Hill
+Gettysburg, Pennsylvania
+
+Haskell swore as he watched the sun set on the far side of Cemetery Hill.  A whole day wasted with the rebels laying waste to the whole countryside north of them.
+
+"And we're stuck here watching the woods for squirrels." He grumbled.
+
+"I take it that you're not happy with our orders from General Meade, Frank?" Gibbon walked up beside him and Haskell flushed.
+
+"Ahh, no sir."
+
+Gibbon looked at the last sliver of sun and nodded.
+
+"Understandable," He said.  "But he is the general in the field, so let's not say it out loud next time, shall we?"
+
+"Yes sir."  Haskell said and nodded.

@@ -51,6 +51,9 @@ Daniel nodded and a brief, uncomfortable silence threatened.
 
 ---
 
+~ 05:45
+Leister House
+Gettysburg, Pennsylvania
 
 
 

@@ -1,29 +1,5 @@
 # Chapter 3: "The Withdrawal"
 
-**Date:** July 2, 1863, 04:00 - 18:00  
-**POV:** John Walter Fairfax (CSA), Frank Haskell (Union)  
-**Status:** Placeholder - Ready for development
-
----
-
-## Events
-- Complete withdrawal begins at 04:00
-- Brigade-by-brigade movement north
-- Union discovery delayed until ~08:00
-- 38 miles gained by lead elements
-- Perfect discipline, zero combat casualties
-
-## Key Moments
-- Fairfax: Executing Longstreet's order, witnessing perfect withdrawal
-- Haskell: Union confusion, Meade's hesitation
-- The 36-hour head start secured
-- Harrisburg within reach
-
-## Themes
-Discipline, stealth, strategic advantage, missed opportunity
-
----
-
 --- Scene 1 
 
 ~ 0533
@@ -162,6 +138,63 @@ Either way, he wasn't moving the army tonight.  Better, yes better, to get to be
 "Orders.  We maintain our positions tonight and evaluate the positions tomorrow.  Stress to our commanders to be alert for night attacks."
 
 "Aye sir."  Butterfield came to brief attention before he turned to begin issuing orders, but Meade couldn't help but notice a sliver of doubt in the Major General's eyes.  He thought Meade was wrong and the weight of "What if" only settled heavier on Meade's shoulder as he levered himself out of the chair and called for his valet.
+
+---
+~ 16:30
+Little Round Top
+Gettysburg, Pennsylvania
+
+The climb was brutal. Two days of marching to reach Gettysburg, and now this—scrambling up a boulder-strewn slope with full packs, rifles, and sixty rounds of ammunition each. 
+
+Colonel Joshua Chamberlain crested the last rise and hunched over, his hands on his knees trying to catch his breath.  Colonels didn't typically rush about like this, especially up steep mountain sides, but when your brigade commander, insisted you climbed a mountain with all haste, you climbed the damn mountain with all haste.
+
+The 20th Maine huffed behind him, this scorching Pennsylvania summer was cruel to their Maine blood, especially in wool uniforms.  It was a testament to the toughness of the Mainer spirit that they hadn't lost more men to heat.
+
+"Keep moving!" Sergeant Tozier shouted. "We're the last regiment on the left! They could hit us any minute!"
+
+The 20th Maine was on the extreme left of the Union line.  To the south, only Big Round Top's wooded slopes, no soldiers.  Colonel Vincent had been brutally clear about their orders -- hold the line at any cost -- but hadn't been clear about reinforcements.  It was clear to Chamberlain that much lay on his shoulders.
+
+The sergeants chivied the men into lines, waiting for the attack.
+
+Except the woods were quiet.  That was fine with Chamberlain, it gave the 20th Maine more time to dig in, but it seemed odd.
+
+"Tom!" He called to his brother, Lieutenant Thomas Chamberlain hobbled over to his older brother on legs that seemed as wobbly as Chamberlains own.
+
+"Yes Lawrence?"  Tom had caught his breath quicker than Joshua had, the joys of being young once again.
+
+"The rebs seem to be giving us some much needed time.  Get some breastworks up and see about other fortification works."
+
+"Could we get the boys from the 2nd to help out?" Tom suggested.  "I'd hate to have our men out of line with rocks in their hands if the rebs start chargin up the hill on us."
+
+"That's a good point."  Chamberlain said.  "Let's see if this rhetoric education can do us any good here."
+
+Tom smiled and waved his older brother at a knot of sullen men seated on the ground about fifty paces behind the lines.
+
+"You men from the 2nd?" he called out.
+
+A burly sergeant looked up. "We are. And we're not moving. Our enlistment's up."
+
+"I know." Chamberlain stopped a few paces away, not crowding them. "And I know you think you're being wronged. You probably are." 
+
+That got their attention. The sergeant's eyes narrowed.
+
+"But here's the situation," Chamberlain continued. "We're on the extreme left of the Union line. Nothing south of us. If the Rebs hit this flank—and they will—we're the only thing stopping them from rolling up the entire army."
+
+He gestured at his men frantically piling rocks. "My boys are spread thin. We need breastworks—stone walls, felled trees, anything that'll stop a bullet. And we need them before the attack comes."
+
+"Not our problem," someone muttered.
+
+"It is when you're sitting fifty yards behind the line," Chamberlain said flatly. "When the Rebels come through because we didn't have enough men to build proper defenses, where do you think they'll go? You think they'll stop to check enlistment papers?"
+
+Silence.
+
+"I'm not asking you to fight," Chamberlain said. "I'm asking you to help build walls. You can do that sitting down if you want. But when the shooting starts, I guarantee you'll want those walls between you and them."
+
+The sergeant looked at his men, then back at Chamberlain. "We build walls, you don't put us in the line?"
+
+"You build walls, I'll be grateful for the help." Chamberlain met his eyes. "What you do when the shooting starts is between you and your conscience. But if you're going to be here anyway, you might as well be behind cover."
+
+The sergeant stood slowly. "Show us where you want the rocks."
 
 ---
 ~ 20:30

@@ -50,25 +50,31 @@ General Robert E. Lee, Commanding Officer of the Army of Northern Virginia, paus
 
 “I grow quite weary of this discussion, General Longstreet.”  There was an exasperation in his voice that Lee couldn’t quite filter out.  “Are my orders, somehow unclear?”
 
-“No sir,” Longstreet continued in that same, unhurried voice.  “I simply point out that a static battle here does not fulfil the goals that you lay out when we set forth from Virginia.”
+"No sir." Longstreet moved closer as Lee finished dismounting. "But sir, the prisoners we took today—all of them, from multiple units—they're consistent. Their commanding general has been replaced. They don't know who yet, but they know it's not Hooker anymore."
 
-“And what would those goals be?” Lee’s voice was uncharacteristically snappish.
+John Walter held the reins steady and grabbed the bridle.  Traveller seemed more restless than usual.
 
-“The purpose of this campaign is to be a thorn in the Yankees’ side.”  Longstreet moved closer to Lee as the older man finished dismounting.  John Walter held the reins steady and grabbed the bridle.  Traveller seemed more restless than usual.
+Lee paused, considering. "Reynolds was on the field today. Probably him. Or Meade if they want someone cautious. Warren if Lincoln's feeling desperate and wants aggression." He waved his hand. "Hooker, Meade, Reynolds, Warren—it doesn't matter, James. Whoever Lincoln puts in command, they still have to hold that ground or abandon it."
+
+"Sir, if it's Meade, he won't make the mistakes Hooker—"
+
+"Then we won't rely on him making mistakes." Lee's voice was firm. "We'll make our own opportunities. The enemy is there. We attack tomorrow." 
+
+"We are here to be a thorn in their side."
 
 “I’m quite aware of that, General.  And here we are.  From all the reports that we’ve received, all major Union forces are either camped here or moving here.  I wish Stuart were here, I’d feel less blind, but even a blind man can clearly see that we’ve kicked over the hornet’s nest.”
 
-“Yes sir, and if Meade manages to destroy our forces?”  Longstreet seemed to be fighting his own exhaustion.  That was as close to insubordination that John Walter had heard from his general.  Typically, the man was courtesy itself, especially to the man he almost idolized.
+“Yes sir, and if Meade, or Warren, or whoever they replace Hooker with, manages to destroy our forces?”  Longstreet seemed to be fighting his own exhaustion.  That was as close to insubordination that John Walter had heard from his general.  Typically, the man was courtesy itself, especially to the man he almost idolized.
 
-“If he manages to destroy the army, we will stop being a thorn.  Our best option is to break north and force Meade to our plans.  The longer we can make Pennsylvania feel the pain that Virginia has felt these last two years, the closer we are to pushing Lincoln to the negotiating table.”
+“If he manages to destroy the army, we will stop being a thorn.  Our best option is to break contact and find ground south of here to defend, and force them to our plans.  We make them rethink thier entire deployment here.  He must attack us and that favors us”
 
-“Meade is hardly going to destroy our forces.  Hooker failed to do so in Chancellorsville, and Meade will fail here as well.  Our boys haven’t let us down before, and no good Virginian would dare let a Union army hold such good ground.”
+“They are hardly going to destroy our forces.  Hooker failed to do so in Chancellorsville, and whoever Lincoln picked will fail here as well.  Our boys haven’t let us down before, and no good Virginian would dare let a Union army hold such good ground.”
 
 Lee placed his hand on the taller man’s shoulders, as if to make Longstreet feel the strength of Lee’s convictions.  He gave that shoulder a small shake to emphasize his words.
 
 “The Union army is here, James.  If we can push around the right and roll him up those two hills south of the town, he has nothing to stop us short of Washington.  We go from being a thorn in their side to a sword in their heart.  I can feel it.”
 
-Longstreet's face screwed up, still polite, but John Walter had been with Longstreet for years, he could read his commanding officer as easily as a preacher read the Bible.  This promised to be a long night and the Lord only knew...
+Longstreet's face screwed up, still polite, but John Walter had been with Longstreet for years, he could read his commanding officer as easily as a preacher read the Bible.  This promised to be a long night and the Lord only knew--
 
 John Walter's thoughts slammed shut as Lee's face drained of all color.  The hand that had been gripping Old Pete's shoulder flew his chest and grasped at the fabric of the uniform with desperate strength.  A loud rasp of pain and the general's eyes rolled in his head and the hand dropped limply to his side.  Even as Lee collapsed to the dirt, Longstreet was shouting for medics, but John Walter could see it would be in vain.  
 

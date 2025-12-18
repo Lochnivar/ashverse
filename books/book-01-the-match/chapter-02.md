@@ -91,26 +91,88 @@ Tick.
 
 Tick.
 
+"I'm sorry Robert,"  Longstreet's voice returned to the present.  "I can't convince myself that a flanking assault is the wisest course of action here.  If we could turn the southern flank, yes, we would have those heights, but that gives whoever they replaced Hooker with a chance to take them right back from us.  We just need to get around to the south, find somewhere defensible."  Longstreet argued with Lee's ghost.  "We make them come to us."
+
+Tick.
+
+Tick.
+
+Tick.
+
 "Major?"  
 
-Despite himself, John Walter jumped, realizing that Longstreet spoke directly to him.  He glanced at the clock.  Hours had faded and the face read almost four in the morning.  The crow of a cock welcoming the coming dawn intruded and the dead finished their escort.
+Despite himself, John Walter jumped, realizing that Longstreet spoke directly to him.  
+
+"I presume the generals are here?"  The voice was tired, but almost distant.  The general's mind was focused on something else.  John Walter glanced at the clock.  Hours had faded and the face read almost four in the morning.  The crow of a cock welcoming the coming dawn intruded and the dead finished their escort.
 
 "Yes Sir?"
 
-"I believe we have an army to lead.  New orders to be issued immediately."
+"I believe we have an army to lead.  Spread out the maps on the table, I need to see the terrain.  Not the local maps only, I need all we've got between Harrisburg and Virginia.  We'll probably have new orders to be issued immediately."
 
 "Back to Virginia, sir?"
 
 Longstreet shook his head and tucked Marse Robert's hand under the rebel gray blanket over his chest.  The vigil complete.
 
-The generals who were sitting, thrust to their feet and began to crowd around the door as John Walter stepped back.  
+"No, that defeats the whole purpose of this campaign, why we're here.  I need those maps.  Quickly!"
+
+Longstreet rose and moved to the door.  The generals who were sitting, thrust to their feet and began to crowd around the door as John Walter stepped back.  
 
 "General Lee is dead?"  Ewell asked, the nervous energy turning into something more anxious, mirroring John Walter's anxiety.
 
 Longstreet stood in the door and nodded at the gaggle of generals.  He could issue these orders himself.
 
-"Yes."  Longstreet confirmed almost gently.  "General Ewell, you are to withdraw as quietly as possible."
+"Yes."  Longstreet confirmed almost gently.
 
-"Virginia, sir?"  Early asked as if he couldn't believe it.
+Hood's eyes seemed to glitter despite his wounds.
 
-"No, we march north to Harrisburg.  We face the army about and march by the left flank on the Mummasburg–Carlisle–Harrisburg road with all possible speed.  General Lee wanted us to be a thorn in the side of the Yankees and, by God, we're going to turn them green with rot."
+"Are my boys turning Yankee flank like we talked about yesterday?"
+
+"I don't know yet, General." Longstreet said.  "Let me look at the maps and see what options we have.  Major Sorrel, do we know who replaced Hooker yet?"
+
+"No sir."  Major Moxley Sorrel, Longstreet's Chief of Staff said.
+
+"Very well, let's plan on an aggressive one, Warren or Hancock perhaps, and hope they give us a cautious one like Meade."
+
+Longstreet moved to the maps that John Walter quickly spread on the table of the Schmucker house. He selected a map, a regional one that seemed relatively complete, and traced the roads with his finger.
+
+"If we swing south, around these hills..." His finger moved southeast, then curved back. "Force Meade to abandon this position, move toward Taneytown, Westminster...  But where?"
+
+"South Mountain. Ten miles southeast. The gaps there are defensible. We fought there in '62. Turner's Gap, Fox's Gap. Good ground."
+
+"Sir," Sorrel raised a diffident hand, inviting attention.  Longstreet nodded.
+
+"What was our objective marching north?"
+
+Longstreet paused. That was the question, wasn't it? The one he'd been circling without quite asking. 
+
+"To give them hell in Pennsylvania," Early said, "And to give Virginia a much needed respite."
+
+"Major, are you suggesting that we should return to those objectives?" Major General Lafayette McLaws asked.
+
+Sorrel nodded politely but firmly.
+
+"Yes sir, I am.  The Yankee's gift-wrapped a nice army here for us, but our objective on this campaign wasn't to defeat an army.  It was to apply pressure and make the North yowl."
+
+A silence hung in the house, only broken by the ticking of the clock in the room behind them.
+
+"General Longstreet, I believe the Major to be correct.  Finding defensive ground south of here would be grand, and it keeps us marching on Washington..."  McLaws let his voice trail.
+
+Longstreet traced the route again, more slowly this time. Southeast. Toward Washington. Again.
+
+His finger paused. Something about that direction...
+
+"No, that's..." Longstreet seemed to be wrestling with a cognitive dissonance, something wasn't quite adding up.
+
+"Damn." Longstreet whispered like a hanged man given a last minute reprieve as the pieces clicked.
+
+"No, General Hood." Longstreet's voice was gentle but firm. He turned the map for Hood to see.  "That's a trap.  Even if we were able to take these two hills, that leaves us on the wrong side of the Union army.  As Major Sorrel has pointed out, we're not here to fight."
+
+"And that means we can't get trapped south," McLaws said. "And if we can't hold there, or they don't accept a battle there, we starve here."
+
+"Exactly!"  Longstreet was as animated as John Walter had ever remembered the reserved general.  "That means we have to be able to manuvuer north.  If we do turn the flank to the south, then they just nudge us back south as we try to march on Washington.  We'll be back in Virginia before the month is out."
+
+"God Almighty," John Walter murmurred under his breath.  Longstreet was right.  The whole staff had been so focused on winning the fight they had in front of them that they lost the larger strategic picture.  Turning that flank might give a morale boost, but in the end, it didn't solve the problem, giving Virginia a break and putting pressure on Washington to stop this insane war.
+
+"Gentlemen, verbal orders for now, I'll get you written ones soon."  Longstreet rolled the map up and used it as a pointer at the window at the lightening sky.  "I need your boys on the road as quickly as possible if we're to steal a march on the Union."
+
+"General Ewell, you are to withdraw as quietly as possible.  We march north to Harrisburg.  We face the army about and march by the left flank on the Mummasburg–Carlisle–Harrisburg road with all possible speed.  General Lee wanted us to be a thorn in the side of the Yankees and, by God, we're going to turn them green with rot."

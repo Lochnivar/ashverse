@@ -267,7 +267,7 @@ Appomattox Collegial Press, 1985
 - 2.1 First Observation: Gamble's Discovery
 - 2.2 The Three-Hour Structural Gap
 - 2.3 Comparative Exhaustion Analysis
-- 2.4 Meade's 36-Hour Freeze: Causal Analysis
+- 2.4 Meade's 36-Hour Freeze: Causal Analysis — see `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` for hour-by-hour breakdown and telegraph strategy
 - 2.5 Harrisburg Arrival: The Inevitable Gap
 
 ### Part 3: The Harrisburg Campaign (July-October 1863)

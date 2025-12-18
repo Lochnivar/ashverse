@@ -1,6 +1,6 @@
 # CANON REFRESHER FOR AI ASSISTANTS
 
-**Date:** December 9, 2025  
+**Date:** December 15, 2025  
 **Purpose:** Quick reference for AI assistants - essential facts only  
 **Status:** LIVING DOCUMENT - Update when major canon locks
 
@@ -47,6 +47,12 @@
 - ❌ Bad: "This is now LOCKED canon" or "This locks it down completely"
 - ✅ Good: "This appears to be established canon based on [document]. Should I treat this as locked?"
 - ✅ Good: User says "Lock this" → You mark it as locked in the document
+
+### Git Operations Rule: Explicit Request Required
+- **AI NEVER commits changes** unless user explicitly requests "commit" or "commit and push"
+- **AI NEVER pushes changes** unless user explicitly requests "push" or "commit and push"
+- **AI NEVER assumes** commits/pushes are needed after making edits
+- **See:** `ai-rules/git-operations-explicit-request.md` for full rule
 
 ### Hash Consistency Tracking Rule
 - **After editing ANY markdown file:** Calculate new hash using `python scripts/calculate-hash.py <file-path>`
@@ -107,8 +113,9 @@
 
 **The Northern Collapse Sequence:**
 1. **July 1, 1863:** Lee dies (94%)
-2. **July 2-3, 1863:** Meade's 36-hour freeze - multiple factors delay pursuit (91%)
-3. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
+2. **July 2-3, 1863:** Meade's 36-hour delay (~30.5 hours from initial report to pursuit commitment). Even a "perfect Meade" faces a structural minimum delay of 4–6 hours (organization, verification, distribution), so a hypothetical immediate pursuit still arrives roughly July 4 evening — too late to prevent Harrisburg's surrender. See `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` (Dec 17, 2025) for hour-by-hour breakdown and Longstreet's telegraph strategy (open lines July 3–9; cut lines July 9). (91%)
+3. **July 3-10, 1863:** Harrisburg Occupation (7 days) - Battle of Camp Hill (July 5), Quaker gun deception, gradual shift east (92-94%)
+4. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
 4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction that teaches him: panic = weakness) (92%)
 5. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
 6. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
@@ -118,11 +125,18 @@
 10. **Jan 3, 1864:** Hancock assumes command (healthy - no Gettysburg wound) (92%)
 11. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line (90%)
 12. **June 14-July 14, 1864:** Pickett's Lightning Raid (14k men, 30 days actual raiding, newspapers report "FORTY DAYS OF TERROR!") (88%)
+    - **Carlisle as strategic objective:** Taken second summer in a row (symbolic gut-punch) (92%)
+    - **Field's Division destroyed:** Advanced back-stop crushed at Carlisle, ~550 casualties (91%)
+    - **Kershaw saves withdrawal:** Extends line north, fights delaying actions (91%)
+    - **Total casualties:** ~1,200 (650 Pickett's Flying Corps, 550 Field's Division)
 13. **July 12, 1864:** Hancock wounded on Susquehanna pursuing Pickett - commands from bed through March 1865 - THE WISDOM MOVE (Lincoln keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection) (91%)
 14. **Aug-Dec 1864:** Winter of Despair - riots, draft collapse, Copperhead victories (92%)
 15. **Nov 1864:** McClellan elected on peace platform (Lincoln loses) (95%)
 16. **Late Jan-Feb 1865:** Grant's Final Gamble (never promoted to general-in-chief) (88%)
 17. **Feb 18-20, 1865:** Battle of Appomattox Court House - Grant defeated, surrenders (91%)
+    - **V Corps Commander:** Charles Griffin (Warren relieved Jan 1, 1864) (92%)
+    - **Casualties:** Union ~18,000 (28%), Confederate ~12,000 (18%)
+    - **Rational decisions framework:** Commanders make choices based on known characteristics
 18. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck 27 days)
 19. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs) (95%)
 
@@ -567,6 +581,8 @@
 13. **DO NOT** assume Sherman's March to the Sea happens (war ends first)
 14. **DO NOT** assume Hancock's wounding is CSA setback (it's CSA victory)
 15. **DO NOT** assume OTL Reconstruction happens (entirely different post-war period)
+16. **DO NOT** commit or push changes unless explicitly requested by user
+17. **DO NOT** assume Warren commands V Corps at Appomattox (Griffin replaced him Jan 1, 1864)
 
 ---
 
@@ -592,7 +608,13 @@
 
 ## RECENT MAJOR CANON LOCKS (December 2025)
 
-**Six elements locked after external peer review:**
+**December 10-15, 2025 Updates:**
+1. **Grant's Final Gamble:** Charles Griffin commands V Corps (Warren relieved Jan 1, 1864), battle dates Feb 18-20, 1865, rational decisions framework (92%)
+2. **Harrisburg Occupation:** Battle of Camp Hill (July 5, 1863), Quaker gun deception, gradual east-bank shift (92-94%)
+3. **Pickett's Raid:** Carlisle as strategic objective, Field's division destroyed at Carlisle, Kershaw saves withdrawal (91-92%)
+4. **Git Operations Rule:** AI never commits/pushes unless explicitly requested
+
+**December 9, 2025 - Six elements locked after external peer review:**
 1. **Native super-states:** Embattled survivors (not superpowers) - Sequoyah thrives, Plains nations fragment
 2. **Mormon Deseret:** Banking neutrality ("Mormon Venice of North America")
 3. **Transcontinental rails:** Bypass Native territories (USA via Canada, CSA via Mexico)
@@ -653,14 +675,27 @@
 - OTL Events: `/world-building/reference/otl-events-never-happen.md`
 - Claude Review Fixes: Individual files in `/world-building/` subfolders (regions/native-super-states-embattled-survivors.md, regions/mormon-deseret-banking-neutrality.md, economic/transcontinental-rail-routes-bypass.md, military/wwi-duration-zimmerman-crisis-explicit-chapter.md, california/alaska-purchase-1875-1876.md, economic/second-kkk-suppression-economic-motive.md)
 - **Canon Master Document:** `/canon-master-document.md` (comprehensive detailed version with all narratives)
+- **AI Rules:** `/ai-rules/` (golden-rule-no-original-text.md, hash-consistency-tracking.md, git-operations-explicit-request.md)
+- **Tools:** `/tools/` (wargaming-simulation-template.md, battle-simulation-template.md, rate limit monitoring scripts)
+- **Meade 36-Hour Delay & Telegraph Strategy:** `/analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` (Meade's 36-hour delay & Longstreet telegraph strategy; hour-by-hour analysis)
+- **Harrisburg Occupation:** `/archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` (Battle of Camp Hill, Quaker guns, gradual shift)
+- **Grant's Final Gamble:** `/analysis/military/grant-gamble-canon-update-2025-12-10.md` (Griffin replaces Warren, Feb 18-20, 1865)
+- **Pickett's Raid:** `/world-building-master/pickett-raid-canonical-timeline-2025-12-10.md` (Carlisle objective, Field's destruction)
 
 ---
 
 ## MAINTENANCE LOG
 
-**Last Updated:** December 9, 2025
+**Last Updated:** December 17, 2025
 
 **Recent Updates:**
+- December 17, 2025: Added `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` — Meade's 36-hour delay & Longstreet telegraph strategy analysis; integrated summary into `canon-refresher-for-ai.md` and added cross-links to `README.md`, POD Campaign Part 2, and Compendium TOC.
+- December 15, 2025: Added Git Operations Rule (explicit request required for commits/pushes)
+- December 15, 2025: Updated Grant's Final Gamble (Griffin replaces Warren, dates Feb 18-20, 1865)
+- December 15, 2025: Added Harrisburg Occupation details (Battle of Camp Hill, Quaker guns, gradual shift)
+- December 15, 2025: Updated Pickett's Raid (Carlisle objective, Field's destruction, casualty split)
+- December 10, 2025: Grant's Final Gamble canonical updates (Griffin, rational decisions framework)
+- December 10, 2025: Pickett's Raid canonical updates (Carlisle, Field's division, Kershaw's action)
 - December 9, 2025: Streamlined from 7,000+ words to ~3,500 words
 - December 9, 2025: Added "Negative Assumptions" section to gate OTL assumptions
 - December 9, 2025: Moved detailed narratives to separate reference docs
@@ -672,6 +707,7 @@
 
 **Update Checklist:**
 - [ ] Update relevant sections with new canon
+- [ ] **Integrate `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` findings:** add Meade July 2–3 scenes to POD Campaign Part 2, add telegraph scenes (July 3 & July 9), draft scene edits in `edits/` (do NOT edit `books/`), and add cross-links (README, Compendium TOC)
 - [ ] Update "Last Updated" date
 - [ ] Verify all LOCKED items clearly marked
 - [ ] Add pointers to new detailed docs
@@ -682,3 +718,20 @@
 - New treaties/political systems established
 - Significant world-building changes
 - Changes affecting "DO NOT" rules
+
+---
+
+## INTEGRATION NOTES (2025-12-17)
+
+**Purpose:** Actionable tasks to integrate findings from `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` into canon documents and writing plans.
+
+- **Priority tasks:** Add Priority 1 scenes to `archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` and prepare scene drafts in `edits/`:
+  - Meade July 2, 10:00-18:00 (Working on wrong problem)
+  - Meade July 3, 05:00-08:00 (Round Tops repositioning)
+  - Meade July 3, 21:00 (Receives Lincoln telegram - Lee is dead)
+  - Longstreet July 3, 16:00 (Telegraph decision - Sorrel/McLaws/Longstreet)
+  - Longstreet July 9, 20:00 (Cut the lines order)
+
+- **Cross-link tasks:** Ensure `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` is referenced from `README.md`, `compendium/table-of-contents.md`, and `archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` (done where applicable). 
+
+- **Process tasks:** Draft scenes in `edits/` for user review (do NOT modify `books/` directly), update dependent document hashes via `python scripts/calculate-hash.py`, and request user approval before committing or locking any changes.

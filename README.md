@@ -22,6 +22,10 @@ ashverse/
     └── ideas.md
 ```
 
+## Notable analyses
+
+- [Meade 36-Hour Delay & Telegraph Strategy](analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md) — Meade's 36-hour delay & Longstreet telegraph strategy (analysis; Dec 17, 2025).
+
 ## Getting Started
 
 1. Start with `series-overview.md` to define the overall vision

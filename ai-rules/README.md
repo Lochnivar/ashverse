@@ -21,6 +21,7 @@ AI rules should be organized by topic or type as needed.
 
 - **`golden-rule-no-original-text.md`** - Absolute rule: AI never creates original text in books folder
 - **`hash-consistency-tracking.md`** - Rule for updating dependency hashes when files are edited
+- **`git-operations-explicit-request.md`** - Absolute rule: AI never commits or pushes unless explicitly requested by user
 
 ## Usage
 

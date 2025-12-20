@@ -1,7 +1,5 @@
 # Chapter 1
 
-July 1, 1863 - Lee's death in his tent on Seminary Ridge
-
 --- Foreword ---
 
 “The War Between the States has been called many things…
@@ -66,7 +64,7 @@ Lee paused, considering. "Reynolds was on the field today. Probably him. Or Mead
 
 “Yes sir, and if Meade, or Warren, or whoever they replace Hooker with, manages to destroy our forces?”  Longstreet seemed to be fighting his own exhaustion.  That was as close to insubordination that John Walter had heard from his general.  Typically, the man was courtesy itself, especially to the man he almost idolized.
 
-“If he manages to destroy the army, we will stop being a thorn.  Our best option is to break contact and find ground south of here to defend, and force them to our plans.  We make them rethink thier entire deployment here.  He must attack us and that favors us”
+“If they manage to destroy the army, we will stop being a thorn.  Our best option is to break contact and find ground south of here to defend, and force them to our plans.  We make them rethink thier entire deployment here.  He must attack us and that favors us”
 
 “They are hardly going to destroy our forces.  Hooker failed to do so in Chancellorsville, and whoever Lincoln picked will fail here as well.  Our boys haven’t let us down before, and no good Virginian would dare let a Union army hold such good ground.”
 

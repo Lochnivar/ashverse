@@ -146,7 +146,7 @@ Gettysburg, Pennsylvania
 
 The climb was brutal. Two days of marching to reach Gettysburg, and now this—scrambling up a boulder-strewn slope with full packs, rifles, and sixty rounds of ammunition each. 
 
-Colonel Joshua Chamberlain crested the last rise and hunched over, his hands on his knees trying to catch his breath.  Colonels didn't typically rush about like this, especially up steep mountain sides, but when your brigade commander, insisted you climbed a mountain with all haste, you climbed the damn mountain with all haste.
+Colonel Joshua Lawrence Chamberlain crested the last rise and hunched over, his hands on his knees trying to catch his breath.  Colonels didn't typically rush about like this, especially up steep mountain sides, but when your brigade commander, insisted you climbed a mountain with all haste, you climbed the damn mountain with all haste.
 
 The 20th Maine huffed behind him, this scorching Pennsylvania summer was cruel to their Maine blood, especially in wool uniforms.  It was a testament to the toughness of the Mainer spirit that they hadn't lost more men to heat.
 
@@ -160,17 +160,21 @@ Except the woods were quiet.  That was fine with Chamberlain, it gave the 20th M
 
 "Tom!" He called to his brother, Lieutenant Thomas Chamberlain hobbled over to his older brother on legs that seemed as wobbly as Chamberlains own.
 
-"Yes Lawrence?"  Tom had caught his breath quicker than Joshua had, the joys of being young once again.
+"Yes Lawrence?"  Tom had caught his breath quicker than he had, the joys of being young once again.
 
 "The rebs seem to be giving us some much needed time.  Get some breastworks up and see about other fortification works."
 
 "Could we get the boys from the 2nd to help out?" Tom suggested.  "I'd hate to have our men out of line with rocks in their hands if the rebs start chargin up the hill on us."
+
+Ah, the 2nd Maine.  In the chaotic climb, Chamberlain had almost forgotten about them.  The mutinous unit had been given to him to escort a few days ago.  Their enlistments had run out but they hadn't been discharged.  As such, they had simply refused to participate in this war any longer.  Chamberlain had been given orders to shoot the men if they wouldn't join and Chamberlain desperately didn't want that.  Not only would he be shooting good Maine boys, but boys with a grievance.  That troubled him deeply.
 
 "That's a good point."  Chamberlain said.  "Let's see if this rhetoric education can do us any good here."
 
 Tom smiled and waved his older brother at a knot of sullen men seated on the ground about fifty paces behind the lines.
 
 "You men from the 2nd?" he called out.
+
+Chamberlain felt a mental wince.  Of course they were the 2nd Maine, who else would they be?  As an opening gambit, it was certainly on the weak side.
 
 A burly sergeant looked up. "We are. And we're not moving. Our enlistment's up."
 
@@ -196,8 +200,22 @@ The sergeant looked at his men, then back at Chamberlain. "We build walls, you d
 
 The sergeant stood slowly. "Show us where you want the rocks."
 
+Chamberlain nodded his thanks, sincerely, and motioned for Sergeant Tozier to take over.  The 2nd Maine, still sullen, but functionally sullen this time, at least, began grabbing rocks, starting with the ones nearest while a few asked for hatchets to start felling trees.
+
+Tom walked up and spoke to Chamberlain quietly, pitched so only the two of them could hear.
+
+"You believe they were wronged?" Tom asked incredulously.
+
+Chamberlain didn't look at his brother, only watching the 2nd work.  "It's getting the damned wall built, isn't it?"
+
+Tom paused a moment, then grinned.  "Yes, yes it is."
+
+Chamberlain finally looked at his brother and nodded.
+
+"Then what I think is irrelevant.  I don't have to shoot good Maine boys and that's enough for me right now.  Let smarter, and more senior, heads than ours worry about whether they were wronged or not.  We've got rebs coming and a war to fight."
+
 ---
-~ 20:30
+~ 19:30
 2nd Division, II Corps
 Cemetery Hill
 Gettysburg, Pennsylvania

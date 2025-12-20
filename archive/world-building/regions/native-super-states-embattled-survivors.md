@@ -71,6 +71,28 @@ The Native super-states are **not** super-powers. They are **embattled survivors
 
 ---
 
+## Origins in the Treaty of Cincinnati (Article 4)
+
+The recognition of Native super-states in Article 4 of the Treaty of Cincinnati was driven by layered motivations, with hard-headed realpolitik dominating the private negotiations in March 1865.
+
+**Primary driver (private, unspoken):** Mutual territorial denial.  
+Both American delegations arrived in Cincinnati acutely aware that neither nation possessed the military, financial, or political strength to immediately conquer, settle, or administer the vast Indian Territory and Great Plains in the wake of the ruinous war. Each side's greater fear, however, was that its rival would eventually recover faster and incorporate those lands first — granting the victor new territory, resources, population base, and long-term strategic depth. By freezing the region under sovereign Native control, the USA and CSA ensured that, for the foreseeable future, the other side could not claim it. This cynical calculation — "if we cannot have it now, neither shall they" — formed the true engine of the clause.
+
+**Public/diplomatic rationale:** Neutral western buffer and moral restitution.  
+Negotiators presented Article 4 as establishing a neutral buffer zone while righting the historic wrongs of Indian removal. This framing provided essential political cover, allowing both McClellan and Davis to sell the treaty domestically as an honorable peace rather than a humiliating draw.
+
+**Supporting factor:** Immediate post-war exhaustion.  
+Neither nation could contemplate renewed large-scale warfare against organized Native forces without risking domestic collapse or giving the rival pretext for intervention. Granting paper sovereignty bought time at minimal cost.
+
+The compromise neither side fully trusted proved far more durable than its architects intended, creating sovereign Native republics that — despite constant pressure — remained independent in international law through 1939 and beyond.
+
+**Plausibility Notes:**  
+- Mutual denial (primary): 84–88%  
+- Buffer/moral cover (public secondary): 80–83%  
+- Overall framework post-update: 85–89% (improves geographic and psychological honesty without altering locked outcomes)
+
+---
+
 ## The Treaty of Cincinnati Guarantee (1865)
 
 **Article 4-6:** Native super-states recognized as sovereign republics

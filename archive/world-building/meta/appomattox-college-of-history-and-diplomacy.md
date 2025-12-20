@@ -263,6 +263,103 @@
 
 ---
 
+## TRADITIONS AND CULTURE
+
+### The Civil War Football Game and Associated Traditions
+
+**The Civil War Game**  
+**Established:** 1912  
+**Annual:** Last Saturday in November  
+**Teams:** Northern Cadets (USA) vs. Southern Cadets (CSA)  
+**Venue (1939):** Large neutral stadium (rotated or dedicated "Concord Field") — 35,000+ attendance, continent-wide radio broadcast.
+
+The continent's premier sporting event — billed unapologetically as **"The Civil War."** Fierce rivalry provides sanctioned outlet for old animosities. By 1939, the one day a year the war "happens again" safely on grass.
+
+**Pregame Reenactment**  
+15-minute spectacle with blank black-powder muskets:  
+- Cadets form opposing lines across midfield (blue vs. grey).  
+- Coordinated volleys and smoke.  
+- Simulated bayonet charge ending in midfield handshakes under crossed USA/CSA flags.  
+- Band shifts from period marches to fight songs.  
+Crowds roar — theatrical catharsis releasing tension in controlled form.
+
+**Prisoner Exchange**  
+Iconic post-game ritual:  
+- Losing team's captain "surrenders" a symbolic sword (wooden prop) to winner.  
+- Winning captain immediately "paroles" the losers — returning the sword and declaring "honor satisfied until next year."  
+- Teams line up for formal handshake line while bands play both anthems.  
+- Losing side sings winner's anthem (grudgingly, often off-key for humor).  
+Originated 1915 after a particularly bitter game; now the emotional climax.
+
+**War Week**  
+Week leading up:  
+- Pranks (stolen mascots, painted barracks).  
+- Mock skirmishes and debates.  
+- Dining hall segregated by team (self-imposed).  
+- Culminates in game-day parade past Tick and Tock clocks.
+
+**Other Rituals**  
+- **Freshman Salute:** New cadets salute Tick on arrival ("the old war") and Tock on graduation ("the real world").  
+- **Post-Game Receptions:** Joint alumni events — "the war's over for another year." Many cross-nation friendships and "Appomattox marriages" begin here.  
+- **Merchandise Note:** California dominates sales (neutral broadcasts, subtle bear-flag branding).
+
+**Tone and Significance**  
+Competitive and tribal — booing, chants, full national colors encouraged. No saccharine unity speeches. The game proves peace's durability: old hatreds channeled into sport, not slaughter. California benefits as neutral host/broadcaster.
+
+Civilians call it "The Truce Game," "The Phony War," or "Parole Bowl."
+
+**Plausibility:** 86–89% (mirrors OTL service rivalry games; reenactments common in era; rituals evolve organically from cadet culture)
+
+---
+
+## INSTITUTE OF RACIAL DYNAMICS (1928+)
+
+**Minor Annex:** Established 1928 as empirical observatory within Appomattox College.
+
+**Purpose:** Publishes annual **Racial Equality Index (REI)** — data-only "mirror" reflecting continental racial/socioeconomic patterns without judgment or policy recommendations. Inspired by Cuba Mirror Effect (1898).
+
+**Key Feature:** Active disclaimers against misuse — IRD protests when governments/industries use REI data for policy or commercial purposes.
+
+**Significance:** Deepens Appomattox's symbolic evolution (humiliation → reconciliation → cold self-observation). Illustrates pragmatic racial progress as unintended byproduct.
+
+**See:** `world-building/institutions/appomattox-college-institute-of-racial-dynamics.md` for detailed documentation.
+
+---
+
+## 1920s-1930s: EMPIRICAL ANNEXES
+
+**Overview:**  
+Five minor annexes (institutes) added to Appomattox College, established 1910-1934. Each is a neutral, data-only observatory publishing annual empirical reports — "mirrors" reflecting continental patterns without judgment, policy recommendations, or moral commentary. All housed in **Institute Hall** (built 1925-1927), California-funded expansion.
+
+### Institute Hall and the Clocks
+
+**Institute Hall (built 1925–1927):**  
+A modest three-story brick building on the Appomattox campus housing offices and libraries for all five empirical annexes. California-funded; neutral architectural style — no national symbols.
+
+**The Entrance Clocks:**  
+Flanking the main doors are two large, four-faced standing tower clocks, visible from the quadrangle and approach paths.
+
+- **Left Clock: Tick (The American Rift Clock, dedicated 1910)**  
+  Tracks internal USA-CSA frictions. By 1939 nearly symbolic — position ~10:35, rarely adjusted. Cadets call it "the relic" or "Grandpa's clock."
+
+- **Right Clock: Tock (The Continental Rift Clock, dedicated 1918)**  
+  Tracks broader continental and global pressures (Zimmerman-inspired). Actively relevant — position ~9:30 in 1939. Cadets watch it closely.
+
+**Campus Tradition:**  
+Cadets pass between Tick and Tock entering Institute Hall. Freshmen salute Tick ("the old war"); seniors salute Tock ("the real one"). The clocks have become the most photographed feature of the college — silent sentinels reminding every generation that peace is measured, not proclaimed.
+
+### The Five Annexes
+
+1. **Institute of Racial Dynamics (1928):** REI as data mirror; Cuba-inspired
+2. **Institute for Border Friction Metrics (1910/1918):** Dual clocks (Tick/Tock) tracking frictions
+3. **Institute of Economic Concordance (1931):** Tracks trade interdependence; Depression-inspired
+4. **Institute for Historical Reconciliation Metrics (1926):** Measures narrative balance against competing myths
+5. **Institute of Demographic Drift (1934):** Tracks population mixing; alumni marriage-inspired
+
+**See:** `world-building/institutions/appomattox-college-annexes-overview.md` for comprehensive documentation of all annexes.
+
+---
+
 ## CALIFORNIA'S ROLE
 
 ### Funding

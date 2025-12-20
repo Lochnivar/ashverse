@@ -1,6 +1,6 @@
 # CANON REFRESHER FOR AI ASSISTANTS
 
-**Date:** December 15, 2025  
+**Date:** December 19, 2025  
 **Purpose:** Quick reference for AI assistants - essential facts only  
 **Status:** LIVING DOCUMENT - Update when major canon locks
 
@@ -431,15 +431,17 @@
 
 ### Native Super-States (LOCKED)
 - Recognized in Treaty of Cincinnati Article 4 (1865)
+- **Primary motivation (private):** Mutual territorial denial — "If we cannot have it now, neither can you" (84-88%)
+- **Public rationale:** Neutral western buffer + moral restitution (80-83%)
 - Five Civilized Tribes + Plains nations as sovereign republics
 - **Sequoyah:** Independent Native state (Cherokee core, thrives)
 - **Plains Nations:** Fragment by 1900 (constant diplomacy, USA/CSA mutual deterrence)
-- **Buffer states** between USA and CSA
+- **Buffer states** between USA and CSA (in practice, though denial was primary driver)
 - **No transcontinental land bridge** - California physically cut off
 
 **Reality:** Embattled survivors, not superpowers. Sequoyah succeeds on Cherokee institutional core.
 
-**See:** `world-building/regions/native-super-states-embattled-survivors.md`
+**See:** `archive/world-building/regions/native-super-states-embattled-survivors.md` for detailed analysis of Article 4 motivations
 
 ### Mormon Deseret (LOCKED)
 - Recognized in Treaty of Cincinnati Article 7 (1865)
@@ -479,6 +481,15 @@
 - **March 31, 1865:** Treaty signed by McClellan (Lincoln never signs)
 - **March 2, 1865:** Lincoln's last public act - farewell address: "The people have chosen peace. I pray it is the peace that heals, and not the peace that merely postpones the reckoning."
 - **Result:** Boards train to Springfield, never speaks publicly about war again
+
+### Patrick Cleburne (The Martyred Prophet)
+- **February 28, 1864:** Cashiered by Jefferson Davis for proposing to free and arm slaves (military pragmatism, not moral abolition)
+- **Post-war role:** Civilian activist, border witness (1870-1894), documents slavery's economic death firsthand
+- **Legacy:** "The Martyred Prophet" - predicted slavery's economic death in 1864, vindicated when it happens (1894 practice, 1905 legal)
+- **Key quote:** "I was right. It cost me everything, but I was right."
+- **Status:** Primary source for understanding Confederate internal debates on slavery's economic unsustainability
+
+**See:** `characters/confederate/patrick-cleburne.md` for full character profile, `analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` for detailed analysis of his cashiering and post-war role.
 
 ### Compendium Characters (Meta-Layer)
 - **Dr. General Michael J. Fairfax-Lockwood:** Satirical author (1920s-1986), "Fire and Sovereignty" (1985)
@@ -521,6 +532,29 @@
 5. California as sovereign nation (not academic factory - laughs at moral philosophy)
 
 **Result:** No 2025-style "woke" politics ever forms. Racism exists but burns out differently, regionally, economically.
+
+### Racial Dynamics Spectrum (1939 Reference)
+
+**Foundational measurement document:** `world-building/cultural/racial-dynamics-spectrum-1939.md`
+
+Racial equality spectrum across North American shards (1-10 scale, where 10 = utopian meritocracy):
+- **California:** 8.5-9.0 (pragmatic meritocracy, "honest greed")
+- **USA:** 7.0-7.5 (middling tolerance, no slavery baggage)
+- **CSA:** 6.5-7.0 (urban 7.5, rural 5.5-6.0; slow progress, no Jim Crow)
+- **Sequoyah:** 6.5-7.0 (pragmatic integration, internal tensions)
+- **Plains Nations:** 5.0-6.0 (survival-mode insularity)
+- **Mormon Deseret:** 5.5-6.5 (religious hierarchy, commercial tolerance)
+
+**Key insight:** NTL's average (~7.5-8.0 weighted) may exceed OTL 1939 USA due to fragmentation and pragmatic burnout. Highest equality (California) is amoral meritocracy; racism fades where unprofitable, not through moral crusades.
+
+**Related institutional elements:** Appomattox College annexes (1910-1934) — five empirical observatories tracking continental patterns:
+- **Institute of Racial Dynamics (1928):** Racial Equality Index (REI)
+- **Institute for Border Friction Metrics (1910/1918):** Tick/Tock clocks (internal vs. global threats)
+- **Institute of Economic Concordance (1931):** Trade interdependence tracking
+- **Institute for Historical Reconciliation Metrics (1926):** Memory divergence analysis
+- **Institute of Demographic Drift (1934):** Population mixing metrics
+
+All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See `world-building/institutions/appomattox-college-annexes-overview.md` for comprehensive documentation.
 
 ### Other Cultural Notes
 - **Kawaii Kaiju Tourism Campaign:** California-Japan joint board (1956+), Godzilla/Mothra ads, Oakland "0 days since" sign (68% plausibility - kept because fun)
@@ -608,11 +642,15 @@
 
 ## RECENT MAJOR CANON LOCKS (December 2025)
 
+**December 17-19, 2025 Updates:**
+1. **Meade's 36-Hour Delay Analysis:** Comprehensive hour-by-hour breakdown showing structural minimum delay (4-6 hours), Meade's actual delay (~30.5 hours), and Longstreet's telegraph strategy (open lines July 3-9, cut July 9) — See `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` (88-92%)
+
 **December 10-15, 2025 Updates:**
 1. **Grant's Final Gamble:** Charles Griffin commands V Corps (Warren relieved Jan 1, 1864), battle dates Feb 18-20, 1865, rational decisions framework (92%)
 2. **Harrisburg Occupation:** Battle of Camp Hill (July 5, 1863), Quaker gun deception, gradual east-bank shift (92-94%)
 3. **Pickett's Raid:** Carlisle as strategic objective, Field's division destroyed at Carlisle, Kershaw saves withdrawal (91-92%)
-4. **Git Operations Rule:** AI never commits/pushes unless explicitly requested
+4. **Patrick Cleburne:** Character locked — cashiered Feb 28, 1864 for proposing to free/arm slaves, becomes "Martyred Prophet" documenting slavery's economic death (90-92%)
+5. **Git Operations Rule:** AI never commits/pushes unless explicitly requested
 
 **December 9, 2025 - Six elements locked after external peer review:**
 1. **Native super-states:** Embattled survivors (not superpowers) - Sequoyah thrives, Plains nations fragment
@@ -681,16 +719,29 @@
 - **Harrisburg Occupation:** `/archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` (Battle of Camp Hill, Quaker guns, gradual shift)
 - **Grant's Final Gamble:** `/analysis/military/grant-gamble-canon-update-2025-12-10.md` (Griffin replaces Warren, Feb 18-20, 1865)
 - **Pickett's Raid:** `/world-building-master/pickett-raid-canonical-timeline-2025-12-10.md` (Carlisle objective, Field's destruction)
+- **Patrick Cleburne:** `/characters/confederate/patrick-cleburne.md` (Character profile), `/analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` (Cashiering analysis and post-war role)
+- **Racial Dynamics Spectrum (1939):** `/world-building/cultural/racial-dynamics-spectrum-1939.md` (Foundational reference document - measurement/benchmark of racial equality across all North American shards)
+- **Appomattox College:** `/archive/world-building/meta/appomattox-college-of-history-and-diplomacy.md` (Joint USA-CSA military-diplomatic academy, 1909-1939+)
+- **Appomattox College Annexes:** `/world-building/institutions/appomattox-college-annexes-overview.md` (Master overview of five empirical observatories, 1910-1934)
+  - Individual institutes: Border Friction Metrics (Tick/Tock clocks), Racial Dynamics (REI), Economic Concordance, Historical Reconciliation Metrics, Demographic Drift
+- **Appomattox Traditions:** The Civil War Football Game (1912+) — continent's premier sporting event with pregame reenactment, "Prisoner Exchange" ritual, War Week traditions (86-89% plausibility)
 
 ---
 
 ## MAINTENANCE LOG
 
-**Last Updated:** December 17, 2025
+**Last Updated:** December 19, 2025
 
 **Recent Updates:**
+- December 19, 2025: Added Appomattox College traditions — The Civil War Football Game (1912+) with pregame reenactment, "Prisoner Exchange" ritual, War Week, and associated campus traditions — controlled tribal venting through sport, continent's premier sporting event (86-89% plausibility)
+- December 19, 2025: Created Appomattox College Annexes documentation — master overview and five individual institute files (Border Friction Metrics with Tick/Tock clocks, Racial Dynamics, Economic Concordance, Historical Reconciliation Metrics, Demographic Drift) — all empirical observatories tracking continental patterns without advocacy (82-86% plausibility), added cross-references in Appomattox College document and canon-refresher
+- December 19, 2025: Created Institute of Racial Dynamics (IRD) document — Appomattox College annex (1928+) that publishes annual Racial Equality Index as data-only mirror (82-86% plausibility), added cross-references in Appomattox College document and canon-refresher
+- December 19, 2025: Created foundational reference document `world-building/cultural/racial-dynamics-spectrum-1939.md` — measurement/benchmark of racial equality spectrum across all North American shards (84-88% plausibility), added cross-reference in CULTURAL/SOCIAL section
+- December 19, 2025: Updated Native Super-States Article 4 motivations — reframed from "buffer zone" to "mutual territorial denial" as primary driver (84-88% plausibility), updated `archive/world-building/regions/native-super-states-embattled-survivors.md` and canon-refresher cross-reference
+- December 19, 2025: Added Patrick Cleburne to KEY CHARACTERS section; updated date to reflect latest changes
 - December 17, 2025: Added `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` — Meade's 36-hour delay & Longstreet telegraph strategy analysis; integrated summary into `canon-refresher-for-ai.md` and added cross-links to `README.md`, POD Campaign Part 2, and Compendium TOC.
 - December 15, 2025: Added Git Operations Rule (explicit request required for commits/pushes)
+- December 15, 2025: Added Patrick Cleburne character profile (`characters/confederate/patrick-cleburne.md`) and cashiering analysis (`analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md`)
 - December 15, 2025: Updated Grant's Final Gamble (Griffin replaces Warren, dates Feb 18-20, 1865)
 - December 15, 2025: Added Harrisburg Occupation details (Battle of Camp Hill, Quaker guns, gradual shift)
 - December 15, 2025: Updated Pickett's Raid (Carlisle objective, Field's destruction, casualty split)

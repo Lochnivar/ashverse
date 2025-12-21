@@ -4,6 +4,7 @@
 **Part 3 Coverage:** July 10-31, 1863 (21 days)  
 **Focus:** Reading raid, destruction operations, southwest pivot, return to Virginia  
 **Date Created:** December 9, 2025  
+**Last Updated:** December 20, 2025 (York encounter added)  
 **Status:** Canon-Locked - Brigade-Level Reference Document
 
 **Related Documents:**
@@ -1251,44 +1252,167 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 ---
 
-### JULY 17 - LANCASTER TO MOUNTVILLE
+### JULY 17 - LANCASTER TO YORK APPROACHES
 
-**Distance:** 10 miles
+**Distance:** ~20 miles (longer march - focused on speed post-Reading)
 
-**Reason for Short March:** Army tired, consolidating
+**Evening (17:00-18:00):** Army approaches York from southwest
 
-**Confederate Progress:** Slow but steady
+**Scout Reports (17:30):**
+- York fortified and reinforced
+- Forward Union corps (~15-20k) at York, reinforced rapidly from Baltimore corridor
+- Positions: Union forces deployed defensively, blocking direct route
+
+**Longstreet's Realization (18:00):**
+> "Foul-up — Meade moved faster than I credited. Should have reversed to Harrisburg/Chambersburg — kept mountains between us. But we're here now, and Meade isn't fully ready. We strike at dawn, break through before he masses."
+
+**Decision:**
+- No time for safe play — must break through York position
+- Unleash toolbox: Early frontal to fix Union center; Pickett/Hampton flank slide west
+
+**Orders Issued (18:30):**
+- **Early's Division:** Frontal assault at dawn to pin Union center
+- **Pickett's Division + Hampton's Cavalry:** Flank movement west through open farmland to threaten Union rear
+- **Other divisions:** Support as needed, maintain march formation for breakthrough
 
 ---
 
-### JULY 18 - MOUNTVILLE TO COLUMBIA
+### JULY 18, 1863 - THE YORK ENCOUNTER: 1-DAY MOBILE BREAKTHROUGH
 
-**Distance:** 8 miles
+**Weather:** Clear, warm (85°F by afternoon)
 
-**Columbia:** On Susquehanna River (eastern crossing)
+**Battle Duration:** Dawn (05:00) to dusk (19:00) — 14 hours
 
-**Discovery:** Railroad bridge destroyed (Union forces burned it during June/July to prevent Confederate crossing)
+**Union Position:**
+- Forward corps (~15-20k) at York, reinforced rapidly from Baltimore corridor
+- Defensive advantage: Prepared positions, artillery support
 
-**Longstreet's Decision:**
-> "We won't cross here. We'll use Wrightsville (8 miles north) where Johnson's Brigade controlled the crossing earlier. Engineers report ford is still passable."
+**Confederate Force:**
+- Early's Division (~5,500 men) — frontal assault
+- Pickett's Division (~5,500 men) + Hampton's Cavalry (~1,800 sabers) — flank movement
+- Supporting divisions ready for breakthrough
 
 ---
 
-### JULY 19 - COLUMBIA TO WRIGHTSVILLE
+**BATTLE PHASES:**
+
+**DAWN TO MIDDAY (05:00-12:00):** Early's Frontal Pressure
+
+- **05:00:** Early's Division advances on Union center
+- **06:00-12:00:** Repeated frontal assaults fix Union forces in center
+- **Result:** Union center pinned, cannot redeploy to counter flank threat
+- **Casualties (Confederate):** ~2,000 (assault cost on prepared positions)
+
+---
+
+**MIDDAY TO AFTERNOON (12:00-16:00):** Pickett/Hampton Flank Slide
+
+- **12:00:** Pickett's Division + Hampton's Cavalry begin wide flank movement west
+- **Route:** Open farmland west of York (avoiding Union observation)
+- **14:00:** Flank force threatens Union rear
+- **Union Reaction:** Forces begin shifting to face flank threat, exposing center
+- **Result:** Union position compromised; Longstreet prepares main breakthrough push
+
+---
+
+**LATE AFTERNOON TO DUSK (16:00-19:00):** Breakthrough and Withdrawal
+
+- **16:00:** Longstreet commits reserves (McLaws' Division) to main breakthrough
+- **17:00:** Union withdraws southeast to avoid encirclement
+- **18:00:** Confederate breakthrough complete; Union force retreating
+- **19:00 (Dusk):** Battle ends; Longstreet pushes through gap, resumes southwest march
+
+---
+
+**CASUALTIES:**
+
+**Confederate:**
+- ~4,500 total (assault cost against prepared positions)
+- Breakdown: ~2,000 in frontal assaults, ~1,500 in breakthrough, ~1,000 in supporting actions
+
+**Union:**
+- ~2,500-3,000 (defensive advantage reduced by flank threat and withdrawal)
+
+**Casualty Ratio:** Confederate losses higher (attackers vs. prepared defenders), but breakthrough achieved
+
+---
+
+**OUTCOME:**
+
+**Confederate Victory:**
+- Longstreet breaks through York position
+- Army resumes southwest march (York → Gettysburg → Chambersburg → Potomac)
+- Escape successful but costly (1-day delay, ~4,500 casualties)
+
+**Union Failure:**
+- Forward corps fails to block Confederate escape
+- Meade's nearest position still 30+ miles away
+- Closest Union interception attempt fails
+
+**Longstreet's Reflection (Evening, 20:00):**
+> "My haste nearly cost us — but the boys carried it. Early fixed them, Pickett and Hampton turned their flank, and we broke through. Still, I should have reversed north after Reading. Lesson learned: speed is nothing without proper reconnaissance. The mountains would have protected us."
+
+---
+
+**NARRATIVE IMPACT:**
+
+- Humanizes Longstreet (miscalculation costs casualties)
+- Showcases toolbox (Early fixes center, Pickett/Hampton execute flank slide)
+- Meade nearly traps Longstreet (competent Union effort)
+- Victory earned through subordinate commanders' aggression compensating for Longstreet's error
+- Avoids "Mary Sue" outcome: costly victory, not clean escape
+
+**Sets up Winter Despair Theme:**
+- Union: "We had him at York and let him slip."
+- Confederate: Hard-won escape, not effortless victory
+
+---
+
+### JULY 19 - YORK TO GETTYSBURG AREA
+
+**Distance:** ~25 miles southwest
+
+**Route Change:** After York breakthrough, army takes more direct route through Gettysburg area (ironic return to battlefield)
+
+**Confederate Progress:**
+- March resumes at dawn (05:00)
+- Lead elements reach Gettysburg area by evening
+- Ironic moment: Passing near July 1 battlefield, soldiers note the field they abandoned
+
+**Longstreet's Assessment:**
+> "We're through the worst. From here it's open ground to the Potomac. Meade won't catch us now — he's still too far behind, and we have the lead."
+
+**Remaining Route:** Gettysburg → Chambersburg → Potomac crossings
+
+**Distance to Potomac:** ~50 miles (4-5 days at current pace)
 
 **Distance:** 10 miles north (parallel to Susquehanna)
 
-**Wrightsville:**
-- Location: Susquehanna River crossing (eastern shore)
-- Bridge: Destroyed (Union burned it)
-- Ford: Passable (shallow, 2-3 feet in July)
-
-**Longstreet's Assessment:**
-> "We'll cross at Wrightsville ford. Then southwest to Potomac. We're 8-10 days from Virginia if Meade doesn't catch us."
+**Note:** Route changed after York encounter. Army bypasses Susquehanna crossings, takes direct route through Gettysburg/Chambersburg to Potomac.
 
 ---
 
-### JULY 20 - WRIGHTSVILLE CROSSING BEGINS
+### JULY 20-22 - MARCH TO CHAMBERSBURG
+
+**Route:** Gettysburg area → Chambersburg (direct southwest)
+
+**Distance:** ~30 miles over 2-3 days
+
+**Pace:** Steady but cautious (army tired after York battle, watching for Union pursuit)
+
+**Daily Progress:**
+- **July 20:** Gettysburg area → midway point (~15 miles)
+- **July 21:** Midway → Chambersburg approach (~15 miles)
+- **July 22:** Chambersburg → Potomac approach (~10-15 miles from crossings)
+
+**Union Pursuit:**
+- Meade still 40-50 miles behind
+- York encounter delayed Confederate march by 1 day, but Union unable to capitalize
+- Confederate lead maintained
+
+---
+
+### JULY 23-25 - APPROACH TO POTOMAC CROSSINGS
 
 **Dawn (05:00) - First Units Begin Crossing:**
 
@@ -1472,7 +1596,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **Location:** Culpeper, Virginia (Confederate camps)
 
 **Status:**
-- Army intact: ~72,000 men (lost ~3,200 total during campaign = 4%)
+- Army intact: ~67,300 men (lost ~7,700 total during campaign = 10%)
 - Morale: High
 - Supplies: Good (captured Pennsylvania supplies + seizures)
 - Campaign duration: 30 days (July 2-31)
@@ -1592,13 +1716,15 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 **Confederate:**
 - Combat (Gettysburg July 1): ~3,000
+- Combat (York encounter July 18): ~4,500
 - Accidents/disease during campaign: ~200
-- **Total:** ~3,200 (4% of army)
+- **Total:** ~7,700 (10% of army)
 
 **Union:**
 - Combat (Gettysburg July 1): ~8,000
-- Total for pursuit: ~500 (minimal - no major battles after July 1)
-- **Total:** ~8,500
+- Combat (York encounter July 18): ~2,500-3,000
+- Total for pursuit: ~500 (minimal - no other major battles)
+- **Total:** ~11,000-11,500
 
 **Civilian (Pennsylvania):**
 - Combat deaths: 0 (zero)

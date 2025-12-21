@@ -31,16 +31,16 @@ A modest three-story brick building on the Appomattox campus housing offices and
 Flanking the main doors are two large, four-faced standing tower clocks, visible from the quadrangle and approach paths.
 
 - **Left Clock: Tick (The American Rift Clock, dedicated 1910)**  
-  Tracks internal USA-CSA frictions. By 1939 nearly symbolic — position ~10:35, rarely adjusted. Cadets call it "the relic" or "Grandpa's clock."
+  Monitors **continental North American tensions** — lingering divisions, border frictions, and "powder kegs" within the three nations and their satellites (e.g., USA/CSA disputes, internal shard issues). **Inspired by the Panhandle Crisis (1870-1873)** — the eastern panhandle counties (Jefferson, Berkeley, Morgan) revolt against USA control, nearly sparking renewed war before the 1873 Panhandle Accord returns them to CSA/Virginia. The clock's motto "The Keg Ticks" and panhandle map engraving serve as warning of internal divisions. By 1939 nearly symbolic — position ~10:35, rarely adjusted. Cadets call it "the relic" or "Grandpa's clock."
 
 - **Right Clock: Tock (The Continental Rift Clock, dedicated 1918)**  
-  Tracks broader continental and global pressures (Zimmerman-inspired). Actively relevant — position ~9:30 in 1939. Cadets watch it closely.
+  Monitors **global tensions** — rising threats from Europe, Asia, and the wider world (e.g., pre-WWI arms races, 1939 European crisis, Pacific shifts). Actively relevant — position ~9:30 in 1939. Cadets watch it closely.
 
 **Clock Mechanics:**  
 Traditional mechanical tower clocks with black faces, white numerals, and bronze hands — solemn, old-fashioned, and slightly weathered by 1939. Adjusted January 1 by faculty vote (50/50 USA/CSA, California tie-breaker). Positions published without commentary.
 
 **Campus Tradition:**  
-Cadets pass between Tick and Tock entering Institute Hall. Freshmen salute Tick ("the old war"); seniors salute Tock ("the real one"). The clocks have become the most photographed feature of the college — silent sentinels reminding every generation that peace is measured, not proclaimed.
+Cadets pass between Tick and Tock entering Institute Hall. Freshmen salute Tick ("the old war"); seniors salute Tock ("the real one"). Cadets wind the clocks while reciting "The keg ticks, but we tock" — reminder to balance internal memory with external vigilance. The clocks have become the most photographed feature of the college — silent sentinels reminding every generation that peace is measured, not proclaimed.
 
 **Student Culture:**  
 Cadets nickname the clocks **"Tick"** (1910 internal shards) and **"Tock"** (1918 global pressures). Lore evolves: "Tick for our old fights, Tock for the world's meddling." Casual references common ("Tock's at 9:30 — Europe's stirring again"). Tick is "grandpa's relic"; Tock is the real threat.
@@ -64,8 +64,8 @@ Cadets nickname the clocks **"Tick"** (1910 internal shards) and **"Tock"** (191
 
 **Mission:** Track cross-shard frictions empirically.  
 **Output:** Border Stability Index with dual clocks:
-- **Tick (American Rift Clock, 1910):** Internal USA-CSA focus; symbolic relic by 1930s (~10:35, rarely moves)
-- **Tock (Continental Rift Clock, 1918):** Zimmerman-influenced; includes global pressures (~9:30 in 1939)
+- **Tick (American Rift Clock, 1910):** Monitors **continental North American tensions** — lingering divisions, border frictions, and "powder kegs" within the three nations (e.g., USA/CSA disputes, internal shard issues). Symbolic relic by 1930s (~10:35, rarely moves)
+- **Tock (Continental Rift Clock, 1918):** Monitors **global tensions** — rising threats from Europe, Asia, and the wider world (e.g., pre-WWI arms races, 1939 European crisis, Pacific shifts). Actively relevant (~9:30 in 1939)
 
 **Student Culture:** "Tick and Tock" — Tick as "grandpa's relic," Tock as real threat.  
 **Disclaimers Example (1930):** Protests misuse in military briefings.  
@@ -120,5 +120,5 @@ Cadets nickname the clocks **"Tick"** (1910 internal shards) and **"Tock"** (191
 
 ---
 
-**Last Updated:** December 19, 2025  
+**Last Updated:** December 20, 2025 (Tick/Tock symbolism refined)  
 **Status:** Optional Depth Documentation — Available for future story development

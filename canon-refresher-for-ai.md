@@ -1,6 +1,6 @@
 # CANON REFRESHER FOR AI ASSISTANTS
 
-**Date:** December 19, 2025  
+**Date:** December 20, 2025 (Panhandle Crisis added)  
 **Purpose:** Quick reference for AI assistants - essential facts only  
 **Status:** LIVING DOCUMENT - Update when major canon locks
 
@@ -286,6 +286,9 @@
 
 **Lincoln:** Never signs (loses election, lame-duck, treaty signed after he leaves office).
 
+**Post-Treaty Border Modification:**
+- **1873 Panhandle Accord:** Eastern panhandle counties (Jefferson, Berkeley, Morgan) return to CSA/Virginia after 1870-1873 revolt against USA control. USA concedes for stability — counties rejoin CSA but remain alienated zone (localist, weak Richmond control). This modification does not change West Virginia's status as USA state (counties were exception due to crisis).
+
 ### Treaty of San Francisco (February 14, 1873)
 - California secedes peacefully
 - **Capital:** San Francisco (not Sacramento)
@@ -549,7 +552,7 @@ Racial equality spectrum across North American shards (1-10 scale, where 10 = ut
 
 **Related institutional elements:** Appomattox College annexes (1910-1934) — five empirical observatories tracking continental patterns:
 - **Institute of Racial Dynamics (1928):** Racial Equality Index (REI)
-- **Institute for Border Friction Metrics (1910/1918):** Tick/Tock clocks (internal vs. global threats)
+- **Institute for Border Friction Metrics (1910/1918):** Tick/Tock clocks (internal vs. global threats). Tick clock inspired by Panhandle Crisis (1870-1873) — eastern panhandle counties revolt, nearly spark renewed war, returned to CSA/Virginia via 1873 Panhandle Accord
 - **Institute of Economic Concordance (1931):** Trade interdependence tracking
 - **Institute for Historical Reconciliation Metrics (1926):** Memory divergence analysis
 - **Institute of Demographic Drift (1934):** Population mixing metrics
@@ -577,6 +580,10 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 ## BOOK STRUCTURE
 
 - **Book 1: The Match (1863-1865)** - War ends
+  - **Act 1:** Invasion (July 1863 - early August 1863) - Longstreet's Pennsylvania campaign
+  - **Act 2:** Warren's Meat-Grinder (August 1863 - December 1863) - Rappahannock-Rapidan campaign collapse
+  - **Act 3:** Pickett's Raid to Election (Spring 1864 - November 1864) - Pickett's Raid, Winter of Despair, McClellan elected
+  - **Act 4:** Grant's Gamble and Treaty (Late 1864 - March 1865) - Grant's Final Gamble, Appomattox defeat, Treaty of Cincinnati
 - **Book 2: The Fire (1865-1894)** - Slavery dies
 - **Book 3: The Embers (1894-1919)** - Abolition, WWI
 - **Book 4: The Ashes (1919-1939)** - Depression, Europe burns
@@ -607,7 +614,7 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 5. **DO NOT** forget California is **pragmatic**, not moralistic
 6. **DO NOT** forget the North **lost** - no "we saved you" narrative
 7. **DO NOT** forget Lincoln **never signs treaty** (loses election, McClellan signs)
-8. **DO NOT** forget West Virginia **stays USA** (LOCKED)
+8. **DO NOT** forget West Virginia **stays USA** (LOCKED) — note: 1873 Panhandle Accord returned eastern panhandle counties (Jefferson, Berkeley, Morgan) to CSA/Virginia as post-Treaty modification after crisis, but West Virginia remains USA state
 9. **DO NOT** forget Mormon Deseret **sovereign theocracy** (Article 7)
 10. **DO NOT** forget Northern Collapse sequence is **LOCKED** - no heroic last stands
 11. **DO NOT** assume Grant becomes general-in-chief (never promoted)
@@ -641,6 +648,10 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 ---
 
 ## RECENT MAJOR CANON LOCKS (December 2025)
+
+**December 20, 2025 Updates:**
+1. **Rappahannock-Rapidan Campaign Timeline:** Refined to four-phase structure (Oct 10-14: Initial probes & crossings, Oct 15-18: Exploitation at Kelly's Ford, Oct 19-Nov 2: Focused Rapidan assaults, Nov 3-8: Warren's final gamble & collapse) — See `archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (88-90% plausibility)
+2. **Book 1 Four-Act Structure:** Confirmed structure — Act 1: Invasion, Act 2: Warren's Meat-Grinder, Act 3: Pickett's Raid to Election, Act 4: Grant's Gamble and Treaty — See `books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` and act outline documents
 
 **December 17-19, 2025 Updates:**
 1. **Meade's 36-Hour Delay Analysis:** Comprehensive hour-by-hour breakdown showing structural minimum delay (4-6 hours), Meade's actual delay (~30.5 hours), and Longstreet's telegraph strategy (open lines July 3-9, cut July 9) — See `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` (88-92%)
@@ -719,6 +730,8 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 - **Harrisburg Occupation:** `/archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` (Battle of Camp Hill, Quaker guns, gradual shift)
 - **Grant's Final Gamble:** `/analysis/military/grant-gamble-canon-update-2025-12-10.md` (Griffin replaces Warren, Feb 18-20, 1865)
 - **Pickett's Raid:** `/world-building-master/pickett-raid-canonical-timeline-2025-12-10.md` (Carlisle objective, Field's destruction)
+- **Book 1 Act Structure:** `/books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` (four-act structure overview), `/books/book-01-the-match/ACT-1-CLOSING-CHAPTERS-OUTLINE.md` (Act 1 closing chapters), `/books/book-01-the-match/ACT-1-2-TRANSITION-OUTLINE.md` (interludes), `/books/book-01-the-match/ACT-2-OUTLINE.md` (Act 2 Warren era), `/books/book-01-the-match/ACT-2-3-TRANSITION-OUTLINE.md` (investigation interludes)
+- **Rappahannock-Rapidan Campaign:** `/archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (four-phase campaign timeline, Oct 10-Nov 8, 1863)
 - **Patrick Cleburne:** `/characters/confederate/patrick-cleburne.md` (Character profile), `/analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` (Cashiering analysis and post-war role)
 - **Racial Dynamics Spectrum (1939):** `/world-building/cultural/racial-dynamics-spectrum-1939.md` (Foundational reference document - measurement/benchmark of racial equality across all North American shards)
 - **Appomattox College:** `/archive/world-building/meta/appomattox-college-of-history-and-diplomacy.md` (Joint USA-CSA military-diplomatic academy, 1909-1939+)
@@ -730,9 +743,13 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 
 ## MAINTENANCE LOG
 
-**Last Updated:** December 19, 2025
+**Last Updated:** December 20, 2025
 
 **Recent Updates:**
+- December 20, 2025: Added Panhandle Crisis (1870-1873) as Tick clock inspiration — eastern panhandle counties (Jefferson, Berkeley, Morgan) revolt against USA control, returned to CSA/Virginia via 1873 Panhandle Accord (post-Treaty border modification). Grounds Tick clock symbolism in real crisis.
+- December 20, 2025: Refined Tick/Tock clocks symbolism — Tick = internal North American tensions, Tock = global tensions. Added tradition note about cadets reciting "The keg ticks, but we tock" while winding clocks.
+- December 20, 2025: Refined Rappahannock-Rapidan Campaign timeline with four-phase structure (Oct 10-Nov 8, 1863) and updated Northern Collapse Sequence document accordingly
+- December 20, 2025: Confirmed Book 1 four-act structure (Act 1: Invasion, Act 2: Warren's Meat-Grinder, Act 3: Pickett's Raid to Election, Act 4: Grant's Gamble and Treaty), created act outline documents — See `books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` and related outline documents
 - December 19, 2025: Added Appomattox College traditions — The Civil War Football Game (1912+) with pregame reenactment, "Prisoner Exchange" ritual, War Week, and associated campus traditions — controlled tribal venting through sport, continent's premier sporting event (86-89% plausibility)
 - December 19, 2025: Created Appomattox College Annexes documentation — master overview and five individual institute files (Border Friction Metrics with Tick/Tock clocks, Racial Dynamics, Economic Concordance, Historical Reconciliation Metrics, Demographic Drift) — all empirical observatories tracking continental patterns without advocacy (82-86% plausibility), added cross-references in Appomattox College document and canon-refresher
 - December 19, 2025: Created Institute of Racial Dynamics (IRD) document — Appomattox College annex (1928+) that publishes annual Racial Equality Index as data-only mirror (82-86% plausibility), added cross-references in Appomattox College document and canon-refresher

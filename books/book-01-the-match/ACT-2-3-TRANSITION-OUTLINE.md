@@ -2,7 +2,7 @@
 
 **Date Created:** December 20, 2025  
 **Status:** LOCKED STRUCTURE  
-**Time Period:** November 1863 – January 3, 1864  
+**Time Period:** September 1863 – January 3, 1864  
 **Format:** Interludes (vignette-style) bridging Act 2 to Act 3
 
 ---
@@ -20,28 +20,28 @@
 
 ## INTERLUDE SERIES: "THE FARCE"
 
-### Interlude 1: "The First Call" (Early November 1863)
+### Interlude 1: "The First Call" (Mid-September 1863)
 **Status:** Ready for writing  
 **Length:** 1–2 pages  
 **POV:** Various (newspapers, politicians, soldiers)
 
 **Beats:**
 - Mounting calls for Warren's head begin
-- Newspapers demand immediate relief (October 24 aftermath)
+- Newspapers demand immediate relief (September 15-20 aftermath)
 - Political pressure builds
 - Warren already dead in public perception
 
 ---
 
-### Interlude 2: "The Investigation Begins" (Mid-November 1863)
+### Interlude 2: "The Investigation Begins" (Late September 1863)
 **Status:** Ready for writing  
 **Length:** 1–2 pages  
 **POV:** Abraham Lincoln, Edwin Stanton
 
 **Beats:**
 - Joint Committee on the Conduct of the War investigates
-- Relief order already drafted (October 24)
-- Committee votes to sack Warren (November 12)
+- Relief order already drafted (September 20, 5 days after campaign collapse)
+- Committee votes to sack Warren (October 10)
 - Lincoln sits on it: "I will not panic again"
 
 ---
@@ -70,7 +70,7 @@
 - "After mature consideration of all relevant reports and testimonies"
 - Relief order finally signed and released
 - Public framing: deliberate, not panicked
-- Newspaper reaction: "Nine weeks to discover what every soldier knew in October"
+- Newspaper reaction: "Fifteen weeks to discover what every soldier knew in September"
 
 ---
 

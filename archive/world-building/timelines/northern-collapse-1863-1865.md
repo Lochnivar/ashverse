@@ -15,7 +15,7 @@ This is the exact, locked sequence that breaks Northern resolve. No fairy dust, 
 | 3 | **Jul–Oct 1863** | Longstreet's 10-week Pennsylvania–Maryland raid (explicit strategy: "Preserve army, break Northern morale"; ANV ~55k strong, intact supply lines) | 88% | "They're still here and we can't drive them out." |
 | 4 | **Late Oct 1863** | Battle of Hagerstown ("Meade's Last Throw") – Meade finally corners Longstreet, launches desperate assault, bloodily repulsed, ~9k casualties for nothing | 90% | Last hope of a decisive victory dies |
 | 5 | **Aug 1, 1863** | Meade sacked "for want of aggression" after failing to trap Longstreet → Warren appointed Aug 3 | 92% | "Even our best generals can't beat them." |
-| 5a | **Oct 10-Nov 8, 1863** | Rappahannock-Rapidan Campaign ("Fourteen Days' Meat-Grinder") – Warren's disastrous fall offensive. Four phases: Initial crossings (Oct 10-14), Exploitation at Kelly's Ford (Oct 15-18), Focused Rapidan assaults (Oct 19-Nov 2), Final gamble collapse (Nov 3-8). Total: ~45,600 Union casualties, ~13,260 Confederate (3.4:1 ratio). Zero gains. | 88% | "45,000 men sacrificed for nothing." Political earthquake. |
+| 5a | **Aug 25-Sep 15, 1863** | Rappahannock-Rapidan Campaign ("Fourteen Days' Meat-Grinder") – Warren's disastrous fall offensive. Four phases: Initial crossings (Aug 25-29), Exploitation at Kelly's Ford (Aug 30-Sep 2), Focused Rapidan assaults (Sep 3-12), Final gamble collapse (Sep 13-15). Total: ~45,600 Union casualties, ~13,260 Confederate (3.4:1 ratio). Zero gains. | 88% | "45,000 men sacrificed for nothing." Political earthquake. |
 | 6 | **Jan 1864** | Hancock assumes permanent command of Army of the Potomac (fully healthy, no Gettysburg wound – battle only one day in NTL). Warren relieved January 1 after "Mature Consideration Farce" (relief order drafted Oct 24, Committee voted Nov 12, delayed 9 weeks). | 92% | Fresh hope |
 | 7 | **Spring 1864** | Longstreet digs in on Rapidan-Rappahannock line, refuses battle, sends cavalry raids deep into Kentucky and Missouri | 90% | War moves to Northern soil again |
 | 8 | **14 Jun–22 Jul 1864** | Pickett's Lightning Raid – 14k men (mounted infantry + cavalry), 38 days, destroys railroads across Maryland/Pennsylvania, returns safely with 95.3% of force | 88% | Proves North cannot defend own territory, boosts peace movement |
@@ -46,15 +46,15 @@ The collapse happens through a combination of factors, not a single decisive bat
 - **High point:** Gets within sight of Baltimore
 - **Impact:** Demonstrates the ANV can still operate on Northern soil with impunity
 
-### Rappahannock-Rapidan Campaign (Oct 10 - Nov 8, 1863)
+### Rappahannock-Rapidan Campaign (Aug 25 - Sep 15, 1863)
 - **Also known as:** "Fourteen Days' Meat-Grinder"
-- **What happens:** Warren launches fall offensive against Longstreet's fortified line across Rappahannock and Rapidan rivers
-- **Historical Basis - The Fortified Line:** The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, these orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania.
+- **What happens:** Warren launches premature offensive against Longstreet's fortified line across Rappahannock and Rapidan rivers (provoked by matador maneuver)
+- **Historical Basis - The Fortified Line:** The Rappahannock-Rapidan line was fortified over three months (July-September 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, these orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania.
 - **Four Phases:**
-  - Phase 1 (Oct 10-14): Initial probes & crossings at Rappahannock Station and Kelly's Ford - Union ~8-10k, Confederate ~2-3k casualties
-  - Phase 2 (Oct 15-18): Exploitation at Kelly's Ford, Longstreet withdrawal to Rapidan - Union ~12-15k additional (total ~20-25k), Confederate ~3-4k additional
-  - Phase 3 (Oct 19-Nov 2): Focused assaults on Rapidan at Germanna & Ely's Fords - Union ~40k total, Confederate ~11-12k by end of phase
-  - Phase 4 (Nov 3-8): Warren's final gamble at Raccoon Ford, Early's counterattack, collapse - Final totals: Union ~45,600, Confederate ~13,260
+  - Phase 1 (Aug 25-29): Initial probes & crossings at Rappahannock Station and Kelly's Ford - Union ~8-10k, Confederate ~2-3k casualties
+  - Phase 2 (Aug 30-Sep 2): Exploitation at Kelly's Ford, Longstreet withdrawal to Rapidan - Union ~12-15k additional (total ~20-25k), Confederate ~3-4k additional
+  - Phase 3 (Sep 3-12): Focused assaults on Rapidan at Germanna & Ely's Fords - Union ~40k total, Confederate ~11-12k by end of phase
+  - Phase 4 (Sep 13-15): Warren's final gamble at Raccoon Ford, Early's counterattack, collapse - Final totals: Union ~45,600, Confederate ~13,260
 - **Total:** ~45,600 Union casualties, ~13,260 Confederate (3.4:1 ratio)
 - **Result:** Zero permanent gains. Army shattered. Political earthquake. Warren relieved January 1, 1864 after "Mature Consideration Farce" (9-week delay).
 

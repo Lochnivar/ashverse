@@ -5,7 +5,7 @@
 **Focus:** March to Harrisburg, surrender, occupation, strategic decision-making  
 **Date Created:** December 9, 2025  
 **Status:** Canon-Locked - Brigade-Level Reference Document
-**Last Updated:** December 20, 2025 - Refined July 4 March and Political Pressure Escalation integrated
+**Last Updated:** December 22, 2025 - Stuart's western transfer added (July 5-7, gone before Hampton's death at York)
 
 **Related Documents:**
 - [Master Timeline](../gettysburg-master-timeline.md) - Strategic overview
@@ -57,6 +57,7 @@
 - Daniel's Brigade scouts fords, assesses city defenses
 - Artillery positions selected on Camp Hill heights (400-450 ft elevation)
 - Reconnaissance confirms: Militia only (~3,000-4,000), no regulars
+- **Terrain Note:** Camp Hill heights command river and eastern approaches. To the west: Conodoguinet Creek — meandering natural barrier ~3–5 miles west of Susquehanna, with loops, marshy sections, and limited fords/bridges. Creek forms natural western barrier/delayer for any Union advance from west/northwest.
 
 **Early's Division (~5,500 men):**
 - Arrives 30 minutes behind Rodes
@@ -156,13 +157,18 @@ Longstreet's response:
 - ~120 guns positioned
 - Crews begin digging artillery pits
 
+**Terrain Advantage:**
+- **Camp Hill heights (400-450 ft elevation):** Command river and eastern approaches
+- **Conodoguinet Creek (west):** Meandering natural barrier ~3–5 miles west of Susquehanna, with loops, marshy sections, and limited fords/bridges
+- **Impact:** Any Union western envelopment delayed/screened by creek; cavalry patrols (Hampton) easily monitor. Longstreet's army primarily east of creek — secure rear, interior lines. Creek acts as ready delaying line if needed.
+
 **Fortification Begins:**
 - Engineers mark trench lines
 - Infantry begins digging (continues overnight)
 - Abatis prepared from local timber
 
 **Longstreet's Assessment (evening, on Camp Hill):**
-> "These heights command everything. Artillery can range any ford, any approach to the city. If Meade attacks, we destroy him from here. But I don't know where we're going NEXT - Philadelphia? Baltimore? Reading? Virginia? Until I decide, we hold the strongest position available. The heights buy us time."
+> "These heights command everything. Artillery can range any ford, any approach to the city. The creek to our west protects our flank — any Union attempt to turn us from that direction will be slow and predictable. If Meade attacks, we destroy him from here. But I don't know where we're going NEXT - Philadelphia? Baltimore? Reading? Virginia? Until I decide, we hold the strongest position available. The heights buy us time."
 
 ---
 
@@ -342,7 +348,8 @@ Meade reads them in the lamplight, face grim. He mutters to an aide:
 - Conducts personal reconnaissance
 - Observes heights through binoculars
 - Sees: Trenches, artillery, Confederate flags
-- Assessment: "This is Fredericksburg. Marye's Heights again."
+- **Terrain Assessment:** Union approach from south funneled east of Conodoguinet Creek system. Light probing/skirmishing west of creek possible but slow — creek forces predictable avenues toward heights. Any western envelopment would require crossing marshy creek with limited fords, easily monitored by Confederate cavalry.
+- Assessment: "This is Fredericksburg. Marye's Heights again. And that creek to the west makes any flanking move a slow, bloody affair. They've chosen their ground well."
 
 **15:00-18:00: Light Probing**
 
@@ -606,6 +613,12 @@ He signs it, then says quietly to Reynolds and Hancock:
 
 1. **Engineer Corps:** Construct "Quaker guns" (logs painted black to resemble artillery)
 2. **Division Commanders:** Prepare for gradual shift east (schedule July 6-9)
+
+3. **Cavalry Reorganization:** Longstreet formally "promotes" J.E.B. Stuart west (to Army of Tennessee or western theater command) — effective immediately
+   - **Rationale:** Longstreet uses occupation time to reorganize cavalry under Hampton; Stuart's failure on July 1 (leaving army blind) makes exile convenient
+   - **Stuart departs July 5-7** with small escort — gone before York encounter (July 18)
+   - **Longstreet's calculation:** "Better gone than a liability. Hampton will handle the cavalry better."
+   - **Impact:** Stuart already west when Hampton dies at York — no recall possible. Fitz Lee assumes command after Hampton's death.
 3. **Cavalry:** Maintain screens, report any Union movement
 4. **Quartermaster:** Continue foraging (west and east bank operations)
 5. **Medical:** Treat 500 wounded from morning battle

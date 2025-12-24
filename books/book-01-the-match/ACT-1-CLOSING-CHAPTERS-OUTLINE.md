@@ -139,22 +139,26 @@
 
 ---
 
-### Chapter X+7: "The Long Road Home" (July 19–Early August 1863 – Compressed Return March)
+### Chapter X+7: "The Long Road Home" (July 19–August 6, 1863 – Compressed Return March)
 **Status:** Ready for writing
 
 **Beats:**
 - Vignette-style compression (post-York to Potomac crossings):
   1. Departure from York area (army resumes march)
-  2. Ironic passage near Gettysburg battlefield (July 1 field abandoned, now returned)
-  3. March through Chambersburg area
-  4. Approach to Potomac (camp on Maryland bank)
-  5. Final crossing & relief (early August — Longstreet on Virginia soil: "Home again")
-- Intercuts: Union frustration ("We had him at York and let him slip")
+  2. Route decision: Monterey Pass (South Mountain) → Cumberland Valley
+  3. Ironic passage near Gettysburg battlefield (July 1 field abandoned, now returned)
+  4. March through Cumberland Valley (Monterey Pass → Waynesboro → Hagerstown)
+  5. Tense race: Meade nearly closes (vanguard skirmishes rear guard near Hagerstown)
+  6. Approach to Potomac (Williamsport/Shepherdstown fords)
+  7. Final crossing (August 5-6) — Longstreet on Virginia soil: "Home again"
+- Intercuts: Union frustration ("We had him at York and let him slip"), Meade's correct route calculation but late start
 - Ends with army safe in Virginia — campaign complete
 
 **Key Moments:**
 - Efficient return march (compressed for pacing)
+- Monterey Pass route choice (mountain screening)
 - Ironic return near Gettysburg battlefield
+- Tense pursuit race (Meade nearly closes)
 - Final Potomac crossing: symbolic return home
 - Longstreet's relief: "Home again"
 - Campaign triumph complete (hard-won, not effortless)
@@ -163,9 +167,12 @@
 
 ### ACT 1 CLOSE - FINAL CHAPTER OR TRANSITION
 
-**Note:** Based on later proposal, Meade relief/Warren appointment handled as **interludes** (see ACT-1-2-TRANSITION-OUTLINE.md). 
+**Act 1 Close (August 6, 1863):**
+- ANV completes Potomac crossing (Williamsport/Shepherdstown)
+- Quiet relief on Virginia soil — Longstreet's reflection: campaign triumph sealed (Harrisburg held, Reading razed, army intact, escape clean)
+- Thematic payoff: Union humiliated, initiative irretrievably lost
 
-Act 1 ends with Longstreet's return to Virginia — quiet relief on home soil.
+**Note:** Meade relief/Warren appointment handled as **interludes** between Act 1 and Act 2 (see ACT-1-2-TRANSITION-OUTLINE.md).
 
 **END OF ACT 1**
 
@@ -195,4 +202,6 @@ Act 1 ends with Longstreet's return to Virginia — quiet relief on home soil.
 **Related Documents:**
 - `archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md`
 - `archive/world-building/timelines/pod-campaign/part-03-reading-raid-return.md`
+- `archive/world-building/military/battle-of-york-1863-07-18.md` (Battle of York reference)
+- `maps/battle-of-york-07-18-1863.png` (battle map)
 - `ACT-1-2-TRANSITION-OUTLINE.md` (interludes structure)

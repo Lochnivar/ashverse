@@ -119,7 +119,7 @@
 4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction that teaches him: panic = weakness) (92%)
 5. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
 6. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
-7. **Oct 10-23, 1863:** Rappahannock-Rapidan Campaign disaster - "Fourteen Days' Meat-Grinder" (~45,600 Union casualties, ~13,260 Confederate) (88%)
+7. **Aug 25-Sep 9, 1863:** Rappahannock-Rapidan Campaign disaster - "Fifteen Days' Meat-Grinder" (15 days, ends with army cohesion collapse at Germanna) (~42,000 Union casualties, ~16,500 Confederate, 2.5:1 ratio) (82-85%)
 8. **Oct 24, 1863 - Jan 1, 1864:** Investigation period - THE CAUTIOUS MOVE (Lincoln waits 2.5 months despite pressure, learns from Meade backlash) (93%)
 9. **Jan 1, 1864:** Warren relieved after "Mature Consideration Farce" (92%)
 10. **Jan 3, 1864:** Hancock assumes command (healthy - no Gettysburg wound) (92%)
@@ -444,6 +444,8 @@
 
 **Reality:** Embattled survivors, not superpowers. Sequoyah succeeds on Cherokee institutional core.
 
+**Attitude toward Big Three condescension:** Pragmatic tolerance with quiet amusement/resentment — public deference + private subversion. Three flavors: USA (protection), CSA (civilization), California (partnership - most insufferable). Spectrum: Sequoyah (most pragmatic) → Deseret (most detached) → Plains nations (most resentful). Cherokee "minor treaties" network (1870s-1939+) exploits Article 4 loopholes through "malicious compliance." **See:** `world-building/regions/native-super-states-attitudes.md` for full framework.
+
 **See:** `archive/world-building/regions/native-super-states-embattled-survivors.md` for detailed analysis of Article 4 motivations
 
 ### Mormon Deseret (LOCKED)
@@ -552,7 +554,7 @@ Racial equality spectrum across North American shards (1-10 scale, where 10 = ut
 
 **Related institutional elements:** Appomattox College annexes (1910-1934) — five empirical observatories tracking continental patterns:
 - **Institute of Racial Dynamics (1928):** Racial Equality Index (REI)
-- **Institute for Border Friction Metrics (1910/1918):** Tick/Tock clocks (internal vs. global threats). Tick clock inspired by Panhandle Crisis (1870-1873) — eastern panhandle counties revolt, nearly spark renewed war, returned to CSA/Virginia via 1873 Panhandle Accord
+- **Institute for Border Friction Metrics (1910/1918):** Tick/Tock clocks (internal vs. global threats). Tick clock inspired by Panhandle Crisis (1870-1873) — eastern panhandle counties ("Port Royal of Appalachia") revolt, nearly spark renewed war, returned to CSA/Virginia via 1873 Panhandle Accord. **See:** `world-building/regions/panhandle-crisis-1870-1873.md` for full details
 - **Institute of Economic Concordance (1931):** Trade interdependence tracking
 - **Institute for Historical Reconciliation Metrics (1926):** Memory divergence analysis
 - **Institute of Demographic Drift (1934):** Population mixing metrics
@@ -614,7 +616,7 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 5. **DO NOT** forget California is **pragmatic**, not moralistic
 6. **DO NOT** forget the North **lost** - no "we saved you" narrative
 7. **DO NOT** forget Lincoln **never signs treaty** (loses election, McClellan signs)
-8. **DO NOT** forget West Virginia **stays USA** (LOCKED) — note: 1873 Panhandle Accord returned eastern panhandle counties (Jefferson, Berkeley, Morgan) to CSA/Virginia as post-Treaty modification after crisis, but West Virginia remains USA state
+8. **DO NOT** forget West Virginia **stays USA** (LOCKED) — note: 1873 Panhandle Accord returned eastern panhandle counties (Jefferson, Berkeley, Morgan) to CSA/Virginia as post-Treaty modification after crisis ("Port Royal of Appalachia" — smuggling hub, alienated zone), but West Virginia remains USA state. **See:** `world-building/regions/panhandle-crisis-1870-1873.md` for full details.
 9. **DO NOT** forget Mormon Deseret **sovereign theocracy** (Article 7)
 10. **DO NOT** forget Northern Collapse sequence is **LOCKED** - no heroic last stands
 11. **DO NOT** assume Grant becomes general-in-chief (never promoted)
@@ -650,7 +652,7 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 ## RECENT MAJOR CANON LOCKS (December 2025)
 
 **December 20, 2025 Updates:**
-1. **Rappahannock-Rapidan Campaign Timeline:** Refined to four-phase structure (Oct 10-14: Initial probes & crossings, Oct 15-18: Exploitation at Kelly's Ford, Oct 19-Nov 2: Focused Rapidan assaults, Nov 3-8: Warren's final gamble & collapse) — See `archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (88-90% plausibility)
+1. **Rappahannock-Rapidan Campaign Timeline:** Refined to 15-day campaign (Aug 25-Sep 9, 1863) with three phases ending in army cohesion collapse at Germanna (Phase 1: Rappahannock crossings Aug 25-29, Phase 2: Fighting withdrawal Aug 30-Sep 2, Phase 3: Rapidan assaults & final collapse Sep 3-9). Phase 4 Raccoon Ford diversion eliminated. Hood's rest shortened (3 days + quiet sector rotation). Casualties: Union ~42,000, Confederate ~16,500 (2.5:1 ratio). Plausibility 82-85%. — See `archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md`
 2. **Book 1 Four-Act Structure:** Confirmed structure — Act 1: Invasion, Act 2: Warren's Meat-Grinder, Act 3: Pickett's Raid to Election, Act 4: Grant's Gamble and Treaty — See `books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` and act outline documents
 
 **December 17-19, 2025 Updates:**
@@ -730,8 +732,10 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 - **Harrisburg Occupation:** `/archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md` (Battle of Camp Hill, Quaker guns, gradual shift)
 - **Grant's Final Gamble:** `/analysis/military/grant-gamble-canon-update-2025-12-10.md` (Griffin replaces Warren, Feb 18-20, 1865)
 - **Pickett's Raid:** `/world-building-master/pickett-raid-canonical-timeline-2025-12-10.md` (Carlisle objective, Field's destruction)
+- **Battle of York:** `/archive/world-building/military/battle-of-york-1863-07-18.md` (July 18, 1863 — Longstreet's miscalculation, 1-day mobile breakthrough during return march)
 - **Book 1 Act Structure:** `/books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` (four-act structure overview), `/books/book-01-the-match/ACT-1-CLOSING-CHAPTERS-OUTLINE.md` (Act 1 closing chapters), `/books/book-01-the-match/ACT-1-2-TRANSITION-OUTLINE.md` (interludes), `/books/book-01-the-match/ACT-2-OUTLINE.md` (Act 2 Warren era), `/books/book-01-the-match/ACT-2-3-TRANSITION-OUTLINE.md` (investigation interludes)
-- **Rappahannock-Rapidan Campaign:** `/archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (four-phase campaign timeline, Oct 10-Nov 8, 1863)
+- **Rappahannock-Rapidan Campaign:** `/archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (15-day campaign Aug 25-Sep 9, 1863, three phases ending with army cohesion collapse at Germanna)
+- **Maps:** `/maps/` folder contains battle and campaign maps (e.g., `battle-of-york-07-18-1863.png`)
 - **Patrick Cleburne:** `/characters/confederate/patrick-cleburne.md` (Character profile), `/analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` (Cashiering analysis and post-war role)
 - **Racial Dynamics Spectrum (1939):** `/world-building/cultural/racial-dynamics-spectrum-1939.md` (Foundational reference document - measurement/benchmark of racial equality across all North American shards)
 - **Appomattox College:** `/archive/world-building/meta/appomattox-college-of-history-and-diplomacy.md` (Joint USA-CSA military-diplomatic academy, 1909-1939+)
@@ -746,8 +750,15 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 **Last Updated:** December 20, 2025
 
 **Recent Updates:**
+- December 21, 2025: Rappahannock-Rapidan campaign route refined — Warren's approach from Warrenton along east bank Rappahannock to Bealeton/Remington, then crossings at Kelly's Ford, Rappahannock Station, Beverly's Ford (OTL Bristoe Campaign alignment). Early locked as Phase 4 counterattack commander.
+- December 21, 2025: Matador maneuver extended — Hood's rear guard (~16-18k) conducts ~12-day mobile delaying action down Cumberland Valley (August 7-19) instead of brief static display. Union reinforcements (~30-40k) arrive piecemeal on the march (August 10-18), swelling army to ~110k but diluting quality. Warren concentrates at Warrenton (August 20-24) after exhausting pursuit, then launches premature offensive (August 25).
+- December 21, 2025: Refined return march route — Monterey Pass (South Mountain) → Cumberland Valley route locked; Meade's pursuit decision based on mountain-screen calculation; matador split (Hood rear guard, main body south) added as Act 2 opening; Act 1 closes at Potomac crossing (August 6, 1863)
+- December 21, 2025: Added Conodoguinet Creek terrain detail to Harrisburg occupation — natural barrier ~3–5 miles west of Susquehanna, channels Union approaches, enhances defensive plausibility
+- December 22, 2025: Locked Native super-states attitudes toward Big Three condescension — pragmatic tolerance with quiet amusement/resentment, "malicious compliance" strategy, Cherokee "minor treaties" network (1870s-1939+), three flavors of condescension (USA protection, CSA civilization, California partnership), spectrum of tolerance (Sequoyah → Deseret → Plains nations). Full details: `world-building/regions/native-super-states-attitudes.md`
+- December 21, 2025: Created Battle of York canon document (July 18, 1863) — Longstreet's miscalculation during return march, 1-day mobile breakthrough, ~4,500 Confederate/~2,800 Union casualties. Added to `/archive/world-building/military/` and referenced in POD campaign timeline. Battle map available in `/maps/` folder.
 - December 20, 2025: Added Panhandle Crisis (1870-1873) as Tick clock inspiration — eastern panhandle counties (Jefferson, Berkeley, Morgan) revolt against USA control, returned to CSA/Virginia via 1873 Panhandle Accord (post-Treaty border modification). Grounds Tick clock symbolism in real crisis.
 - December 20, 2025: Refined Tick/Tock clocks symbolism — Tick = internal North American tensions, Tock = global tensions. Added tradition note about cadets reciting "The keg ticks, but we tock" while winding clocks.
+- December 22, 2025: Rappahannock-Rapidan Campaign refined to 15 days (Aug 25-Sep 9, 1863) — Phase 4 Raccoon Ford diversion eliminated, campaign ends with army cohesion collapse at Germanna. Hood's rest period shortened (3 days + quiet sector rotation). Casualties adjusted to Union ~42,000, Confederate ~16,500 (2.5:1 ratio). Plausibility 82-85%. "Mature Consideration Farce" acknowledged as historically generous (60-65% plausible) but preserved for narrative.
 - December 20, 2025: Refined Rappahannock-Rapidan Campaign timeline with four-phase structure (Oct 10-Nov 8, 1863) and updated Northern Collapse Sequence document accordingly
 - December 20, 2025: Confirmed Book 1 four-act structure (Act 1: Invasion, Act 2: Warren's Meat-Grinder, Act 3: Pickett's Raid to Election, Act 4: Grant's Gamble and Treaty), created act outline documents — See `books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` and related outline documents
 - December 19, 2025: Added Appomattox College traditions — The Civil War Football Game (1912+) with pregame reenactment, "Prisoner Exchange" ritual, War Week, and associated campus traditions — controlled tribal venting through sport, continent's premier sporting event (86-89% plausibility)

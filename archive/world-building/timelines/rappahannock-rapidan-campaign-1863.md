@@ -1,17 +1,18 @@
-# Rappahannock-Rapidan Campaign Timeline ("Fourteen Days' Meat-Grinder")
+# Rappahannock-Rapidan Campaign Timeline ("Fifteen Days' Meat-Grinder")
 
 **Date Created:** December 10, 2025  
-**Last Updated:** December 20, 2025 (Weather conditions added; September 1863 probing phase corrected; Stuart → Hampton cavalry command)  
+**Last Updated:** December 22, 2025 (Campaign refined to 15 days (August 25 - September 9, 1863); Phase 4 Raccoon Ford diversion eliminated, campaign ends with army cohesion collapse at Germanna; Hood's rest period shortened (3 days + quiet sector rotation); casualties adjusted to Union ~42,000, Confederate ~16,500, ratio 2.5:1; plausibility 82-85%)  
 **Book:** The Match (Book 1)  
 **Status:** LOCKED CANON TIMELINE  
-**Timeframe:** October 10 - November 8, 1863 (Campaign), August 1, 1863 - January 3, 1864 (Warren's command)
+**Timeframe:** August 25 - September 9, 1863 (Campaign - 15 days), August 1, 1863 - January 3, 1864 (Warren's command)
 
-**Plausibility:** 88-90%  
+**Plausibility:** 82-85% (refined from critical analysis)  
 **Casualties (Locked):**  
-- Union: ~45,600  
-- Confederate: ~13,260  
+- Union: ~42,000  
+- Confederate: ~16,500  
+- **Ratio:** 2.5:1 (historically accurate for fortified river defense)
 
-**Context:** Warren's disastrous fall offensive against Longstreet's entrenched Army of Northern Virginia - the Union's last strategic push of 1863
+**Context:** Warren's disastrous fall offensive against Longstreet's entrenched Army of Northern Virginia - the Union's last strategic push of 1863. Campaign ends with army cohesion collapse after temporary breakthrough at Germanna is destroyed by Confederate counterattack.
 
 ---
 
@@ -22,7 +23,7 @@
 - **Union Army of the Potomac:** ~110,000 men after reorganization, but exhausted, mutinous, full of green bounty men
 - **Confederate Army of Northern Virginia:** ~55,000 men under Longstreet, dug in on Rappahannock-Rapidan line, rested and resupplied from Pennsylvania raids
 - **Political Pressure:** Lincoln/Stanton demand a fall offensive "to erase the stigma of 1863" - Warren has no choice but to attack
-- **Outcome:** Disastrous "Fourteen Days' Meat-Grinder" (October 10-23, 1863) - three separate killing grounds, ~45,600 Union losses, ~13,260 Confederate losses (3.4:1 ratio)
+- **Outcome:** Disastrous "Fifteen Days' Meat-Grinder" (August 25 - September 9, 1863) - three phases ending with army cohesion collapse, ~42,000 Union losses, ~16,500 Confederate losses (2.5:1 ratio)
 - **Warren relieved January 1, 1864** after the disaster; Hancock takes command January 3, 1864
 
 ### HISTORICAL BASIS: THE THREE-MONTH FORTIFICATION PERIOD
@@ -76,95 +77,269 @@ In the Original Timeline, these orders were partially executed and then abandone
 - **Warren's Profile:** 33 years old, aggressive engineer, topographical corps veteran, politically clean (no Copperhead ties).
 - **Initial Actions:** Warren arrives at army HQ near Warrenton, VA. Begins immediate reorganization: purges "Meade conservatives," promotes aggressive officers, brings up new regiments from Washington defenses.
 
-**August 4–15, 1863**
+**August 4–19, 1863**
 
-- **Union:** Frantic rebuilding. Army swells to ~110,000 with fresh troops, but quality mixed (many bounty men, short-term enlistees). Warren drills relentlessly, focusing on rapid maneuvers and offensive spirit.
-- **Confederate:** Longstreet fortifies every ford and ridge from Fredericksburg to Gordonsville. Army rests, refits from Pennsylvania spoils.
+- **Union:** Frantic rebuilding begins as army pursues Hood south down Cumberland Valley. Fresh regiments from Washington/Baltimore depots rushed forward by rail/road.
+  - **Reinforcements (~30-40k total) arrive piecemeal on the march** during Cumberland Valley pursuit:
+    - First waves (~10-15k bounty men/short-term enlistees) catch up ~August 12-14 near Hagerstown/Greencastle
+    - Main arrivals (~20-25k) join August 16-18 near Chambersburg
+  - Army swells to ~110,000 but quality severely diluted — raw troops integrated with minimal drilling amid constant skirmishing. Veterans openly resent "bounty trash."
+  - Warren drills on the march where possible, focusing on rapid maneuvers and offensive spirit, but pursuit prevents proper absorption.
+- **Confederate:** Longstreet's main body occupies and refines Rapidan line. J.E.B. Stuart transferred west (early-mid August 1863) — "promoted" by Longstreet after Pennsylvania campaign criticism; Wade Hampton takes command of ANV cavalry corps. **Hood conducts extended matador mobile delay** (August 7-19) down Cumberland Valley — fighting withdrawals, constant skirmishing, bleeds Union momentum for ~12 days.
 
-**August 16–31, 1863**
+**August 20–24, 1863**
 
-- **Union:** Warren probes Longstreet's lines with cavalry raids (Hampton/Fitzhugh Lee repulse them). Warren's scouts report: "The Rebs are dug in like ticks." Warren delays major action, citing need for more artillery.
-- **Washington:** Stanton wires Warren: "The President expects results before the leaves fall."
-- **Confederate:** J.E.B. Stuart transferred west (early-mid August 1863) — "promoted" by Longstreet after Pennsylvania campaign criticism; Wade Hampton takes command of ANV cavalry corps. Longstreet launches small counter-raids to keep Union off-balance.
+- **Union:** Warren finally concentrates army at Warrenton/north Rappahannock area after exhausting pursuit (August 20). Hood breaks contact August 18-19.
+- **Confederate:** Hood's division rests 3 days (August 20-22) after matador exhaustion, then rotates to western/quiet sector (Raccoon Ford area) August 23 for light duty. Main body at Rapidan line.
+- **Union:** Final 5 days used for basic organization/artillery positioning. No proper refit period — pursuit exhaustion + raw troops = fragile force.
+- Political pressure ("erase the stigma immediately") + lingering matador provocation force premature offensive decision.
+- Warren's scouts report: "The Rebs are dug in like ticks across the Rapidan."
 
----
-
-### SEPTEMBER 1863: THE PROBING PHASE (North of the Rappahannock)
-
-**September 1–30, 1863**
-
-- **Union:** Warren conducts limited cavalry raids (Pleasonton/Buford) and minor infantry demonstrations north of the Rappahannock to test Confederate outposts and gather intelligence.
-- **Confederate:** Hampton's cavalry repulses raids easily; Longstreet maintains forward outposts (Rappahannock Station bridgehead, Kelly's Ford guards).
-- **Outcome:** Minor skirmishes; Union losses ~1,000–2,000. No crossings forced. Warren delays major action, citing need for artillery buildup and reorganization.
-- **Washington:** Pressure mounts — Stanton wires: "The President expects results before the leaves fall."
-- **Weather:** Mild, dry early September; cooling with occasional showers late month. Roads remain firm.
-
-**Narrative Note:** Warren's caution buys time but fuels political frustration. Army drills, refits, but morale remains fragile.
+**Narrative Note:** The extended matador maneuver succeeds — Warren, exhausted from 12 days of constant pursuit and skirmishing, pressured by political demands and provoked by Hood's display, launches offensive before full readiness. Political urgency + matador bait + pursuit exhaustion = premature attack.
 
 ---
 
 ## DETAILED CAMPAIGN TIMELINE
 
-### Late September – Early October 1863: Starting Dispositions
-- Longstreet entrenched south bank Rapidan River (main line); forward bridgehead/outposts north bank Rappahannock (fortified at Rappahannock Station, guards at Kelly's Ford).
-- Warren (AoP ~100k+) concentrated north of Rappahannock (Culpeper/Brandy Station area).
-- Intense political pressure from Washington demands immediate action.
-- **Weather:** Mild autumn days (50–65°F / 10–18°C), mostly dry, occasional light frost nights. Good mobility for Union concentration/marching. Firm roads, clear visibility. Soldiers note "fine campaigning weather" — brief optimism before the turn.
+### Late August 1863: Starting Dispositions
+- Longstreet entrenched south bank Rapidan River (main line); forward bridgehead/outposts north bank Rappahannock (fortified at Rappahannock Station, guards at Kelly's Ford, Beverly's Ford).
+- Warren (AoP ~100k+) concentrated north of Rappahannock at Warrenton area after pursuing Hood's matador rear guard south. Hood's aggressive display and political pressure force Warren into hasty offensive before full readiness.
+- Intense political pressure from Washington demands immediate action — "erase the stigma immediately."
+- **Weather:** Warm/dry late-summer conditions (70–85°F days, firm roads). Good mobility for Union concentration/marching. Clear visibility. Brief optimism before the turn.
 
-### October 10–14, 1863: Phase 1 – Initial Probes & Crossings
-- **Weather:** Dry to partly cloudy, cool (45–60°F / 7–15°C). Light breeze. Good conditions for artillery duels and pontoon work. Kelly's Ford success aided by firm ground.
-- Warren plans multi-point crossings to divide Longstreet.
+### August 25–29, 1863: Phase 1 – Initial Probes & Crossings
+- **Weather:** Warm/dry late-summer conditions (70–85°F days, firm roads). Good conditions for artillery duels and pontoon work. Kelly's Ford success aided by firm ground.
+
+**Warren's Approach:**
+- Army marches south from Warrenton area along **east bank of Rappahannock** to Bealeton/Remington concentration (August 25-27).
+- Multi-point crossing attempts: **Kelly's Ford** (lower), **Rappahannock Station** (bridgehead), **Beverly's Ford** (upper) — classic OTL Bristoe Campaign sites.
+
+**Crossing Attempts:**
 - Heavy demonstration/assault at Rappahannock Station bridgehead (II & VI Corps).
 - Real crossing forced at Kelly's Ford (III & I Corps) — successful with moderate losses.
 - Bridgehead stalls at Rappahannock Station — high casualties, position holds.
-- Casualties: Union ~8–10k, Confederate ~2–3k.
+- Beverly's Ford: Minor probe, repulsed by Confederate guards.
 
-### October 15–18, 1863: Phase 2 – Exploitation at Kelly's Ford
-- **Weather:** Cooling trend; scattered showers October 16–17 (light rain, ~0.5 inch total). Roads begin softening, advance slows slightly. Mud appears on secondary tracks but not yet quagmire. First hints of autumn turning — "The rain started as we crossed, like the sky itself was against us."
-- Warren commits reserves (V & XI Corps) to exploit Kelly's Ford success.
-- Large Union force (~50–60k) south of Rappahannock.
-- Longstreet holds bridgehead one more day (bleeds Union), then orderly withdrawal to Rapidan line (night October 15–16).
-- Union advance reaches north bank Rapidan by October 18.
-- Casualties: Union ~12–15k additional (total ~20–25k), Confederate ~3–4k additional.
+**Outcome:**
+- Kelly's Ford forced (bridgehead established south of Rappahannock).
+- Rappahannock Station holds longer (higher Union casualties).
+- By August 29, large Union force south of Rappahannock, entering Culpeper corridor toward Rapidan north bank.
 
-### October 19–November 2, 1863: Phase 3 – Focused Assaults on Rapidan (Main "Fourteen Days")
-- **Weather:**
-  - **October 19–25:** Persistent cool rain (daily showers, 2–3 inches total). Temperatures 40–55°F (4–13°C). Overcast, occasional fog. Fords slippery, pontoons harder to emplace, infantry advances through ankle-deep mud. Wounds fester faster; morale dips.
-  - **October 26–November 2:** Heavy cold front — steady rain turning to downpours (additional 3–4 inches). Winds, dropping to 35–50°F (2–10°C). Rivers rising. Approaches turn to quagmire; artillery wheels bog; repeated assaults slowed, casualties worsened by exposure/hypothermia. Rain as character — relentless, cold, turning hope to despair. "The Rapidan rose with our blood."
-- Warren rejects wide maneuver (coordination/training constraints).
-- Concentrated main effort at Germanna & Ely's Fords (II Corps – Hancock leads).
-- Massive artillery prep, repeated infantry waves.
-- Temporary lodgments gained south bank, but Confederate counterattacks (reserves shifted via interior lines) drive back.
-- Supporting demonstrations elsewhere fix reserves.
-- Casualties escalate rapidly (~4–6k per major assault day).
-- Casualties by end Phase 3: Union ~40k total, Confederate ~11–12k.
+- Casualties: Union ~8,000-9,000, Confederate ~2,200-2,500 (A.P. Hill's III Corps - tripwire mission).
 
-### November 3–8, 1863: Phase 4 – Warren's Final Gamble & Collapse
-- **Weather:** Heavy, persistent rain (peak of cold front, 2–3 inches more). Temperatures 35–45°F (2–7°C). Low visibility, thick mud, rivers swollen. **Decisive factor in botched diversion** — pontoons delayed/bogged at Raccoon Ford, troops bunched/exposed, counterattack aided by fog/mud slowing Union reaction. Rapidan crossings impossible to reinforce. Rout exacerbated: panicked retreat through mud, stragglers lost to cold/exposure. Weather seals fate — "God himself fought for Longstreet that week."
-- Warren's last push: diversionary assault at Raccoon Ford (III & XI Corps elements) to pull reserves from Hancock's front.
-- Execution botched: delays, confusion, troops exposed.
-- Longstreet contains diversion, unleashes Early for sharp counterattack.
-- Early hits exposed Union force — rout ensues, panic spreads.
-- Hancock's lodgment abandoned; general withdrawal north of Rapidan in disorder.
-- Campaign ends in catastrophe.
+### August 30–September 2, 1863: Phase 2 – Fighting Withdrawal (4 Days)
+- **Weather:** Early autumn transition begins; scattered showers August 31–September 1 (light rain, ~0.5 inch total). Roads begin softening, advance slows slightly. Mud appears on secondary tracks but not yet quagmire. First hints of autumn turning — "The rain started as we crossed, like the sky itself was against us."
+- **Confederate Operations:** A.P. Hill's III Corps conducts professional fighting withdrawal across eastern Culpeper County farmland. Successive delaying positions every 3-5 miles. Reaches Rapidan line evening September 1.
+- **Union Operations:** Warren pursues cautiously through open terrain. Constant skirmishing, occasional sharp fights. Lead elements reach Rapidan north bank morning September 2.
+- Casualties: Union ~11,000-12,000 (pursuing into prepared positions), Confederate ~3,200-3,500 (A.P. Hill's III Corps - rearguard actions).
+- **Cumulative through Phase 2:** Union ~19,000-21,000 (started 110k, now ~89-91k effective), Confederate ~5,400-6,000.
 
-**Final Casualties:**  
-- Union: ~45,600  
-- Confederate: ~13,260
+### September 3–6, 1863: Phase 3A – Rapidan Assaults (4 Days)
+- **Weather:** Early-autumn persistent rain begins (daily showers, 1–2 inches total). Temperatures 55–70°F (13–21°C) days, 40–55°F (4–13°C) nights. Overcast, occasional fog. Fords slippery, pontoons harder to emplace, infantry advances through ankle-deep mud. Wounds fester faster; morale dips. "The rain started and never stopped. Like the sky itself was against us."
 
-**Casualty Ratio:** 3.4:1 in favor of defense
+**Confederate Dispositions:**
 
-**Outcome:** Warren's army staggers back north. Northern newspapers coin "Fourteen Days' Meat-Grinder." Morale collapses.
+**Frontline (Main Effort - Germanna/Ely's):**
+- Ewell's II Corps: Early's Division (Germanna), Rodes' Division (Ely's/center), Johnson's Division (eastern-center)
+- McLaws' I Corps: Kershaw's Division (western Germanna)
+- Total frontline: ~19,000 men
+
+**Near Reserve:**
+- A.P. Hill's III Corps: Anderson's, Heth's, Pender's Divisions (~11,000 men after Phase 1-2 casualties)
+- Positioned behind Germanna/Ely's, rested 1 day (September 2), ready by September 3
+
+**Mobile Reserve:**
+- Pickett's Division (I Corps): ~5,000 men, central position
+
+**Western/Quiet Sector:**
+- **Hood's Division (I Corps):** ~5,800 men
+  - Matador ends August 19, rests 3 days (Aug 20-22)
+  - Returns to line August 23 in **western/quiet sector** (Raccoon Ford area, minimal Union pressure)
+  - Light duty for 2 weeks (Aug 23 - Sep 6): Sector defense, no heavy action
+  - By September 7: Hood's division relatively rested (~600-800 casualties from light sector duty), available for counterattack
+
+**Deep Reserve:**
+- D.H. Hill's Reserve Corps: ~12,000 men, parceled out as "flying reserve"
+  - By September 6: ~3,000 attached to Early (Germanna), ~2,000 attached to Kershaw, ~2,500 attached to Johnson
+  - ~4,500 remaining in central reserve
+
+**Total Confederate on Rapidan: ~57,000 men**
+
+**Union Operations (September 3-6):**
+
+**Main Effort:**
+- Hancock's II Corps leads assault at Germanna/Ely's Fords
+- Supported by V, VI Corps
+- Massive artillery preparation, repeated infantry waves
+- Temporary lodgments achieved south of fords but counterattacks drive back
+- Each assault: 3,000-5,000 casualties
+
+**September 3:** First major assault, lodgment gained and lost - Union 4,000 casualties, Confederate 1,200  
+**September 4:** Second assault, wider front - Union 4,500 casualties, Confederate 1,400  
+**September 5:** Third assault, desperation growing - Union 5,000 casualties, Confederate 1,600  
+**September 6:** Fourth assault, Hancock achieves largest lodgment yet - Union 5,500 casualties, Confederate 1,800
+
+**Union Army Status (Evening September 6):**
+- Started campaign: ~110,000 men
+- Casualties through September 6: ~38,000-40,000
+- Effective strength: ~70,000 men
+- **Cohesion deteriorating:**
+  - Bounty men deserting in large numbers
+  - Veteran regiments refusing orders in some instances
+  - Corps commanders warning Warren: "Men can't take much more"
+  - Mutinies suppressed in at least 3 regiments
+  - Hancock to Warren: "My corps is fought out. We need to pull back."
+
+### September 7–9, 1863: Phase 3B – Final Collapse (3 Days) **[REVISED]**
+
+**September 7 Morning: Warren's Last Gamble**
+
+**Warren's situation:**
+- Army down to ~70,000 effectives (from 110,000)
+- ~38,000 casualties in 13 days
+- Morale shattered, desertion epidemic
+- No breakthrough achieved
+- Political pressure from Washington: "Finish this or withdraw"
+
+**Warren's decision (desperate):**
+> "One more push. All reserves committed. Breakthrough at Germanna or the campaign ends."
+
+**Warren commits everything:**
+- II Corps (Hancock - exhausted but complies)
+- V, VI, XI Corps all committed to Germanna assault
+- III, XII Corps held as minimal reserve
+- Artillery bombardment heaviest of campaign
+- **This is the final throw of the dice**
+
+**September 7 Afternoon: Breakthrough and Counterattack**
+
+**Union Assault (September 7, 10 AM - 2 PM):**
+- Massive assault across Germanna/Ely's fords
+- Four corps committed (~45,000 men in assault waves)
+- Early's division overwhelmed by sheer numbers
+- **Union achieves significant lodgment south of Germanna** (first real breakthrough)
+- 2,000-3,000 Union troops across, digging in frantically
+
+**Confederate Response (Longstreet's Decision, 2 PM):**
+
+**Longstreet to Early:**
+> "They're across at Germanna. Can you hold?"
+
+**Early:**
+> "Not for long. They're building the lodgment. If they reinforce tonight, we'll lose the sector tomorrow."
+
+**Longstreet to Hood (western sector):**
+> "John, I need you at Germanna. Bring your division east. You and Early counterattack at dawn tomorrow. Drive them back into the river."
+
+**Longstreet to A.P. Hill:**
+> "Powell, move III Corps up behind Early. If Hood and Early don't break them, you go in next."
+
+**Longstreet to McLaws:**
+> "Mac, Pickett shifts to center. If they break through anywhere else while we're counterattacking Germanna, he plugs it."
+
+**September 8: The Counterattack**
+
+**Confederate Force (Dawn September 8):**
+- **Early's Division:** ~3,200 effectives (worn from 6 days fighting)
+- **Hood's Division:** ~5,000 effectives (relatively rested from quiet western sector)
+- **D.H. Hill's Reserve elements:** ~1,500 men detached from central reserve
+- **Total counterattack force: ~9,700 men**
+- **Supporting:** A.P. Hill's III Corps (~11,000) positioned in near reserve
+
+**Weather September 8:** Heavy rain overnight, fog at dawn, poor visibility
+
+**Counterattack (Dawn - 10 AM):**
+- Hood's Division (fresh, aggressive) leads assault from south
+- Early's Division (exhausted but determined) attacks from east
+- Confederate artillery from ridges massacres Union troops in lodgment
+- Fog + surprise + fresh Hood division = devastating
+- Union lodgment collapses within 2 hours
+- Panic spreads - Union troops flee back across fords in disorder
+
+**Union Reaction:**
+- Hancock tries to send reinforcements across
+- Confederate counterattack so violent, reinforcements are pinned on north bank
+- By 10 AM: All Union troops south of Germanna killed, captured, or fled
+- Hancock's II Corps in chaos on north bank
+
+**Casualties (September 7-8 combined):**
+- Union: ~7,000 in assaults + lodgment, ~3,000 in rout/capture = **10,000 total**
+- Confederate: Early ~1,200, Hood ~800, D.H. Hill ~400 = **2,400 total**
+
+**September 8 Afternoon - September 9: Army Disintegration**
+
+**News of Germanna disaster spreads (September 8, noon):**
+- V, VI, XI Corps (waiting to reinforce) hear: "II Corps routed, lodgment lost, Hood counterattacked"
+- Morale collapses army-wide
+- Desertion accelerates (hundreds of men just leave)
+- Regiment mutinies in III and XI Corps
+- Officers unable to maintain discipline
+
+**Warren's council of war (September 8, 4 PM):**
+
+**Hancock:** "My corps is destroyed. I have maybe 8,000 effectives left from 20,000. We must withdraw."
+
+**V Corps commander:** "My men won't attack again. I can hold the north bank, but we're not crossing that river."
+
+**VI Corps commander:** "Same. The army is finished."
+
+**Warren (defeated):** "How did it come to this? We had 110,000 men..."
+
+**Hancock (bitter):** "You threw them away, General. Piece by piece. Against a river line we should never have assaulted."
+
+**Warren orders general withdrawal (September 8, 6 PM):**
+> "Pull back north of the Rappahannock. Establish defensive line at Occoquan. This campaign is over."
+
+**September 9: The Retreat**
+
+**Union withdrawal:**
+- Army retreats north in disorder
+- Rearguards fight delaying actions
+- Hampton's cavalry harasses flanks
+- Confederate infantry pursue cautiously (content to let Warren retreat)
+- By evening September 9: Union army north of Rappahannock, withdrawing toward Occoquan
+
+**Final scenes:**
+- Wagons abandoned, equipment destroyed
+- Walking wounded straggling north
+- Deserters leaving army in groups
+- Officers struggling to maintain cohesion
+- Warren's headquarters in chaos
+
+**Confederate pursuit (light):**
+- Longstreet does not pursue aggressively
+- Content with defensive victory
+- "Let them go. We've won."
+- Confederate army remains on Rapidan line
+
+**Final Casualties (15 Days Total):**  
+- Union: ~42,000 (started 110k, ended ~58k effective after casualties + desertion)
+- Confederate: ~16,500 (started ~57k, ended ~40.5k effective)
+
+**Casualty Ratio:** 2.5:1 (historically accurate for fortified river defense)
+
+**Historical Comparison:**
+- Fredericksburg (Dec 1862): 2.5:1 ratio (fortified defense)
+- Cold Harbor (June 1864): 4.7:1 ratio (1-day assault, extreme fortifications)
+- Overland Campaign average (May-June 1864): ~2.2:1 ratio (sustained campaign)
+
+**Outcome:** Warren's army staggers back north. Northern newspapers coin "Fifteen Days' Meat-Grinder." Morale collapses. Campaign ends September 9, 1863.
 
 ---
 
-### NOVEMBER 1863: AFTERMATH AND INQUIRY
+### SEPTEMBER–NOVEMBER 1863: AFTERMATH AND INQUIRY
 
-**November 1–30, 1863**
+**September 10–30, 1863**
 
 - **Union:** Warren digs in north of the Occoquan. Mutinies continue. Desertions reach epidemic levels. Congressional inquiry begins.
-- **Washington:** Joint Committee on the Conduct of the War investigates the disaster. Warren's command under scrutiny.
+- **Washington:** Joint Committee on the Conduct of the War investigates the disaster. Warren's command under scrutiny. Relief order drafted September 14 (5 days after campaign collapse).
 - **Confederate:** Longstreet fortifies winter lines. Army rests, morale high.
+
+**October–November 1863**
+
+- **Union:** Mutinies continue. Desertions reach epidemic levels. Copperhead papers declare "the war is lost."
+- **Washington:** Investigation continues. Joint Committee votes to recommend Warren's removal (September 28). Pressure mounts, but Lincoln delays relief.
+- **Confederate:** Longstreet launches small winter raids to keep pressure on. Army winters in Culpeper/Orange Counties.
 
 ---
 
@@ -185,10 +360,10 @@ In the Original Timeline, these orders were partially executed and then abandone
 - **Washington:** Lincoln issues a 1,400-word public letter "after mature consideration of all relevant reports and testimonies" relieving Warren "with regret" and praising his "distinguished service as an engineer and topographical officer."
 - **Official Order:** "Relieved for want of results and loss of offensive spirit."
 - **Reality (locked behind closed doors):**
-  - Stanton had the relief order drafted on October 24
-  - The Joint Committee voted to sack Warren on November 12
-  - Lincoln sat on it for nine weeks so it wouldn't look like panic
-  - Every Northern editor knew Warren was already dead the moment the army limped north of the Occoquan
+  - Stanton had the relief order drafted on September 14 (5 days after campaign collapse)
+  - The Joint Committee voted to recommend Warren's removal on September 28
+  - Lincoln sat on it for ~15 weeks so it wouldn't look like panic (but operational context: no active war, winter quarters, no urgency)
+  - Every Northern editor knew Warren was already dead the moment the army limped north of the Occoquan (September 9)
 
 **January 2, 1864**
 
@@ -222,7 +397,10 @@ In the Original Timeline, these orders were partially executed and then abandone
 - Repulses Union cavalry raids, maintains intelligence superiority.
 
 **Early:**
-- Holds bridgehead early, leads climactic counterattack — narrative balance (restrained Harrisburg → decisive here).
+- Holds Germanna main effort through Phase 3A (September 3-6), withstands repeated Union assaults.
+- Leads climactic counterattack in Phase 3B (September 8) alongside Hood — narrative balance (restrained Harrisburg → decisive here).
+- Longstreet commits Early (aggressive flair) + Hood (fresh from quiet sector) to counterattack Warren's breakthrough at Germanna.
+- Early's determined assault (exhausted but aggressive) + Hood's fresh division breaks Union lodgment — fulfills promise of "letting him loose."
 
 ## AFTERMATH
 
@@ -234,9 +412,9 @@ In the Original Timeline, these orders were partially executed and then abandone
 
 - **Warren's Command:** August 3, 1863 – January 1, 1864 (151 days)
 - **Hancock's Command:** Begins January 3, 1864
-- **The "Meat-Grinder":** Four-phase campaign (October 10 - November 8, 1863) across Rappahannock and Rapidan river barriers
-- **Why Warren Fails:** Political pressure forces attack; Longstreet has 3 months to fortify (D.H. Hill's detachment continues Lee's May 1863 orders while Longstreet is in Pennsylvania); Union army exhausted/mutinous; weather deterioration (progressive rain/mud/cold from mid-October) amplifies Union difficulties and Confederate defensive advantage
-- **Weather Role:** Early phase favorable (dry/mild), mid-late phase progressive deterioration (rain/mud/cold as cumulative grinder). Weather as impartial force amplifying Union overreach — realistic Virginia autumn pattern (historical basis: parallels OTL Bristoe/Mine Run campaigns). No "miracle" weather events, but weather decisively contributes to botched Raccoon Ford diversion and final collapse.
+- **The "Meat-Grinder":** Three-phase campaign (August 25 - September 9, 1863, 15 days total) across Rappahannock and Rapidan river barriers, ending with army cohesion collapse
+- **Why Warren Fails:** Matador maneuver provokes premature attack; political pressure forces immediate action; Longstreet has 3 months to fortify (D.H. Hill's detachment continues Lee's May 1863 orders while Longstreet is in Pennsylvania); Union army exhausted/mutinous; weather deterioration (progressive rain/mud from early September) amplifies Union difficulties and Confederate defensive advantage; final all-in assault achieves temporary breakthrough but Confederate counterattack (Hood + Early) destroys it, triggering army disintegration
+- **Weather Role:** Early phase favorable (warm/dry late-summer), mid-late phase progressive deterioration (early-autumn rain/mud as cumulative grinder). Weather as impartial force amplifying Union overreach — realistic Virginia late-summer to early-autumn pattern (historical basis: parallels OTL Bristoe Campaign timing). No "miracle" weather events, but weather contributes to final collapse (fog aids Confederate counterattack surprise, mud slows Union reinforcement).
 - **Strategic Impact:** Union morale shattered; Copperheads gain power; path to McClellan's election cleared
 
 **Status:** Canon-Locked
@@ -256,23 +434,66 @@ In the Original Timeline, these orders were partially executed and then abandone
 
 ### Reality (Locked Behind Closed Doors)
 
-- Stanton had the relief order drafted on October 24.
-- The Joint Committee voted to sack Warren on November 12.
-- Lincoln sat on it for nine weeks so it wouldn't look like panic.
-- Every Northern editor knew Warren was already dead the moment the army limped north of the Occoquan.
+- Stanton had the relief order drafted on September 14 (5 days after campaign collapse).
+- The Joint Committee voted to recommend Warren's removal on September 28.
+- Lincoln sat on it for ~15 weeks so it wouldn't look like panic.
+- Every Northern editor knew Warren was already dead the moment the army limped north of the Occoquan (September 9).
+
+### Plausibility Note on Warren's 15-Week Retention
+
+**Critical Context: Urgency vs. No Urgency**
+
+**Meade's Quick Relief (August 1, 1863):**
+- Longstreet's army still in the field (crossing Potomac August 5-6)
+- Active pursuit required immediate leadership
+- **Urgency:** Cannot delay - war is active, decisions needed now
+- Lincoln acts quickly because military operations demand it
+
+**Warren's Delayed Relief (September 9, 1863 - January 1, 1864):**
+- Campaign ended September 9 - no active military operations
+- Army withdrawn to winter quarters north of Occoquan
+- Winter approaching - no offensive possible until spring
+- **No Urgency:** Campaign over, winter coming, no immediate crisis requiring leadership change
+- Lincoln can afford to wait - no active war operations at stake
+
+**Historical Reality:** Lincoln's relief timing depended on operational urgency
+- **With active operations:** Fast relief (Meade: immediate, Burnside: 4 weeks, Hooker: 4 weeks)
+- **With no active operations:** Could delay (winter quarters, no immediate crisis)
+
+**NTL Warren:** Campaign ends September 9, relief January 1 = **15 weeks**
+
+**Why the Delay Makes Sense:**
+
+> "Lincoln's delay in relieving Warren, while mocked by contemporary editors, had a simple explanation: there was no urgency.
+>
+> Meade had been relieved immediately because Longstreet's army was still in the field, crossing the Potomac. Every day of delay meant another day of failed pursuit. The war demanded immediate action.
+>
+> Warren's disaster came at a different moment. The campaign ended September 9. The army withdrew to winter quarters. Winter was coming - no offensive possible until spring. There was no active pursuit to maintain, no battle to fight, no immediate crisis requiring a new commander.
+>
+> The relief order, drafted September 14 (five days after the disaster), sat on Lincoln's desk because there was simply no operational reason to rush. The Joint Committee voted to recommend Warren's removal on September 28. Northern editors mocked the delay. But the army was in winter quarters, not fighting. The war could wait.
+>
+> Lincoln's official explanation - 'mature consideration of all relevant reports and testimonies' - was bureaucratic cover for a simple truth: when there's no active war, there's no urgency. Warren remained in nominal command through the winter because the army wasn't going anywhere anyway.
+>
+> The 'Mature Consideration Farce' was less a mystery than a recognition: winter quarters meant time to deliberate. The war would resume in spring. Until then, Warren's presence or absence changed nothing."
+
+**Verdict:** 15-week delay is **75-80% plausible** given operational context:
+- No active military operations (campaign over, winter quarters)
+- No urgency requiring immediate leadership change
+- Historical pattern: Lincoln delayed decisions when no operational crisis existed
+- Narrative irony ("Mature Consideration Farce") still works - editors mocked the delay, but the delay made operational sense
 
 ### Northern Newspaper Headlines (January 2-4, 1864)
 
 | Paper                  | Headline                                      | Tone |
 |------------------------|-----------------------------------------------|------|
 | New York Herald        | "WARREN RELIEVED AFTER MATURE CONSIDERATION" | Dripping sarcasm |
-| Chicago Tribune        | "Nine Weeks to Discover What Every Soldier Knew in October" | Fury |
+| Chicago Tribune        | "Fifteen Weeks to Discover What Every Soldier Knew in September" | Fury |
 | New York World (Copperhead) | "Lincoln Finally Admits His War Is Lost"      | Gloating |
 | Harper's Weekly        | Cartoon: Lincoln as a tortoise labelled "Mature Consideration" carrying Warren's severed head | Savage |
 
 ### Fairfax-Lockwood's Footnote (1985)
 
-> "President Lincoln's letter of 1 January 1864 relieving General Warren is a masterpiece of bureaucratic procrastination. One is almost tempted to admire the artistry with which nine weeks of political necessity were disguised as solemn deliberation. Almost."
+> "President Lincoln's letter of 1 January 1864 relieving General Warren is a masterpiece of bureaucratic procrastination. One is almost tempted to admire the artistry with which eleven to twelve weeks of political necessity were disguised as solemn deliberation. Almost."
 
 **Locked.**  
 The farce is now canon.  

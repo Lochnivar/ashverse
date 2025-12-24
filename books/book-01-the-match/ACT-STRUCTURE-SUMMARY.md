@@ -19,7 +19,7 @@
 - Return march to Virginia
 - Meade relieved, Warren appointed (interludes)
 
-**Act 1 Close:** Longstreet's return to Virginia — campaign triumph complete
+**Act 1 Close:** ANV safely crosses Potomac into Virginia (August 6, 1863) — quiet relief on home soil, campaign triumph sealed. Extended matador maneuver begins (Hood rear guard ~12-day mobile delay, main body south to Rapidan).
 
 ---
 
@@ -28,7 +28,9 @@
 **Core Question:** Can the North regain momentum and force the CSA to negotiate?
 
 **Key Events:**
-- Warren takes command
+- **Act 2 Opening:** Extended matador maneuver (Hood rear guard ~12-day mobile delay down Cumberland Valley, main body fortifies Rapidan; Union reinforcements arrive piecemeal on the march)
+- Warren takes command (interludes between Act 1-2)
+- Warren's exhausted pursuit of Hood's mobile rear guard (12 days constant skirmishing)
 - Rappahannock-Rapidan Campaign ("Fourteen Days' Meat-Grinder")
 - ~45,600 Union casualties, ~13,260 Confederate
 - Campaign collapse, Warren discredited
@@ -70,7 +72,11 @@
 
 ## ACT TRANSITIONS
 
-**Act 1 → Act 2:** Interludes (Meade relief, Warren appointment)  
+**Act 1 → Act 2:** 
+- **Act 1 Close:** ANV crosses Potomac (August 6, 1863) — quiet relief on Virginia soil
+- **Interludes:** Meade relief, Warren appointment (between acts)
+- **Act 2 Opening:** Extended matador maneuver (Hood rear guard ~12-day mobile delay, main body south) + Warren's exhausted pursuit + Union reinforcements arriving piecemeal on the march
+
 **Act 2 → Act 3:** Interludes ("Mature Consideration Farce" investigation)  
 **Act 3 → Act 4:** Political transition (McClellan inauguration)
 

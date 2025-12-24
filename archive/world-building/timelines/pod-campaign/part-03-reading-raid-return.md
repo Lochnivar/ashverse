@@ -1,16 +1,17 @@
-# POD Campaign - Part 3: Reading Raid & Return (July 10-31, 1863)
+# POD Campaign - Part 3: Reading Raid & Return (July 10 - August 6, 1863)
 
 **Campaign:** Point of Divergence Campaign  
-**Part 3 Coverage:** July 10-31, 1863 (21 days)  
+**Part 3 Coverage:** July 10 - August 6, 1863 (28 days, Act 1 closes August 6)  
 **Focus:** Reading raid, destruction operations, southwest pivot, return to Virginia  
 **Date Created:** December 9, 2025  
-**Last Updated:** December 20, 2025 (York encounter added)  
+**Last Updated:** December 22, 2025 (Hampton killed at York July 18, Fitz Lee promoted to cavalry corps command; Stuart's western transfer during Harrisburg occupation July 5-7)  
 **Status:** Canon-Locked - Brigade-Level Reference Document
 
 **Related Documents:**
 - [Master Timeline](../gettysburg-master-timeline.md) - Strategic overview
 - [Part 1: The Withdrawal](./part-01-withdrawal.md) - First phase
 - [Part 2: Harrisburg Occupation](./part-02-harrisburg-occupation.md) - Previous phase
+- [Battle of York](../../military/battle-of-york-1863-07-18.md) - Detailed battle reference (July 18, 1863)
 
 ---
 
@@ -21,9 +22,11 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **Timeline:**
 - **July 10-12:** March to Reading (65 miles, 3 days)
 - **July 13-14:** Reading occupation and destruction (48 hours)
-- **July 15-20:** Southwest pivot through Lancaster County
-- **July 21-25:** March to Potomac crossings
-- **July 26-31:** Return to Virginia, campaign concludes
+- **July 15-18:** Southwest pivot through Lancaster County, York encounter (July 18)
+- **July 19-22:** March through Monterey Pass to Cumberland Valley (Hagerstown area)
+- **July 23-August 6:** Approach to Potomac, crossings at Williamsport/Shepherdstown
+- **August 6-19:** Matador split (Hood rear guard ~12-day mobile delay down Cumberland Valley, main body south to Rapidan)
+- **August 6:** Act 1 closes — campaign concludes
 
 **Key Achievement:** Maximum economic damage to Northern coal infrastructure + safe return to Virginia with army intact
 
@@ -145,6 +148,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 **CAVALRY (REARGUARD):**
 - **Hampton's Brigade** (~1,800 sabers): Follows army, screens south toward Meade
+  - **Note:** Hampton killed at York (July 18) — Fitz Lee assumes command after Hampton's death
 - **Other cavalry:** Various screening positions
 
 ---
@@ -1119,6 +1123,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **CAVALRY - Hampton's Brigade (ADVANCE):**
 - **Mission:** Scout southwest toward Lancaster, screen ahead
 - **Departure:** 04:00 (before main body)
+- **Note:** Hampton killed at York (July 18) — Fitz Lee assumes command after Hampton's death
 
 **FIRST CORPS - McLaws' Division (LEAD):**
 - **05:00:** Steps off from Reading
@@ -1198,63 +1203,35 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 ## JULY 16-20, 1863 - SOUTHWEST MARCH THROUGH LANCASTER COUNTY
 
-### ROUTE: Reading → Ephrata → Lancaster → York → Wrightsville
+### ROUTE: Reading → Lancaster → York → Monterey Pass → Cumberland Valley → Potomac
 
-**Distance:** ~60 miles (5 days at 12 miles/day - slower pace, cautious)
+**Distance:** ~120 miles total return (Reading to Potomac via Cumberland Valley)
 
 **Why Slower:**
-- Army tired from Reading operations
-- Entering more populated area (Lancaster County - rich farming)
-- Meade closing slightly (need to watch rear)
-- Preparing for river crossings (Susquehanna, then Potomac)
+- Army tired from Reading operations and York battle
+- Mountain pass (Monterey Pass) slows column slightly
+- Meade closing (tense pursuit race)
+- Preparing for Potomac crossings
 
 ---
 
-### DAILY PATTERN (JULY 16-20):
+### JULY 16-17 - MARCH TO YORK
 
-**Each Day:**
-- **05:00:** Reveille, breakfast
-- **06:00:** March begins
-- **12:00-14:00:** Midday halt (2 hours rest, lunch, water horses)
-- **18:00:** Evening bivouac
-- **Distance:** 10-12 miles per day
+**Route:** Reading → Lancaster → York
 
-**Foraging:**
-- Continue requisitioning food from Lancaster County farms
-- Pennsylvania Dutch country (rich farms, ample supplies)
-- Issue receipts, pay with Confederate scrip
-- Army maintains good supply status
+**Daily Pattern:**
+- **July 16:** Reading → Lancaster (~25 miles)
+- **July 17:** Lancaster → York approaches (~20 miles)
+- Focused on speed post-Reading
 
-**Security:**
-- Hampton screens ahead and flanks
-- Fitzhugh Lee screens rear
-- Johnson's Division remains rearguard
-
----
-
-### JULY 16 - EPHRATA TO LANCASTER
-
-**Distance:** 12 miles
-
-**Confederate Lead:** Reaches Lancaster by evening
-
-**Lancaster Status:**
+**Lancaster (July 16):**
 - Population: ~18,000
 - Pennsylvania's second-largest city (after Philadelphia)
 - Mayor: No resistance possible, city opens gates
 - Confederate occupation: Brief (overnight only, march through next morning)
+- Longstreet's Orders: No destruction (not a target), provost maintains order, no looting
 
-**Longstreet's Orders for Lancaster:**
-- No destruction (not a target)
-- Provost maintains order
-- No looting
-- Army passes through only
-
----
-
-### JULY 17 - LANCASTER TO YORK APPROACHES
-
-**Distance:** ~20 miles (longer march - focused on speed post-Reading)
+**July 17 - YORK APPROACHES:**
 
 **Evening (17:00-18:00):** Army approaches York from southwest
 
@@ -1272,7 +1249,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 **Orders Issued (18:30):**
 - **Early's Division:** Frontal assault at dawn to pin Union center
-- **Pickett's Division + Hampton's Cavalry:** Flank movement west through open farmland to threaten Union rear
+- **Pickett's Division + Hampton's Cavalry (later Fitz Lee's after Hampton's death):** Flank movement west through open farmland to threaten Union rear
 - **Other divisions:** Support as needed, maintain march formation for breakthrough
 
 ---
@@ -1290,6 +1267,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **Confederate Force:**
 - Early's Division (~5,500 men) — frontal assault
 - Pickett's Division (~5,500 men) + Hampton's Cavalry (~1,800 sabers) — flank movement
+  - **Note:** Hampton killed during Custer's dash (midday July 18) — Fitz Lee assumes command immediately
 - Supporting divisions ready for breakthrough
 
 ---
@@ -1305,13 +1283,20 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 ---
 
-**MIDDAY TO AFTERNOON (12:00-16:00):** Pickett/Hampton Flank Slide
+**MIDDAY TO AFTERNOON (12:00-16:00):** Custer's Dash & Hampton's Death
 
-- **12:00:** Pickett's Division + Hampton's Cavalry begin wide flank movement west
+- **12:00:** Custer's Michigan Cavalry Brigade executes successful dash across Columbia/Wrightsville ford
+- **12:30:** Hampton personally leads Confederate cavalry response to contain Custer's breakthrough
+- **13:00-14:00:** Sharp cavalry clash — Hampton killed leading charge (shot leading counterattack or in melee)
+- **14:00:** Custer's raid repulsed, but Confederate cavalry loses its commander
+- **Immediate Succession:** Fitzhugh Lee (senior brigade commander after Hampton) assumes overall cavalry corps command
+  - Longstreet: "Hampton's gone — Fitz, the cavalry is yours."
+- **14:00-16:00:** Pickett's Division + Fitz Lee's Cavalry (now under Fitz Lee's command) execute wide flank movement west
 - **Route:** Open farmland west of York (avoiding Union observation)
-- **14:00:** Flank force threatens Union rear
+- **16:00:** Flank force threatens Union rear
 - **Union Reaction:** Forces begin shifting to face flank threat, exposing center
 - **Result:** Union position compromised; Longstreet prepares main breakthrough push
+- **Narrative Impact:** Custer's "rare success" costs Confederate cavalry its commander — balances Custer's partial success with real Confederate loss
 
 ---
 
@@ -1350,17 +1335,22 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 - Closest Union interception attempt fails
 
 **Longstreet's Reflection (Evening, 20:00):**
-> "My haste nearly cost us — but the boys carried it. Early fixed them, Pickett and Hampton turned their flank, and we broke through. Still, I should have reversed north after Reading. Lesson learned: speed is nothing without proper reconnaissance. The mountains would have protected us."
+> "My haste nearly cost us — but the boys carried it. Early fixed them, Pickett and Fitz Lee turned their flank, and we broke through. Still, I should have reversed north after Reading. Lesson learned: speed is nothing without proper reconnaissance. The mountains would have protected us."
+>
+> [To Fitz Lee, privately]: "Hampton's death is a heavy price. But you'll do well, Fitz. The cavalry is yours now — make it count."
 
 ---
 
 **NARRATIVE IMPACT:**
 
 - Humanizes Longstreet (miscalculation costs casualties)
-- Showcases toolbox (Early fixes center, Pickett/Hampton execute flank slide)
+- Showcases toolbox (Early fixes center, Pickett/Fitz Lee execute flank slide)
+- Custer's York dash costs Confederate cavalry its commander — Custer's "rare success" has real bite
+- Hampton's death gives CSA cavalry a costly "black eye" despite repulsing Custer
 - Meade nearly traps Longstreet (competent Union effort)
 - Victory earned through subordinate commanders' aggression compensating for Longstreet's error
 - Avoids "Mary Sue" outcome: costly victory, not clean escape
+- Cavalry command transition: Hampton dead, Fitz Lee promoted — CSA cavalry talent depth reduced (Stuart exiled, Hampton dead, Fitz Lee competent but not elite)
 
 **Sets up Winter Despair Theme:**
 - Union: "We had him at York and let him slip."
@@ -1372,222 +1362,209 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 **Distance:** ~25 miles southwest
 
-**Route Change:** After York breakthrough, army takes more direct route through Gettysburg area (ironic return to battlefield)
+**Route Decision:** After York breakthrough, Longstreet chooses **Monterey Pass** (southern gap through South Mountain) to Cumberland Valley — screened by South Mountain on eastern flank.
+
+**Rationale:**
+- Mountain barrier protects from Meade's main force (Baltimore/York area)
+- Worth minor distance/speed trade-off vs. exposed eastern route (Point of Rocks/Frederick)
+- Hampton's cavalry feints toward Cashtown Gap (northern) to mislead Union scouts
 
 **Confederate Progress:**
 - March resumes at dawn (05:00)
 - Lead elements reach Gettysburg area by evening
 - Ironic moment: Passing near July 1 battlefield, soldiers note the field they abandoned
+- Route: Gettysburg → Monterey Pass → Waynesboro → Hagerstown (Cumberland Valley)
 
 **Longstreet's Assessment:**
-> "We're through the worst. From here it's open ground to the Potomac. Meade won't catch us now — he's still too far behind, and we have the lead."
+> "We're through the worst. The mountains will screen us from Meade's main force. He'll have to come through the valley after us — and by then we'll be at the Potomac."
 
-**Remaining Route:** Gettysburg → Chambersburg → Potomac crossings
+**Meade's Pursuit Decision (July 19-20):**
+- Correctly calculates Longstreet will choose Cumberland Valley for **South Mountain screening** on eastern flank — natural barrier against Union forces from Baltimore/York
+- Rejects eastern interception (Point of Rocks/Frederick) as unlikely — Longstreet won't expose flank
+- Orders chase west into valley: rail reinforcements to Harrisburg, forced march vanguard to Chambersburg/Hagerstown
+- Goal: Catch Longstreet at Potomac ford (Williamsport) or force battle in valley
 
-**Distance to Potomac:** ~50 miles (4-5 days at current pace)
-
-**Distance:** 10 miles north (parallel to Susquehanna)
-
-**Note:** Route changed after York encounter. Army bypasses Susquehanna crossings, takes direct route through Gettysburg/Chambersburg to Potomac.
+**Distance to Potomac:** ~50 miles via Cumberland Valley (4-5 days at current pace)
 
 ---
 
-### JULY 20-22 - MARCH TO CHAMBERSBURG
+### JULY 20-22 - MARCH THROUGH CUMBERLAND VALLEY (Monterey Pass → Hagerstown)
 
-**Route:** Gettysburg area → Chambersburg (direct southwest)
+**Route:** Gettysburg area → Monterey Pass (South Mountain) → Waynesboro → Hagerstown (Cumberland Valley)
 
-**Distance:** ~30 miles over 2-3 days
+**Distance:** ~40 miles over 2-3 days via mountain pass
 
-**Pace:** Steady but cautious (army tired after York battle, watching for Union pursuit)
+**Monterey Pass (July 20-21):**
+- Southern gap through South Mountain
+- Narrow passage slows column slightly, but provides screening from Union forces to east
+- Hampton's cavalry feints toward Cashtown Gap (northern) to mislead Union scouts
+- Longstreet's rationale: Mountain barrier protects eastern flank from Meade's main force (Baltimore/York area)
 
 **Daily Progress:**
-- **July 20:** Gettysburg area → midway point (~15 miles)
-- **July 21:** Midway → Chambersburg approach (~15 miles)
-- **July 22:** Chambersburg → Potomac approach (~10-15 miles from crossings)
+- **July 20:** Gettysburg area → Monterey Pass (~15 miles)
+- **July 21:** Through pass → Waynesboro area (~15 miles)
+- **July 22:** Waynesboro → Hagerstown area (~10 miles)
 
 **Union Pursuit:**
-- Meade still 40-50 miles behind
-- York encounter delayed Confederate march by 1 day, but Union unable to capitalize
-- Confederate lead maintained
+- **Meade's Calculation (July 19-20):** Correctly calculates Longstreet will choose Cumberland Valley for South Mountain screening on eastern flank — natural barrier against Union forces from Baltimore/York
+- Rejects eastern interception (Point of Rocks/Frederick) as unlikely — Longstreet won't expose flank
+- Orders chase west into valley: rail reinforcements to Harrisburg, forced march vanguard to Chambersburg/Hagerstown
+- Goal: Catch Longstreet at Potomac ford (Williamsport) or force battle in valley
+- Tense race — Meade nearly closes (vanguard skirmishes rear guard near Hagerstown)
+- Hampton's cavalry screen decisive in delaying Union advance
+- Confederate lead maintained, but close
 
 ---
 
-### JULY 23-25 - APPROACH TO POTOMAC CROSSINGS
+### JULY 23 - AUGUST 6, 1863 - APPROACH TO POTOMAC CROSSINGS
 
-**Dawn (05:00) - First Units Begin Crossing:**
+**Route:** Hagerstown area → Williamsport/Shepherdstown fords
 
-**Method:**
-- Fording at Wrightsville (shallow water)
-- Engineers construct pontoon bridge (completed by noon)
-- Both ford and pontoon bridge used simultaneously
+**Union Pursuit:**
+- Tense race — Meade nearly closes (vanguard skirmishes rear guard near Hagerstown)
+- Hampton's cavalry screen decisive in delaying Union advance
+- Meade's correct calculation of route pays off, but starts too late
 
-**Order of Crossing:**
+**Potomac Crossings (August 5-6, 1863):**
 
-**05:00-10:00 - Cavalry + First Corps:**
-- Hampton's Brigade: First across (05:00-06:00)
-- McLaws' Division: 06:00-08:00
-- Hood's Division: 08:00-10:00
-
-**10:00-14:00 - Second Corps:**
-- Rodes' Division: 10:00-12:00
-- Early's Division: 12:00-14:00
-
-**14:00-18:00 - Third Corps:**
-- Anderson's Division: 14:00-15:30
-- Pender's Division: 15:30-17:00
-- Heth's Division: 17:00-18:30
-
-**18:00-20:00 - Pickett's Division + Wagon Trains:**
-- Pickett crosses: 18:00-19:00
-- Wagon trains cross: 18:00-22:00 (into night, slow with 2,200 wagons)
-
-**20:00-22:00 - Johnson's Division (REARGUARD):**
-- Last infantry to cross
-- Fitzhugh Lee's cavalry remains on east bank until morning July 21 (screen)
-
----
-
-**By Evening July 20:**
-- Most of army across Susquehanna (west bank)
-- Wagon trains still crossing (into night)
-- Rearguard (Johnson + Fitzhugh Lee) on east bank
-- Engineers will dismantle pontoon bridge at dawn July 21 after rearguard crosses
-
----
-
-## JULY 21-25, 1863 - MARCH TO POTOMAC CROSSINGS
-
-### JULY 21 - FINAL SUSQUEHANNA CROSSING / MARCH TO HANOVER
-
-**Dawn (05:00):**
-- Johnson's Division crosses Susquehanna (last infantry)
-- Fitzhugh Lee's cavalry crosses (last combat troops)
-- Engineers dismantle pontoon bridge (05:00-07:00)
-- Bridge gone by 07:00 (delays Meade's pursuit)
-
-**Army Marches Southwest:**
-- Route: Wrightsville → Hanover (15 miles)
-- By evening: Lead elements at Hanover
-
----
-
-### JULY 22 - HANOVER TO LITTLESTOWN
-
-**Distance:** 12 miles southwest
-
-**Direction:** Heading toward Maryland border
-
-**Confederate Status:**
-- Army intact (~75,000 men)
-- Well-supplied (foraging successful throughout Pennsylvania)
-- Morale good (successful campaign, returning home)
-- Casualties minimal (combat: ~3,000 at Gettysburg July 1, accidents: ~200 during campaign, total: ~3,200 casualties = 4% loss rate)
-
----
-
-### JULY 23 - LITTLESTOWN TO TANEYTOWN (MARYLAND BORDER)
-
-**Distance:** 8 miles
-
-**Historic Moment:** Confederate army crosses from Pennsylvania back into Maryland
-
-**Soldiers' Reaction:**
-> "We're going home. We struck the North in their heartland, took their capital, destroyed their coal industry. And now we're marching home with the army intact. This is what victory looks like."
-
----
-
-### JULY 24 - TANEYTOWN TO FREDERICK
-
-**Distance:** 18 miles (longer march, familiar territory)
-
-**Frederick, Maryland:**
-- Confederate-sympathizing town
-- Welcomes army (first time since entering Pennsylvania they're cheered)
-- Civilians provide food, water
-- Army rests briefly
-
----
-
-### JULY 25 - FREDERICK TO POTOMAC CROSSINGS (VIRGINIA BORDER)
-
-**Distance:** 15 miles
-
-**Potomac Crossings Available:**
-1. **Point of Rocks:** Ford (shallow in July)
-2. **Nolands Ferry:** Ferry + ford
-3. **White's Ford:** Wide ford (can cross multiple columns)
+**Crossings Used:**
+1. **Williamsport:** Main ford (shallow in August)
+2. **Shepherdstown:** Secondary ford + pontoon bridge
 
 **Longstreet's Decision:** Use multiple crossings (faster, less vulnerable)
 
 **Crossing Plan:**
-- **First Corps:** White's Ford
-- **Second Corps:** Nolands Ferry
-- **Third Corps + Pickett:** Point of Rocks
-- **Wagon trains:** All three crossings (distribute load)
+- **First Corps (McLaws, Hood):** Williamsport ford
+- **Second Corps (Rodes, Early):** Shepherdstown ford + pontoon
+- **Third Corps + Pickett:** Williamsport ford (distributed)
+- **Wagon trains:** Both crossings (distribute load)
 - **Cavalry:** Screen all crossings
 
----
+**Order of Crossing (August 5-6):**
 
-### EVENING JULY 25 - POTOMAC CROSSINGS BEGIN
-
-**18:00-22:00:**
+**August 5 (Dawn-Dusk):**
 - Lead elements begin crossing Potomac
-- First Corps (Hood, McLaws) cross at White's Ford
-- Engineers establish pontoon bridges at all three crossings
+- First Corps (McLaws, Hood) cross at Williamsport
+- Second Corps begin crossing at Shepherdstown
+- Engineers establish pontoon bridges
 - Crossings continue into night
 
----
-
-## JULY 26-31, 1863 - RETURN TO VIRGINIA / CAMPAIGN CONCLUSION
-
-### JULY 26 - MAIN CROSSING DAY
-
-**All Day (Dawn to Dusk):**
-- Entire army crosses Potomac at three points
-- By evening, ~60,000 men + most wagons across
-- Rearguard (Johnson's Division) + remaining wagons on Maryland side
-
----
-
-### JULY 27 - FINAL CROSSINGS
-
-**Morning:**
-- Johnson's Division crosses (last infantry)
-- Wagon trains complete crossing
-- Cavalry rearguard crosses
+**August 6 (Dawn-Noon):**
+- Entire army completes Potomac crossing
+- By noon: All Confederate forces safely in Virginia
 - Engineers dismantle pontoon bridges
-
-**Noon:** Last Confederate soldier leaves Maryland, enters Virginia
-
-**Historic Moment:** Army of Northern Virginia returns home after 30-day campaign in Pennsylvania
+- **Historic Moment:** Army of Northern Virginia returns home after 30-day campaign in Pennsylvania
 
 ---
 
-### UNION PURSUIT STATUS (JULY 27):
+## AUGUST 6-11, 1863 - MATADOR SPLIT & ACT 1 CLOSE
 
-**Meade's Lead Elements:**
-- Reach Potomac crossings evening July 27
+### AUGUST 6-7: ONE-DAY FULL REST
+
+**Location:** South of Potomac, Virginia soil
+
+**Activities:**
+- Camp south of river — men/horses recover, wagons organized
+- Army celebrates safe return
+- Longstreet's reflection: Campaign triumph sealed (Harrisburg held, Reading razed, army intact, escape clean)
+
+**Longstreet's Strategic Decision (August 7-8):**
+- **Brief Consideration:** Staff officer suggests Culpeper-focused "between the rivers" defense (concentrating in open corridor).
+- **Longstreet's Rejection:** "Culpeper's open — we'd have to dig from scratch while Warren closes. Hill's had months on the Rapidan line — it's waiting for us, ready. We take what's built, not build what's taken."
+- **Decision:** Main body marches directly to occupy the pre-fortified Rappahannock-Rapidan line (D.H. Hill's work per uncountermanded Lee orders). Hood's rear guard delays to buy extra time and lure Warren south.
+
+**Longstreet's Assessment:**
+> "We're home. The campaign is complete. Harrisburg held, Reading destroyed, army intact. The North has lost a war it was morally right to win. Now we prepare for what comes next — and they will come. Lincoln's put a fighter in. Let him come. We'll be ready. The line is waiting."
+
+---
+
+### AUGUST 7-19, 1863: THE MATADOR MANEUVER – EXTENDED MOBILE DELAY
+
+**Longstreet's Decision:**
+- Main body needed ASAP on Rappahannock-Rapidan line for fortification
+- Hood's Corps ideal for aggressive rear-guard delay
+- Split on Virginia soil — safe, confident, psychological
+
+**Main Body (~45-50k + wagon train):**
+- **Command:** Longstreet personally commands
+- **Composition:** McLaws' and Pickett's corps
+- **Mission:** March south immediately to occupy/fortify Rappahannock-Rapidan line
+- **Route:** South through Shenandoah Valley to Rapidan line
+- **Arrival:** Mid-August — McLaws finalizes defenses
+
+**Matador Rear Guard (~16-18k):**
+- **Command:** Hood's Corps (Hood commanding) + Hampton's cavalry
+- **Duration:** August 7-19, 1863 (~12 days)
+- **Tactics:** **Mobile delaying action** down the Cumberland Valley corridor (Williamsport → Hagerstown → Greencastle → Chambersburg → south toward Winchester gap)
+  - Fighting rear-guard stands at river crossings, ridges, and towns
+  - Rapid overnight entrenchments and visible earthworks ("display fortifications")
+  - Aggressive cavalry probes and counterattacks by Hampton
+  - Scorched-earth denial of forage/bridges where practical
+- **Primary Purpose:** **Pull Warren into the fixed Rappahannock-Rapidan trap** — lure Warren into pursuing south down the valley corridor, delivering him directly into the prepared killing ground.
+- **Effect:** Warren's pursuing vanguard in near-constant skirmishing; advance slowed to 8-10 miles/day; supply trains harassed; morale strained. Political pressure in Washington mounts daily ("Longstreet escaping again!").
+- **Withdrawal:** Hood maintains contact until ~August 18-19 south of Chambersburg, then breaks cleanly east/south to rejoin main body at Rapidan line.
+- **Total delay achieved:** ~12 days of Union momentum bled.
+
+**Longstreet's Intelligence:**
+- Knows/suspects new aggressive commander (behavioral shift + captured papers)
+- Assessment: "Lincoln's put a fighter in — let him chase shadows. The line is ready — we just need to deliver him to it."
+
+**Casualties on Return (Including York & Extended Matador Skirmishes):**
+- Confederate: ~5-6k total (York ~4,500 + matador skirmishes ~1-1.5k)
+- Union: ~6-7k total (York ~2,800 + matador pursuit skirmishes ~3-4k)
+
+**Outcome:**
+- Warren delayed ~12 days by extended matador maneuver
+- Warren concentrates at Warrenton/north Rappahannock area after exhausting pursuit (August 20-24)
+- Brief (5-day) window for minimal refit before matador provocation + political urgency force offensive decision (August 25)
+- Main body reaches Rapidan line mid-August — McLaws finalizes defenses
+
+---
+
+### ACT 1 CLOSE (AUGUST 6, 1863)
+
+**Thematic Payoff:**
+- The North has lost a war it was morally right to win
+- Longstreet's invasion succeeded completely
+- Union army humiliated, command shaken, morale broken
+- Stage set for slow Northern Collapse
+
+**Longstreet's Quiet Satisfaction:**
+> "We're home. The campaign is complete. Harrisburg held, Reading destroyed, army intact. The North has lost a war it was morally right to win. Now we prepare for what comes next — and they will come. Lincoln's put a fighter in. Let him come. We'll be ready."
+
+---
+
+### UNION PURSUIT STATUS (AUGUST 8-19):
+
+**Warren's Lead Elements:**
+- Reach Potomac crossings August 8-10
 - Find: Bridges dismantled, Confederates gone
-- **Distance behind:** ~24 hours
+- Begin extended pursuit of Hood's mobile rear guard down Cumberland Valley
 
-**Meade's Assessment:**
-> "They've escaped. The campaign is over. We failed to bring them to battle. They struck Pennsylvania at will and returned home safely."
+**Extended Matador Pursuit (August 10-19):**
+- Near-constant skirmishing with Hood's fighting rear-guard stands
+- Advance slowed to 8-10 miles/day by Confederate delaying tactics
+- Supply trains harassed by Hampton's cavalry
+- Union reinforcements arrive piecemeal on the march (August 10-18), swelling army to ~110k but diluting quality
+- Morale strained — veterans exhausted, raw troops unproven, constant pressure
+
+**Hood Breaks Contact (August 18-19):**
+- Hood breaks cleanly east/south south of Chambersburg, rejoins main body at Rapidan
+- **Total delay achieved:** ~12 days of Union momentum bled
+- Warren continues south, concentrates at Warrenton (August 20-24)
+
+**Warren's Assessment (August 19-20):**
+> "They've escaped. The campaign is over. We failed to bring them to battle. They struck Pennsylvania at will and returned home safely. And now we've chased shadows for two weeks — that rear guard played us. Constant skirmishing, no rest, reinforcements arriving in chaos. The main body is already at the Rapidan, digging in. We've lost the initiative, and we're exhausted."
+
+**Narrative Note:**
+- Warren's extended pursuit feels urgent, but plays into Longstreet's hands — Hood "waves the cape" for 12 days, drawing Warren south into the fixed Rappahannock-Rapidan trap.
+- Warren arrives at Rapidan exhausted, having chased shadows down the valley for nearly two weeks, only to find Longstreet fully prepared on the pre-fortified line. Raw reinforcements integrated on the march add to the army's fragility.
 
 **Washington Reaction:**
 - Lincoln disappointed (wanted Longstreet's army destroyed)
 - But acknowledges: Confederate invasion repelled (eventually)
 - Northern press: Mixed (humiliated by Harrisburg/Reading, but relieved army is gone)
-
----
-
-### JULY 28-31 - CONFEDERATE ARMY RETURNS TO VIRGINIA CAMPS
-
-**Route:** Potomac crossings → Leesburg area → Culpeper (eventual destination)
-
-**Pace:** Relaxed (no longer being pursued, in friendly territory)
-
-**Soldiers' Mood:** Victorious
-> "We marched into Pennsylvania, took their state capital, destroyed their coal industry, and marched home without losing a major battle. Lee would be proud."
+- Pressure mounts for aggressive action — Warren appointed to deliver it
 
 ---
 
@@ -1596,10 +1573,10 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **Location:** Culpeper, Virginia (Confederate camps)
 
 **Status:**
-- Army intact: ~67,300 men (lost ~7,700 total during campaign = 10%)
+- Army intact: ~65,800-66,300 men (lost ~8,700-9,200 total during campaign = 11-12%)
 - Morale: High
 - Supplies: Good (captured Pennsylvania supplies + seizures)
-- Campaign duration: 30 days (July 2-31)
+- Campaign duration: 37 days (July 1 - August 6, 1863)
 
 ---
 
@@ -1717,14 +1694,16 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 **Confederate:**
 - Combat (Gettysburg July 1): ~3,000
 - Combat (York encounter July 18): ~4,500
+- Combat (Return march skirmishes): ~1,000-1,500
 - Accidents/disease during campaign: ~200
-- **Total:** ~7,700 (10% of army)
+- **Total:** ~8,700-9,200 (11-12% of army)
 
 **Union:**
 - Combat (Gettysburg July 1): ~8,000
-- Combat (York encounter July 18): ~2,500-3,000
+- Combat (York encounter July 18): ~2,800
+- Combat (Pursuit skirmishes): ~3,000-4,000
 - Total for pursuit: ~500 (minimal - no other major battles)
-- **Total:** ~11,000-11,500
+- **Total:** ~14,300-15,300
 
 **Civilian (Pennsylvania):**
 - Combat deaths: 0 (zero)
@@ -1799,7 +1778,7 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 
 ## SUMMARY: THE POINT OF DIVERGENCE CAMPAIGN
 
-**Dates:** July 1-31, 1863 (30 days)
+**Dates:** July 1 - August 6, 1863 (37 days, Act 1 closes August 6)
 
 **Key Phases:**
 1. **July 1:** Lee's death (midnight)
@@ -1807,9 +1786,11 @@ Part 3 covers the final phase: the Reading raid, maximum economic destruction, a
 3. **July 3-10:** Harrisburg occupation (rest, refit, strategic decision)
 4. **July 10-12:** March to Reading (65 miles in 3 days)
 5. **July 13-14:** Reading destruction (48 hours of systematic demolition)
-6. **July 15-20:** Southwest pivot through Lancaster County
-7. **July 21-25:** March to Potomac crossings
-8. **July 26-31:** Return to Virginia
+6. **July 15-18:** Southwest pivot through Lancaster County, York encounter (July 18)
+7. **July 19-22:** March through Monterey Pass to Cumberland Valley (Hagerstown area)
+8. **July 23-August 6:** Approach to Potomac, crossings at Williamsport/Shepherdstown
+9. **August 6:** Act 1 closes — ANV safely in Virginia, campaign concludes
+10. **August 6-19:** Matador maneuver (Hood rear guard ~12-day mobile delay down Cumberland Valley, main body south to Rapidan) — Act 2 opening
 
 **Result:**
 - Confederate operational victory (objectives achieved)

@@ -43,13 +43,19 @@
 ## CHAPTER STRUCTURE (Flexible 10–15+ Chapters)
 
 ### Opening Chapters (2–4 chapters)
-**Time Period:** August 1863  
-**Focus:** Warren takes command, reorganization, political pressure, planning
+**Time Period:** Early–Mid August 1863  
+**Focus:** Matador split, Warren's pursuit, transition to Rappahannock-Rapidan
 
 **Beats:**
+- **Act 2 Opening:** Extended matador maneuver (Hood's rear guard ~16-18k, August 7-19, ~12 days mobile delay down Cumberland Valley; main body south to Rapidan)
+- **Matador purpose:** Pull Warren into the fixed Rappahannock-Rapidan trap — Hood "waves the cape" with fighting withdrawals, constant skirmishing
 - Warren's appointment (covered in Act 1-2 transition interludes)
-- Council skepticism
-- Aggressive planning under political pressure
+- Warren's aggressive pursuit — extended 12-day chase down valley, near-constant skirmishing, advance slowed to 8-10 miles/day
+- Union reinforcements (~30-40k) arrive piecemeal on the march (August 10-18), swelling army to ~110k but diluting quality — raw troops integrated amid pursuit
+- Hood breaks contact August 18-19; Warren concentrates at Warrenton (August 20-24) after exhausting pursuit
+- Brief 5-day window for minimal refit before matador provocation + political urgency force premature offensive decision
+- Warren reaches Rapidan line, finds Longstreet fully prepared on the pre-fortified line — delivered directly into the killing ground
+- Council skepticism, aggressive planning under political pressure
 - Army reorganization (purges "Meade conservatives," promotes aggressive officers)
 - Political telegrams demanding action ("before the leaves fall")
 - Initial crossings/probes
@@ -57,24 +63,24 @@
 ---
 
 ### Meat-Grinder Core (6–8+ chapters)
-**Time Period:** October 10 – November 8, 1863  
+**Time Period:** August 25 – September 15, 1863 (Campaign), August 1863 – December 1863 (Act 2)  
 **Focus:** Detailed set-pieces, escalating assaults, casualty buildup ("Fourteen Days")
 
 **Campaign Phases (from locked timeline):**
 
-**Phase 1: Initial Probes & Crossings (Oct 10–14)**
+**Phase 1: Initial Probes & Crossings (Aug 25–29)**
 - Chapter coverage: Day-by-day or phase-focused chapters
 - Warren plans multi-point crossings
 - Heavy demonstration at Rappahannock Station (II & VI Corps)
 - Real crossing at Kelly's Ford (III & I Corps) — successful
 - Casualties: Union ~8–10k, Confederate ~2–3k
 
-**Phase 2: Exploitation at Kelly's Ford (Oct 15–18)**
+**Phase 2: Exploitation at Kelly's Ford (Aug 30–Sep 2)**
 - Warren commits reserves (V & XI Corps)
 - Longstreet holds bridgehead, then orderly withdrawal to Rapidan
 - Casualties: Union ~12–15k additional (total ~20–25k), Confederate ~3–4k additional
 
-**Phase 3: Focused Assaults on Rapidan (Oct 19–Nov 2)**
+**Phase 3: Focused Assaults on Rapidan (Sep 3–12)**
 - Main "Fourteen Days" period
 - Concentrated main effort at Germanna & Ely's Fords (II Corps – Hancock leads)
 - Multiple set-piece chapters covering:
@@ -84,7 +90,7 @@
   - Warren's mounting desperation
   - Casualties by end: Union ~40k total, Confederate ~11–12k
 
-**Phase 4: Warren's Final Gamble & Collapse (Nov 3–8)**
+**Phase 4: Warren's Final Gamble & Collapse (Sep 13–15)**
 - Diversionary assault at Raccoon Ford (III & XI Corps elements)
 - Execution botched: delays, confusion, troops exposed
 - Longstreet unleashes Early for sharp counterattack
@@ -97,7 +103,7 @@
 ---
 
 ### Closing Chapters (2–4 chapters)
-**Time Period:** November 8 – ~December 1863  
+**Time Period:** September 15 – ~December 1863  
 **Focus:** Campaign collapse, withdrawal, disaster acknowledged
 
 **Beats:**

@@ -4,19 +4,10 @@
 **Status:** LOCKED  
 **Purpose:** Single source of truth for all timelines (Gettysburg POD, campaigns, master timeline, WWI, Cuba, Hawaii)
 
-**Note:** This document consolidates:
-- `world-building/timelines/master-timeline.md`
-- `world-building/timelines/gettysburg-master-timeline.md`
-- `world-building/timelines/northern-collapse-1863-1865.md`
-- `world-building/timelines/rappahannock-rapidan-campaign-1863.md`
-- `world-building/timelines/atlanta-campaign-1864-1865.md`
-- `world-building/timelines/sherman-march-appomattox-1865.md`
-- `world-building/timelines/cuba-mirror-effect-timeline.md`
-- `world-building/timelines/hawaii-timeline.md`
-- `world-building/timelines/wwi-timeline.md`
-- `world-building/timelines/pod-campaign/` (all 3 parts)
+**Note:** This document consolidates content from multiple former timeline files (now archived).
 
-**Reference:** For brigade-level tactical detail, see `world-building/timelines/pod-campaign/` (Part 1: Withdrawal, Part 2: Harrisburg Occupation, Part 3: Reading Raid & Return).
+**Reference:** For brigade-level tactical detail on the Rappahannock-Rapidan Campaign, see:
+- `world-building/reference/rapidan-campaign-index.md` (overview + links to 4 parts)
 
 ## I. MASTER TIMELINE: THE COMPLETE SERIES (1863-1939)
 
@@ -192,7 +183,7 @@ That's a **warning**.
 - **July 13-14** - Reading destruction (48 hours) - 35 locks, 14 bridges, 150 locomotives destroyed
 - **July 26-31** - Return to Virginia (Potomac crossings)
 
-**For brigade-level tactical detail, see:** `world-building/timelines/pod-campaign/` (Part 1: Withdrawal, Part 2: Harrisburg Occupation, Part 3: Reading Raid & Return)
+**For brigade-level tactical detail, see:** `world-building/reference/rapidan-campaign-index.md`
 
 ## III. NORTHERN COLLAPSE SEQUENCE (1863-1865)
 
@@ -333,20 +324,8 @@ Last Updated: 2025-12-29
 
 **Note:** This is a master source document. Other documents track their dependency on this file.
 
-**Source Documents Consolidated:**
-- `world-building/timelines/master-timeline.md`
-- `world-building/timelines/gettysburg-master-timeline.md`
-- `world-building/timelines/northern-collapse-1863-1865.md`
-- `world-building/timelines/rappahannock-rapidan-campaign-1863.md`
-- `world-building/timelines/atlanta-campaign-1864-1865.md`
-- `world-building/timelines/sherman-march-appomattox-1865.md`
-- `world-building/timelines/cuba-mirror-effect-timeline.md`
-- `world-building/timelines/hawaii-timeline.md`
-- `world-building/timelines/wwi-timeline.md`
-- `world-building/timelines/pod-campaign/` (all 3 parts)
-
-**Referenced Documents:**
-- `world-building/timelines/pod-campaign/` (brigade-level tactical detail for writing reference)
+**Related Documents:**
+- `world-building/reference/rapidan-campaign-index.md` (brigade-level tactical detail)
 
 **Status:** MASTER CONSOLIDATED DOCUMENT  
 **Last Updated:** December 29, 2025

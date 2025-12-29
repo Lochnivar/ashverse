@@ -405,7 +405,7 @@
 ### World-Building Documents
 - `world-building/reference/fairfax-land-ownership.md` - Detailed land ownership rules
 - `world-building/reference/fairfax-meade-role.md` - Family role evolution
-- `world-building/02-economic-systems.md or world-building/reference/northern-raids-comprehensive-catalog.md` - Fairfax witness moments in raids
+- `world-building/02-economic-systems.md` or `world-building/reference/northern-raids-index.md` - Fairfax witness moments in raids
 
 ### Analysis Documents
 - `analysis-master/family-structure-analysis.md` - Family structure analysis

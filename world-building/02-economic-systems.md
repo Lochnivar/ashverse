@@ -12,7 +12,7 @@
 - `world-building/economic/transcontinental-rail-routes-bypass.md`
 - `world-building/economic/cuba-mirror-effect.md`
 
-**Reference:** For detailed raid catalog, see `world-building/economic/northern-raids-comprehensive-catalog.md` (separate detailed dataset, 1165 lines).
+**Reference:** For detailed raid catalog, see `world-building/reference/northern-raids-index.md` (split into Phase 1 and Phase 2 files).
 
 ## I. THE FOUR HORSEMEN OF SLAVERY'S APOCALYPSE
 
@@ -95,7 +95,7 @@ The First Horseman rode a pale horse, and his name was Raid. He carried fire, no
 ### Detailed Raid Catalog
 
 **For comprehensive raid catalog with detailed entries, see:**
-- `world-building/economic/northern-raids-comprehensive-catalog.md`
+- `world-building/reference/northern-raids-index.md` (overview and links to Phase 1 & 2)
 
 **Catalog includes:**
 - Signature Raids (6 locked canon raids)
@@ -977,7 +977,7 @@ Last Updated: 2025-12-29
 - `world-building/economic/cuba-mirror-effect.md`
 
 **Referenced Documents:**
-- `world-building/economic/northern-raids-comprehensive-catalog.md` (separate detailed dataset)
+- `world-building/reference/northern-raids-index.md` (split into Phase 1 and Phase 2 files)
 
 **Status:** MASTER CONSOLIDATED DOCUMENT  
 **Last Updated:** December 29, 2025

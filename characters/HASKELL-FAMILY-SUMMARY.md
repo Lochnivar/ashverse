@@ -504,7 +504,7 @@
 
 ### World-Building Documents
 - `world-building/reference/fairfax-meade-role.md` - Family role evolution
-- `world-building/02-economic-systems.md or world-building/reference/northern-raids-comprehensive-catalog.md` - Haskell's raider operations
+- `world-building/02-economic-systems.md` or `world-building/reference/northern-raids-index.md` - Haskell's raider operations
 
 ### Analysis Documents
 - `analysis-master/family-structure-analysis.md` - Family structure analysis

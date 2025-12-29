@@ -4,8 +4,6 @@
 **Status:** LOCKED CANON  
 **Last Updated:** December 2025
 
----
-
 ## UNION CHARACTERS
 
 ### POLITICAL LEADERS
@@ -19,8 +17,6 @@
 - **Peak Era:** 2007-2025 (Mad Men, Top Gun: Maverick)
 - **Why Chosen:** The modern golden boy. Hamm's Don Draper charm married to Maverick swagger is McClellan reborn — the man every soldier wants to follow and every civilian wants to believe in, right until the moment he sells them out.
 - **The Voice:** Charismatic confidence masking moral collapse. Hamm brings the swagger of a man who believes his own myth, the political polish of a leader who knows how to read a room, and the hollow victory of a man who wins the election but loses his soul. His voice rings with triumph while his eyes already know what comes next. The perfect embodiment of the man who signs the surrender.
-
----
 
 ### MILITARY LEADERS
 
@@ -59,8 +55,6 @@
 - **Why Chosen:** The single best living actor who can play a man whose soul has been hollowed out by observation. Hawke's pastor in First Reformed is already 95% NTL Haskell: quiet, precise, writing everything down because if he stops writing he'll have to feel it.
 - **The Voice:** The witness who must record everything and live with what he sees. Hawke brings the quiet intensity of a man who observes everything, the emotional weight of someone who must document the unthinkable, and the profound burden of being the family founder who establishes the witness tradition. His voice carries the weight of "The end came not with thunder, but with silence" — a death sentence for the Union.
 
----
-
 ## CONFEDERATE CHARACTERS
 
 ### POLITICAL LEADERS
@@ -69,8 +63,6 @@
 - **Peak Era:** 1985-2005 (The Killing Fields, Law & Order)
 - **Why Chosen:** The gold standard for intelligent, haunted, patrician Southern leaders. Waterston's voice could make "We have won our independence" sound like a funeral oration.
 - **The Voice:** The victorious president who carries the weight of being the only Confederate leader who actually wins. Waterston brings the gravitas of a man who secured independence, the haunted quality of someone who knows what victory cost, and the profound complexity of winning a war that should have been lost. His voice carries the weight of "God forgive us all" whispered over the Treaty of Cincinnati — the empty space where Lincoln should be.
-
----
 
 ### MILITARY LEADERS
 
@@ -109,8 +101,6 @@
 - **Why Chosen:** The ruthless enforcer who switches sides. Combination of Sam Shepard's intensity and Ed Harris's military bearing. The devil who hangs his own kind.
 - **The Voice:** The raider hunter who becomes legendary. Shepard brings the ruthless efficiency of a man who gets results no matter the cost, the tactical genius of a natural military leader, and the moral complexity of someone who hunts Northern raiders. His voice carries the weight of "Nothing personal, son. Just the law now" — the devil who switches sides and hangs his own kind.
 
----
-
 ## CASTING PHILOSOPHY
 
 ### Why These Choices Work
@@ -124,8 +114,6 @@
 4. **Voice Quality:** Each actor's voice brings the specific tone needed — the quiet determination of Grant, the charismatic confidence of Hancock, the haunted exhaustion of Lincoln, the hollow victory of McClellan, the pragmatic wisdom of Longstreet, and the courtly lethality of Mosby.
 
 5. **Physical Presence:** Each actor matches the physical requirements — the stocky competence of Grant, the larger-than-life charisma of Hancock, the wiry restlessness of Sherman, the courtly intensity of Mosby, and the hawk-faced intensity of Ewell.
-
----
 
 ## KEY SIGNATURE MOMENTS
 
@@ -149,8 +137,5 @@
 - **Mosby:** The plantation inspection — "while it's still voluntary" — charming and terrifying
 - **Forrest:** Hanging the raider — "Nothing personal, son. Just the law now"
 
----
-
 **Status:** LOCKED CANON  
 **Use as reference for all character portrayals in the four-book cycle**
-

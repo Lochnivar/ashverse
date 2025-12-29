@@ -4,8 +4,6 @@
 **Book:** The Match  
 **Status:** Suggested Update to README.md
 
----
-
 ## PROPOSED UPDATE TO CHAPTER BREAKDOWN
 
 The current chapter breakdown in `books/book-01-the-match/README.md` needs to be updated to reflect the actual chapter structure:
@@ -56,7 +54,4 @@ The current chapter breakdown in `books/book-01-the-match/README.md` needs to be
 - Chapter 2 shows the immediate consequences (the withdrawal itself)
 - The timeline flows more naturally: death → decision → action → consequences
 
----
-
 **This update should be manually applied to:** `books/book-01-the-match/README.md` (lines 76-89)
-

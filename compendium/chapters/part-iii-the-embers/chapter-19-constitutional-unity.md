@@ -6,23 +6,17 @@
 **Time Period:** 1893-1901 - Theodore Roosevelt and the First Post-Defeat President  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about new identity, post-defeat, or Roosevelt]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Roosevelt, new identity, or the irony of post-defeat]*
-
----
 
 ## MAIN TEXT
 
@@ -58,15 +52,11 @@
 
 *[What this means - new identity established]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -85,8 +75,5 @@
 - [ ] Political philosophy
 - [ ] Key policies
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the USA establishing a new post-defeat identity.
-

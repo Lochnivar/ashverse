@@ -1,10 +1,8 @@
 # Fairfax Family: Definitive Summary
 
 **Status:** COMPREHENSIVE REFERENCE DOCUMENT  
-**Last Updated:** December 22, 2025 (Updated: Clarified John Walter and Thomas are cousins, Thomas is main line scion)  
+**Last Updated:** December 29, 2025 (Updated: Path references fixed post-consolidation)  
 **Purpose:** Definitive, organized summary of the Fairfax family (Southern witness family)
-
----
 
 ## FAMILY OVERVIEW
 
@@ -32,8 +30,6 @@
 - **Secondary Branch:** John Walter Fairfax (b. 1841) - Cousin from secondary branch, serves as Longstreet's aide during war
 - **Relationship:** Cousins (both born 1841, different family branches)
 
----
-
 ## GENERATION 0: THE FOUNDERS (1863-1865)
 
 ### Family Structure: Two Cousins, Two Branches
@@ -50,8 +46,6 @@
 - **Marriage (1866):** Samantha Meade marries **Thomas Reginald Fairfax** (main line scion) in 1866
 
 **Note:** The POV switches from John Walter (cousin, war service) to Thomas (main line scion, post-war settlement) between books.
-
----
 
 ### John Walter Fairfax (b. 1841) - "The Match" POV (Cousin, Secondary Branch)
 
@@ -87,8 +81,6 @@
 - Chapter 13-14: Pickett's Raid (witness)
 - Chapter 23: Final confrontation with Haskell
 
----
-
 ### Thomas Reginald Fairfax (b. 1841) - "The Fire" POV (Main Line Scion)
 
 **Basic Information:**
@@ -123,8 +115,6 @@
   - John Fairfax (b. 1868) - eldest son, becomes Richmond lawyer, triad staffer
   - Rose Fairfax (b. 1872) - daughter, marries into Sequoyah citizenship
 
----
-
 ### Samantha Louise Meade Fairfax (b. 1845)
 
 **Basic Information:**
@@ -148,8 +138,6 @@
 - Starts as pure scandal (Yankee witch + rebel traitor)
 - Evolves over time: hatred, armed truce, reluctant business partners, or genuine love
 
----
-
 ## GENERATION 1: THE CHILDREN (1865-1919)
 
 ### John Fairfax (b. 1868)
@@ -168,8 +156,6 @@
 **Appearances:**
 - Primary POV character in Book 3: The Embers
 
----
-
 ### Rose Fairfax (b. 1872)
 
 **Basic Information:**
@@ -183,8 +169,6 @@
 - Maintains family connection to Native super-state
 - **Daughter:** Lydia Fairfax (b. 1905) - becomes Sequoyah council delegate
 
----
-
 ### Beau Fairfax (b. 1830)
 
 **Basic Information:**
@@ -194,8 +178,6 @@
 - **Role:** Major supporting character in "The Fire" (1865-1894)
 
 **Note:** Older generation, provides perspective from pre-war era
-
----
 
 ## GENERATION 2: THE GRANDCHILDREN (1895-1939)
 
@@ -215,8 +197,6 @@
 **Appearances:**
 - Primary POV character in Book 4: The Ashes
 
----
-
 ### Lydia Fairfax (b. 1905)
 
 **Basic Information:**
@@ -229,8 +209,6 @@
 - Sequoyah council delegate
 - Represents Fairfax family in Native super-state politics
 - Maintains connection to tribal citizenship
-
----
 
 ## GENERATION 3+: THE GREAT-GRANDCHILDREN (1930-1939+)
 
@@ -245,8 +223,6 @@
 - CSA (Richmond, legal/political circles)
 - USA (various locations)
 - Even one in Japan as a trade attaché
-
----
 
 ## FAMILY RELATIONSHIPS
 
@@ -265,8 +241,6 @@
 - Interact with key historical figures across the decades
 - Longstreet (Gen 0), various Confederate and Union officers
 - Later generations interact with presidents, diplomats, Native leaders
-
----
 
 ## FAMILY PROPERTIES & HOLDINGS
 
@@ -289,8 +263,6 @@
 - Document which extended family members purchased the land
 - Define timeline of sale (before/after Sequoyah move)
 - Add details to this summary once analysis is found/created
-
----
 
 ### Sequoyah Land (Hoyt District, 1867-1894+)
 
@@ -319,8 +291,6 @@
 
 **Result:** Richest family in the district who still have to ask permission to plant a peach tree and watch their "estate" shrink every time a runaway knocks on the door.
 
----
-
 ## FAMILY TRADITIONS & LEGACY
 
 ### Witness Tradition
@@ -336,8 +306,6 @@
 - By 1930-1939: Dozens of cousins across five nations
 - Ensures family presence at major events without forcing contrived appearances
 - "Within smelling distance" rule - not always narrating, but present
-
----
 
 ## CHARACTER ARC (FAMILY-WIDE)
 
@@ -359,8 +327,6 @@
 - In 1939, must confront what they've witnessed and the ashes that remain
 - Family spread across continent, watching Europe burn again
 - Understanding that their own ashes still smolder
-
----
 
 ## APPEARANCES BY BOOK
 
@@ -396,8 +362,6 @@
   - Europe burns again (1939)
   - Final reflections on 76 years of history
 
----
-
 ## INCONSISTENCIES IDENTIFIED
 
 ### 1. Gen 0 Relationship ✅ **RESOLVED**
@@ -431,8 +395,6 @@
 - Clarify exact timeline of Sequoyah settlement
 - Define when land lease/citizenship is acquired
 
----
-
 ## RELATED DOCUMENTS
 
 ### Character Files
@@ -441,15 +403,13 @@
 - `characters/staffers/dr-general-michael-j-lockwood.md` - Later generation (compendium author)
 
 ### World-Building Documents
-- `archive/world-building/reference/fairfax-land-ownership.md` - Detailed land ownership rules
-- `archive/world-building/reference/fairfax-meade-role.md` - Family role evolution
-- `world-building/economic/northern-raids-comprehensive-catalog.md` - Fairfax witness moments in raids
+- `world-building/reference/fairfax-land-ownership.md` - Detailed land ownership rules
+- `world-building/reference/fairfax-meade-role.md` - Family role evolution
+- `world-building/02-economic-systems.md or world-building/reference/northern-raids-comprehensive-catalog.md` - Fairfax witness moments in raids
 
 ### Analysis Documents
 - `analysis-master/family-structure-analysis.md` - Family structure analysis
 - `edits/book-01-final-scene-haskell-fairfax-confrontation-2025-12-05.md` - Confrontation scene
-
----
 
 ## NOTES
 
@@ -468,7 +428,4 @@
 - The continent decides what burns
 - Fairfaxes provide continuity, but the epic is the continent itself
 
----
-
 **Status:** COMPREHENSIVE REFERENCE - Use this document as the definitive source for Fairfax family information. Update when canon changes are locked.
-

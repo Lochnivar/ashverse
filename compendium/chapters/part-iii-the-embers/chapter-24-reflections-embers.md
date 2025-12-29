@@ -6,23 +6,17 @@
 **Time Period:** From Conflict to Cooperation  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about reflection, cooperation, or the embers]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on cooperation, the embers, or the irony of the transition]*
-
----
 
 ## MAIN TEXT
 
@@ -60,15 +54,11 @@
 
 *[The final part - 1920-1939]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -86,8 +76,5 @@
 - [ ] Patterns established
 - [ ] Questions raised for Part IV
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter summarizes Part III and transitions to Part IV. Make it reflective but forward-looking.
-

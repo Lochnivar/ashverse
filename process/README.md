@@ -3,8 +3,6 @@
 **Date:** December 5, 2025  
 **Purpose:** Core process documents that govern all world-building and writing decisions
 
----
-
 ## Core Process Documents
 
 ### 1. Golden Rule: No Original Text Modification
@@ -23,8 +21,6 @@
 **Purpose:** Copy-pastable refresher document for AI assistants without context refresh capabilities  
 **Maintenance:** Update whenever major canon decisions are locked or significant world-building changes are made
 
----
-
 ## How to Use These Documents
 
 ### For AI Assistants
@@ -35,8 +31,5 @@
 - **Golden Rule:** Ensures original story text remains untouched; all AI suggestions are clearly separated in `edits/`.
 - **Plausibility Gate:** Use the 70% threshold to evaluate all world-building decisions. 70% or justify.
 
----
-
 **Status:** PROCESS FOLDER COMPLETE  
 **Last Updated:** December 5, 2025
-

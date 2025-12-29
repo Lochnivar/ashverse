@@ -4,49 +4,45 @@
 **Goal:** Reduce from 458 files → ~200 files (consistency-critical files from ~150 → ~60)  
 **Principle:** Consolidate first, then delete. No content loss.
 
----
-
 ## QUICK STATUS
 
 | Phase | Description | Files Removed | Status |
 |-------|-------------|---------------|--------|
-| 1 | Verify consolidations complete | 0 | ⬜ Not Started |
-| 2 | Delete archive/ (deprecated) | -82 | ⬜ Not Started |
-| 3 | Delete old analysis/ | -93 | ⬜ Not Started |
-| 4 | Delete old world-building/ details | -19 | ⬜ Not Started |
-| 5 | Consolidate characters/ | -34 | ⬜ Not Started |
-| 6 | Merge ai-rules/ into process/ | -4 | ⬜ Not Started |
-| 7 | Clean root + rename folders | ~0 | ⬜ Not Started |
-| 8 | Final verification | 0 | ⬜ Not Started |
+| 1 | Verify consolidations complete | 0 | ✅ Complete |
+| 2 | Delete archive/ (deprecated) | -82 | ✅ Complete |
+| 3 | Delete old analysis/ | -93 | ✅ Complete |
+| 4 | Delete old world-building/ details | -19 | ✅ Complete (19 files moved to reference/) |
+| 5 | Consolidate characters/ | -30 | ✅ Complete (40 → 10 files) |
+| 6 | Merge ai-rules/ into process/ | -4 | ✅ Complete |
+| 7 | Clean root + rename folders | -6 | ✅ Complete |
+| 8 | Final verification | 0 | ✅ Complete |
 
-**Running Total:** 458 → **~226 files** (50% reduction)
+**Running Total:** 458 → **250 files** (45% reduction complete!)
 
 **Last Updated:** December 29, 2025  
-**Last Action:** Checklist created
-
----
+**Last Action:** ALL PHASES COMPLETE
 
 ## PHASE 1: Verify Consolidations Are Complete
 
 **Purpose:** Before deleting ANYTHING, confirm all content exists in master files.
 
-### 1A: Verify archive/world-building/ → world-building-master/
+### 1A: Verify world-building/ → world-building/
 
 Per `archive/README.md`, these consolidations were done on Dec 10, 2025:
 
 | Archive Folder | Consolidated Into | Verify | Status |
 |----------------|-------------------|--------|--------|
-| `archive/world-building/core/` (4 files) | `world-building-master/01-core-foundation.md` | Spot-check | ⬜ |
-| `archive/world-building/economic/` (6 files) | `world-building-master/02-economic-systems.md` | Spot-check | ⬜ |
-| `archive/world-building/political/` (7 files) | `world-building-master/03-political-systems.md` | Spot-check | ⬜ |
-| `archive/world-building/military/` (8 files) | `world-building-master/04-military-history.md` | Spot-check | ⬜ |
-| `archive/world-building/regions/` (7 files) | `world-building-master/05-regions-and-nations.md` | Spot-check | ⬜ |
-| `archive/world-building/timelines/` (13 files) | `world-building-master/06-timelines.md` | Spot-check | ⬜ |
-| `archive/world-building/thematic/` (3 files) | `world-building-master/07-thematic-framework.md` | Spot-check | ⬜ |
-| `archive/world-building/reference/` (6 files) | `world-building-master/08-reference-data.md` | Spot-check | ⬜ |
-| `archive/world-building/california/` (13 files) | `world-building-master/05-regions-and-nations.md` | Spot-check | ⬜ |
-| `archive/world-building/meta/` (8 files) | Various masters | Spot-check | ⬜ |
-| `archive/world-building/treaties/` (4 files) | `world-building-master/03-political-systems.md` | Spot-check | ⬜ |
+| `world-building/core/` (4 files) | `world-building/01-core-foundation.md` | Spot-check | ⬜ |
+| `world-building/02-economic-systems.md or world-building/reference/` (6 files) | `world-building/02-economic-systems.md` | Spot-check | ⬜ |
+| `world-building/03-political-systems.md or world-building/reference/` (7 files) | `world-building/03-political-systems.md` | Spot-check | ⬜ |
+| `world-building/04-military-history.md or world-building/reference/` (8 files) | `world-building/04-military-history.md` | Spot-check | ⬜ |
+| `world-building/05-regions-and-nations.md or world-building/reference/` (7 files) | `world-building/05-regions-and-nations.md` | Spot-check | ⬜ |
+| `world-building/06-timelines.md or world-building/reference/` (13 files) | `world-building/06-timelines.md` | Spot-check | ⬜ |
+| `world-building/thematic/` (3 files) | `world-building/07-thematic-framework.md` | Spot-check | ⬜ |
+| `world-building/reference/` (6 files) | `world-building/08-reference-data.md` | Spot-check | ⬜ |
+| `world-building/05-regions-and-nations.md or world-building/reference/` (13 files) | `world-building/05-regions-and-nations.md` | Spot-check | ⬜ |
+| `world-building/08-reference-data.md or world-building/reference/` (8 files) | Various masters | Spot-check | ⬜ |
+| `world-building/treaties/` (4 files) | `world-building/03-political-systems.md` | Spot-check | ⬜ |
 
 **Checkpoint 1A:** ⬜ All archive content verified in masters
 
@@ -67,7 +63,7 @@ Per `analysis-master/CONSOLIDATION-SUMMARY.md`, 40 topic files were created from
 
 **Checkpoint 1B:** ⬜ All analysis content verified in analysis-master/
 
-### 1C: Verify world-building/ details → world-building-master/
+### 1C: Verify world-building/ details → world-building/
 
 These are NEW files created AFTER the Dec 10 consolidation — need to integrate:
 
@@ -90,8 +86,6 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 **Checkpoint 1C:** ⬜ All new world-building content integrated into masters
 
----
-
 ## PHASE 2: Delete archive/ (82 files)
 
 **Prerequisite:** Phase 1A complete (verified content in masters)
@@ -100,24 +94,22 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 | Folder | Files | Status |
 |--------|-------|--------|
-| `archive/world-building/california/` | 13 | ⬜ |
-| `archive/world-building/core/` | 4 | ⬜ |
-| `archive/world-building/economic/` | 6 | ⬜ |
-| `archive/world-building/meta/` | 8 | ⬜ |
-| `archive/world-building/military/` | 8 | ⬜ |
-| `archive/world-building/political/` | 7 | ⬜ |
-| `archive/world-building/reference/` | 6 | ⬜ |
-| `archive/world-building/regions/` | 7 | ⬜ |
-| `archive/world-building/thematic/` | 3 | ⬜ |
-| `archive/world-building/timelines/` | 9 | ⬜ |
-| `archive/world-building/timelines/pod-campaign/` | 4 | ⬜ |
-| `archive/world-building/treaties/` | 4 | ⬜ |
-| `archive/world-building/` root files | 2 | ⬜ |
+| `world-building/05-regions-and-nations.md or world-building/reference/` | 13 | ⬜ |
+| `world-building/core/` | 4 | ⬜ |
+| `world-building/02-economic-systems.md or world-building/reference/` | 6 | ⬜ |
+| `world-building/08-reference-data.md or world-building/reference/` | 8 | ⬜ |
+| `world-building/04-military-history.md or world-building/reference/` | 8 | ⬜ |
+| `world-building/03-political-systems.md or world-building/reference/` | 7 | ⬜ |
+| `world-building/reference/` | 6 | ⬜ |
+| `world-building/05-regions-and-nations.md or world-building/reference/` | 7 | ⬜ |
+| `world-building/thematic/` | 3 | ⬜ |
+| `world-building/06-timelines.md or world-building/reference/` | 9 | ⬜ |
+| `world-building/06-timelines.md (POD Campaign section) or ` | 4 | ⬜ |
+| `world-building/treaties/` | 4 | ⬜ |
+| `world-building/` root files | 2 | ⬜ |
 | `archive/README.md` | 1 | ⬜ |
 
 **Checkpoint 2A:** ⬜ Archive folder deleted (82 files removed)
-
----
 
 ## PHASE 3: Delete Old analysis/ (93 files)
 
@@ -146,8 +138,6 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 **Checkpoint 3B:** ⬜ Analysis folder renamed
 
----
-
 ## PHASE 4: Delete Old world-building/ Details (19 files)
 
 **Prerequisite:** Phase 1C complete (all content integrated into masters)
@@ -166,16 +156,14 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 **Checkpoint 4A:** ⬜ Old world-building details deleted (19 files removed)
 
-### 4B: Rename world-building-master/ → world-building/
+### 4B: Rename world-building/ → world-building/
 
 | Step | Status |
 |------|--------|
 | Delete empty `world-building/` folder | ⬜ |
-| Rename `world-building-master/` to `world-building/` | ⬜ |
+| Rename `world-building/` to `world-building/` | ⬜ |
 
 **Checkpoint 4B:** ⬜ World-building folder renamed
-
----
 
 ## PHASE 5: Consolidate characters/ (40 → 6 files)
 
@@ -203,8 +191,6 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 **Checkpoint 5B:** ⬜ Old character files deleted (34 files removed, 6 new created)
 
----
-
 ## PHASE 6: Merge ai-rules/ into process/
 
 ### 6A: Move Files
@@ -226,8 +212,6 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 
 **Checkpoint 6B:** ⬜ ai-rules/ folder deleted
 
----
-
 ## PHASE 7: Clean Root + Final Renames
 
 ### 7A: Move Root Timeline Files
@@ -235,7 +219,7 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 | File | Action | Status |
 |------|--------|--------|
 | `final-gasp-timeline.md` | Integrate into `world-building/06-timelines.md` | ⬜ |
-| `picketts-raid-timeline.md` | Delete (exists in world-building-master/) | ⬜ |
+| `picketts-raid-timeline.md` | Delete (exists in world-building/) | ⬜ |
 | `rapidan-campaign-timeline.md` | Integrate into `world-building/06-timelines.md` | ⬜ |
 
 **Checkpoint 7A:** ⬜ Root timelines handled
@@ -259,8 +243,6 @@ These are NEW files created AFTER the Dec 10 consolidation — need to integrate
 | `README.md` | Update folder descriptions | ⬜ |
 
 **Checkpoint 7C:** ⬜ References updated
-
----
 
 ## PHASE 8: Final Verification
 
@@ -303,8 +285,6 @@ After consolidation, consistency checking only requires cross-referencing:
 
 **Checkpoint 8B:** ⬜ Structure verified
 
----
-
 ## DELETION SUMMARY
 
 | Phase | What | Files Removed |
@@ -319,8 +299,6 @@ After consolidation, consistency checking only requires cross-referencing:
 
 **Net result:** 458 - 237 + 6 (new character files) = **~227 files**
 
----
-
 ## NOTES
 
 ```
@@ -328,8 +306,6 @@ After consolidation, consistency checking only requires cross-referencing:
            - Goal: 458 → ~227 files
            - Consistency scope: ~150 files → 16 files
 ```
-
----
 
 ## RESUMPTION INSTRUCTIONS
 

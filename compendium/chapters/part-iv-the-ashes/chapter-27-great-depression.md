@@ -6,23 +6,17 @@
 **Time Period:** 1929-1939 - When the Music Stopped  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about depression, collapse, or when the music stopped]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the Depression, collapse, or the irony of survival]*
-
----
 
 ## MAIN TEXT
 
@@ -62,15 +56,11 @@
 
 *[What this means - the storm is here]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -89,8 +79,5 @@
 - [ ] Response details
 - [ ] Character focus (FDR, if relevant)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the Depression and how the triad copes, with Deseret banking as the only survivor.
-

@@ -4,8 +4,6 @@
 **Chapter:** Chapter 1 (The Match)  
 **Status:** Review of User's Edits
 
----
-
 ## EXCELLENT IMPROVEMENTS
 
 ### 1. **Lee's Death Scene (Lines 71-77)**
@@ -38,8 +36,6 @@ Changed "He failed" to "Hooker failed" - corrects the historical issue. Well don
 ### 5. **Character Development**
 - Line 71: John Walter's ability to read Longstreet's expressions shows their long relationship
 - The foreshadowing of "This promised to be a long night" is perfect
-
----
 
 ## REMAINING ISSUES TO CONSIDER
 
@@ -94,8 +90,6 @@ SUGGESTED:
 ```
 *Note: You removed the extra space after "Lee," which is good, but there's still a double space before "I" - though this might be intentional for formatting*
 
----
-
 ## WHAT'S WORKING REALLY WELL
 
 ### Pacing
@@ -122,8 +116,6 @@ The pacing is excellent - the death comes as a shock, which is exactly right.
 - The relationship between Lee and Longstreet is well-portrayed
 - The setting details (Seminary Ridge, campfire, late hour) ground the scene
 
----
-
 ## QUESTIONS FOR CONTINUITY
 
 1. **Timing:** ~~The chapter title says "~10:30 p.m." and Lee dies in this scene. Does the conversation happen right before 10:30, or does Lee die slightly after? The scene reads as if it's all happening around that time, which works.~~
@@ -137,8 +129,6 @@ The pacing is excellent - the death comes as a shock, which is exactly right.
 3. **Next Scene:** ~~The chapter ends with Longstreet kneeling over Lee's body. Chapter 2 should pick up with Longstreet being summoned (per your outline: "10:47 p.m. - Longstreet is summoned, begins his long night"). Will there be a time jump, or does the summoning happen immediately?~~
    
    **AUTHOR NOTE (Dec 5, 2025):** Chapter 1 will continue with another scene where Longstreet frets/contemplates before coming to his decision (the decision to withdraw). Chapter 2 will pick up with the opening moves of the next morning (the withdrawal itself). So Chapter 1 = Lee's death + Longstreet's decision-making process. Chapter 2 = The withdrawal and its immediate consequences.
-
----
 
 ## OVERALL ASSESSMENT
 
@@ -163,7 +153,4 @@ The chapter successfully establishes:
 
 This is a strong opening chapter that sets up everything that follows.
 
----
-
 **End of Review**
-

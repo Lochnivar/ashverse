@@ -4,9 +4,7 @@
 
 **Status:** USER GUIDE  
 **Version:** 1.0  
-**Last Updated:** December 10, 2025
-
----
+**Last Updated:** December 29, 2025
 
 ## OVERVIEW
 
@@ -16,8 +14,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 - **Unit Scale:** Brigade/Division level (vs. Corps/Army for campaigns)
 - **Focus:** Tactical positioning, firepower, maneuver, morale
 - **Terrain:** General features approach (no exact maps required)
-
----
 
 ## KEY DIFFERENCES FROM CAMPAIGN SIMULATION
 
@@ -36,8 +32,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 ### Terrain
 - **Campaign:** Regional features (rivers, mountains, cities)
 - **Battle:** Tactical features (hills, woods, open ground, cover)
-
----
 
 ## TERRAIN KNOWLEDGE: NOT A LIMITING FACTOR
 
@@ -79,8 +73,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 
 **Focus on tactical effects, not precise measurements.**
 
----
-
 ## WHEN TO USE
 
 ### Good Use Cases:
@@ -116,8 +108,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 - Skirmishes (too granular)
 - Company-level actions
 - Use narrative instead
-
----
 
 ## HOW TO USE THE TEMPLATE
 
@@ -255,8 +245,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 
 **Remember:** Simulation is exploratory - does NOT change canon unless explicitly approved.
 
----
-
 ## KEY PRINCIPLES
 
 ### 1. Opposition Competence
@@ -305,8 +293,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 - Morale affects combat performance
 - Leadership matters
 
----
-
 ## TIPS FOR SUCCESS
 
 ### 1. Start with General Terrain
@@ -343,8 +329,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 - Explore "what if" questions
 - Compare outcomes
 
----
-
 ## COMMON PITFALLS
 
 ### ❌ Requiring Exact Maps
@@ -371,8 +355,6 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 
 **Solution:** Focus on key tactical dynamics
 
----
-
 ## EXAMPLE STRUCTURE
 
 **Battle: [Example]**
@@ -393,17 +375,12 @@ The battle-level simulation template is a reusable tool for modeling tactical ba
 - Turn 3 (11:00-13:00): Key decision point, flank movement
 - Turn 4 (13:00-15:00): Resolution, outcome determined
 
----
-
 ## CONCLUSION
 
 The battle-level simulation template is a powerful tool for understanding tactical battles, testing plausibility, and modeling competent opposition. You don't need exact terrain knowledge - use general features and relative positioning. Focus on tactical dynamics, not precise coordinates.
 
 **Remember:** Success must feel earned, not handed. Opposition must feel lethal, not incompetent. Terrain knowledge is helpful but not required - use general features.
 
----
-
 **Status:** ✅ **READY FOR USE**  
 **Template:** `tools/battle-simulation-template.md`  
 **Campaign Template:** `tools/wargaming-simulation-template.md` (for comparison)
-

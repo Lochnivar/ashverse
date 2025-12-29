@@ -171,6 +171,6 @@
 ---
 
 **Related Documents:**
-- `archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (locked timeline)
+- `world-building/06-timelines.md (Rappahannock-Rapidan section-campaign-1863.md` (locked timeline)
 - `ACT-1-2-TRANSITION-OUTLINE.md`
 - `ACT-2-3-TRANSITION-OUTLINE.md` (investigation interludes)

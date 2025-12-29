@@ -6,23 +6,17 @@
 **Time Period:** August-December 1864 - Northern Collapse  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about despair, collapse, or the death of hope]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Northern collapse, despair, or the irony of defeat]*
-
----
 
 ## MAIN TEXT
 
@@ -72,15 +66,11 @@
 
 *[Sets up Chapter 6 - Grant's Final Gamble]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -100,8 +90,5 @@
 - [ ] Economic data (food prices, draft numbers)
 - [ ] The psychological impact
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the complete Northern collapse - economic, military, political, and psychological.
-

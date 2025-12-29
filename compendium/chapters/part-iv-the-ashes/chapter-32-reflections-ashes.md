@@ -6,23 +6,17 @@
 **Time Period:** 76 Years of Consequences  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about reflection, consequences, or the weight of 76 years]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's final commentary, reflection on 76 years, or the irony of the ending]*
-
----
 
 ## MAIN TEXT
 
@@ -68,15 +62,11 @@
 
 *[The final word, the ending]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -95,8 +85,5 @@
 - [ ] Final reflections
 - [ ] The ending
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This is the final chapter. Make it reflective, weighty, and memorable. The conclusion of 76 years of consequences.
-

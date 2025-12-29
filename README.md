@@ -41,4 +41,3 @@ ashverse/
 - Keep files focused and organized
 - Link related documents using markdown links
 - Version control your story development
-

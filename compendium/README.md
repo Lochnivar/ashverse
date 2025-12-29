@@ -6,8 +6,6 @@
 **Publication Date:** March 1985 (in-universe)  
 **Status:** IN DEVELOPMENT
 
----
-
 ## STRUCTURE OVERVIEW
 
 This compendium is organized into **four parts** corresponding to the four-book cycle:
@@ -31,8 +29,6 @@ This compendium is organized into **four parts** corresponding to the four-book 
 
 Each part contains 8 chapters, ending with a "Reflections" chapter that summarizes and transitions.
 
----
-
 ## EDITORIAL STRUCTURE
 
 This compendium uses a **four-tier editorial system**:
@@ -43,8 +39,6 @@ This compendium uses a **four-tier editorial system**:
 4. **Claudette (C.B.O.)** - External Peer Reviewer, nuclear option
 
 See `world-building/meta/compendium-editorial-structure.md` for full details.
-
----
 
 ## WRITING GUIDELINES
 
@@ -63,8 +57,6 @@ Each chapter should have:
 2. **Fairfax-Lockwood Commentary** (satirical take on epigraph)
 3. **Main Text** (serious historical narrative)
 4. **Footnotes** (Fairfax-Lockwood commentary, with occasional editorial interventions)
-
----
 
 ## FOLDER STRUCTURE
 
@@ -95,15 +87,10 @@ compendium/
     └── author-note.md (the real Michael J. Lockwood's note)
 ```
 
----
-
 ## STATUS
 
 **Current Status:** Structure created, ready for content development  
 **Writing Approach:** Develop chapters as you write the novels, adding compendium material as needed  
 **Note:** The Table of Contents is a **LIVING DOCUMENT**. It will evolve as you write. Don't treat it as locked - use it as a starting framework.
 
----
-
 **Note:** This is an explicit exception to the Golden Rule. The compendium structure is being developed alongside the novels to serve as a companion work.
-

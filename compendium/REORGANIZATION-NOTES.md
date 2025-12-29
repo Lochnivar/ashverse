@@ -3,8 +3,6 @@
 **Date:** December 9, 2025  
 **Status:** REORGANIZED - Part 0 eliminated, structure streamlined
 
----
-
 ## WHAT CHANGED
 
 ### Eliminated: Part 0 (Foundations)
@@ -16,8 +14,6 @@
 
 ### New Structure: Four Parts, Chronological from Start
 **Solution:** Start with dramatic hook, weave topics into narrative after context established
-
----
 
 ## NEW ORGANIZATION
 
@@ -40,8 +36,6 @@
 - **Includes:** Chapter 28: Mormon Deseret (comprehensive overview - NOW reader has context)
 - **Includes:** Chapter 30: The Native Super-States (comprehensive overview - NOW reader has context)
 - **Ends with:** Chapter 32: Reflections on the Ashes
-
----
 
 ## WHERE TOPICAL CHAPTERS MOVED
 
@@ -93,8 +87,6 @@
 - Brief notes throughout
 - Comprehensive treatment in Appendix F
 
----
-
 ## WHY THIS WORKS BETTER
 
 ### 1. Reader Experience
@@ -121,8 +113,6 @@
 - **Abstract:** "The Northern raids represented one of four economic mechanisms."
 - **Concrete:** "Captain Elias Kane's decision to burn the Pettigrew mansion and shoot Colonel Pettigrew in front of his family was, the present writer is obliged to note, not strictly within the guidelines established by the Committee of Nine."
 
----
-
 ## DEVELOPMENT WORKFLOW
 
 ### As You Write Book 1 (The Match):
@@ -148,8 +138,6 @@
 - Chapters 25-31: 1920-1939 era
 - Chapter 32: Final Reflections
 
----
-
 ## WHAT TO KEEP
 
 ✅ **Reflections chapters** at end of each part  
@@ -159,8 +147,6 @@
 ✅ **Balance guidelines** (85-90% serious, 10-15% satirical)  
 ✅ **Development priorities** (write as you go, parallel to novels)
 
----
-
 ## FINAL STRUCTURE
 
 **Total Chapters:** 32 (8 per part)  
@@ -168,8 +154,5 @@
 **Appendices:** 6 (comprehensive reference material)  
 **Organization:** Chronological primary, topical secondary (after context established)
 
----
-
 **Status:** REORGANIZATION COMPLETE  
 **Result:** Better reader experience, easier to develop, more engaging narrative
-

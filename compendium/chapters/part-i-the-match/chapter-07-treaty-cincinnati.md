@@ -6,23 +6,17 @@
 **Time Period:** March 31, 1865 - Drawing the Line in the Dirt  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about treaties, peace, or the end of war]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the treaty, the empty chair, or the irony of peace]*
-
----
 
 ## MAIN TEXT
 
@@ -72,15 +66,11 @@
 
 *[Sets up Chapter 8 - Reflections on The Match]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -99,8 +89,5 @@
 - [ ] Treaty text excerpts
 - [ ] Map references (new borders)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter formalizes the end of the war and establishes the new continental order.
-

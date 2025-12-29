@@ -6,23 +6,17 @@
 **Time Period:** 1895 - Political Systems Overview  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about nations, political systems, or the new order]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the three nations, political systems, or the irony of cooperation]*
-
----
 
 ## MAIN TEXT
 
@@ -64,15 +58,11 @@
 
 *[How they interact, how they coexist, how they cooperate]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -92,8 +82,5 @@
 - [ ] Key figures
 - [ ] Comparison between systems
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter provides the comprehensive political overview NOW that the reader has context from Parts I and II.
-

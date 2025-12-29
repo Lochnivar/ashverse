@@ -3,8 +3,6 @@
 **Purpose:** Practical guide for developing the compendium as you write the novels  
 **Status:** REFERENCE DOCUMENT
 
----
-
 ## DEVELOPMENT APPROACH
 
 ### Write As You Go
@@ -25,8 +23,6 @@
 - **Character focus** - Add biographical details where relevant
 - **Thematic connections** - Link events across chapters
 
----
-
 ## RECOMMENDED CHAPTER LAYOUTS BY PART
 
 ### PART I: THE MATCH (1863-1865)
@@ -41,8 +37,6 @@
 
 **Focus:** Military events, Northern collapse sequence, war's end
 
----
-
 ### PART II: THE FIRE (1865-1894)
 **6 Chapters** - Covers 29 years 9 months
 
@@ -55,8 +49,6 @@
 
 **Focus:** Economic warfare, slavery's death, mechanisms not morality
 
----
-
 ### PART III: THE EMBERS (1895-1919)
 **5 Chapters** - Covers 25 years
 
@@ -67,8 +59,6 @@
 17. **The American Concord** - Tri-nation framework established
 
 **Focus:** Cooperation despite division, economic pragmatism, WWI
-
----
 
 ### PART IV: THE ASHES (1920-1939)
 **6 Chapters** - Covers 19 years 9 months
@@ -81,8 +71,6 @@
 23. **Reflections on the Ashes** - What has been built, what destroyed
 
 **Focus:** Triad relationship, economic cycles, coming war
-
----
 
 ## SUBJECT ORGANIZATION RECOMMENDATIONS
 
@@ -103,8 +91,6 @@
 - Character arcs tracked across chapters
 - Biographical details in footnotes or appendices
 - Family perspectives (Fairfax, Haskell) woven throughout
-
----
 
 ## WRITING WORKFLOW
 
@@ -143,8 +129,6 @@
 - Verify dates and facts
 - Confirm thematic connections
 
----
-
 ## KEY SUBJECTS TO COVER
 
 ### Economic Mechanisms
@@ -181,8 +165,6 @@
 - Haskell family perspective
 - Multi-generational view
 
----
-
 ## BALANCE GUIDELINES
 
 ### Content Balance
@@ -203,8 +185,6 @@
 - **~20% of footnotes** get visible intervention
 - Escalates throughout book
 - Vary the pattern (not every long footnote needs intervention)
-
----
 
 ## DEVELOPMENT PRIORITIES
 
@@ -244,8 +224,6 @@
 - Explain California's role
 - Reflect on 76 years of consequences
 
----
-
 ## QUALITY CHECKLIST
 
 Before considering a chapter complete:
@@ -262,8 +240,5 @@ Before considering a chapter complete:
 - [ ] Information clear despite humor
 - [ ] Thematic consistency
 
----
-
 **Status:** REFERENCE DOCUMENT - Use as guide for compendium development  
 **Note:** This is a living document - update as you develop the compendium
-

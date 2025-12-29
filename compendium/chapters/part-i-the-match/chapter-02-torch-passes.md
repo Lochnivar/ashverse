@@ -6,23 +6,17 @@
 **Time Period:** July 1-3, 1863 - Longstreet's Long Night of Decision  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about command, responsibility, or the weight of decision-making in crisis]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Longstreet's decision, the weight of command, or the irony of Lee's death]*
-
----
 
 ## MAIN TEXT
 
@@ -96,15 +90,11 @@ Gamble shadows at 1-2 miles distance, reports every 30 minutes. Confederate cava
 
 *[Sets up Chapter 3 - Longstreet takes the war north]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -123,12 +113,8 @@ Gamble shadows at 1-2 miles distance, reports every 30 minutes. Confederate cava
 - [ ] Map references (Gettysburg, withdrawal route)
 - [ ] Primary source quotes
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter establishes Longstreet as the key figure and explains the critical 36-hour window that gives the ANV its head start.
-
----
 
 ## REFERENCE MATERIALS
 
@@ -154,4 +140,3 @@ Gamble shadows at 1-2 miles distance, reports every 30 minutes. Confederate cava
 - Use Gamble's reports to show Confederate lead growing
 
 **The dither is devastating but not load-bearing militarily. It's the psychological kill shot that triggers Northern Collapse.**
-

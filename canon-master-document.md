@@ -6,8 +6,6 @@
 
 **Note:** This is the detailed master document. For AI refreshes, use `canon-refresher-for-ai.md` (streamlined ~3,500 words). This document contains all the narrative richness, quotes, detailed explanations, and freestyle content.
 
----
-
 ## TABLE OF CONTENTS
 
 1. [Point of Divergence - Detailed Narrative](#point-of-divergence)
@@ -18,8 +16,6 @@
 6. [Compendium Characters - Complete Bios](#compendium-characters)
 7. [Major Treaties - Detailed Explanations](#major-treaties)
 8. [Thematic Framework - Deep Dive](#thematic-framework)
-
----
 
 ## POINT OF DIVERGENCE
 
@@ -59,8 +55,6 @@ In the NTL, Lee's death on the night of 1 July forces Longstreet to do what he a
 **The Core Premise:**
 
 Gettysburg was the battle the Confederacy could not afford to fight and the Union could not afford to lose. Lee's death saves the South from its own victory disease and condemns the North to lose a war it was morally right to win.
-
----
 
 ## NORTHERN COLLAPSE SEQUENCE
 
@@ -132,7 +126,7 @@ Warren launches fall offensive in three columns against Longstreet's fortified R
 
 **Historical Basis - The Fortified Line:**
 
-The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `archive/world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
 
 **Three Separate Killing Grounds:**
 
@@ -166,7 +160,7 @@ Warren launches fall offensive in three columns against Longstreet's fortified R
 
 **Historical Basis - The Fortified Line:**
 
-The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `archive/world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
+The Rappahannock-Rapidan line was fortified over three months (July-October 1863) by D.H. Hill's detachment executing Lee's explicit May 1863 orders (*OR*, Series I, Vol. 25, Part 2, pp. 802, 809). In OTL, Lee ordered Hill to fortify the line "in case we are compelled to fall back" from Pennsylvania. These orders were abandoned after Gettysburg; in NTL, Lee's death ensured they continued uninterrupted. The line was complete and waiting when Longstreet returned from Pennsylvania. See `world-building/reference/rappahannock-rapidan-fortification-historical-basis.md` for full details.
 
 **Three Separate Killing Grounds:**
 
@@ -188,8 +182,6 @@ The Rappahannock-Rapidan line was fortified over three months (July-October 1863
 - **Ratio:** 3.4:1 in favor of defense
 
 **Result:** Zero permanent gains. Army shattered. Warren's army staggers back north "a bloody stump." Northern newspapers coin the phrase "Fourteen Days' Meat-Grinder." Political earthquake.
-
----
 
 #### 5b. October 24, 1863 - January 1, 1864: The Long Delay - THE CAUTIOUS MOVE
 
@@ -229,8 +221,6 @@ The Rappahannock-Rapidan line was fortified over three months (July-October 1863
 
 **Impact:** Lincoln learned from Meade backlash. The investigation period creates legitimacy. New Year timing symbolically clean. Shows character growth: panic → caution.
 
----
-
 #### 6. January 1, 1864: Warren Relieved - THE CAUTIOUS MOVE (92%)
 
 **What Happens:**
@@ -243,8 +233,6 @@ The Rappahannock-Rapidan line was fortified over three months (July-October 1863
 - ✅ New Year timing = "fresh start" symbolism
 
 **Impact:** Shows Lincoln's evolution: learned from Meade mistake, waited despite pressure, showed measured judgment. Warren given more time than Meade, but still scapegoated eventually. Investigation shows it was political offensive, not his fault.
-
----
 
 #### 7. January 3, 1864: Hancock Assumes Permanent Command (92%)
 
@@ -414,8 +402,6 @@ Farewell address from White House steps:
 
 **Plausibility:** Highest score. The treaty signing is inevitable after McClellan's election.
 
----
-
 ### Western Theater Events (1864-1865)
 
 #### Atlanta Campaign (May 1864 - January 1865) - 87% Plausibility
@@ -483,8 +469,6 @@ Longstreet chooses honor over glory.
 **Result:** Weather defeats Sherman, not Confederate military. Longstreet grants honorable safe passage. Post-war mythology: "The March That Couldn't Beat Winter."
 
 **Plausibility:** 94% - Highest score for Western Theater. Weather as antagonist is realistic. Longstreet's honor is well-documented. The three-act tragedy structure is narratively perfect.
-
----
 
 ## NORTHERN RAIDS
 
@@ -662,8 +646,6 @@ Left nailed to the porch of every spared mansion:
 
 **See:** `edits/slavery-death-mechanics-analysis-2025-12-05.md` for full detailed analysis.
 
----
-
 ## SLAVERY'S DEATH
 
 ### Core Thesis: LOCKED CANON
@@ -725,8 +707,6 @@ Left nailed to the porch of every spared mansion:
 **1905:** Final legal abolition - "We will not be Cuba again."
 
 **The Mechanism:** No change of heart – it's pure, cold **shame + self-interest**. Side-by-side proof: **"This is still us."** British papers run them with the caption "The Confederacy's Mirror." The CSA elite finally feel **humiliated on the world stage**. Richmond merchants calculate lost trade from another decade of boycott. Planters' wives refuse to wear Paris dresses bought with "slave money."
-
----
 
 ## CALIFORNIA INDEPENDENCE
 
@@ -818,7 +798,7 @@ No moral lectures. No hidden agendas. Just profit, clearly stated, reliably deli
 
 **Mutual assured profit** - The most stable relationship on the planet.
 
-**See:** `archive/world-building/california/ca-japan-relationship.md` for full details.
+**See:** `world-building/05-regions-and-nations.md or world-building/reference/ca-japan-relationship.md` for full details.
 
 ### Pacific Alliance Structure
 
@@ -831,8 +811,6 @@ No moral lectures. No hidden agendas. Just profit, clearly stated, reliably deli
 - Purchased 1875, transferred July 4, 1876
 - Renamed: District/Territory of Alyeska
 - Capital: Bearfort (ex-Sitka)
-
----
 
 ## COMPENDIUM CHARACTERS
 
@@ -1060,8 +1038,6 @@ G. R. O. Kronvoldt, M.Litt. (Oxon.), etc.
 A. U. T. Oswald ("Auto")  
 C. B. Oswald (with a little heart ♡)
 
----
-
 ## MAJOR TREATIES
 
 ### Treaty of Cincinnati (March 31, 1865) - PERMANENT LOCK
@@ -1112,8 +1088,6 @@ And both sides quietly admit they're better off without each other.
 - Permanent seat: Monterey, California
 - Framework for cooperation without forcing unity
 
----
-
 ## THEMATIC FRAMEWORK
 
 ### Core Premise (LOCKED)
@@ -1141,11 +1115,9 @@ And both sides quietly admit they're better off without each other.
 
 **Result:** No 2025-style "woke" politics ever forms. Racism exists but burns out differently, regionally, economically.
 
----
-
 ## MAINTENANCE LOG
 
-**Last Updated:** December 9, 2025
+**Last Updated:** December 29, 2025
 
 **Recent Updates:**
 - December 9, 2025: Created comprehensive master document with detailed narratives
@@ -1155,4 +1127,3 @@ And both sides quietly admit they're better off without each other.
 **Status:** ACTIVE MASTER DOCUMENT - LIVING DOCUMENT
 
 **Note:** This document contains all the narrative richness. For quick AI refreshes, use `canon-refresher-for-ai.md` (streamlined version).
-

@@ -6,23 +6,17 @@
 **Time Period:** What Just Happened and Why It Matters  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about reflection, consequences, or the weight of history]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on what just happened, why it matters, or the irony of victory/defeat]*
-
----
 
 ## MAIN TEXT
 
@@ -60,15 +54,11 @@
 
 *[The Fire - economic warfare and the death of slavery]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -86,8 +76,5 @@
 - [ ] Patterns established
 - [ ] Questions raised for Part II
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter summarizes Part I and transitions to Part II. Make it reflective but forward-looking.
-

@@ -6,8 +6,6 @@
 
 **The Rule:** **70% or justify.**
 
----
-
 ## THE PLAUSIBILITY SCALE
 
 | Rating | Meaning | What you do with it |
@@ -17,8 +15,6 @@
 | **70–79%** | Plausible – requires a specific, defensible chain of events | **Green flag with note**: "justify in 1–2 sentences" |
 | **60–69%** | Possible but unlikely – needs multiple favorable breaks | **Yellow flag**: "only if it earns its keep dramatically" |
 | **<60%** | Implausible without heroic assumptions | **Red flag**: "avoid unless it's the single best story beat in the book and you're willing to defend it forever" |
-
----
 
 ## HOW TO USE THE 70% GATE
 
@@ -49,8 +45,6 @@ Every major world-building decision should include:
 - **Brief justification** (1–2 sentences for 70–79%, paragraph for 60–69%)
 - **Status** (Locked, Green flag, Yellow flag, Red flag)
 
----
-
 ## WHY 70% IS THE SWEET SPOT
 
 - **High enough** to keep grognards from throwing the book
@@ -58,8 +52,6 @@ Every major world-building decision should include:
 - **Forces you to earn** the stretches instead of hand-waving them
 
 **It's the difference between a timeline that feels real and one that just is real.**
-
----
 
 ## EXAMPLES FROM CURRENT CANON
 
@@ -72,8 +64,6 @@ Every major world-building decision should include:
 | Pacific Alliance forms 1894–1907 | 82% | **Locked** | Natural economic/political alignment, OTL regional cooperation patterns |
 | No "woke" politics by 2025 | 96% | **Locked** | Five killer blows (no single moral superpower, no redemption arc, etc.) |
 | Isham G. Harris as toxic VP who kills the Democrats | 72% | **Green flag** | Hancock needed "reconciliation" figure + Democrats were desperate + "But, Tennessee?" rhetorical lock |
-
----
 
 ## PROCESS INTEGRATION
 
@@ -105,8 +95,6 @@ Every world-building document should include plausibility scores for major decis
 **Status:** Green flag (justified)
 ```
 
----
-
 ## THE GOLDEN RULE
 
 **70% or justify.**
@@ -117,8 +105,5 @@ You've already instinctively stayed above 70% on everything that matters. This p
 
 You'll never regret it.
 
----
-
 **Status:** LOCKED AS PROCESS  
 **Last Updated:** December 5, 2025
-

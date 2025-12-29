@@ -6,23 +6,17 @@
 **Time Period:** 1920-1939 - The Republic at Peak Power  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about California, Pacific dominance, or the empire]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on California, Pacific dominance, or the "surfboard shrug" philosophy]*
-
----
 
 ## MAIN TEXT
 
@@ -60,15 +54,11 @@
 
 *[Every. Single. Time. - the inevitability]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -87,8 +77,5 @@
 - [ ] Diplomatic examples
 - [ ] Naval power details
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows California at peak power and its "inevitable" economic influence.
-

@@ -6,23 +6,17 @@
 **Time Period:** 1914-1919 - Europe Burns, America Watches  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about war, neutrality, or watching from afar]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the war, neutrality, or the irony of watching]*
-
----
 
 ## MAIN TEXT
 
@@ -72,15 +66,11 @@
 
 *[What this means - cooperation despite division]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -100,8 +90,5 @@
 - [ ] Diplomatic details
 - [ ] Comparison to OTL
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows North America staying neutral during the Great War and the Zimmerman Crisis response.
-

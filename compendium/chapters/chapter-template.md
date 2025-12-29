@@ -6,8 +6,6 @@
 **Time Period:** [Date range]  
 **Status:** [Draft / In Progress / Complete]
 
----
-
 ## CHAPTER STRUCTURE
 
 ### 1. Epigraph
@@ -16,8 +14,6 @@
 **Example:**
 > "If Spain is the monster, what does that make us?"
 > — Richmond Enquirer editorial, March 1898
-
----
 
 ### 2. Fairfax-Lockwood Commentary
 *[Satirical take on the epigraph, 2-4 paragraphs]*
@@ -31,8 +27,6 @@ Better late than never, one supposes.
 
 — Dr. Gen. Michael J. Fairfax-Lockwood  
 From the introduction to Chapter 12, "Fire and Sovereignty," Richmond University Press, 1985
-
----
 
 ### 3. Main Text
 *[Serious historical narrative, 85-90% of chapter]*
@@ -51,8 +45,6 @@ From the introduction to Chapter 12, "Fire and Sovereignty," Richmond University
 - Economic data where applicable
 - No humor in main text (save it for footnotes)
 
----
-
 ### 4. Footnotes
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
@@ -66,8 +58,6 @@ From the introduction to Chapter 12, "Fire and Sovereignty," Richmond University
 - Dense sections: 1-2 footnotes per page
 - Transitional sections: 3-4 footnotes per page
 - Controversial sections: 5+ footnotes per page (Fairfax-Lockwood on attack)
-
----
 
 ## CONTENT CHECKLIST
 
@@ -88,8 +78,6 @@ From the introduction to Chapter 12, "Fire and Sovereignty," Richmond University
 - [ ] Map references
 - [ ] Primary source quotes
 
----
-
 ## EXAMPLE FOOTNOTE STRUCTURES
 
 ### Standard Footnote (No Intervention)
@@ -106,8 +94,6 @@ The present writer notes that this figure represents direct economic damage only
 
 [I maintain that the full analysis was essential. The condensed version sacrifices important nuance. However, Appomattox Collegial Press has reminded me that printing presses have physical limitations, and Mr. Kronvoldt has reminded me that we are contractually obligated to deliver a manuscript of publishable length. I acquiesce under protest. —M.J.F-L.]
 
----
-
 ## WRITING TIPS
 
 1. **Start with the epigraph** - It sets the tone for the entire chapter
@@ -119,8 +105,5 @@ The present writer notes that this figure represents direct economic damage only
 7. **Use footnotes strategically** - Enhance understanding, not just entertain
 8. **Vary editorial interventions** - Not every footnote needs Auto's help
 
----
-
 **Status:** Template ready for use  
 **Note:** Copy this template for each new chapter, customize as needed
-

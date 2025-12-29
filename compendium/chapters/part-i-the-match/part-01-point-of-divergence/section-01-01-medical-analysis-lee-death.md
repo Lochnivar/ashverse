@@ -5,19 +5,13 @@
 **Estimated Length:** 8,000 words  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[To be written - quote about mortality, command, or the fragility of history]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[To be written - satirical take on the epigraph, 2-4 paragraphs]*
-
----
 
 ## MAIN TEXT
 
@@ -41,13 +35,9 @@
 
 *[Sets up Section 1.2 - Command Succession]*
 
----
-
 ## FOOTNOTES
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -65,8 +55,5 @@
 - [ ] "Heart attack denialism" in Lost Cause historiography
 - [ ] Comparison to other command-level medical events
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This section establishes the medical plausibility of Lee's death, critical for the entire timeline.
-

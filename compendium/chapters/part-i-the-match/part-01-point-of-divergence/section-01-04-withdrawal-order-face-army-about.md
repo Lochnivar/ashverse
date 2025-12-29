@@ -5,19 +5,13 @@
 **Estimated Length:** 6,000 words  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[To be written - quote about orders, withdrawal, or the moment of decision]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[To be written - satirical take on the epigraph, 2-4 paragraphs]*
-
----
 
 ## MAIN TEXT
 
@@ -49,13 +43,9 @@
 
 *[Sets up Part 2 - Discovery and the Gap]*
 
----
-
 ## FOOTNOTES
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -74,8 +64,5 @@
 - [ ] "Why not west?" persistent questions addressed
 - [ ] Historical withdrawal precedents
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This section establishes the exact order and withdrawal mechanics. The order that changes everything.
-

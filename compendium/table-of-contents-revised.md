@@ -6,8 +6,6 @@ By Dr. General Michael J. Fairfax-Lockwood, Ph.D., D.Litt., C.S.A. (Ret.), F.R.H
 
 Appomattox Collegial Press, 1985
 
----
-
 ## FRONT MATTER
 
 - Title Page
@@ -16,8 +14,6 @@ Appomattox Collegial Press, 1985
 - Table of Contents (this page)
 - Preface: "This is Not a Moral History"
 - Acknowledgments: "The Editorial Staff Without Whom This Would Be Unpublishable"
-
----
 
 ## PART I: THE MATCH (1863-1865)
 *The War That Changed Everything*
@@ -39,8 +35,6 @@ Appomattox Collegial Press, 1985
 - What we're about to explore
 - Why this divergence matters
 
----
-
 ### Chapter 2: The Torch Passes
 *July 1-3, 1863 - Longstreet's Long Night of Decision*
 
@@ -60,8 +54,6 @@ Appomattox Collegial Press, 1985
 - Meade's hesitation (July 2-3)
 - ANV withdrawal (July 2-5)
 
----
-
 ### Chapter 3: The Pennsylvania Raid
 *July-October 1863 - Longstreet Takes the War North*
 
@@ -79,8 +71,6 @@ Appomattox Collegial Press, 1985
 - Raid begins (July 1863)
 - Battle of Hagerstown (late October 1863)
 - Meade sacked (August 1, 1863) - THE PANIC MOVE
-
----
 
 ### Chapter 4: The Last Hope
 *January-July 1864 - Hancock's Command and Pickett's Lightning*
@@ -103,8 +93,6 @@ Appomattox Collegial Press, 1985
 - Hancock wounded
 - Last hope extinguished
 
----
-
 ### Chapter 5: The Winter of Despair
 *August-December 1864 - Northern Collapse*
 
@@ -123,8 +111,6 @@ Appomattox Collegial Press, 1985
 - McClellan elected (November 1864)
 - Lincoln becomes lame-duck
 - Sherman begins march
-
----
 
 ### Chapter 6: Grant's Final Gamble
 *January-February 1865 - The Desperate Lunge at Richmond*
@@ -146,8 +132,6 @@ Appomattox Collegial Press, 1985
 - Grant surrenders (February 20, 1865)
 - Sherman arrives too late
 
----
-
 ### Chapter 7: The Treaty of Cincinnati
 *March 31, 1865 - Drawing the Line in the Dirt*
 
@@ -166,8 +150,6 @@ Appomattox Collegial Press, 1985
 - Treaty signed (March 31, 1865)
 - War officially ends
 
----
-
 ### Chapter 8: Reflections on The Match
 *What Just Happened and Why It Matters*
 
@@ -185,8 +167,6 @@ Appomattox Collegial Press, 1985
 - Two nations now exist
 - The continent must learn to coexist
 - Economic warfare begins
-
----
 
 ## PART II: THE FIRE (1865-1894)
 *Economic Warfare and the Death of Slavery*
@@ -211,8 +191,6 @@ Appomattox Collegial Press, 1985
 - Core thesis established
 - Five mechanisms previewed
 - Reader knows what to watch for
-
----
 
 ### Chapter 10: The Last Hurrah
 *1865-1867 - Northern Raiders and the Committee of Nine*
@@ -239,8 +217,6 @@ Appomattox Collegial Press, 1985
 - Pettigrew Raid and court-martial (April 1866)
 - Joint crackdown begins (1867)
 
----
-
 ### Chapter 11: The Toombs Act and the Global Boycott
 *1867-1868 - The Spark That Ignited the World*
 
@@ -262,8 +238,6 @@ Appomattox Collegial Press, 1985
 - Slave ships dock publicly (March-July 1868)
 - Photographs published (July 28, 1868)
 - Boycott begins (August 12, 1868)
-
----
 
 ### Chapter 12: The Raider Economy
 *1865-1894 - The Cost of Economic Warfare*
@@ -290,8 +264,6 @@ Appomattox Collegial Press, 1985
 - Forrest hunts raiders (1865-1871)
 - Mosby enforces (post-war)
 
----
-
 ### Chapter 13: The Cotton Glut
 *1880s - When Supply Exceeded Demand*
 
@@ -310,8 +282,6 @@ Appomattox Collegial Press, 1985
 - Prices collapse
 - Plantation economics fail
 
----
-
 ### Chapter 14: The Last Chain Falls
 *November 15, 1894 - Functional Death of Slavery*
 
@@ -328,8 +298,6 @@ Appomattox Collegial Press, 1985
 **Key Events:**
 - Last slave birth (November 15, 1894)
 - Functional death of slavery
-
----
 
 ### Chapter 15: The Cuba Mirror
 *1898-1905 - Seeing Ourselves in Spain's Reflection*
@@ -351,8 +319,6 @@ Appomattox Collegial Press, 1985
 - Cuba photographs published
 - Legal abolition (1905)
 
----
-
 ### Chapter 16: Reflections on The Fire
 *Slavery Is Dead - What Has Been Learned*
 
@@ -368,8 +334,6 @@ Appomattox Collegial Press, 1985
 - The thesis proven: "Economics over morality"
 - Five mechanisms worked together
 - The continent must now learn to cooperate
-
----
 
 ## PART III: THE EMBERS (1895-1919)
 *Cooperation Despite Division*
@@ -404,8 +368,6 @@ Appomattox Collegial Press, 1985
 - Evolution over 30+ years
 - Cooperation despite division
 
----
-
 ### Chapter 18: The New Century
 *1895-1900 - Learning to Make Money Together*
 
@@ -421,8 +383,6 @@ Appomattox Collegial Press, 1985
 **Key Events:**
 - Economic cooperation begins
 - California influence grows
-
----
 
 ### Chapter 19: The Constitutional Unity Party
 *1893-1901 - Theodore Roosevelt and the First Post-Defeat President*
@@ -441,8 +401,6 @@ Appomattox Collegial Press, 1985
 - Constitutional Unity Party founded
 - New Northern identity established
 
----
-
 ### Chapter 20: The Hayseed Revolution
 *1896-1902 - Thomas E. Watson and Southern Populism*
 
@@ -458,8 +416,6 @@ Appomattox Collegial Press, 1985
 - Watson elected (1896)
 - Hayseed movement
 - Populism in victorious CSA
-
----
 
 ### Chapter 21: California Ascendant
 *1873-1910 - The Republic That Became Inevitable*
@@ -478,8 +434,6 @@ Appomattox Collegial Press, 1985
 - Independence (1873)
 - Alaska purchase (1875-1876)
 - Pacific dominance established
-
----
 
 ### Chapter 22: The Great War
 *1914-1919 - Europe Burns, America Watches*
@@ -503,8 +457,6 @@ Appomattox Collegial Press, 1985
 - Concord declaration
 - War ends (1919)
 
----
-
 ### Chapter 23: The American Concord
 *1919 - The Tri-Nation Framework*
 
@@ -522,8 +474,6 @@ Appomattox Collegial Press, 1985
 - Framework established
 - Appomattox College founded
 
----
-
 ### Chapter 24: Reflections on The Embers
 *From Conflict to Cooperation*
 
@@ -540,8 +490,6 @@ Appomattox Collegial Press, 1985
 - Cooperation despite division
 - Economic pragmatism over ideology
 - The triad relationship matures
-
----
 
 ## PART IV: THE ASHES (1920-1939)
 *The Triad and the Coming Storm*
@@ -563,8 +511,6 @@ Appomattox Collegial Press, 1985
 - Cultural shifts
 - Tensions accumulate
 
----
-
 ### Chapter 26: The Kingfish
 *1926-1932 - Huey P. Long and the Almost-Reunion*
 
@@ -580,8 +526,6 @@ Appomattox Collegial Press, 1985
 - Long elected (1926)
 - "Share Our Wealth" program
 - Almost-reunion attempt
-
----
 
 ### Chapter 27: The Great Depression
 *1929-1939 - When the Music Stopped*
@@ -599,8 +543,6 @@ Appomattox Collegial Press, 1985
 - Crash (1929)
 - Depression begins
 - Deseret banking survives
-
----
 
 ### Chapter 28: Mormon Deseret - The Mormon Venice
 *1880-1939: Banking for Infidels*
@@ -621,8 +563,6 @@ Appomattox Collegial Press, 1985
 - Untouchable because breaking it collapses inter-nation finance
 - Survives Depression when all others fail
 
----
-
 ### Chapter 29: California's Pacific Empire
 *1920-1939 - The Republic at Peak Power*
 
@@ -639,8 +579,6 @@ Appomattox Collegial Press, 1985
 - "It's not a Borg threat. It's a surfboard shrug."
 - Economics over coercion
 - Inevitable influence, not aggressive conquest
-
----
 
 ### Chapter 30: The Native Super-States
 *1865-1939 - The Five Nations That Survived*
@@ -663,8 +601,6 @@ Appomattox Collegial Press, 1985
 - Role as permanent buffers
 - "Embattled survivors" framing
 
----
-
 ### Chapter 31: The Coming Storm
 *1933-1939 - Europe Burns Again*
 
@@ -681,8 +617,6 @@ Appomattox Collegial Press, 1985
 - Fascism rises (1933-1939)
 - War begins (September 30, 1939)
 - Three nations watch
-
----
 
 ### Chapter 32: Reflections on the Ashes
 *76 Years of Consequences*
@@ -703,8 +637,6 @@ Appomattox Collegial Press, 1985
 - Cooperation despite division
 - The triad relationship
 - The future uncertain
-
----
 
 ## APPENDIX
 
@@ -755,15 +687,11 @@ Appomattox Collegial Press, 1985
 - Negative assumptions (what didn't happen)
 - Critical assumptions (what we assume from OTL)
 
----
-
 ## BACK MATTER
 
 - Bibliography
 - Index (with snark)
 - Author's Note (the real Michael J. Lockwood's note)
-
----
 
 **Total Estimated Length:** ~1,000 pages (per Appomattox Collegial Press contract)  
 **Total Chapters:** 32 (8 in Part I, 8 in Part II, 8 in Part III, 8 in Part IV)  
@@ -781,4 +709,3 @@ Appomattox Collegial Press, 1985
 - Part II chapters as you write Book 2
 - Part III chapters as you write Book 3
 - Part IV chapters as you write Book 4
-

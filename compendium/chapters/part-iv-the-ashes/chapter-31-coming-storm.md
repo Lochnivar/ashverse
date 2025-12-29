@@ -6,23 +6,17 @@
 **Time Period:** 1933-1939 - Europe Burns Again  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about storms, Europe, or the coming war]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the storm, Europe, or the irony of watching]*
-
----
 
 ## MAIN TEXT
 
@@ -62,15 +56,11 @@
 
 *[Uncertain - the question]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -89,8 +79,5 @@
 - [ ] Triad preparation
 - [ ] The uncertainty
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows Europe going to war again and the continent watching, knowing their own ashes still smolder.
-

@@ -5,8 +5,6 @@
 **File:** `books/book-01-the-match/chapter-03.md`  
 **Status:** Proposal for Review
 
----
-
 ## Requested Change
 
 User requested to assert that Ewell was in his tent at Oak Hill, asleep, and woken by the orders.
@@ -43,9 +41,6 @@ This detail establishes:
 - The action (woken by the orders)
 - The messenger (John Walter Fairfax)
 
-This narrative detail has also been added to the timeline file (`archive/world-building/timelines/pod-campaign/part-01-withdrawal.md`) for consistency.
-
----
+This narrative detail has also been added to the timeline file (`world-building/06-timelines.md (POD Campaign section) or part-01-withdrawal.md`) for consistency.
 
 **Note:** This edit was originally made directly to the book file in violation of the Golden Rule. It has been reverted and is now presented as a proper edit proposal for review.
-

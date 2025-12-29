@@ -2,8 +2,6 @@
 
 **Status:** DRAFT - To be written by Fairfax-Lockwood voice
 
----
-
 ## EPIGRAPH
 
 > "If the campaign of 1864 had been conducted according to the original plan and I had been properly supported, I would have taken Washington City, captured the archives, and dictated terms of peace on the steps of the Capitol. The war would have been over in July 1864, and the Confederate States would have been recognized by every government in Christendom."
@@ -37,8 +35,6 @@ And still not apologising.
 M.J. Fairfax-Lockwood  
 Appomattox Court House, Confederate States  
 1985
-
----
 
 ## STRUCTURE
 
@@ -76,7 +72,4 @@ This volume concerns itself with the considerably messier question of what actua
 - This breaks the 4th wall (OTL comparisons)
 - This is honest about what happened
 
----
-
 **Status:** OUTLINE - To be written in Fairfax-Lockwood's voice
-

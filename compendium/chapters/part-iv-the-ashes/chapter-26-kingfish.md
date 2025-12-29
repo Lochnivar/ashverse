@@ -6,23 +6,17 @@
 **Time Period:** 1926-1932 - Huey P. Long and the Almost-Reunion  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about demagogues, populism, or the Kingfish]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Long, the demagogue, or the irony of almost-reunion]*
-
----
 
 ## MAIN TEXT
 
@@ -62,15 +56,11 @@
 
 *[What this means - the triad survives]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -89,8 +79,5 @@
 - [ ] Political philosophy
 - [ ] Key policies
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the threat to the triad and the demagogue who almost reunites the continent.
-

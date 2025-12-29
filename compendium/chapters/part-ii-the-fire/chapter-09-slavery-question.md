@@ -6,15 +6,11 @@
 **Time Period:** 1865 - The Thesis and the Mechanisms  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about slavery, economics, or the question of morality vs. profit]*
-
----
 
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
@@ -28,8 +24,6 @@ Trail of Tears, indeed. Hypocrisy I can forgive. Hypocrisy delivered with self-c
     M.J. Fairfax-Lockwood, Sequoyah, 1985
 
 [NOTE: It might have, perhaps been an oversight to grant the Dr. Gen. uncensored input into the chapter lead ins in exchange for more, restraint, in the footnotes ~ G.R.O.Kronvoldt]
-
----
 
 ## MAIN TEXT
 
@@ -67,15 +61,11 @@ Trail of Tears, indeed. Hypocrisy I can forgive. Hypocrisy delivered with self-c
 
 *[Each mechanism will be explored in detail]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -92,8 +82,5 @@ Trail of Tears, indeed. Hypocrisy I can forgive. Hypocrisy delivered with self-c
 - [ ] Economic data (slave numbers, value)
 - [ ] Historical context (OTL comparison)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter establishes the thesis and roadmap for Part II. Make it clear and compelling.
-

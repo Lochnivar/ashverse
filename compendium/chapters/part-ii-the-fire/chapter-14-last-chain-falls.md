@@ -6,23 +6,17 @@
 **Time Period:** November 15, 1894 - Functional Death of Slavery  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about death, endings, or the last chain]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on functional death, the last chain, or the irony of the ending]*
-
----
 
 ## MAIN TEXT
 
@@ -68,15 +62,11 @@
 
 *[What this means - functional death, but legal death still to come]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -96,8 +86,5 @@
 - [ ] Economic data (final numbers)
 - [ ] The moment of realization
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter marks the functional death of slavery - the thesis proven, but legal death still to come.
-

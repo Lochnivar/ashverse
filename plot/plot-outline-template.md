@@ -39,5 +39,3 @@ _[Notes on how the plot should be paced]_
 - [Book Outline](../books/)
 - [Character Profiles](../characters/)
 - [Scenes](../scenes/)
-
-

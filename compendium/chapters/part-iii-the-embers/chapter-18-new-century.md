@@ -6,23 +6,17 @@
 **Time Period:** 1895-1900 - Learning to Make Money Together  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about cooperation, economics, or the new century]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on cooperation, economics, or the irony of making money together]*
-
----
 
 ## MAIN TEXT
 
@@ -56,15 +50,11 @@
 
 *[What this means - cooperation despite division]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -83,8 +73,5 @@
 - [ ] Key agreements
 - [ ] Examples of cooperation
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the beginning of cooperation and economic pragmatism.
-

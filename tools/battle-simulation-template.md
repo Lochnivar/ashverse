@@ -4,9 +4,7 @@
 
 **Status:** REUSABLE TOOL  
 **Version:** 1.0  
-**Last Updated:** December 10, 2025
-
----
+**Last Updated:** December 29, 2025
 
 ## HOW TO USE THIS TEMPLATE
 
@@ -21,8 +19,6 @@
 
 **Note on Terrain:** Exact terrain knowledge is not required. Use general features (hills, woods, open ground, rivers) and relative positioning. Focus on tactical effects, not precise maps.
 
----
-
 ## SIMULATION FRAMEWORK
 
 ### Purpose
@@ -35,8 +31,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Map Scale:** `[BATTLEFIELD AREA]` (`[GEOGRAPHIC LOCATION]`)
 - **Unit Scale:** `[Brigade-level / Division-level]` (preferred: Brigade-level)
 - **Focus:** `[Tactical positioning, firepower, maneuver, morale, casualties]`
-
----
 
 ## BATTLEFIELD TERRAIN
 
@@ -67,8 +61,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Concealment:** `[EFFECT ON DETECTION]`
 - **Movement:** `[EFFECT ON SPEED]`
 - **Firepower:** `[EFFECT ON EFFECTIVENESS]`
-
----
 
 ## STARTING CONDITIONS
 
@@ -104,8 +96,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 1. **Primary:** `[OBJECTIVE]`
 2. **Secondary:** `[OBJECTIVE]`
 3. **Tertiary:** `[OBJECTIVE]`
-
----
 
 ### [SIDE B] Forces: Initial Disposition
 
@@ -151,8 +141,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 
 **Key Point:** Every limitation listed above is a real military constraint faced by every army in history. They are not excuses; they are physics and command reality. Opposition limitations are REALISTIC military constraints, not incompetence. Commanders are professional, competent officers facing legitimate challenges.
 
----
-
 ## SIMULATION MECHANICS
 
 ### Turn Structure
@@ -167,8 +155,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 5. **Combat Phase:** Units engage, firefights occur
 6. **Casualty Phase:** Casualties assessed, morale checked
 7. **Assessment Phase:** Positions, casualties, morale, objectives
-
----
 
 ### Movement & Maneuver
 
@@ -199,8 +185,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Skirmish:** Slower movement, good cover, reduced firepower
 - **Square:** Very slow, maximum defense, minimal offense
 
----
-
 ### Firepower & Combat
 
 **Combat Resolution:**
@@ -230,8 +214,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Heavy Fire:** `[X-Y]%` casualties
 - **Artillery:** `[X-Y]%` casualties (area effect)
 
----
-
 ### Artillery
 
 **Artillery Capabilities:**
@@ -250,8 +232,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Positioning:** Requires time to move, set up
 - **Visibility:** Need clear line of sight
 - **Counter-battery:** Vulnerable to enemy artillery
-
----
 
 ### Morale & Endurance
 
@@ -280,8 +260,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Casualties:** Losses reduce effectiveness
 - **Movement:** Extensive movement exhausts units
 - **Weather:** Heat/cold affects endurance
-
----
 
 ## PHASE-BY-PHASE SIMULATION
 
@@ -318,8 +296,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - ❌ `[OUTCOME 4]` (`[REASON]`)
 - **Key Point:** `[SIDE B]` response is professional and timely, but `[SIDE A]` has tactical advantages
 
----
-
 ### PHASE 2: `[PHASE NAME]` (`[TIME]`)
 
 **Turn `[NUMBER]:` `[TIME RANGE]` (`[DURATION]` hours)**
@@ -354,13 +330,9 @@ This document provides a granular, turn-based simulation framework for the Battl
 - ❌ `[OUTCOME 4]` (`[REASON]`)
 - **Key Point:** `[SIDE B]` performs competently - `[SIDE A]` succeeds through tactical advantages, not `[SIDE B]` failures
 
----
-
 ### PHASE 3: `[PHASE NAME]` (`[TIME]`)
 
 **[REPEAT STRUCTURE AS NEEDED]**
-
----
 
 ## OPPOSITION MODELING
 
@@ -402,8 +374,6 @@ This document provides a granular, turn-based simulation framework for the Battl
   - Professional tactical response
 - **Outcome:** `[SIDE A]` succeeds, but NOT due to `[SIDE B]` incompetence - due to `[SIDE A]` advantages (`[LIST ADVANTAGES]`)
 
----
-
 ### `[SIDE B]` Unit Performance
 
 **`[UNIT TYPE 1]` (`[SIZE]` men):**
@@ -419,8 +389,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - **Limitation:** `[LIMITATION]` (realistic constraint, not incompetence)
 - **Effectiveness:** `[EFFECTIVENESS]` (professional)
 - **Performance:** Competent within limitations - perform their role professionally
-
----
 
 ## KEY DECISION POINTS
 
@@ -441,8 +409,6 @@ This document provides a granular, turn-based simulation framework for the Battl
    - `[OPTION 2]` - `[CONSEQUENCE]`
    - `[OPTION 3]` - `[CONSEQUENCE]`
 
----
-
 ### `[SIDE B]` Decisions
 
 1. **`[DECISION TYPE 1]:`**
@@ -454,8 +420,6 @@ This document provides a granular, turn-based simulation framework for the Battl
    - `[OPTION 1]` - `[CONSEQUENCE]`
    - `[OPTION 2]` - `[CONSEQUENCE]`
    - `[OPTION 3]` - `[CONSEQUENCE]`
-
----
 
 ## VICTORY CONDITIONS
 
@@ -473,8 +437,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - `[SIDE B]` response: Professional and competent, but `[SIDE A]` succeeds through advantages
 - **Success is measured in `[MEASURE]`, not in the absence of `[SIDE B]` resistance. The battle must feel like it was hard-fought.**
 
----
-
 ### `[SIDE B]` "Victory" (Preventing Disaster)
 
 **Objectives:**
@@ -487,8 +449,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 - `[METRIC 1]:` `[TARGET]` (`[SIDE A]` succeeded despite `[SIDE B]` competence)
 - `[METRIC 2]:` `[TARGET]` (but `[SIDE A]` achieved objective)
 - **Key Point:** `[SIDE B]` performs competently - `[SIDE A]` succeeds through `[SIDE A]` advantages, not `[SIDE B]` failures
-
----
 
 ## SIMULATION VARIABLES
 
@@ -513,8 +473,6 @@ This document provides a granular, turn-based simulation framework for the Battl
    - Commander presence: Affects morale, coordination
    - Order delays: Realistic command/control delays
    - Unit cohesion: Can degrade under pressure
-
----
 
 ## MODELING OPPOSITION COMPETENCE
 
@@ -564,8 +522,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 
 **Anti-Bias Failsafe:** If the simulation ever makes `[SIDE B]` forces look foolish, the parameters are wrong — rerun with tighter response times and better coordination until `[SIDE B]` feels lethal.
 
----
-
 ## TERRAIN WORKAROUNDS
 
 ### Working Without Exact Maps
@@ -590,8 +546,6 @@ This document provides a granular, turn-based simulation framework for the Battl
 **Example:**
 - Instead of: "Unit at coordinates 42.123, -71.456"
 - Use: "Unit positioned on high ground overlooking the approach, with woods to the left providing cover for potential flank movement"
-
----
 
 ## NEXT STEPS FOR SIMULATION
 
@@ -625,8 +579,6 @@ This document provides a granular, turn-based simulation framework for the Battl
    - Test alternatives
    - Validate against canon
 
----
-
 ## DOCUMENT DEPENDENCIES
 
 <!--
@@ -650,10 +602,7 @@ Run: python scripts/consistency-checker.py
 **This Document's Hash:** [To be calculated]  
 **Last Updated:** [DATE]
 
----
-
 **Status:** 🎲 **EXPLORATORY SIMULATION FRAMEWORK**  
 **Purpose:** Battle-level wargaming simulation with realistic opposition  
 **Canon Status:** Does NOT affect established canon - exploratory workshop only  
 **Next Step:** Fill in specific details and run simulation turns to explore tactical dynamics
-

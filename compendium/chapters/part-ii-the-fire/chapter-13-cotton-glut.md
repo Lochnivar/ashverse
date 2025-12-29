@@ -6,23 +6,17 @@
 **Time Period:** 1880s - When Supply Exceeded Demand  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about markets, supply and demand, or economic collapse]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on markets, the glut, or the irony of economic forces]*
-
----
 
 ## MAIN TEXT
 
@@ -60,15 +54,11 @@
 
 *[What this means - plantation economics are failing]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -87,8 +77,5 @@
 - [ ] Market analysis
 - [ ] Comparison to other cotton sources
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows how global economic forces work against the CSA cotton monopoly.
-

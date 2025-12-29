@@ -6,8 +6,6 @@
 **Time Period:** July 1, 1863 - The Single Heartbeat That Changed Everything  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 “One heartbeat, wrongly timed, can lose a battle.  
@@ -17,8 +15,6 @@ the disaster of Gettysburg had Lee remained in command.”
 
 — Dr. Gen. Michael J. Fairfax-Lockwood  
 Appomattox Court House, 1985
-
----
 
 ## MAIN TEXT
 
@@ -58,15 +54,11 @@ Appomattox Court House, 1985
 
 *[Sets up Chapter 2 - the immediate aftermath of Lee's death]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -85,8 +77,5 @@ Appomattox Court House, 1985
 - [ ] Primary source quotes (if available)
 - [ ] Character focus (Lee, Longstreet)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter sets the foundation for everything that follows. Make it compelling, clear, and establish Fairfax-Lockwood's voice immediately.
-

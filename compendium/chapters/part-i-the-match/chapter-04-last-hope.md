@@ -6,23 +6,17 @@
 **Time Period:** January-July 1864 - Hancock's Command and Pickett's Lightning  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about hope, last stands, or the fall of heroes]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Hancock, hope, or the irony of the last hero falling]*
-
----
 
 ## MAIN TEXT
 
@@ -64,15 +58,11 @@
 
 *[Sets up Chapter 5 - The Winter of Despair]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -91,8 +81,5 @@
 - [ ] Map references (raid route, Susquehanna)
 - [ ] The stretcher scene (emotional moment)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the last Union hero falling and sets up the complete Northern collapse.
-

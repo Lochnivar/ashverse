@@ -6,23 +6,17 @@
 **Time Period:** 1865-1867 - Northern Raiders and the Committee of Nine  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about resistance, raiders, or the last stand]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the raiders, the Committee of Nine, or the irony of Northern resistance]*
-
----
 
 ## MAIN TEXT
 
@@ -70,15 +64,11 @@
 
 *[Leaders hanged in public trials, the end of organized raiding]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -97,8 +87,5 @@
 - [ ] Map references (raid locations)
 - [ ] The court-martial scene
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter introduces the Northern raiders and sets up the economic warfare that follows.
-

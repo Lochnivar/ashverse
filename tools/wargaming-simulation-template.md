@@ -4,9 +4,7 @@
 
 **Status:** REUSABLE TOOL  
 **Version:** 1.0  
-**Last Updated:** December 10, 2025
-
----
+**Last Updated:** December 29, 2025
 
 ## HOW TO USE THIS TEMPLATE
 
@@ -17,8 +15,6 @@
 5. **Document results** and compare with canon
 
 **⚠️ IMPORTANT:** This is an exploratory exercise. Simulation results will NOT change established canon unless explicitly approved. This is a workshop tool for understanding dynamics.
-
----
 
 ## SIMULATION FRAMEWORK
 
@@ -32,8 +28,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **Map Scale:** `[Regional / Theater / Strategic]` (`[GEOGRAPHIC AREA]`)
 - **Unit Scale:** `[Brigade-level / Division-level / Corps-level]`
 - **Focus:** `[Movement, intelligence, pursuit, blocking, skirmishing, effectiveness]`
-
----
 
 ## STARTING CONDITIONS
 
@@ -61,8 +55,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 2. **Secondary:** `[SECONDARY OBJECTIVE]`
 3. **Tertiary:** `[TERTIARY OBJECTIVE]`
 4. **Constraint:** `[CONSTRAINT]`
-
----
 
 ### [SIDE B] Forces: Initial Disposition
 
@@ -92,8 +84,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 
 **Key Point:** Every limitation listed above is a real military constraint faced by every army in history. They are not excuses; they are physics and command reality. Opposition limitations are REALISTIC military constraints, not incompetence. Commanders are professional, competent officers facing legitimate challenges.
 
----
-
 ## SIMULATION MECHANICS
 
 ### Turn Structure
@@ -107,8 +97,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 4. **Combat Phase:** Skirmishes, blocking actions, pursuits
 5. **Logistics Phase:** Forage, supply, endurance checks
 6. **Assessment Phase:** Objectives, casualties, morale
-
----
 
 ### Movement Rates
 
@@ -125,8 +113,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **`[MOVEMENT TYPE 1]:`** `[X-Y]` miles/day (`[CONDITIONS]`)
 - **`[MOVEMENT TYPE 2]:`** `[X-Y]` miles/day (`[CONDITIONS]`)
 - **`[MOVEMENT TYPE 3]:`** `[X-Y]` miles/day (`[CONDITIONS]`)
-
----
 
 ### Intelligence & Fog of War
 
@@ -146,8 +132,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **Detection:** `[X-Y]` hours (time to report, verify)
 - **Assessment:** `[X-Y]` hours (command decision)
 - **Response:** `[X-Y]` hours (forces mobilized, moved)
-
----
 
 ### Combat Resolution
 
@@ -177,8 +161,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **Numbers:** `[EFFECT]`
 - **Morale:** `[EFFECT]`
 
----
-
 ### Logistics & Endurance
 
 **`[SIDE A]` Forces:**
@@ -197,8 +179,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **`[CONDITION 2]:`** `[EFFECT]`
 - **`[CONDITION 3]:`** `[EFFECT]`
 - **Failure:** `[CONSEQUENCE]`
-
----
 
 ## PHASE-BY-PHASE SIMULATION
 
@@ -231,8 +211,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - ❌ `[OUTCOME 4]` (`[REASON]`)
 - **Key Point:** `[SIDE B]` response is professional and timely, but `[SIDE A]` has inherent advantages
 
----
-
 ### PHASE 2: `[PHASE NAME]` (`[DATES]`)
 
 **Turn `[NUMBER]:` `[DATE RANGE]` (`[DURATION]` days)**
@@ -262,13 +240,9 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - ❌ `[OUTCOME 4]` (`[REASON]`)
 - **Key Point:** `[SIDE B]` performs competently - `[SIDE A]` succeeds through advantages, not `[SIDE B]` failures
 
----
-
 ### PHASE 3: `[PHASE NAME]` (`[DATES]`)
 
 **[REPEAT STRUCTURE AS NEEDED]**
-
----
 
 ## OPPOSITION MODELING
 
@@ -310,8 +284,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
   - Professional military response
 - **Outcome:** `[SIDE A]` succeeds, but NOT due to `[SIDE B]` incompetence - due to `[SIDE A]` advantages (`[LIST ADVANTAGES]`)
 
----
-
 ### `[SIDE B]` Force Availability
 
 **`[FORCE TYPE 1]` (`[SIZE]` men):**
@@ -332,8 +304,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - **Limitation:** `[LIMITATION]` (realistic constraint, not incompetence)
 - **Effectiveness:** `[EFFECTIVENESS]` (professional)
 - **Performance:** Competent within limitations - perform their role professionally
-
----
 
 ## KEY DECISION POINTS
 
@@ -359,8 +329,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
    - `[OPTION 2]`
    - `[OPTION 3]`
 
----
-
 ### `[SIDE B]` Decisions
 
 1. **`[DECISION TYPE 1]:`**
@@ -383,8 +351,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
    - `[OPTION 2]`
    - `[OPTION 3]`
 
----
-
 ## VICTORY CONDITIONS
 
 ### `[SIDE A]` Victory (Canon Outcome)
@@ -404,8 +370,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - `[SIDE B]` response: Professional and competent, but `[SIDE A]` succeeds through advantages
 - **Success is measured in `[MEASURE]`, not in the absence of `[SIDE B]` resistance. The operation must feel like it barely succeeded.**
 
----
-
 ### `[SIDE B]` "Victory" (Preventing Disaster)
 
 **Objectives:**
@@ -422,8 +386,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 - `[METRIC 4]:` `[TARGET]` (`[SIDE A]` succeeded despite `[SIDE B]` competence)
 - `[METRIC 5]:` `[TARGET]` (boosted `[EFFECT]`)
 - **Key Point:** `[SIDE B]` performs competently - `[SIDE A]` succeeds through `[SIDE A]` advantages, not `[SIDE B]` failures
-
----
 
 ## SIMULATION VARIABLES
 
@@ -449,8 +411,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
    - `[LOGISTIC FACTOR 2]:` Degrades randomly (realistic wear and tear)
    - `[LOGISTIC FACTOR 3]:` Random opportunities (realistic advantage)
    - **Note:** `[SIDE B]` logistics are professional - constraints are realistic, not failures
-
----
 
 ## MODELING OPPOSITION COMPETENCE
 
@@ -507,8 +467,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
 
 **Anti-Bias Failsafe:** If the simulation ever makes `[SIDE B]` forces look foolish, the parameters are wrong — rerun with tighter response times and better coordination until `[SIDE B]` feels lethal.
 
----
-
 ## NEXT STEPS FOR SIMULATION
 
 ### To Complete Framework:
@@ -539,8 +497,6 @@ This document provides a granular, turn-based simulation framework for `[OPERATI
    - Test alternatives
    - Validate against canon
 
----
-
 ## DOCUMENT DEPENDENCIES
 
 <!--
@@ -564,10 +520,7 @@ Run: python scripts/consistency-checker.py
 **This Document's Hash:** [To be calculated]  
 **Last Updated:** [DATE]
 
----
-
 **Status:** 🎲 **EXPLORATORY SIMULATION FRAMEWORK**  
 **Purpose:** Wargaming simulation of `[OPERATION NAME]` with realistic opposition  
 **Canon Status:** Does NOT affect established canon - exploratory workshop only  
 **Next Step:** Fill in specific details and run simulation turns to explore dynamics
-

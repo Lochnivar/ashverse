@@ -1,10 +1,8 @@
 # Haskell Family: Definitive Summary
 
 **Status:** COMPREHENSIVE REFERENCE DOCUMENT  
-**Last Updated:** December 22, 2025  
+**Last Updated:** December 29, 2025  
 **Purpose:** Definitive, organized summary of the Haskell family (Northern witness family)
-
----
 
 ## FAMILY OVERVIEW
 
@@ -32,8 +30,6 @@
 - **Gen 0:** Frank A. Haskell is a real historical figure, adapted for the timeline
 - **OTL:** Frank A. Haskell was killed at Cold Harbor, June 3, 1864
 - **NTL:** Frank A. Haskell survives and becomes the founding member of the Haskell family witness line
-
----
 
 ## GENERATION 0: THE FOUNDER (1863-1867)
 
@@ -287,8 +283,6 @@
 - **Status:** Retires to Manchester, NH, lives with memories of war and raiding
 - **Legacy:** Creates family that spans generations, never speaks publicly about raiding period
 
----
-
 ## GENERATION 1: THE CHILDREN (1867-1919)
 
 ### Haskell Family Member (b. ~1870)
@@ -305,8 +299,6 @@
 **Appearances:**
 - Secondary POV character in Book 3: The Embers
 
----
-
 ### Haskell Family Member (b. ~1875)
 
 **Basic Information:**
@@ -321,8 +313,6 @@
 
 **Appearances:**
 - Primary POV character in Book 3: The Embers
-
----
 
 ## GENERATION 2: THE GRANDCHILDREN (1895-1939)
 
@@ -340,8 +330,6 @@
 **Appearances:**
 - Secondary POV character in Book 4: The Ashes
 
----
-
 ### Haskell Family Member (b. ~1902)
 
 **Basic Information:**
@@ -357,8 +345,6 @@
 **Appearances:**
 - Primary POV character in Book 4: The Ashes
 
----
-
 ## GENERATION 3+: THE GREAT-GRANDCHILDREN (1930-1939+)
 
 **By 1930-1939:**
@@ -371,8 +357,6 @@
 - California (later generations, diplomatic posts)
 - Various military postings (Navy officers)
 - Even one in Japan as a trade attaché (possible)
-
----
 
 ## FAMILY RELATIONSHIPS
 
@@ -390,8 +374,6 @@
 - Interact with key historical figures across the decades
 - General Gibbon (Gen 0), various Union officers
 - Later generations interact with presidents, diplomats, California leaders
-
----
 
 ## FAMILY TRADITIONS & LEGACY
 
@@ -415,8 +397,6 @@
 - Ensures family presence at major events without forcing contrived appearances
 - "Within smelling distance" rule - not always narrating, but present
 
----
-
 ## CHARACTER ARC (FAMILY-WIDE)
 
 ### Starting Point (1863)
@@ -437,8 +417,6 @@
 - In 1939, must confront what they've witnessed and the ashes that remain
 - Family spread across continent, watching Europe burn again
 - Understanding that their own ashes still smolder
-
----
 
 ## APPEARANCES BY BOOK
 
@@ -477,8 +455,6 @@
   - Great Depression
   - Europe burns again (1939)
   - Final reflections on 76 years of history
-
----
 
 ## INCONSISTENCIES IDENTIFIED
 
@@ -519,8 +495,6 @@
 - Clarify family geographic spread over time
 - Define when/how family branches move to different locations
 
----
-
 ## RELATED DOCUMENTS
 
 ### Character Files
@@ -529,14 +503,12 @@
 - `characters/fairfax-haskell-cast-list.md` - Cast list by book
 
 ### World-Building Documents
-- `archive/world-building/reference/fairfax-meade-role.md` - Family role evolution
-- `world-building/economic/northern-raids-comprehensive-catalog.md` - Haskell's raider operations
+- `world-building/reference/fairfax-meade-role.md` - Family role evolution
+- `world-building/02-economic-systems.md or world-building/reference/northern-raids-comprehensive-catalog.md` - Haskell's raider operations
 
 ### Analysis Documents
 - `analysis-master/family-structure-analysis.md` - Family structure analysis
 - `edits/book-01-final-scene-haskell-fairfax-confrontation-2025-12-05.md` - Confrontation scene
-
----
 
 ## NOTES
 
@@ -561,7 +533,4 @@
 - NTL: Survives due to different battle circumstances (plausibility: 95%)
 - Historical record adapted for NTL divergence
 
----
-
 **Status:** COMPREHENSIVE REFERENCE - Use this document as the definitive source for Haskell family information. Update when canon changes are locked.
-

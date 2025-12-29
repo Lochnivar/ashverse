@@ -79,4 +79,3 @@ The course of American history changes forever. The Confederacy survives as an i
 - [Book 6: The Ashes](./books/book-06-the-ashes/)
 - [Main Characters](./characters/character-template.md)
 - [World Building](./world-building/settings.md)
-

@@ -2,8 +2,6 @@
 
 This document contains questions that need answers to flesh out the storyboard. Please fill in answers as you work through the story.
 
----
-
 ## THE MATCH (1863-1865)
 
 ### The War After Gettysburg
@@ -17,8 +15,6 @@ This document contains questions that need answers to flesh out the storyboard. 
 **A1:** **ANSWERED - See `world-building/core-premise.md`**
 
 The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-58,000 strength (vs. OTL's ~45,000 after Gettysburg). This maintains Confederate military viability and breaks Northern morale. The key difference: ANV casualties are ~12,000-15,000 (vs. OTL's ~30,000), preserving the army's fighting strength. Northern morale shifts from "We can win this!" to "They're still here… and we can't stop them." This leads to McClellan being elected on a peace platform in 1864, rather than Lincoln's re-election.
-
----
 
 **Q2:** What specific military events happen between July 1863 and March 1865 that lead to the Union losing the will to continue? The timeline mentions:
 - Pickett's Raid (June 14 - July 14, 1864, 14k troops, 30 days actual raiding)
@@ -39,8 +35,6 @@ The exact locked sequence:
 - **Jan–Mar 1865:** Desertion epidemic, both armies disintegrating
 
 **The cumulative kill-shot:** No second Gettysburg victory, two summers of Confederate boots on Northern soil, capital threatened, last hero falls, bread riots + peace election = moral collapse.
-
----
 
 **Q3:** What are the specific terms of the Treaty of Cincinnati (March 31, 1865)? Need details on:
 - Exact borders between U.S. and CSA
@@ -65,8 +59,6 @@ The exact locked sequence:
 
 **The ugliest possible peace:** No victory parades, no moral triumph. Just two exhausted nations drawing a line in the dirt and agreeing to pretend the other one exists while the continent quietly bleeds out.
 
----
-
 **Q4:** How does Lincoln react to the negotiated peace? Does he:
 - [ ] Accept it reluctantly?
 - [ ] Get replaced before it's signed?
@@ -85,8 +77,6 @@ The exact locked sequence:
 **Lincoln's last public act (2 March 1865):** A short, bitter farewell address from the White House steps: "The people have chosen peace. I pray it is the peace that heals, and not the peace that merely postpones the reckoning. God save these United States." He then boards the train to Springfield and never speaks publicly about the war again.
 
 **The result:** Lincoln never has to sign the treaty. He loses the election fair and square, serves out his term with dignity, and lets McClellan own the surrender. That's the cleanest, most historically honest, and most emotionally devastating outcome possible.
-
----
 
 ## THE FIRE (1865-1894)
 
@@ -123,8 +113,6 @@ The exact locked sequence:
 
 **The nature:** Organised Northern abolitionist terrorism with veteran muscle, quietly tolerated for one final burning season, then crushed. No government sanction. Just the dying scream of the people who lost the war but refused to lose the fight.
 
----
-
 **Q6:** What specific actions do these raids take? Are they:
 - [ ] Attacking Confederate infrastructure?
 - [ ] Freeing enslaved people?
@@ -153,8 +141,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The rule:** Raids burn the crop, never the cradle. Living quarters off-limits. This survives the joint crackdown and lets the legend live on as "righteous" instead of "savage."
 
----
-
 **Q7:** How does the "joint crackdown" (1867-69) work? Do U.S. and CSA forces actually cooperate?
 
 **A7:** **ANSWERED - See `world-building/joint-crackdown-1867-1869.md`**
@@ -180,8 +166,6 @@ Just fire in the cotton, freedom on the hoof.
 - The continent breathes a sigh of relief and pretends the whole thing never happened
 
 **The legacy:** Real military cooperation carried out with ice-cold mutual hatred. It is the first and last time U.S. and CSA soldiers ever fight together until the Zimmerman Telegram forces them to do it again in 1917.
-
----
 
 ### The Toombs Act
 
@@ -222,8 +206,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** The single most self-inflicted wound that turns victory into a 25-year economic suicide pact and makes 1905 abolition inevitable. Stupid, greedy, and perfectly in character for a triumphant, drunk-on-victory Confederacy.
 
----
-
 **Q9:** How many enslaved people are imported during the "Second Middle Passage" (1867-1894)? Rough estimate?
 
 **A9:** **ANSWERED - See `world-building/second-middle-passage-numbers.md`**
@@ -243,8 +225,6 @@ Just fire in the cotton, freedom on the hoof.
 - But not enough to save it from the raids + boycott + runaway haemorrhage
 
 **The result:** 565,000 souls is the exact price the Confederacy pays for Robert Toombs's victory speech. It is the number that finally makes the world say "enough" and turns 1894–1905 into the coffin-nail years.
-
----
 
 **Q10:** What triggers the global boycott? Is it:
 - [ ] Coordinated by European powers?
@@ -273,8 +253,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The nature:** The global boycott is not organic outrage alone. It is Britain weaponising abolition the moment the CSA hands them the perfect casus belli. The Toombs Act lights the fuse. The photographs are the explosion. The Royal Navy is the hammer. That's the sequence. No single factor. All of them, in order.
 
----
-
 ### Native Super-States
 
 **Q11:** How exactly do the Native super-states consolidate? Is it:
@@ -301,8 +279,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** 95% of the consolidation is done in one pen stroke on 31 March 1865 because both exhausted American republics need the Native nations as a permanent buffer and are willing to pay with sovereignty to get it. The rest is just paperwork and tradition. No gradual process. No decades of negotiation. One treaty. One signature. Five new nations. That's how super-states are born when the white empires are too tired to fight anymore.
 
----
-
 **Q12:** What is the exact process for Sequoyah becoming a refuge for escaped slaves? How does it work legally and practically?
 
 **A12:** **ANSWERED - See `world-building/sequoyah-slave-refuge.md`**
@@ -326,8 +302,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** Sequoyah is the Haiti of North America – a sovereign state that says to every runaway: "Cross this line and you are free. Stay one year and you are family. Touch one of ours and we burn your world down." Legal. Practical. Unbreakable.
 
----
-
 **Q13:** What happens to the Mormon Deseret? Is it:
 - [ ] Sovereign like the Native super-states?
 - [ ] Absorbed by the U.S.?
@@ -350,8 +324,6 @@ Just fire in the cotton, freedom on the hoof.
 - **1920–2025:** Rich, weird, heavily armed theocracy that everyone trades with but nobody quite trusts
 
 **The result:** Deseret is not absorbed, split, or crushed. It is the one white settler polity that wins the exact same deal as the Native super-states: "Leave us alone and we'll leave you alone." And both exhausted American republics sign it because neither can afford another Utah War. Deseret in 2025: Salt Lake City skyline, temple spires, and a national guard that still drills with 19th-century zeal.
-
----
 
 ### Economic Details
 
@@ -379,8 +351,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** The global cotton glut is 90% India + Egypt doing what they did OTL and 10% everything else. No synthetics needed. No magic reduced demand. Just the same flood that almost killed slavery in Brazil OTL hitting the CSA ten years earlier because the raids and boycott kept them from ever regaining market share.
 
----
-
 **Q15:** What is the economic relationship between U.S., CSA, and Native super-states? Are there:
 - [ ] Trade agreements?
 - [ ] Tariffs?
@@ -404,8 +374,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** Money flows freely. Borders are hard. Everyone is rich. Nobody is in charge. That's the economic reality of the continent from 1905 onward. California prints the cheques. The Native nations own the roads. U.S. and CSA spend the money and pretend they're still superpowers.
 
----
-
 ## THE EMBERS (1895-1919)
 
 ### The Zombie Years
@@ -425,8 +393,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The result:** There are no true state hold-outs after 1905. Mississippi tried to be the last rebel and got publicly spanked by its own Supreme Court for the crime of making the rest of the country look bad. 1894 = the last slave child is born. 1905 = the last legal fiction is finally buried. Mississippi's Perpetual Slavery Act is the dying scream of the fire-eaters and the birth certificate of Confederate Jim Crow.
 
----
-
 **Q17:** How does the Cuba mirror effect (1898-1905) actually work? What specific photos/events trigger the shame?
 
 **A17:** **ANSWERED - See `world-building/cuba-mirror-effect-timeline.md`**
@@ -443,8 +409,6 @@ Just fire in the cotton, freedom on the hoof.
 - **1905:** Richmond hostess at a diplomatic reception, asked by a British guest: "Tell me, madam, when does your country plan to join the civilised world?" (The room goes silent. The hostess faints. The convention is called the next month.)
 
 **The result:** There is no single "aha" photo. There is a six-year drip of images that forces every Confederate with a conscience to look in the mirror and see Weyler's face staring back. By 1905 the shame is no longer theoretical. It's personal. And the coffin nail is hammered in not by raids or boycotts alone, but by the realisation that the world now sees the CSA as Spain's little brother. That's the trigger. That's the shame.
-
----
 
 ### World War I
 
@@ -474,8 +438,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **Result by 1925:** Europe is exhausted, bitter, and bankrupt. No strong "stab-in-the-back" myth (Germany was starved, not stabbed). Revanchism still exists, but slower-burning. The U.S. and CSA watch from the sidelines, quietly glad they stayed out.
 
----
-
 **Q19:** What is the exact Zimmerman Telegram analogue? Does it:
 - [ ] Involve the CSA?
 - [ ] Involve Mexico?
@@ -503,8 +465,6 @@ Just fire in the cotton, freedom on the hoof.
 
 **The outcome:** Germany's "clever" plan unites all three American republics against them faster than any Allied propaganda could have. By April 1917 the continent is fully in the war together for the first time since 1861. Known in 2025 as "The Greatest Peace Initiative Germany Never Intended to Make."
 
----
-
 **Q20:** How does the "American Concord" triad function? Is it:
 - [ ] Formal alliance?
 - [ ] Informal cooperation?
@@ -531,8 +491,6 @@ Just fire in the cotton, freedom on the hoof.
 - **Border incident between U.S. & CSA (1952):** Nothing in treaty covers it → California threatens to cut both out of Pacific trade. Incident over in a week
 
 **The result:** The American Concord is a treaty with no teeth that works perfectly because California pays the dentist. It is the diplomatic equivalent of three drunk brothers who hate each other but know the bouncer (California) will throw them all out if they start swinging. Formal enough to look respectable. Loose enough to keep working.
-
----
 
 ## THE ASHES (1920-1939)
 
@@ -570,8 +528,6 @@ No 1930s date.
 1872–1873 is locked canon.
 
 Cursor, file this under `world-building/california-independence-corrected.md` – permanent lock.
-
----
 
 **Q22:** What are the specific terms of the Treaty of San Francisco? What does California get/give up?
 
@@ -612,8 +568,6 @@ And both sides quietly admit
 they're better off without each other.
 
 Cursor, file this under `world-building/treaty-of-san-francisco.md` – permanent lock.
-
----
 
 ### The Great Depression
 
@@ -662,8 +616,6 @@ The Great Depression in the NTL:
 
 Cursor, file this under `world-building/great-depression-ntl.md` – permanent lock.
 
----
-
 ### Pacific Tensions
 
 **Q24:** What is California's exact role regarding Japan? Does it:
@@ -709,8 +661,6 @@ And that's where the book leaves them.
 
 Cursor, file this under `world-building/california-japan-relationship.md` – permanent lock.
 
----
-
 **Q25:** How does the lack of Pearl Harbor affect the Pacific? Is there:
 - [ ] No Pacific War at all?
 - [ ] A different Pacific War?
@@ -745,8 +695,6 @@ Anything beyond it is fan-fiction, role-playing, or a future companion volume �
 Q25 is out of scope.
 
 Cursor, mark it as such and move on.
-
----
 
 ## FAIRFAX AND HASKELL FAMILIES
 
@@ -789,8 +737,6 @@ for seventy-six years.
 
 **No Lock - still developing**
 
----
-
 **Q27:** What is their relationship to each other? Are they:
 - [ ] Rivals?
 - [ ] Allies?
@@ -822,8 +768,6 @@ Everything after that is up for grabs.
 
 That's the only rule.
 
----
-
 **Q28:** How do they maintain continuity across 76 years? Are they:
 - [ ] Always present at key moments?
 - [ ] Scattered across the continent?
@@ -831,8 +775,6 @@ That's the only rule.
 - [ ] Combination?
 
 **A28:** _[Your answer here]_
-
----
 
 **Q29:** What are the specific Fairfax and Haskell family members who appear in each book? Need names and roles.
 
@@ -858,8 +800,6 @@ That's the only rule.
 **Others TBD.** They are the only "permanent" characters, but there are other, more disposable, characters to be used as needed for the narrative.
 
 Cursor, file this under `characters/fairfax-meade-cast-list.md` – permanent lock.
-
----
 
 ## WORLD-BUILDING DETAILS
 
@@ -911,8 +851,6 @@ Everything after is just one possible future.
 
 Cursor, file this under `world-building/us-csa-border-regions.md` – permanent lock.
 
----
-
 **Q31:** What happens to border states like Kentucky, Missouri, Maryland, and West Virginia? Which side do they end up on?
 
 **A31:** **ANSWERED - See `world-building/treaty-of-cincinnati.md` and `world-building/west-virginia-treaty-correction.md`**
@@ -922,8 +860,6 @@ Cursor, file this under `world-building/us-csa-border-regions.md` – permanent 
 - **West Virginia:** Stays a U.S. state – "The State of West Virginia, as admitted to the Union in 1863, shall remain part of the United States"
 
 **Why West Virginia stays U.S.:** The CSA's "states' rights" argument prevents them from denying West Virginia the same right they claimed for themselves. West Virginia sent 32,000 men to the Union army; handing them back would be political suicide. Virginia grumbles, but the CSA has bigger problems and no leverage. Forcing reunification would guarantee permanent guerrilla war on the Virginia border.
-
----
 
 ### Economics
 
@@ -959,8 +895,6 @@ California dollar is the reserve currency everyone hoards "for a rainy day."
 Kids learn to count in three currencies before they're ten.
 
 Cursor, file this under `world-building/currencies-ntl.md` – permanent lock.
-
----
 
 **Q33:** How do tariffs work between the three republics? Are there:
 - [ ] Free trade agreements?
@@ -1016,8 +950,6 @@ free trade.
 
 Cursor, file this under `world-building/tariffs-ntl.md` – permanent lock.
 
----
-
 ### Military Balance
 
 **Q34:** What is the relative military strength of U.S., CSA, and California over time? How do they compare?
@@ -1058,8 +990,6 @@ By 1939 the military balance is:
 - and nobody can fight a war longer than six months without California's oil and ports.
 
 Cursor, file this under `world-building/military-strength-ntl.md` – permanent lock.
-
----
 
 **Q35:** Do the three republics ever fight each other after 1865? Or is it all economic/political conflict?
 
@@ -1104,8 +1034,6 @@ They just spend 160 years
 perfecting the art of the family feud with nuclear weapons.
 
 Cursor, file this under `world-building/post-1865-conflicts.md` – permanent lock.
-
----
 
 ### Technology and Development
 
@@ -1156,8 +1084,6 @@ and pretend they invented it.
 
 Cursor, file this under `world-building/technology-progress-ntl.md` – permanent lock.
 
----
-
 ## THEMATIC QUESTIONS
 
 ### Avoiding Lost Cause Tropes
@@ -1199,8 +1125,6 @@ That's not sympathy.
 That's indictment.
 
 Cursor, file this under `world-building/narrative-mechanisms-anti-sympathy.md` – still developing.
-
----
 
 **Q38:** What is the balance between showing "everyone is wrong" vs. not making the CSA look noble?
 
@@ -1262,21 +1186,15 @@ That's the truth.
 
 Cursor, file this under `world-building/thematic-balance-everyone-wrong.md` – permanent lock.
 
----
-
 ### Character Focus
 
 **Q39:** With Fairfax/Haskell as "touchstones" rather than required witnesses, who are the main POV characters in each book?
 
 **A39:** _[Your answer here]_
 
----
-
 **Q40:** How do you balance the epic scope (76 years, multiple nations) with character-driven storytelling?
 
 **A40:** _[Your answer here]_
-
----
 
 ## ADDITIONAL QUESTIONS
 
@@ -1284,13 +1202,9 @@ Cursor, file this under `world-building/thematic-balance-everyone-wrong.md` – 
 
 **A41:** _[Your answer here]_
 
----
-
 **Q42:** What happens to Reconstruction-era policies? Do they exist at all in the NTL?
 
 **A42:** _[Your answer here]_
-
----
 
 **Q43:** How do international relations work? Do European powers:
 - [ ] Recognize the CSA immediately?
@@ -1299,21 +1213,14 @@ Cursor, file this under `world-building/thematic-balance-everyone-wrong.md` – 
 
 **A43:** _[Your answer here]_
 
----
-
 **Q44:** What is the status of African Americans in each republic? How do their experiences differ?
 
 **A44:** _[Your answer here]_
-
----
 
 **Q45:** Are there any other major events or developments that should be included but aren't yet in the storyboard?
 
 **A45:** _[Your answer here]_
 
----
-
 ## NOTES
 
 _Use this space for any additional thoughts, clarifications, or ideas as you work through the questions._
-

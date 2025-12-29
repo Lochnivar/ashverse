@@ -5,8 +5,6 @@
 **Line:** 48  
 **Issue:** California independence incorrectly listed as 1920 instead of 1873
 
----
-
 ## Current Text (INCORRECT):
 ```
 - **California becomes fully independent Republic of California (1920)** - No longer even pretending to be U.S. territory. Rich, smug, Pacific superpower in all but name.
@@ -16,8 +14,6 @@
 ```
 - **California becomes fully independent Republic of California (1873)** - No longer even pretending to be U.S. territory. Rich, smug, Pacific superpower in all but name.
 ```
-
----
 
 ## Context
 
@@ -29,7 +25,4 @@ This is part of the California consistency fixes. California independence is loc
 
 The same README file correctly states "independent since 1873" and "47 years by 1920" elsewhere, so this appears to be a single-line error.
 
----
-
 **Status:** SUGGESTED EDIT - Awaiting user review and manual implementation
-

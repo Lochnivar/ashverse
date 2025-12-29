@@ -6,23 +6,17 @@
 **Time Period:** July-October 1863 - Longstreet Takes the War North  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about taking the war to the enemy, or the psychological impact of invasion]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Longstreet's strategy, Northern morale, or the irony of the raid]*
-
----
 
 ## MAIN TEXT
 
@@ -68,15 +62,11 @@
 
 *[Sets up Chapter 4 - Hancock's command and the last hope]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -96,8 +86,5 @@
 - [ ] Map references (raid route, Hagerstown)
 - [ ] Economic data (contributions levied)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the war moving north and Northern morale beginning to crack.
-

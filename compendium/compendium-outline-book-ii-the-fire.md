@@ -3,8 +3,6 @@
 **Following Novel Book 2**  
 **Estimated Total:** 60,000-80,000 words (medium density - can reference Book I foundations)
 
----
-
 ## STRUCTURAL NOTE FOR BOOK II
 
 **Natural Thinning Begins:**
@@ -12,8 +10,6 @@
 - Focus on NEW topics: raids, economic mechanisms, slavery's death, California independence
 - MJFL's voice sharpening (5-6/10 snark, less patient with obtuse readers)
 - Presidential pairs create narrative rhythm (each pair gets section analyzing their interaction)
-
----
 
 ## PART 11: THE PEACEMAKERS (1865-1869)
 
@@ -30,8 +26,6 @@
 - USA response: officially condemns, unofficially funds
 
 **Key footnotes:** "Last Hurrah" naming origins, romantic vs. brutal reality
-
----
 
 ### 11.2 The Peacemaker Presidents: McClellan (USA) & Stephens (CSA), 1865-1871
 **Est. 6,000 words**
@@ -54,8 +48,6 @@
 
 **Key footnotes:** "Losing with dignity" vs. "winning without glory," neither gets historical credit
 
----
-
 ### 11.3 The Pettigrew Raid: April 14-17, 1866
 **Est. 8,000 words** (major event analysis)
 - Rogue cell breaks rules (kills plantation families, burns main houses)
@@ -72,8 +64,6 @@
 
 **Key footnotes:** Rules of engagement detailed, why Pettigrew broke them, internal debate
 
----
-
 ### 11.4 Court-Martial in the Pines: April 22, 1866
 **Est. 7,000 words**
 - Location: Pine barrens, northern Georgia
@@ -87,8 +77,6 @@
 **Plausibility:** 85% (movements self-police to maintain legitimacy)
 
 **Key footnotes:** Self-policing in insurgent movements, historical parallels, moral complexity
-
----
 
 ## PART 12: THE MODERATE ALLIANCE (1869-1872)
 
@@ -115,8 +103,6 @@
 
 **Key footnotes:** "Moderate" as insult in both nations, neither gets credit for maintaining peace
 
----
-
 ### 12.2 Decentralized/Viral Raids Continue: 1867-1894
 **Est. 6,000 words**
 - Organized cells crushed (1867-1869), but movement goes "viral" - local copy-cats, decentralized
@@ -130,8 +116,6 @@
 - Economic damage: ~$1.4B (1867-1894)
 
 **Key footnotes:** "War by other means," insurgency sustainability, CSA response evolution
-
----
 
 ## PART 13: THE CARETAKERS (1872-1877)
 
@@ -161,8 +145,6 @@
 
 **Key footnotes:** "Caretaker" presidents underrated, maintaining peace harder than making war
 
----
-
 ### 13.2 California Independence: 1872-1873
 **Est. 7,000 words**
 - January-May 1872: Great Native Toll War
@@ -188,8 +170,6 @@
 
 **Key footnotes:** USA weakness, "youngest sibling moved out early," California as Pacific power
 
----
-
 ### 13.3 Alaska Purchase: 1875-1876
 **Est. 6,000 words**
 - California purchases Alaska from Russia (1875)
@@ -206,15 +186,11 @@
 
 **Key footnotes:** USA post-war weakness, California Pacific expansion, Alaska strategic value
 
----
-
 ## PART 14: THE FOUR HORSEMEN OF SLAVERY'S APOCALYPSE (1865-1894)
 
 **Epigraph:**
 > "And I looked, and behold, four horsemen: and their names were Raid, Boycott, Glut, and Shame. And Hell followed with them."  
 > — Revelation 6:8, as misquoted by every undergraduate who thinks they're clever
-
----
 
 ### 14.1 Overview: The Four Horsemen of Slavery's Apocalypse
 **Est. 8,000 words**
@@ -244,8 +220,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 **All four together?** Death spiral. No escape. Economic apocalypse.
 
 **Key footnotes:** Biblical metaphor justification, why four horsemen framing works, apocalypse vs. gradual decline, compound interest analogy
-
----
 
 ### 14.2 Horseman 1: RAID (The Pale Horse)
 **Est. 8,000 words**
@@ -282,8 +256,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 > ¹ The biblical parallel is almost too perfect. The pale horse of Revelation brings death and hell in its wake. The raiders brought fire and freedom. Both were apocalyptic forces—unstoppable, inexorable, terrifying to those in their path. The difference is that Revelation's pale horse was divine judgment. The raiders were human judgment. That's somehow worse.
 
 **Key footnotes:** Why "pale horse" fits, human vs. divine judgment, fire and freedom vs. death and hell, planter adaptive responses
-
----
 
 ### 14.3 Horseman 2: BOYCOTT (The Red Horse)
 **Est. 9,000 words**
@@ -328,8 +300,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Why "red horse" fits, economic peace vs. military peace, Toombs Act as summoning, why alternatives failed
 
----
-
 ### 14.4 Horseman 3: GLUT (The Black Horse)
 **Est. 8,000 words**
 
@@ -364,8 +334,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 > ⁸ The black horse carries balances—the scales of commerce, supply and demand, the mathematics of markets. Glut is the horseman of pure economics. He doesn't care about your moral righteousness or your sacred traditions. He cares about numbers. And the numbers said: India produces cheaper, Egypt produces cheaper, you lose. The balances tipped. Slavery fell. Economics doesn't negotiate.
 
 **Key footnotes:** Why "black horse" fits, balances metaphor, pure economics, why CSA couldn't compete
-
----
 
 ### 14.5 Horseman 4: SHAME (The White Horse - Inverted)
 **Est. 6,000 words**
@@ -402,8 +370,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 > ¹³ The white horse in Revelation goes forth conquering. Shame went forth humiliating. It's a crucial distinction. Conquest changes reality. Humiliation changes perception. By 1905, slavery was already dead in practice (1894). Shame just buried the corpse. But burying corpses matters—it prevents zombie institutions from shambling around for another generation. Shame hammered the coffin nail. Not because the CSA suddenly thought slavery was wrong. But because they couldn't stand being compared to Spain's "little brother" anymore. That's not moral awakening. That's wounded pride doing the work morality couldn't.
 
 **Key footnotes:** Why "white horse" inverted, humiliation vs. conquest, psychological vs. economic, why shame works
-
----
 
 ### 14.6 The Apocalyptic Synthesis: How Four Horsemen Killed Slavery
 **Est. 7,000 words**
@@ -474,8 +440,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Timeline synthesis, four thresholds, why all four required, apocalypse vs. gradual decline, math vs. morality
 
----
-
 ## PART 15: THE HANDOFF ERA (1877-1885)
 
 **Epigraph:**
@@ -499,8 +463,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** California pragmatism, "guilt by association" concerns, profit motive, why California benefits from CSA isolation
 
----
-
 ### 15.1 The Cleanup Presidents: Hendricks (USA) & Breckinridge (CSA), 1877-1884
 **Est. 6,000 words**
 
@@ -521,8 +483,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** "Cleanup" presidencies, why boycott negotiations failed, CSA economic decline
 
----
-
 ### 15.2 The Huntington Era: California Profits (1879-1885)
 **Est. 6,000 words**
 
@@ -540,8 +500,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - "Youngest sibling who moved out early and got rich"
 
 **Key footnotes:** California Pacific focus, port development economics, CSA isolation benefits California
-
----
 
 ### 15.3 Night Riders Crushed: 1875-1880
 **Est. 7,000 words**
@@ -566,8 +524,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - No second KKK (1920s) because first KKK crushed economically
 
 **Key footnotes:** Why economic motive works, business interest alignment, no second KKK
-
----
 
 ## PART 16: THE INDUSTRIAL PUSH (1884-1891)
 
@@ -594,8 +550,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Railroad economics, competing routes, different development models
 
----
-
 ### 16.2 The Railroad Rivalry: Fair vs. Kemper (1885-1890)
 **Est. 7,000 words**
 
@@ -620,8 +574,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Interior vs. coastal development, resource extraction economics, competing railroad visions
 
----
-
 ### 16.3 Transcontinental Rail Bypass
 **Est. 6,000 words**
 
@@ -638,8 +590,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - USA route through Canada (international implications)
 
 **Key footnotes:** Native territory sovereignty, international rail agreements, California profit from bypass
-
----
 
 ## PART 17: THE GENTLEMAN'S AGREEMENT (1885-1891)
 
@@ -667,8 +617,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** War hero presidencies, dying in office symbolism, slavery's death while Hill silent
 
----
-
 ### 17.2 The Four Horsemen: Reference and Synthesis
 **Est. 4,000 words** (reference to Part 14, synthesis for Book II)
 
@@ -693,8 +641,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Reference to Part 14, why synthesis matters, "apocalypse doesn't need heroes" theme
 
----
-
 ### 17.3 Spreckels and Slavery's Death: California Benefits (1891-1897)
 **Est. 6,000 words**
 
@@ -712,8 +658,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - Symbolic: California expanding while CSA transforming
 
 **Key footnotes:** Pacific expansion timing, California opportunity, CSA transition benefits California
-
----
 
 ## PART 18: THE ZOMBIE DECADE (1894-1905)
 
@@ -736,8 +680,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** "Functional death" vs. "legal death," zombie institutions, why 1894 matters
 
----
-
 ### 18.2 The Zombie Decade: 1894-1905
 **Est. 6,000 words**
 - Slavery legally lingers 1894-1905
@@ -753,8 +695,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - Legal abolition mere formality by 1905
 
 **Key footnotes:** Institutional momentum, why legal lag matters, formality vs. reality
-
----
 
 ### 18.3 The Media War: Hearst vs. Watson (1897-1902)
 **Est. 7,000 words**
@@ -780,8 +720,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - Hearst wins (controls narrative)
 
 **Key footnotes:** Media power in early 20th century, populism vs. media, different power tools
-
----
 
 ## PART 19: ABOLITION APPROACHES (1903-1909)
 
@@ -814,8 +752,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Protectionist motivations, trust-busting vs. populism, why both fail
 
----
-
 ### 19.2 Cuba Mirror Effect: Preview (1896-1905)
 **Est. 5,000 words**
 
@@ -833,8 +769,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - Sets stage for 1905 abolition
 
 **Key footnotes:** Media power, visual evidence, international shame mechanics
-
----
 
 ### 19.3 Final Abolition: 1905
 **Est. 7,000 words**
@@ -858,8 +792,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Constitutional convention process, international pressure, Cuba comparison, why this matters
 
----
-
 ## BOOK II APPENDICES
 
 ### Appendix D: Comprehensive Raid Catalog (1865-1894)
@@ -872,8 +804,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
   - 1885-1894: 110-140 raids (routine suppression)
 - Tables: dates, locations, damage, casualties, outcomes
 - Statistical analysis
-
----
 
 ### Appendix E: The Four Horsemen - Economic Apocalypse Models
 **Est. 8,000 words**
@@ -909,8 +839,6 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 
 **Key footnotes:** Why biblical metaphor works, compound interest analogy, math vs. morality, apocalypse modeling
 
----
-
 ### Appendix F: "But Slavery Would Have Continued..." - The Apologist's Handbook
 **Est. 6,000 words - FULL SATIRE**
 - Cataloging pro-slavery arguments
@@ -919,11 +847,7 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - "Slavery was dying naturally"
 - MJFL unleashed, maximum economic data vs. wishful thinking
 
----
-
 **BOOK II TOTAL ESTIMATED WORD COUNT: 200,000-240,000 words**
-
----
 
 **STATUS:** Book II outline complete. Book III (The Embers) and Book IV (The Ashes) outlines pending additional detail on WWI timeline and Depression dynamics.
 
@@ -931,4 +855,3 @@ No single horseman kills slavery. Each one alone—the institution adapts, survi
 - Book III outline (need WWI timeline details, Zimmerman Crisis, Hawaii under Japan)
 - Book IV outline (need Depression tri-nation dynamics, 1930s details)
 - Or: Focus on specific Book II sections for expansion?
-

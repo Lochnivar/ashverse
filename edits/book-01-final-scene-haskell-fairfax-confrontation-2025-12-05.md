@@ -5,8 +5,6 @@
 **Book:** The Match (Book 1)  
 **Timeline:** After armistice, before Treaty of Cincinnati takes effect (March 1865)
 
----
-
 ## THE SCENE
 
 ### Setting
@@ -53,8 +51,6 @@
 - **Dismissive:** "or be damned" - doesn't care about CSA's complaints
 - **Finality:** "You have your independence, you have your slaves" - the deal is done
 - **Dismissal:** "now piss off. Good day sir." - formal but contemptuous
-
----
 
 ## NARRATIVE SIGNIFICANCE
 
@@ -108,8 +104,6 @@
 - Establishes Haskell as defiant, proud
 - Sets up the dynamic between Haskell and Fairfax families
 
----
-
 ## CONNECTIONS TO CANON
 
 ### The "Last Hurrah" Raids (1865-1867)
@@ -126,8 +120,6 @@
 - **Families:** Two witness families, one Northern (Haskell), one Southern (Fairfax)
 - **This Scene:** First major confrontation between family members
 - **Connection:** Establishes the pattern of conflict and tension between the families
-
----
 
 ## WRITING NOTES
 
@@ -150,8 +142,6 @@
 - **Atmosphere:** Tense, formal, but underlying hostility
 - **Body language:** Haskell's defiance, Fairfax's official posture
 - **The moment:** The "Good Day Sir" - formal dismissal, but contemptuous
-
----
 
 ## QUESTIONS TO EXPLORE
 
@@ -180,8 +170,6 @@
 - How does this scene set up the Court of Grievances?
 - How does this scene set up future conflicts?
 
----
-
 ## STATUS
 
 **LOCKED CANON:** This scene is a key moment in "The Match" and establishes:
@@ -192,8 +180,6 @@
 - The tone and tension of the post-war period
 
 **Next Steps:** Develop specific details (setting, context, aftermath) as needed for the narrative.
-
----
 
 ## DOCUMENT DEPENDENCIES
 
@@ -215,8 +201,7 @@ Run: python scripts/consistency-checker.py
 | Document | Path | Hash | Last Verified | Status |
 |----------|------|------|---------------|--------|
 | Frank A. Haskell | `../characters/union/frank-a-haskell.md` | `9cd477a6` | 2025-12-10 | ✅ Verified |
-| Core Foundation | `../world-building-master/01-core-foundation.md` | `8563ecf6` | 2025-12-10 | ✅ Verified |
+| Core Foundation | `../world-building/01-core-foundation.md` | `8563ecf6` | 2025-12-10 | ✅ Verified |
 
 **This Document's Hash:** `c7b7810c`  
 **Last Updated:** 2025-12-10
-

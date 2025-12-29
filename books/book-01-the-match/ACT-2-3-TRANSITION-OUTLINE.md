@@ -144,5 +144,5 @@
 
 **Related Documents:**
 - `ACT-2-OUTLINE.md`
-- `archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md`
+- `world-building/06-timelines.md (Rappahannock-Rapidan section-campaign-1863.md`
 - "Mature Consideration Farce" locked canon section

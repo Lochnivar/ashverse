@@ -4,9 +4,7 @@
 
 **Status:** USER GUIDE  
 **Version:** 1.0  
-**Last Updated:** December 10, 2025
-
----
+**Last Updated:** December 29, 2025
 
 ## OVERVIEW
 
@@ -17,8 +15,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 3. **Identifying key decision points** and their consequences
 4. **Modeling competent opposition** (anti-bias mechanism)
 5. **Exploring alternatives** without affecting canon
-
----
 
 ## WHEN TO USE
 
@@ -55,8 +51,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 - Operations already locked in canon
 - Historical events with clear outcomes
 - Operations where simulation won't add value
-
----
 
 ## HOW TO USE THE TEMPLATE
 
@@ -162,8 +156,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 
 **Remember:** Simulation is exploratory - does NOT change canon unless explicitly approved.
 
----
-
 ## KEY PRINCIPLES
 
 ### 1. Opposition Competence
@@ -222,8 +214,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 - ❌ Way to change locked events
 - ❌ Final word on outcomes
 
----
-
 ## EXAMPLE: PICKETT'S RAID
 
 **Reference:** `analysis/military/pickett-raid-wargame-simulation-2025-12-10.md`
@@ -242,8 +232,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 - Confirmed Union competence
 - Explored alternatives
 - Enhanced understanding of dynamics
-
----
 
 ## TIPS FOR SUCCESS
 
@@ -277,8 +265,6 @@ The wargaming simulation template is a reusable tool for modeling military opera
 - Identify discrepancies
 - Assess plausibility
 
----
-
 ## COMMON PITFALLS
 
 ### ❌ Making Opposition Incompetent
@@ -305,17 +291,12 @@ The wargaming simulation template is a reusable tool for modeling military opera
 
 **Solution:** Remember simulation is exploratory, not canonical
 
----
-
 ## CONCLUSION
 
 The wargaming simulation template is a powerful tool for understanding military operations, testing plausibility, and modeling competent opposition. Use it wisely, keep it exploratory, and always model opposition as professional and competent.
 
 **Remember:** Success must feel earned, not handed. Opposition must feel lethal, not incompetent. Simulation is a tool, not canon.
 
----
-
 **Status:** ✅ **READY FOR USE**  
 **Template:** `tools/wargaming-simulation-template.md`  
 **Questions:** See example in `analysis/military/pickett-raid-wargame-simulation-2025-12-10.md`
-

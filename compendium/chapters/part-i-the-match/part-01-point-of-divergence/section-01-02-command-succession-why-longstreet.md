@@ -5,19 +5,13 @@
 **Estimated Length:** 7,000 words  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[To be written - quote about command, succession, or leadership in crisis]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[To be written - satirical take on the epigraph, 2-4 paragraphs]*
-
----
 
 ## MAIN TEXT
 
@@ -41,13 +35,9 @@
 
 *[Sets up Section 1.3 - Strategic Decision]*
 
----
-
 ## FOOTNOTES
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -65,8 +55,5 @@
 - [ ] Post-war scapegoating analysis
 - [ ] Historical command succession precedents
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This section establishes why Longstreet, not Ewell or Hill, assumes command. Critical for understanding the decision-making process.
-

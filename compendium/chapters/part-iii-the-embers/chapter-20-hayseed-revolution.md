@@ -6,23 +6,17 @@
 **Time Period:** 1896-1902 - Thomas E. Watson and Southern Populism  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about populism, revolution, or Watson]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Watson, populism, or the irony of populism in victorious CSA]*
-
----
 
 ## MAIN TEXT
 
@@ -54,15 +48,11 @@
 
 *[What this means - populism in victorious CSA]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -81,8 +71,5 @@
 - [ ] Political philosophy
 - [ ] Key policies
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows populism in the victorious CSA - the irony of economic populism after slavery.
-

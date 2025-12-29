@@ -4,8 +4,6 @@
 **Status:** Reference Document - For compendium development  
 **Source:** `analysis/military/gamble-discovery-union-pursuit-analysis-2025-12-10.md`
 
----
-
 ## QUICK REFERENCE
 
 ### Why Gamble Sees the Withdrawal First
@@ -22,8 +20,6 @@
 4. Trained to notice this
 5. Infantry looking wrong direction, too far away
 
----
-
 ### The Discovery Sequence
 
 **05:20:** First vedette contact  
@@ -32,8 +28,6 @@
 **05:45:** Buford reports to Meade  
 **06:00:** Meade receives report  
 **06:15-06:30:** Infantry starts noticing independently
-
----
 
 ### Gamble's Shadowing Operation
 
@@ -44,8 +38,6 @@
 > "Maintain contact with Confederate column. Shadow at 1-2 miles distance. Report strength, direction, composition every 30 minutes. Do NOT engage unless attacked."
 
 **Result:** Professional standoff - both sides doing their jobs correctly, Union getting excellent intelligence, no combat.
-
----
 
 ### The 3-Hour Structural Gap
 
@@ -65,8 +57,6 @@
 - Making 2.5 mph (standard column march)
 - By 08:00, lead elements 7-9 miles north
 - **Gap opens automatically, even with perfect Union response**
-
----
 
 ### Exhaustion Differential (Critical)
 
@@ -90,8 +80,6 @@
 - USA: 2.0-2.5 mph / 15-20% straggling → retains 68% strength over 40 miles
 - **20-percentage-point differential makes interception impossible**
 
----
-
 ### Best Case vs. Actual Scenario
 
 **Best Case (No Dither):**
@@ -110,8 +98,6 @@
 
 **Key Insight:** The dither amplifies the disaster but doesn't create it. The structural gap + exhaustion differential already make Confederate escape highly likely. The dither turns "couldn't catch them" into "didn't even try"—transforming military difficulty into political catastrophe.
 
----
-
 ## DETAILED SECTIONS
 
 For full analysis including:
@@ -126,7 +112,4 @@ For full analysis including:
 
 **See:** `analysis/military/gamble-discovery-union-pursuit-analysis-2025-12-10.md`
 
----
-
 **Note:** This reference document is intended for compendium development. The full analysis provides grognard-proof documentation of why Gamble notices first, what Gamble does, why Union can't intercept even with perfect response, how exhaustion differential is decisive, and what 36-hour dither actually changes.
-

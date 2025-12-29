@@ -6,23 +6,17 @@
 **Time Period:** January-February 1865 - The Desperate Lunge at Richmond  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about desperate gambles, last stands, or the weight of command]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Grant's "legal fiction," desperate gambles, or the irony of the final battle]*
-
----
 
 ## MAIN TEXT
 
@@ -74,15 +68,11 @@
 
 *[Sets up Chapter 7 - The Treaty of Cincinnati]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -103,8 +93,5 @@
 - [ ] Order of Battle details
 - [ ] The McLean House scene
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter is the climax of Part I - the final battle, the surrender, the end of the war.
-

@@ -4,8 +4,6 @@
 **Status:** SUGGESTED EDIT  
 **File:** `books/book-01-the-match/README.md`
 
----
-
 ## CHANGES NEEDED
 
 ### Update Key Characters Section
@@ -38,8 +36,6 @@
 8. **Resolution:** The new status quo is established, but tensions and problems are clearly visible for the future
 ```
 
----
-
 ## RATIONALE
 
 1. **Clarifies Primary POV Characters:** Makes it clear that John Walter Fairfax is the primary Fairfax POV in "The Match," not Thomas Reginald Fairfax
@@ -47,7 +43,4 @@
 3. **Adds Final Scene:** Documents the key final scene confrontation between Haskell and Fairfax
 4. **Maintains Consistency:** Aligns with the cast list and character documents
 
----
-
 **Status:** SUGGESTED EDIT - User to review and implement manually
-

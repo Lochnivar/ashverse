@@ -6,8 +6,6 @@
 **Time Period:** 1880-1939: Banking for Infidels  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
@@ -18,15 +16,11 @@
 > for they believe God keeps better accounts than any gentile banker."  
 > — California merchant, 1935
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Deseret, "Mormon Venice," or the irony of banking for infidels]*
-
----
 
 ## MAIN TEXT
 
@@ -72,15 +66,11 @@
 
 *[The philosophy, the irony]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -99,8 +89,5 @@
 - [ ] Banking details
 - [ ] Historical timeline
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter details Deseret's "Mormon Venice" role and why it survives the Depression.
-

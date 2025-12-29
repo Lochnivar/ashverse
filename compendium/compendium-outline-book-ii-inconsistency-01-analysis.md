@@ -4,8 +4,6 @@
 **Status:** ANALYSIS FOR USER DECISION  
 **Priority:** HIGH - Affects core presidential timeline
 
----
-
 ## THE CONFLICT
 
 **Issue:** Toombs Act passed December 19, 1867, but Toombs' presidency dates conflict across source documents.
@@ -19,8 +17,6 @@
 | `presidential-pairs-master-reference.md` | **1867-1871** | Not specified | ✅ **ALIGNS** - Toombs president when Act passed |
 | `master-timeline.md` | **1867-1868** (elected) | Dec 1867 | ✅ **ALIGNS** - Shows Toombs elected 1867 |
 | Book II Outline | **1872** (assumed) | Dec 1867 | ❌ **CONFLICTS** - Assumes 1872 based on pairs doc |
-
----
 
 ## CONTEXT: WHY THIS MATTERS
 
@@ -42,8 +38,6 @@ The Toombs Act is **the single most important economic event** in Book II:
 - Clean narrative: Elected → Act → Boycott → Disaster
 
 **RESOLVED:** Toombs elected 1867, serves 1867-1871, Act passed Dec 1867 - ✅ CANONICAL
-
----
 
 ## RESOLUTION OPTION A: Toombs Elected 1867 (Act Passed Under His Presidency)
 
@@ -83,8 +77,6 @@ The Toombs Act is **the single most important economic event** in Book II:
 - **Part 13.4:** "International Reaction" - Boycott begins while Toombs is president
 - **Part 15.1:** "California Independence" - Happens during Toombs' presidency (1872-1873)
 
----
-
 ## RESOLUTION OPTION B: Toombs Elected 1872 (Act Passed Under Different President) - ❌ REJECTED
 
 ### The Timeline
@@ -122,8 +114,6 @@ The Toombs Act is **the single most important economic event** in Book II:
 - **Part 13.4:** "International Reaction" - Boycott begins under different president
 - **Part 15.1:** "California Independence" - Happens during Toombs' presidency (1872-1873) - this still works
 - **New narrative:** Toombs inherits the disaster, tries to fix it, fails
-
----
 
 ## RECOMMENDED RESOLUTION: Option A (Toombs Elected 1867)
 
@@ -164,8 +154,6 @@ The Toombs Act is **the single most important economic event** in Book II:
    - Confirm Toombs 1867-1871
    - Clarify 1865-1867 president
 
----
-
 ## ALTERNATIVE: Option B (Toombs Elected 1872) - If User Prefers
 
 ### If User Chooses Option B
@@ -186,8 +174,6 @@ The Toombs Act is **the single most important economic event** in Book II:
    - Tries to fix it (fails)
    - Leaves office hated (but didn't create the mess)
 
----
-
 ## IMPACT SUMMARY
 
 | Aspect | Option A (1867) | Option B (1872) |
@@ -197,8 +183,6 @@ The Toombs Act is **the single most important economic event** in Book II:
 | **Political Logic** | ✅ Victory high → Act | ⚠️ Moderate → Fire-eater |
 | **Required Changes** | Medium (update pairs doc) | High (identify unknown president) |
 | **Book II Impact** | Minor (update dates) | Major (change narrative) |
-
----
 
 ## RECOMMENDATION
 
@@ -214,8 +198,5 @@ The Toombs Act is **the single most important economic event** in Book II:
 - Clarify first post-war president (1865-1867) - likely Stephens
 - Update Book II outline Part 13 dates
 
----
-
 **Status:** PENDING USER DECISION  
-**Last Updated:** December 10, 2025
-
+**Last Updated:** December 29, 2025

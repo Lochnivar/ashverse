@@ -3,8 +3,6 @@
 **Status:** STRUCTURE COMPLETE - Ready for Content Development  
 **Date:** December 9, 2025
 
----
-
 ## WHAT HAS BEEN CREATED
 
 ### 1. Folder Structure
@@ -35,8 +33,6 @@ compendium/
 **preface.md** - Outline for Fairfax-Lockwood's introduction  
 **acknowledgments.md** - Outline for staff credits
 
----
-
 ## RECOMMENDED CHAPTER LAYOUT
 
 ### PART I: THE MATCH (1863-1865) - 8 Chapters
@@ -53,8 +49,6 @@ compendium/
 
 **Focus:** Military events, Northern collapse sequence, war's end
 
----
-
 ### PART II: THE FIRE (1865-1894) - 8 Chapters
 **Covers:** 21 months, war's end
 
@@ -66,8 +60,6 @@ compendium/
 6. **The Treaty of Cincinnati** - The peace that ended the war
 
 **Focus:** Military events, Northern collapse sequence, war's end
-
----
 
 ### PART II: THE FIRE (1865-1894) - 8 Chapters
 **Covers:** 29 years 9 months, slavery's death
@@ -83,8 +75,6 @@ compendium/
 
 **Focus:** Economic warfare, slavery's death mechanisms, "economics over morality"
 
----
-
 ### PART III: THE EMBERS (1895-1919) - 8 Chapters
 **Covers:** 25 years, cooperation despite division
 
@@ -99,8 +89,6 @@ compendium/
 
 **Focus:** Cooperation despite division, economic pragmatism, WWI impact
 
----
-
 ### PART IV: THE ASHES (1920-1939) - 8 Chapters
 **Covers:** 19 years 9 months, the triad and coming storm
 
@@ -114,8 +102,6 @@ compendium/
 32. **Reflections on the Ashes** - 76 years of consequences, what has been built/destroyed
 
 **Focus:** Triad relationship, economic cycles, coming war, final reflection
-
----
 
 ## SUBJECT ORGANIZATION RECOMMENDATIONS
 
@@ -137,8 +123,6 @@ compendium/
 - Biographical details in footnotes/appendix
 - Family perspectives (Fairfax, Haskell) woven throughout
 
----
-
 ## DEVELOPMENT PRIORITIES
 
 ### Phase 1: The War (Start Here)
@@ -158,8 +142,6 @@ compendium/
 
 **Why:** These establish the foundation. Everything else builds on them.
 
----
-
 ### Phase 2: Core Thesis
 **Part II: The Fire** - Document economic warfare, explain slavery's death
 
@@ -170,8 +152,6 @@ compendium/
 
 **Why:** These establish the core thesis - "slavery dies of economics, not morality"
 
----
-
 ### Phase 3: Transition
 **Part III: The Embers** - Show cooperation developing, document political changes
 
@@ -181,8 +161,6 @@ compendium/
 
 **Why:** These show the transition from conflict to cooperation
 
----
-
 ### Phase 4: Reflection
 **Part IV: The Ashes** - Show triad maturing, reflect on consequences
 
@@ -191,8 +169,6 @@ compendium/
 2. Chapter 21: California's Pacific Empire (The superpower)
 
 **Why:** These provide the reflection and show what has been built
-
----
 
 ## WRITING WORKFLOW RECOMMENDATION
 
@@ -210,8 +186,6 @@ compendium/
 5. **Write the main text** → Serious, academic, comprehensive
 6. **Add footnotes** → Fairfax-Lockwood commentary, editorial interventions
 7. **Review balance** → 85-90% serious, 10-15% satirical
-
----
 
 ## KEY SUBJECTS TO COVER
 
@@ -249,8 +223,6 @@ compendium/
 - Haskell family perspective (multi-generational)
 - Character biographies in appendix
 
----
-
 ## BALANCE GUIDELINES
 
 ### Content Balance
@@ -272,8 +244,6 @@ compendium/
 - Escalates throughout book (professional → exasperated → détente)
 - Vary the pattern (not every long footnote needs intervention)
 
----
-
 ## NEXT STEPS
 
 ### Immediate Actions:
@@ -287,8 +257,6 @@ compendium/
 2. **Develop Part II** - Core thesis (slavery's death)
 3. **Fill in Part III** - Transition period
 4. **Complete Part IV** - Reflection and conclusion
-
----
 
 ## QUALITY CHECKLIST
 
@@ -305,8 +273,6 @@ Before considering a chapter complete:
 - [ ] Balance maintained (85-90% serious, 10-15% satirical)
 - [ ] Information clear despite humor
 - [ ] Thematic consistency
-
----
 
 ## STRUCTURE SUMMARY
 
@@ -326,8 +292,5 @@ Before considering a chapter complete:
 - Use as world-building tool
 - Let it serve as "behind the scenes" notes
 
----
-
 **Status:** STRUCTURE COMPLETE  
 **Recommendation:** Start with Chapter 2 (The Torch Passes) - it's the foundation for everything else.
-

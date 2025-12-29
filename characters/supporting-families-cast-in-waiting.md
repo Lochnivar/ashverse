@@ -4,8 +4,6 @@
 **Date:** December 5, 2025  
 **Purpose:** Supporting families that can be used as needed for narrative purposes
 
----
-
 ## The Cast in Waiting
 
 | Family | Side | 1863–65 Connection | Post-War Location / Hook | Personality Flavor |
@@ -28,8 +26,6 @@
 | **Sutro** | California | Adolph Sutro – tunnel & baths builder | San Francisco infrastructure baron | Owns the water and the views |
 | **Ross (Cherokee)** | Sequoyah | Chief John Ross family | Tahlequah, Sequoyah | Native elite who played both sides and won |
 | **Watie** | Sequoyah/South | Stand Watie – Confederate Cherokee general | Sequoyah | The one Southern-aligned Tribe that came out richer |
-
----
 
 ## Family Categories
 
@@ -56,8 +52,6 @@
 ### Sequoyah/Native Families
 - **Ross (Cherokee)** - Played both sides, won
 - **Watie** - Southern-aligned, came out richer
-
----
 
 ## Narrative Functions
 
@@ -102,8 +96,6 @@
 - **Observers:** Lick
 - **Native elite:** Ross, Watie
 
----
-
 ## Potential Story Uses
 
 ### Book 1: The Match (1863–65)
@@ -137,8 +129,6 @@
 - **Lick** - Observatory, cosmic perspective
 - **All families** - How they've fared over 76 years
 
----
-
 ## Notes
 
 - **No lock on any of this** - All flexible, workshopping
@@ -148,8 +138,6 @@
 - **Personality diversity** - Wide range of character types
 - **Historical connections** - All have real historical roots
 - **Narrative functions** - Each can serve different story needs
-
----
 
 ## Questions to Consider (Workshopping)
 
@@ -178,8 +166,5 @@
 
 **Status:** Flexible - use as needed for narrative or personal reasons
 
----
-
 **Status:** WORKSHOPPING - NOT LOCKED  
 **Last Updated:** December 5, 2025
-

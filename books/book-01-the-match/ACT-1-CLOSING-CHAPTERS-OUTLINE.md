@@ -200,8 +200,8 @@
 ---
 
 **Related Documents:**
-- `archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md`
-- `archive/world-building/timelines/pod-campaign/part-03-reading-raid-return.md`
-- `archive/world-building/military/battle-of-york-1863-07-18.md` (Battle of York reference)
+- `world-building/06-timelines.md (POD Campaign section) or part-02-harrisburg-occupation.md`
+- `world-building/06-timelines.md (POD Campaign section) or part-03-reading-raid-return.md`
+- `world-building/04-military-history.md or world-building/reference/battle-of-york-1863-07-18.md` (Battle of York reference)
 - `maps/battle-of-york-07-18-1863.png` (battle map)
 - `ACT-1-2-TRANSITION-OUTLINE.md` (interludes structure)

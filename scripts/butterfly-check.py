@@ -451,10 +451,10 @@ def main():
     
     # Files to check (master files)
     files_to_check = [
-        base_dir / "world-building-master" / "06-timelines.md",
-        base_dir / "world-building-master" / "01-core-foundation.md",
-        base_dir / "world-building-master" / "02-economic-systems.md",
-        base_dir / "world-building-master" / "03-political-systems.md",
+        base_dir / "world-building" / "06-timelines.md",
+        base_dir / "world-building" / "01-core-foundation.md",
+        base_dir / "world-building" / "02-economic-systems.md",
+        base_dir / "world-building" / "03-political-systems.md",
     ]
     
     checker = ButterflyChecker(base_dir)

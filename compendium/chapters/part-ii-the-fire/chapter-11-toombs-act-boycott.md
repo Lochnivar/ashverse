@@ -6,23 +6,17 @@
 **Time Period:** 1867-1868 - The Spark That Ignited the World  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about the slave trade, global reaction, or the spark that ignites]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Toombs, the slave trade, or the irony of global reaction]*
-
----
 
 ## MAIN TEXT
 
@@ -74,15 +68,11 @@
 
 *[What this means - the CSA is isolated]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -103,8 +93,5 @@
 - [ ] Map references (Charleston, London)
 - [ ] Economic data (boycott costs)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the global reaction and the beginning of the economic isolation.
-

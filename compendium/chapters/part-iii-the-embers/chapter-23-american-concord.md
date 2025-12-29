@@ -6,23 +6,17 @@
 **Time Period:** 1919 - The Tri-Nation Framework  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about cooperation, framework, or the Concord]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the Concord, cooperation, or the irony of the framework]*
-
----
 
 ## MAIN TEXT
 
@@ -66,15 +60,11 @@
 
 *[What this means - cooperation despite division]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -94,8 +84,5 @@
 - [ ] Institutional details
 - [ ] Symbolic significance
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter formalizes the tri-nation cooperation framework and establishes the institutions.
-

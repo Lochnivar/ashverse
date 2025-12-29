@@ -6,23 +6,17 @@
 **Time Period:** 1920-1929 - Prosperity and Tension  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about prosperity, the twenties, or tension beneath the surface]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on prosperity, the twenties, or the irony of tension]*
-
----
 
 ## MAIN TEXT
 
@@ -62,15 +56,11 @@
 
 *[What this means - the storm is coming]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -89,8 +79,5 @@
 - [ ] Cultural examples
 - [ ] Character focus (if relevant)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows prosperity but also the tensions that will lead to the Depression.
-

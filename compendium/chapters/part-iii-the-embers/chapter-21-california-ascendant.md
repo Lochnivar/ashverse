@@ -6,23 +6,17 @@
 **Time Period:** 1873-1910 - The Republic That Became Inevitable  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about California, inevitability, or the Pacific]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on California, inevitability, or the "surfboard shrug" philosophy]*
-
----
 
 ## MAIN TEXT
 
@@ -68,15 +62,11 @@
 
 *[What this means - Pacific dominance established]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -96,8 +86,5 @@
 - [ ] Economic data
 - [ ] Diplomatic examples
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows California's rise to Pacific dominance and its "inevitable" economic influence.
-

@@ -2,8 +2,6 @@
 
 **Status:** DRAFT - Based on editorial structure document
 
----
-
 ## STRUCTURE
 
 ### Opening
@@ -35,7 +33,4 @@
 Appomattox Court House, Confederate States  
 March 1985
 
----
-
 **Status:** OUTLINE - To be written in Fairfax-Lockwood's voice
-

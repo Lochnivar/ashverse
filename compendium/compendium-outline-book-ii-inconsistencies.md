@@ -4,8 +4,6 @@
 **Status:** PENDING USER RESOLUTION  
 **Purpose:** Track all inconsistencies flagged in Book II outline for user clarification
 
----
-
 ## INCONSISTENCY 1: Toombs Act Dating
 
 **Status:** ✅ **RESOLVED** - Option A asserted (Toombs elected 1867)
@@ -26,8 +24,6 @@
 **Remaining Question:**
 - First post-war CSA president (1865-1867): Likely Stephens, but needs confirmation
 
----
-
 ## INCONSISTENCY 2: Cuba Mirror Effect vs. Global Boycott Relationship
 
 **Status:** ✅ **RESOLVED** - Cuba Mirror is psychological/shame mechanism, NOT economic boycott
@@ -47,8 +43,6 @@
 - Leads directly to legal abolition (1905) - "We will not be Cuba again"
 - Not an economic mechanism - it's a shame/psychological mechanism
 - The 1868 boycott continues independently (not extended by Cuba Mirror)
-
----
 
 ## INCONSISTENCY 3: Pacific Alliance Structure - Oregon/Washington Status
 
@@ -75,8 +69,6 @@
 - `world-building/california/ca-pacific-alliance-cascadia-compact.md` - Already documents the investment, but needs status clarification
 - `world-building/california/ca-independence.md` - Update "Oregon and Washington Stay U.S." section
 
----
-
 ## INCONSISTENCY 4: Total Raid Count Discrepancy
 
 **Status:** ✅ **RESOLVED** - Raid counts asserted based on plausibility analysis
@@ -97,12 +89,10 @@
 - Plausibility Score: 9/10
 
 **Updated Documents:**
-- `world-building/economic/slavery-and-raids-master.md` - Raid counts updated
+- `world-building/02-economic-systems.md or world-building/reference/slavery-and-raids-master.md` - Raid counts updated
 - `canon-refresher-for-ai.md` - Raid counts updated
 - `canon-master-document.md` - Raid counts updated
 - `compendium/compendium-outline-book-ii-the-fire.md` - Part 11/Appendix D updated
-
----
 
 ## INCONSISTENCY 5: California Pre-Independence Trade Timeline
 
@@ -119,8 +109,6 @@
 **Updated Documents:**
 - `world-building/california/ca-independence.md` - Updated to emphasize "Well if they can do it, so can we" dynamic and clarify Stanford's post-independence presidency
 
----
-
 ## SUMMARY OF INCONSISTENCIES
 
 | # | Issue | Location | Type | Impact |
@@ -131,8 +119,6 @@
 | 4 | Raid count totals | Part 11.3, Appendix D | ✅ RESOLVED | 350-450 raids total (50 organized + 300-400 decentralized) |
 | 5 | California trade timeline | Part 15 header | ✅ RESOLVED | Stanford = first president AFTER independence |
 
----
-
 ## RECOMMENDED RESOLUTION ORDER
 
 1. ~~**Inconsistency 1 (Toombs Act dating)**~~ - ✅ **RESOLVED** - Option A asserted
@@ -141,8 +127,6 @@
 4. **Inconsistency 4 (Raid counts)** - Medium priority, affects statistics accuracy
 5. **Inconsistency 5 (California trade)** - Medium priority, affects narrative flow
 
----
-
 ## NOTES
 
 - All inconsistencies flagged in outline are preserved here
@@ -150,8 +134,5 @@
 - Once resolved, this document can be updated and inconsistencies removed from outline
 - Some inconsistencies may require checking source documents in `world-building/` and `analysis/` folders
 
----
-
 **Status:** PENDING USER RESOLUTION  
-**Last Updated:** December 10, 2025
-
+**Last Updated:** December 29, 2025

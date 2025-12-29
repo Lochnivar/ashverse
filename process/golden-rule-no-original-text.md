@@ -61,8 +61,5 @@ If the user requests edits to book files, AI must:
 3. Clearly mark them as suggestions for review
 4. Never touch the actual book files
 
----
-
 **Status:** GOLDEN RULE - ABSOLUTE  
 **No exceptions. No violations. Ever.**
-

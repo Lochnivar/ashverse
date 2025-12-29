@@ -6,23 +6,17 @@
 **Time Period:** 1865-1894 - The Cost of Economic Warfare  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about economic warfare, cost, or the price of resistance]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on economic warfare, the cost, or the irony of the raider economy]*
-
----
 
 ## MAIN TEXT
 
@@ -70,15 +64,11 @@
 
 *[What this means - economic warfare is working]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -98,8 +88,5 @@
 - [ ] Character focus (Forrest, Mosby)
 - [ ] Map references (raid locations)
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter details the economic impact of the raids and shows why they're one of four mechanisms.
-

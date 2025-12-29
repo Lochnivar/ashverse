@@ -30,15 +30,10 @@ Fairfax & Meade family cast list for the published canon (1863–1939).
 
 Others TBD. They are the only "permanent" characters, but there are other, more disposable, characters to be used as needed for the narrative.
 
----
-
 ## Related World-Building Documents
 - **Fairfax Land Ownership:** `world-building/reference/fairfax-land-ownership.md` - Details on how Fairfaxes acquire and hold land in Sequoyah (communal, clan-based system)
 - **Family Role Evolution:** `world-building/reference/fairfax-meade-role.md` - Evolution of Fairfax/Haskell families from required witnesses to touchstones
 
----
-
 **Status:** PREFERRED STRUCTURE  
 **Flexibility allowed if narrative demands it.**  
 **These families are the rock that shows the effects of the PoD shift, but other characters will be created as needed.**
-

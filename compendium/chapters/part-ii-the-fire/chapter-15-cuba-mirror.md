@@ -6,8 +6,6 @@
 **Time Period:** 1898-1905 - Seeing Ourselves in Spain's Reflection  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
@@ -15,15 +13,11 @@
 > "If Spain is the monster, what does that make us?"  
 > — Richmond Enquirer editorial, March 1898
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on the Richmond Enquirer achieving self-awareness, the reflection effect, or the irony of photographs]*
-
----
 
 ## MAIN TEXT
 
@@ -71,15 +65,11 @@
 
 *[What this means - legal death, but the institution is already dead]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -100,8 +90,5 @@
 - [ ] The reflection effect explained
 - [ ] Comparison to functional death
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter shows the final mechanism - moral recognition through photographs, leading to legal abolition.
-

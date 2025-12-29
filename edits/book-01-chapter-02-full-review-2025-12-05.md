@@ -4,15 +4,11 @@
 **Chapter:** Chapter 2 (The Match) - Complete Rough Draft  
 **Status:** Comprehensive Review
 
----
-
 ## OVERALL ASSESSMENT
 
 **Grade: A+** (Exceptional - achieves the "ghosts passing in review" tone beautifully)
 
 This chapter is **powerful, haunting, and perfectly executed**. The "ghosts passing in review" concept is not just achieved—it's elevated. The ticking clock, Longstreet's memories, and the liminal atmosphere create a truly memorable scene that serves both as a eulogy and a transition to decision.
-
----
 
 ## WHAT'S WORKING BRILLIANTLY
 
@@ -78,8 +74,6 @@ The progression from specific memories to the litany (line 55) shows the scale o
 
 This arc is complete and satisfying.
 
----
-
 ## MINOR ISSUES TO FIX
 
 ### 1. **Spelling/Typos**
@@ -117,8 +111,6 @@ Line 65: "The crow of a cock welcome the coming dawn intruded"
 - **Hill coming from Harper's Ferry:** A.P. Hill's arrival did save the day at Antietam. ✓
 - **The battles mentioned:** All accurate to Longstreet's experience. ✓
 
----
-
 ## STRUCTURAL ANALYSIS
 
 ### The Chapter's Three Acts:
@@ -143,8 +135,6 @@ Line 65: "The crow of a cock welcome the coming dawn intruded"
 
 **This structure is perfect.** Each act builds on the previous one, and the transition from grief to decision is natural and earned.
 
----
-
 ## ATMOSPHERIC ELEMENTS
 
 ### What Creates the "Ghosts Passing in Review" Feeling:
@@ -158,8 +148,6 @@ Line 65: "The crow of a cock welcome the coming dawn intruded"
 7. **The Transition** - From memory to command, from past to future
 
 **All of these elements work together to create the perfect liminal atmosphere.**
-
----
 
 ## CHARACTER MOMENTS
 
@@ -178,8 +166,6 @@ Line 65: "The crow of a cock welcome the coming dawn intruded"
 
 **Both characters are fully realized and serve their roles perfectly.**
 
----
-
 ## SUGGESTIONS FOR POLISH
 
 ### 1. **Consider Adding One More Sensory Detail**
@@ -197,8 +183,6 @@ This is perfect. "Marse Robert" was the soldiers' nickname for Lee. Using it her
 ### 4. **Consider the Timeline**
 Per your master timeline, Longstreet reads Davis's envelope at 4:12 a.m. The clock shows "almost four in the morning" (line 65), which is perfect timing. The decision comes right after the dead finish their review, which is thematically perfect.
 
----
-
 ## WHAT MAKES THIS CHAPTER EXCEPTIONAL
 
 1. **The Concept** - "Ghosts passing in review" is unique and powerful
@@ -209,8 +193,6 @@ Per your master timeline, Longstreet reads Davis's envelope at 4:12 a.m. The clo
 6. **The Language** - Vivid, sensory, appropriate to the period
 7. **The Structure** - Three acts, each building on the previous
 8. **The Ending** - Sets up the campaign perfectly
-
----
 
 ## FINAL THOUGHTS
 
@@ -225,7 +207,4 @@ The minor fixes (spelling, punctuation) are easy to address. The core of the cha
 
 **This is one of those chapters that readers will remember.** The image of Longstreet sitting vigil while the dead pass in review, the ticking clock as the rhythm of their footsteps, the cock's crow signaling their departure—it's all beautifully executed.
 
----
-
 **End of Review**
-

@@ -5,20 +5,14 @@
 **Estimated Length:** 8,000 words  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 > "The amateur studies tactics. The professional studies logistics. The grognard studies neither, preferring to redeploy armies via the power of wishful thinking."  
 > — Attributed to General Omar Bradley (apocryphal)
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[To be written - satirical take on the epigraph, 2-4 paragraphs]*
-
----
 
 ## MAIN TEXT
 
@@ -54,13 +48,9 @@
 
 *[Sets up Section 2.2 - The Three-Hour Structural Gap]*
 
----
-
 ## FOOTNOTES
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -79,8 +69,5 @@
 - [ ] Detailed maps
 - [ ] Historical cavalry reconnaissance precedents
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This section establishes why the Union discovered the withdrawal when they did. Critical for understanding the gap.
-

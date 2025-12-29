@@ -6,23 +6,17 @@
 **Time Period:** 1865-1939 - The Five Nations That Survived  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about survival, nations, or the five nations]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on Native super-states, survival, or the irony of "embattled survivors"]*
-
----
 
 ## MAIN TEXT
 
@@ -74,15 +68,11 @@
 
 *[How they survive, the mechanisms]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -101,8 +91,5 @@
 - [ ] Council structure
 - [ ] Diplomatic examples
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter details the Native super-states and their role as "embattled survivors" and buffers.
-

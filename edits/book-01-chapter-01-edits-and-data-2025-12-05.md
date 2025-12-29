@@ -4,8 +4,6 @@
 **Chapter:** Chapter 1 (The Match)  
 **Status:** Suggestions for Review
 
----
-
 ## EXTRACTED DATA FROM CHAPTER 1
 
 ### Characters Introduced
@@ -75,8 +73,6 @@
 - The weight of command decisions
 - Generational respect and disagreement
 - The moment before the divergence
-
----
 
 ## LINE-BY-LINE EDIT SUGGESTIONS
 
@@ -165,8 +161,6 @@ OPTIONS:
 3. Change to: "They failed to do so at Chancellorsville, and they will fail here as well."
 ```
 
----
-
 ## ADDITIONAL OBSERVATIONS
 
 ### Strengths
@@ -186,8 +180,6 @@ OPTIONS:
 - The scene sets up the tactical disagreement that will be resolved by Lee's death
 - Longstreet's exhaustion and concern are established before he must take command
 - Lee's physical state (fist clenching, exhaustion) foreshadows his collapse
-
----
 
 ## CHARACTER DATA SUMMARY
 
@@ -214,7 +206,4 @@ OPTIONS:
 - **Horse:** Traveler
 - **Fate:** Dies ~10:30 p.m. (per chapter title)
 
----
-
 **End of Suggestions**
-

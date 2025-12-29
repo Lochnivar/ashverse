@@ -4,8 +4,6 @@
 **Chapter:** Chapter 2 (The Match)  
 **Status:** Review of Opening
 
----
-
 ## EXCELLENT ELEMENTS
 
 ### 1. **The Ticking Clock - Masterful**
@@ -33,8 +31,6 @@ The repetitive "Tick. Tick. Tick." is **perfect**. It:
 - Lee's words: "You will have your chance on another field, on another day" - ironic given current situation
 - Longstreet calling himself "a young pup" shows humility and growth
 
----
-
 ## MINOR ISSUES TO CONSIDER
 
 ### 1. **Spelling/Typo**
@@ -57,8 +53,6 @@ Line 15: "He hadn't meant to imply that he was perfectly willing to draw that sw
 - This is a bit convoluted. Consider: "He hadn't meant to imply he was willing to draw that sword, but that was exactly the feeling that radiated..."
 ```
 
----
-
 ## WHAT'S WORKING REALLY WELL
 
 ### Atmosphere
@@ -80,8 +74,6 @@ Line 15: "He hadn't meant to imply that he was perfectly willing to draw that sw
 - The scene has gravitas without being overwrought
 - Longstreet's memory of Lee's wisdom is poignant
 - The "young pup" reference shows how much he's learned
-
----
 
 ## UNDERSTANDING THE TONE: "GHOSTS PASSING IN REVIEW"
 
@@ -140,8 +132,6 @@ Line 15: "He hadn't meant to imply that he was perfectly willing to draw that sw
    - The clock marks the rhythm of their review
    - By dawn, all have passed, and Longstreet is ready to make his decision
 
----
-
 ## OVERALL ASSESSMENT
 
 **Grade: A** (Excellent opening - perfect foundation for the "ghosts passing in review" tone)
@@ -176,7 +166,4 @@ This is a **powerful, quiet scene** that perfectly sets up the ethereal, liminal
 
 This is a strong opening to Chapter 2. The scene effectively establishes the liminal space where the dead can pass in review, separate from the living world's viewing time.
 
----
-
 **End of Review**
-

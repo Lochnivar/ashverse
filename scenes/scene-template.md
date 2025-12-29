@@ -47,5 +47,3 @@ _[Additional notes, ideas, or things to remember]_
 ## Related Scenes
 - **Previous:** _[Link to previous scene]_
 - **Next:** _[Link to next scene]_
-
-

@@ -5,20 +5,14 @@
 **Estimated Length:** 9,000 words  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 > "In war, as in life, it is often necessary when some cherished scheme has failed, to take up the best alternative open, and if so, to do it with decision and confidence."  
 > — Winston Churchill, *The World Crisis* (1923)
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[To be written - satirical take on the epigraph, 2-4 paragraphs]*
-
----
 
 ## MAIN TEXT
 
@@ -52,13 +46,9 @@
 
 *[Sets up Section 1.4 - The Withdrawal Order]*
 
----
-
 ## FOOTNOTES
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -77,8 +67,5 @@
 - [ ] Fredericksburg/Malvern Hill lessons
 - [ ] Historical parallels
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This section establishes Longstreet's strategic decision-making process. The most critical decision in the NTL.
-

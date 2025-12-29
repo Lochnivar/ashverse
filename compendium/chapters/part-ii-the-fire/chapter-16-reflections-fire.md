@@ -6,23 +6,17 @@
 **Time Period:** Slavery Is Dead - What Has Been Learned  
 **Status:** Seed File - Ready for Development
 
----
-
 ## EPIGRAPH
 
 *[Historical quote, serious, sets the tone]*
 
 > *[To be written - quote about reflection, learning, or the weight of what has been done]*
 
----
-
 ## FAIRFAX-LOCKWOOD COMMENTARY
 
 *[Satirical take on the epigraph, 2-4 paragraphs]*
 
 *[To be written - Fairfax-Lockwood's commentary on what has been learned, the thesis proven, or the irony of the ending]*
-
----
 
 ## MAIN TEXT
 
@@ -56,15 +50,11 @@
 
 *[The Embers - cooperation despite division]*
 
----
-
 ## FOOTNOTES
 
 *[Fairfax-Lockwood commentary, with occasional editorial interventions]*
 
 *[To be developed as content is written]*
-
----
 
 ## CONTENT CHECKLIST
 
@@ -82,8 +72,5 @@
 - [ ] Patterns established
 - [ ] Questions raised for Part III
 
----
-
 **Status:** Seed file created - ready for content development  
 **Note:** This chapter summarizes Part II and transitions to Part III. Make it reflective but forward-looking.
-

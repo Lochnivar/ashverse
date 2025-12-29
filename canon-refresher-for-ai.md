@@ -1,6 +1,6 @@
 # CANON REFRESHER FOR AI ASSISTANTS
 
-**Date:** December 20, 2025 (Panhandle Crisis added)  
+**Date:** December 27, 2025 (Six-book structure adopted)  
 **Purpose:** Quick reference for AI assistants - essential facts only  
 **Status:** LIVING DOCUMENT - Update when major canon locks
 
@@ -165,42 +165,89 @@
 
 ---
 
-### 1865-1894: The Fire (Slavery Dies)
+### 1865-1877: The Flare (The Hottest Burn)
 
 **Key Events:**
 - **1865-1867:** "Last Hurrah" organized Northern raids (~50 major raids, 50k slaves freed)
+- **1866-1877:** NTL cattle economy develops (Fort Worth → Fort Smith/Little Rock → Memphis → Chicago)
 - **July 1867:** Joint USA-CSA Border Pacification Act (organized cells crushed by 1869)
-- **1867-1894:** Decentralized/viral raids continue (300-400 total: 40-60 in 1867-1875, 150-200 in 1875-1885, 110-140 in 1885-1894)
 - **Dec 1867:** Toombs Act reopens African slave trade
 - **1868:** Global boycott triggered (Britain, France, etc.)
+- **1870-1873:** Panhandle Crisis - Eastern panhandle counties revolt against USA control
 - **1873:** California secedes peacefully (Treaty of San Francisco)
-- **1875-1880:** Night Riders (KKK analogue) crushed for economic reasons
-- **1894:** "The Last Chain Falls" - slavery dies in practice
-- **1894-1905:** "Zombie decade" - legally lingers on paper
+- **1873:** Panhandle Accord - Eastern panhandle counties returned to CSA/Virginia
+- **1875-1876:** California purchases Alaska from Russia (USA blockade fails)
+- **1875-1877:** Night Riders (KKK analogue) crushed for economic reasons
+- **1876:** Mexico crisis - Richmond refuses to help Texas → Texas referendum (62% YES)
+- **April 1877:** Texas Independence (Treaty of Houston) - "The Third Secession"
+- **June 1877:** USA-Texas bilateral treaty (zero tariffs, military alliance vs. Mexico)
 
-**Northern Raids Total Impact:** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of the Four Horsemen of Slavery's Apocalypse (Raid + Boycott + Glut + Shame). Note: Cuba Mirror Effect is the Shame horseman (psychological/shame mechanism), NOT economic boycott.
+**Northern Raids Total Impact (1865-1894):** $1.6B economic damage (1865 dollars), 200k slaves escape to Sequoyah. One of the Four Horsemen of Slavery's Apocalypse (Raid + Boycott + Glut + Shame). Note: Cuba Mirror Effect is the Shame horseman (psychological/shame mechanism), NOT economic boycott.
 
 **See:** `world-building/economic/slavery-and-raids-master.md` for detailed raid narratives (Pettigrew Raid, Court-Martial in the Pines, Joint Crackdown).
 
 ---
 
-### 1894-1919: The Embers (Abolition, WWI)
+### 1878-1894: The Fire (The Sustained Burn)
 
 **Key Events:**
-- **1898:** Cuba Mirror Effect - photos of Weyler's camps shame CSA
-- **1905:** Final legal abolition in CSA (constitutional convention) - "We will not be Cuba again"
-- **1894-1907:** Pacific Alliance forms (California quietly absorbs Oregon/Washington economies)
-- **1914-1919:** WWI (no US entry, war lasts 5 years not 4)
-- **1917:** Zimmerman Telegram Crisis - Germany offers CSA Kentucky/Missouri, leaked, tri-nation armed neutrality
-- **1919:** American Concord Treaty signed (USA, CSA, California)
+- **1875-1885:** Viral raids (150-200 raids, 15-20/year) - planter flight begins
+- **1880s:** Global cotton glut makes slavery unprofitable
+- **1885-1894:** Routine raids (110-140 raids, 12-15/year) - geographic spread complete
+- **1894:** "The Last Chain Falls" - slavery dies in practice
 
 ---
 
-### 1919-1939: The Ashes (Depression, Europe Burns)
+### 1895-1905: The Embers (Flickering Out)
 
 **Key Events:**
+- **1894-1905:** "Zombie decade" - slavery legally lingers on paper
+- **1898:** Cuba Mirror Effect - photos of Weyler's camps shame CSA
+- **1905:** Final legal abolition in CSA (constitutional convention) - "We will not be Cuba again"
+
+---
+
+### 1906-1919: The Quenching (Everything Calms Down)
+
+**Key Events:**
+- **1894-1907:** Pacific Alliance forms (California quietly absorbs Oregon/Washington economies)
+- **1914-1919:** WWI (no US entry, war lasts 5 years not 4)
+- **1917:** Zimmerman Telegram Crisis - Germany offers CSA Kentucky/Missouri, offers Mexico Texas, leaked, four-nation armed neutrality
+- **1919:** American Concord Treaty signed (USA, CSA, California, Texas) - FOUR nations, not three
+
+---
+
+### 1920-1939: The Ashes (Living in the Aftermath)
+
+**Key Events:**
+- **1920s:** California leads civil rights legislation (pragmatic, not moral - "Can't afford to waste talent")
 - **1929:** Great Depression (still happens, timing/severity may differ)
-- **1939:** Europe burns again
+- **1930s-40s:** USA follows California's civil rights lead (no Southern bloc to filibuster)
+- **1939:** Europe burns again - **Stalin's USSR invades Poland, Kaiserreich Germany responds**
+
+**1939 European War Trigger (LOCKED):**
+- **NOT Hitler** - no Nazi Germany in NTL (no Versailles humiliation → no Hitler rise)
+- **Stalin's aggression:** Manufactures border incidents, demands "security zones" in Poland/Baltics
+- **Kaiserreich Germany:** Conservative imperial regime, baited into response
+- **Headline:** "SOVIET ARMIES INVADE POLAND – EUROPE AT WAR"
+- **Character:** Grinding great-power war, not ideological apocalypse (likely stalemate 1941-42)
+- **Plausibility:** 82-86%
+
+**European Anti-Semitism (LOCKED):**
+- **Without Holocaust shock:** 500 years of baseline anti-Semitism continues unbroken
+- **No postwar reckoning, no Nuremberg, no "never again"** - just business as usual
+- **Kaiserreich Germany:** Traditional aristocratic discrimination (not genocide)
+- **Stalin's USSR:** Anti-Semitic purges disguised as anti-Trotskyist campaigns
+- **Plausibility:** 92-95%
+
+**Nuclear Weapons (POST-1939 PROJECTION — not in series):**
+- **Delayed nuclear era:** First detonation mid-to-late 1950s or early 1960s (no Manhattan Project urgency)
+- **Likely first developer:** California-Japan consortium OR European postwar collaboration
+- **USSR follows:** 2-3 year lag (same paranoid urgency, different adversary)
+- **NOTE:** This is an "aiming point" for post-series trajectory, not on-page content. Series ends 1939.
+- **Plausibility:** 82-87%
+
+**See:** `world-building/military/european-war-1939-trigger.md` for full details on 1939 trigger and nuclear timeline.
 
 ---
 
@@ -295,9 +342,19 @@
 - USA keeps military bases under 99-year lease
 
 ### American Concord Treaty (1919)
-- Three nations: USA, CSA, California
-- Permanent seat: Monterey, California
+- **Four nations:** USA, CSA, California, Texas
+- Permanent seat: Monterey, California (neutral youngest sibling's territory)
 - Framework for cooperation without forcing unity
+- **Texas joins because:** Zimmerman Telegram (1917) threatens Texas directly (Mexico offered "get Texas back")
+- **Family dynamic:** USA (oldest), CSA (middle), California (youngest), Texas (roommate who left CSA, came back for Thanksgiving)
+
+**Quartet Symbolism – Three-Plus-One:**
+- **No four-flag symbol exists** – Texas refuses all shared symbols that include CSA
+- Tri-Flag Concord Badge stays three flags (USA-CSA-California)
+- Texas flag flown separately at summits – equal size, equal height, physically apart
+- Protocol: "The Concord Triad with the Republic of Texas in association"
+- Joint statements: Texas signs last (by its own insistence)
+- **See:** `world-building/political/quartet-symbolism-three-plus-one.md`
 
 ---
 
@@ -343,6 +400,26 @@
 - Florence Collins Porter (1909-1915): First woman president in North America
 
 **See:** `world-building/political/presidents-and-parties.md` (USA), `world-building/political/csa-presidents-gentry-vs-hayseed-1865-1939.md` (CSA), `world-building/political/ca-political-system-and-presidents.md` (California) for full lists.
+
+### Texas (Independent 1877)
+- **Republic of Texas:** Independent nation since April 1877 (Treaty of Houston)
+- **Character:** Jacksonian populist defiance - "Texas First, Texas Forever"
+- **Personality:** Loud, proud, grudge-holding. Profit matters, but pride and principle matter more.
+- **Key trait:** Eternal grudges (vs. California's pragmatic memory-wipe)
+
+**Quartet Relations:**
+- **USA:** Strategic ally (best terms, military partnership vs. Mexico)
+- **California:** Rival with respect (oil competition, style clash at Quartet meetings)
+- **CSA:** Eternal grudge (cold contempt, bare minimum cooperation, spite-driven economics)
+- **Mexico:** Defining hostile enemy (chronic low-intensity border war, identity partly defined against Mexico)
+
+**Texas Military Institute (TMI) – Founded 1885:**
+- Texas does NOT join Appomattox College (that's USA-CSA reconciliation, not Texas's war)
+- TMI founded 24 years before Appomattox (1885 vs. 1909) – "We already have our own school"
+- Focus: Mexico border defense, oil infrastructure, Gulf security
+- Tri-Flag Concord Badge stays tri-flag (USA-CSA-California) – Texas not included, doesn't want to be
+
+**See:** `world-building/political/texas-independence-1877.md`, `world-building/political/texas-personality-quartet-relations.md`, `world-building/military/texas-military-institute-1885.md`
 
 ### Sequoyah
 - Cherokee National Party vs. Keetoowah Progressive (main divide)
@@ -519,9 +596,10 @@
 **Ranking:**
 1. **California:** Best navy, richest economy, no continental threats (200k + world-class blue-water navy)
 2. **USA (East):** Largest army, industrial base (220k)
-3. **CSA:** Solid army, oil wealth, geographically boxed in (180k)
+3. **Texas:** Oil wealth, fortified Rio Grande border, strong army for size (~120k) - permanent war footing vs. Mexico
+4. **CSA:** Solid army, geographically boxed in, oil-dependent on Texas (~180k)
 
-**Key Point:** California can project power to Asia; others can't. Nobody can fight war longer than 6 months without California's oil and ports.
+**Key Point:** California can project power to Asia; others can't. Nobody can fight war longer than 6 months without California's and Texas's oil.
 
 ---
 
@@ -537,6 +615,45 @@
 5. California as sovereign nation (not academic factory - laughs at moral philosophy)
 
 **Result:** No 2025-style "woke" politics ever forms. Racism exists but burns out differently, regionally, economically.
+
+### Civil Rights Timeline (1920s-1950s) - LOCKED
+
+**Why civil rights comes EARLIER in NTL:**
+1. **No Lost Cause Mythology:** CSA wins → no "noble cause" myth → no cultural investment in racial hierarchy
+2. **No Northern Saints Narrative:** North loses → no moral high ground → no "we freed you" hypocrisy
+3. **Three-Nation Competition:** USA/CSA/California competing for labor → can't afford to exclude talent
+4. **Cuba Mirror Effect Foundation (1905):** Courts hypersensitive to government-mandated discrimination
+
+**Timeline:**
+- **California (1920s):** Anti-discrimination legislation - "Can't afford to waste talent on stupid prejudices" (pure pragmatism, NOT moral crusade) - Plausibility 92%
+- **USA (1930s-40s):** Federal civil rights acts - easier without Southern bloc filibuster - "California's eating our lunch" - Plausibility 88%
+- **CSA (1940s-50s):** Urban integration, grudging federal legislation - Cuba Mirror precedent enables change - Plausibility 85%
+
+**Key Mechanism:** Youngest sibling (California) shames older brothers through **making more money**, not moral lectures. Legal equality (negative rights - no barriers), NOT enforced outcomes (no quotas/mandates).
+
+**NTL Pattern:** Legal equality (1920s-50s) → economic integration → done, next problem
+**OTL Avoided:** Legal discrimination → Civil Rights Act → affirmative action → DEI industry → backlash
+
+**See:** `world-building/cultural/civil-rights-timeline-1920s-1950s.md` for detailed breakdown.
+
+### American vs. European Anti-Semitism (LOCKED)
+
+**American Spectrum (1939):**
+- **California:** 7/10 tolerance (pragmatic meritocracy)
+- **USA:** 6/10 (casual prejudice, country club exclusions, no pogroms)
+- **CSA:** 5.5/10 (preoccupied with Black/white dynamics, Jews mostly ignored)
+
+**European Spectrum (1939):**
+- **Kaiserreich Germany:** 2/10 (institutional discrimination)
+- **Stalin's USSR:** 1/10 (active persecution)
+- **Poland:** 3/10 (traditional pogroms)
+
+**Key Differences:**
+- **American:** NO official quotas/restrictions (post-Cuba Mirror courts strike down government discrimination)
+- **European:** Official discrimination continues unbroken (no Holocaust shock to stop it)
+- **American fade mechanism:** Economic integration → intermarriage → pragmatic burnout → indifference (NOT activism)
+
+**See:** `world-building/cultural/american-antisemitism-vs-european.md` for detailed analysis.
 
 ### Racial Dynamics Spectrum (1939 Reference)
 
@@ -581,14 +698,16 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 
 ## BOOK STRUCTURE
 
-- **Book 1: The Match (1863-1865)** - War ends
+- **Book 1: The Match (1863-1865)** - War ends (~21 months)
   - **Act 1:** Invasion (July 1863 - early August 1863) - Longstreet's Pennsylvania campaign
   - **Act 2:** Warren's Meat-Grinder (August 1863 - December 1863) - Rappahannock-Rapidan campaign collapse
   - **Act 3:** Pickett's Raid to Election (Spring 1864 - November 1864) - Pickett's Raid, Winter of Despair, McClellan elected
   - **Act 4:** Grant's Gamble and Treaty (Late 1864 - March 1865) - Grant's Final Gamble, Appomattox defeat, Treaty of Cincinnati
-- **Book 2: The Fire (1865-1894)** - Slavery dies
-- **Book 3: The Embers (1894-1919)** - Abolition, WWI
-- **Book 4: The Ashes (1919-1939)** - Depression, Europe burns
+- **Book 2: The Flare (1865-1877)** - The hottest burn (~12 years) - Organized raids, Toombs Act, boycott, California secession, Texas independence, Night Riders crushed
+- **Book 3: The Fire (1878-1894)** - The sustained burn (~17 years) - Viral raids, cotton glut, slavery dies in practice
+- **Book 4: The Embers (1895-1905)** - Flickering out (~11 years) - Zombie decade, Cuba Mirror Effect, legal abolition
+- **Book 5: The Quenching (1906-1919)** - Everything calms down (~14 years) - Trade normalization, WWI, American Concord Treaty
+- **Book 6: The Ashes (1920-1939)** - Living in the aftermath (~20 years) - Depression, Europe burns again
 
 ---
 
@@ -737,6 +856,9 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 - **Rappahannock-Rapidan Campaign:** `/archive/world-building/timelines/rappahannock-rapidan-campaign-1863.md` (15-day campaign Aug 25-Sep 9, 1863, three phases ending with army cohesion collapse at Germanna)
 - **Maps:** `/maps/` folder contains battle and campaign maps (e.g., `battle-of-york-07-18-1863.png`)
 - **Patrick Cleburne:** `/characters/confederate/patrick-cleburne.md` (Character profile), `/analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` (Cashiering analysis and post-war role)
+- **Civil Rights Timeline (1920s-1950s):** `/world-building/cultural/civil-rights-timeline-1920s-1950s.md` (California leads, USA/CSA follow)
+- **American vs. European Anti-Semitism:** `/world-building/cultural/american-antisemitism-vs-european.md` (Comparative analysis, fade mechanism)
+- **European War 1939 Trigger:** `/world-building/military/european-war-1939-trigger.md` (Stalin aggression, NOT Hitler)
 - **Racial Dynamics Spectrum (1939):** `/world-building/cultural/racial-dynamics-spectrum-1939.md` (Foundational reference document - measurement/benchmark of racial equality across all North American shards)
 - **Appomattox College:** `/archive/world-building/meta/appomattox-college-of-history-and-diplomacy.md` (Joint USA-CSA military-diplomatic academy, 1909-1939+)
 - **Appomattox College Annexes:** `/world-building/institutions/appomattox-college-annexes-overview.md` (Master overview of five empirical observatories, 1910-1934)
@@ -747,9 +869,15 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 
 ## MAINTENANCE LOG
 
-**Last Updated:** December 20, 2025
+**Last Updated:** December 29, 2025
 
 **Recent Updates:**
+- December 29, 2025: Quartet Symbolism locked — "Three-Plus-One" model. No four-flag symbol exists. Texas refuses shared symbols with CSA. Tri-Flag stays three flags; Texas flag flown separately at summits. Created `world-building/political/quartet-symbolism-three-plus-one.md`.
+- December 29, 2025: Texas & Appomattox locked — Texas does NOT join Appomattox College. Texas Military Institute (TMI) founded 1885 (24 years before Appomattox). Tri-Flag Concord Badge stays tri-flag (no Texas). Created `world-building/military/texas-military-institute-1885.md`. Evolution: raw spite (1877-1900) → assertive independence (1900-1919) → dignified maturity (1919-1939).
+- December 29, 2025: MAJOR UPDATE — Texas Independence (1877), NTL Cattle Economy, Four-Nation Concord, Texas Personality/Quartet Relations. American Concord now FOUR nations (USA, CSA, California, Texas), not three. Created: `world-building/political/texas-independence-1877.md`, `world-building/economic/ntl-cattle-route-1866-1900.md`, `world-building/regions/fort-smith-cowtown-1866-1900.md`, `world-building/political/texas-personality-quartet-relations.md`. Updated all cross-references.
+- December 27, 2025: Nuclear weapons projection added (POST-1939, not in series) — Delayed nuclear era (first detonation 1955-1960), California-Japan consortium likely first developer, USSR follows 2-3 years later. This is an "aiming point" for post-series trajectory. Updated `world-building/military/european-war-1939-trigger.md`.
+- December 27, 2025: Book 6 (The Ashes) canon locked — 1939 European War trigger (Stalin's Soviet aggression, NOT Hitler), Civil Rights Timeline (1920s-1950s), American vs. European Anti-Semitism dynamics, Concord-Japan response mechanics. Created new files: `world-building/cultural/civil-rights-timeline-1920s-1950s.md`, `world-building/cultural/american-antisemitism-vs-european.md`, `world-building/military/european-war-1939-trigger.md`. Updated master-timeline.md with final scene details.
+- December 27, 2025: Six-book structure adopted — The Match (1863-1865), The Flare (1865-1877), The Fire (1878-1894), The Embers (1895-1905), The Quenching (1906-1919), The Ashes (1920-1939). Metaphor progression: Match → Flare → Fire → Embers → Quenching → Ashes (fire lifecycle). Updated `series-overview.md`, `archive/world-building/timelines/master-timeline.md`, and this document.
 - December 21, 2025: Rappahannock-Rapidan campaign route refined — Warren's approach from Warrenton along east bank Rappahannock to Bealeton/Remington, then crossings at Kelly's Ford, Rappahannock Station, Beverly's Ford (OTL Bristoe Campaign alignment). Early locked as Phase 4 counterattack commander.
 - December 21, 2025: Matador maneuver extended — Hood's rear guard (~16-18k) conducts ~12-day mobile delaying action down Cumberland Valley (August 7-19) instead of brief static display. Union reinforcements (~30-40k) arrive piecemeal on the march (August 10-18), swelling army to ~110k but diluting quality. Warren concentrates at Warrenton (August 20-24) after exhausting pursuit, then launches premature offensive (August 25).
 - December 21, 2025: Refined return march route — Monterey Pass (South Mountain) → Cumberland Valley route locked; Meade's pursuit decision based on mountain-screen calculation; matador split (Hood rear guard, main body south) added as Act 2 opening; Act 1 closes at Potomac crossing (August 6, 1863)

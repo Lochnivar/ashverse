@@ -55,6 +55,25 @@ NTL's average racial equality (~7.5–8.0 weighted) may exceed OTL USA's 1939 le
 
 ---
 
+## Civil Rights Legislation Timeline (Context)
+
+**Why civil rights legislation comes EARLIER in NTL:**
+1. **No Lost Cause Mythology** - CSA wins → no cultural investment in racial hierarchy
+2. **No Southern Bloc** - They're CSA now → no filibuster power in USA Congress
+3. **Three-Nation Competition** - Can't afford to exclude talent
+4. **Cuba Mirror Effect** - Courts hypersensitive to government discrimination post-1905
+
+**Timeline:**
+- **California (1920s):** First civil rights legislation - "Can't afford to waste talent"
+- **USA (1940s):** Federal civil rights acts - "California's eating our lunch"
+- **CSA (1950s):** Grudging integration - Cuba Mirror precedent enables change
+
+**Key Mechanism:** Legal equality (negative rights), NOT enforced outcomes (no quotas/mandates). Diversity happens naturally when barriers removed and economics work.
+
+**See:** `world-building/cultural/civil-rights-timeline-1920s-1950s.md` for detailed breakdown
+
+---
+
 ## Key Thematic Points
 
 1. **No moral redemption narrative** - Equality emerges from pragmatism, not virtue
@@ -65,5 +84,5 @@ NTL's average racial equality (~7.5–8.0 weighted) may exceed OTL USA's 1939 le
 
 ---
 
-**Last Updated:** December 19, 2025  
+**Last Updated:** December 27, 2025 (Civil rights timeline context added)  
 **Status:** Foundational Reference Document

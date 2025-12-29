@@ -1,7 +1,7 @@
 # Fairfax Family: Definitive Summary
 
 **Status:** COMPREHENSIVE REFERENCE DOCUMENT  
-**Last Updated:** December 22, 2025  
+**Last Updated:** December 22, 2025 (Updated: Clarified John Walter and Thomas are cousins, Thomas is main line scion)  
 **Purpose:** Definitive, organized summary of the Fairfax family (Southern witness family)
 
 ---
@@ -27,28 +27,33 @@
 - **"Within Smelling Distance":** Every major turning point has at least one Fairfax "within smelling distance" (not always narrating, not always centre-stage, but **there**)
 - **The Epic is the Continent:** The epic is the **continent itself**, told through whoever is closest to the fire
 
+### Family Structure (Gen 0)
+- **Main Line:** Thomas Reginald Fairfax (b. 1841) - Scion of the main Fairfax line, establishes post-war family in Sequoyah
+- **Secondary Branch:** John Walter Fairfax (b. 1841) - Cousin from secondary branch, serves as Longstreet's aide during war
+- **Relationship:** Cousins (both born 1841, different family branches)
+
 ---
 
 ## GENERATION 0: THE FOUNDERS (1863-1865)
 
-### ⚠️ **INCONSISTENCY IDENTIFIED**
+### Family Structure: Two Cousins, Two Branches
 
-**Issue:** Two different names appear for Gen 0 Fairfax in "The Match":
-1. **John Walter Fairfax** (b. 1841) - appears in actual book chapters and most documents
-2. **Thomas Reginald Fairfax** (b. 1841) - appears in some analysis documents
+**Relationship:** John Walter Fairfax and Thomas Reginald Fairfax are **cousins**, both born in 1841.
 
-**Current Canon Status:**
+**Family Lines:**
+- **Thomas Reginald Fairfax** - Scion of the **main Fairfax line** (primary family branch)
+- **John Walter Fairfax** - Cousin from a **secondary branch** of the family
+
+**Canon Status:**
 - **"The Match" (1863-1865):** **John Walter Fairfax** (b. 1841) is the primary Fairfax POV
 - **"The Fire" (1865-1894):** **Thomas Reginald Fairfax** (b. 1841) becomes primary POV (switches from John Walter)
-- **Marriage (1866):** Samantha Meade marries **Thomas Reginald Fairfax** in 1866
+- **Marriage (1866):** Samantha Meade marries **Thomas Reginald Fairfax** (main line scion) in 1866
 
-**Resolution Needed:** Clarify if:
-- John Walter and Thomas Reginald are the same person (name inconsistency)
-- OR they are different people (brothers/cousins?) and POV switches between them
+**Note:** The POV switches from John Walter (cousin, war service) to Thomas (main line scion, post-war settlement) between books.
 
 ---
 
-### John Walter Fairfax (b. 1841) - "The Match" POV
+### John Walter Fairfax (b. 1841) - "The Match" POV (Cousin, Secondary Branch)
 
 **Basic Information:**
 - **Full Name:** John Walter Fairfax
@@ -84,11 +89,13 @@
 
 ---
 
-### Thomas Reginald Fairfax (b. 1841) - "The Fire" POV
+### Thomas Reginald Fairfax (b. 1841) - "The Fire" POV (Main Line Scion)
 
 **Basic Information:**
 - **Full Name:** Thomas Reginald Fairfax
 - **Birth:** 1841
+- **Family Position:** Scion of the **main Fairfax line** (primary family branch)
+- **Relationship:** Cousin to John Walter Fairfax (secondary branch)
 - **Role:** Primary Fairfax POV in "The Fire" (1865-1894)
 - **Marriage:** Marries Samantha Louise Meade (b. 1845) in 1866
 
@@ -263,6 +270,28 @@
 
 ## FAMILY PROPERTIES & HOLDINGS
 
+### Original Virginia Land (Pre-War)
+
+**Status:** ⚠️ **ANALYSIS NEEDED**
+
+**Question:** What happened to the original Fairfax land in Virginia that Thomas Reginald Fairfax (main line scion) owned before moving to Sequoyah?
+
+**User Query:** "We did an analysis about what happened to the original Fairfax land that Thomas sells to extended family, correct?"
+
+**Current Status:**
+- No analysis document found in codebase
+- Thomas Reginald Fairfax (main line scion) moves to Sequoyah after the war (1866+)
+- Original Virginia property disposition needs to be documented
+- Possible scenario: Thomas sells original Virginia land to extended family members before/after moving to Sequoyah
+
+**Action Needed:**
+- Locate or create analysis document about original Virginia land sale
+- Document which extended family members purchased the land
+- Define timeline of sale (before/after Sequoyah move)
+- Add details to this summary once analysis is found/created
+
+---
+
 ### Sequoyah Land (Hoyt District, 1867-1894+)
 
 **Location:** Hoyt, Sequoyah (Cherokee Nation West + unified Five Tribes republic)
@@ -371,35 +400,24 @@
 
 ## INCONSISTENCIES IDENTIFIED
 
-### 1. Gen 0 Name Inconsistency ⚠️ **CRITICAL**
+### 1. Gen 0 Relationship ✅ **RESOLVED**
 
-**Issue:** Two different names for Gen 0 Fairfax in "The Match":
-- **John Walter Fairfax** (b. 1841) - appears in book chapters, most documents
-- **Thomas Reginald Fairfax** (b. 1841) - appears in some analysis documents
+**Status:** RESOLVED - December 22, 2025
 
-**Evidence:**
-- Book chapters use "John Walter Fairfax"
-- Cast list shows "John Walter Fairfax" for "The Match"
-- But "Thomas Reginald Fairfax" for "The Fire"
-- Samantha Meade marries "Thomas Reginald Fairfax" in 1866
-- Both born 1841 (suspicious - could be same person or brothers)
+**Resolution:**
+- **John Walter Fairfax** (b. 1841) - Cousin from secondary branch, primary POV in "The Match"
+- **Thomas Reginald Fairfax** (b. 1841) - Scion of main Fairfax line, primary POV in "The Fire"
+- They are **cousins**, not the same person
+- Thomas is the main line scion who marries Samantha Meade and establishes the post-war family
 
-**Resolution Needed:**
-- Clarify if they are the same person (name change/inconsistency)
-- OR different people (relationship needs definition)
-- Update all documents to reflect correct canon
+### 2. Confrontation Scene Character ✅ **RESOLVED**
 
-### 2. Confrontation Scene Character ⚠️
+**Status:** RESOLVED - December 22, 2025
 
-**Issue:** Confrontation scene (March 1865) uses "John Walter Fairfax" but some documents reference "Thomas Fairfax"
-
-**Evidence:**
-- `edits/book-01-final-scene-haskell-fairfax-confrontation-2025-12-05.md` uses "Major John Walter Fairfax"
-- `characters/union/frank-a-haskell.md` references "confrontation with Thomas Fairfax"
-
-**Resolution Needed:**
-- Confirm which character is in the confrontation scene
-- Update inconsistent references
+**Resolution:**
+- The confrontation scene (March 1865) features **John Walter Fairfax** (cousin, secondary branch)
+- This is correct - John Walter is the primary Fairfax POV in "The Match"
+- Some documents incorrectly reference "Thomas Fairfax" in this scene - these should be updated to "John Walter Fairfax"
 
 ### 3. Land Ownership Timeline
 

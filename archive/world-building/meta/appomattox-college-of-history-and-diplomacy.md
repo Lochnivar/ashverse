@@ -174,6 +174,44 @@
 - The Tri-Flag Concord Badge is now the single most recognizable symbol of the post-1919 North-American order
 - The only symbol where California's flag is literally bigger than the other two
 
+---
+
+### Texas Does NOT Join Appomattox – LOCKED CANON
+
+**The Tri-Flag Badge Stays Tri-Flag**
+
+Despite the American Concord being a four-nation treaty (1919), the Tri-Flag Concord Badge remains three flags only: USA, CSA, California. There is no Texas flag on the badge because Texas never joined Appomattox College.
+
+**Why Texas Stays Out:**
+
+1. **Not Texas's War:** Texas was CSA for only 16 years (1861-1877). The 1861-1865 conflict isn't their defining story—1836 (independence from Mexico) is.
+
+2. **The Grudge:** Texas left CSA in 1877 because Richmond abandoned them (Mexico crisis, cotton boycott). Joining Appomattox = validating CSA's version of events.
+
+3. **Different Priorities:** Texas's military priority is Mexico border defense, not processing the Civil War.
+
+4. **Already Had Their Own:** Texas Military Institute (TMI) founded 1885—24 years before Appomattox opened in 1909.
+
+**The 1909 Response:**
+
+When Appomattox College opened in 1909, TMI sent an official telegram:
+
+> "Congratulations on your reconciliation academy. We'll be at our own school, learning how to defend against actual threats."
+> — Commandant, Texas Military Institute
+
+**Texas's Evolution (1877-1939):**
+- **1874-1900:** Raw spite ("We don't sit at tables with those who abandoned us")
+- **1900-1919:** Assertive independence ("We have our own school, our own threats, our own future")
+- **1919-1939:** Dignified maturity ("Texas respects the paths our neighbors have chosen. We maintain ours differently.")
+
+**By 1939:** Texas officers treat Appomattox alumni with professional courtesy but have zero interest in joining. The refusal is principled strength, not petty grudge.
+
+**Texas Insignia:** Lone Star only. No Tri-Flag badge. TMI graduates wear their own honors.
+
+**See:** `world-building/military/texas-military-institute-1885.md` for full details.
+
+---
+
 **Campus:**
 - **Main Building:** Rebuilt McLean House (exact replica of 1865 parlor)
 - **Library:** Houses original Schmucker House clock from Gettysburg (still 17 seconds slow)

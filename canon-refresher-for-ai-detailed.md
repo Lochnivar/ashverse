@@ -33,6 +33,19 @@
 - ❌ Bad: "In 1875, President X did Y..." (making things up)
 - ✅ Good: "I don't have 1875 events in context. Should I check timeline docs?"
 
+### Missing Details Recovery Rule: Check Git History
+- **If requested details appear to be missing from current files:** Check the "Before Radical Consolidation" commit (6c161e2)
+- **Command to check:** `git show 6c161e2:<path/to/missing/file>`
+- **Context:** Major consolidation in December 2025 archived many detailed reference files
+- **Files that were restored:** POD campaign timeline (3 parts), Fairfax reference files
+- **If a file is missing:** It may be in `archive/world-building/` in that commit
+
+**Example workflow:**
+- User asks for POD campaign brigade details
+- Current files don't have them
+- Check: `git show 6c161e2:archive/world-building/timelines/pod-campaign/part-02-harrisburg-occupation.md`
+- Restore if needed and inform user
+
 ### Canon Locking Rule: AI Never Locks Canon
 - **AI NEVER locks canon** - Only the user can lock canon
 - **AI NEVER marks things as "LOCKED"** in documents

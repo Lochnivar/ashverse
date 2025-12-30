@@ -41,3 +41,7 @@ ashverse/
 - Keep files focused and organized
 - Link related documents using markdown links
 - Version control your story development
+
+## Important Note for AI Assistants
+
+If you cannot find requested details in current files, check the "Before Radical Consolidation" git commit (6c161e2). Many detailed reference files were archived during consolidation but are preserved in git history. See `canon-refresher-for-ai-detailed.md` for recovery procedures.

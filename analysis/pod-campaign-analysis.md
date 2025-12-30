@@ -118,7 +118,8 @@ Run: python scripts/consistency-checker.py
 
 **Source Files Consolidated:**
 - `analysis/military/pod-campaign-timeline-review-2025-12-09.md`
-- `world-building/06-timelines.md or world-building/reference/pod-campaign/` (Parts 1-3)
+- `world-building/06-timelines.md` (high-level overview)
+- `world-building/reference/pod-campaign/` (Parts 1-3: brigade-level tactical detail)
 
 **Related Analyses:**
 - `pod-lee-death-analysis.md` (POD event)

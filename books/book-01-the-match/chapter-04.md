@@ -105,3 +105,23 @@ The courier gave one final salute and a quick stop at the cookfire to thank them
 Harrisburg City Hall
 Harrisburg, Pennsylvania
 
+Mayor Augustus L. Roumfort closed his eyes and tried not to curse as he rubbed the bridge of his nose.  The July summer sun beat hot through the open window of the second floor meeting room in Harriburg City Hall.  Sweat trickled under his suit coat, the heat unmitigated by any hint of wind from outside.  He should have walked about in shirt sleeves, leaving the coat on the table, but the messenger from this rebel general Longstreet made this a more formal setting, requiring the damned coat for the sake of propriety.
+
+The messenger, a captain in worn rebel gray finery, had been courtesy itself.  But, Roumfort could see the contempt in the man's blue eyes and that didn't help his mood at the moment.
+
+Roumfort paused for another count of ten and tried not to express the three curses boiling in his chest.
+
+The first curse was for the governor of Pennsylvania, Andrew Curtin.  The coward had run off late last month as soon as word of Lee's army of ravening barbarians had reached Harrisburg.  Curtin might prate about his fine Republican ideals, but when it came down to it, it had been the Republicans, and their man in Washington, that had gotten them into this mess.  As soon as the war even hinted at coming into their homes, and they ran, leaving a Democrat to pick up the pieces.  In his more honest moments, Roumfort might readily acknowledge that Curtin had a responsibility for the state as a whole and Harrisburg was properly Roumfort's balliwick.  But, that was cold comfort in the face of an entire Southern army approaching from the south.
+
+The second curse was for his predecessor, William Kepner.  True, the man had been a proper Democrat, which saved him from the fires of damnation, but he had been absolutely worthless in preparing the city during his time as mayor.  A war raging not two states over, one of those states a very narrow divide of mountainous land, and the man hadn't even so much as begun to dig fortifications or increase the militia.  Again, his ineptitude left Roumfort in a very dire situation.
+
+The third curse, and only saved by the rules of proper ettiqute that must be observed at tense moments like this, was reserved solely for that bastard of a rebel general Longstreet.  How dare the man continue to invade the North?  Lee had been bad enough, the man had been a barely pent up pitbull at the best of times, but this Longstreet was supposedly of a different, more sanguine cut.  He should have rightly turned back to defending Virginia when he received command.  But, no.  The man had promptly turned his tail away from Meade's army and ran for a less well defended town.  Roumfort wasn't sure if that was cowardice or incompetence.
+
+God damn Andrew Curtin and his fine Republican principles.
+Off he scurries to safety in Philadelphia or wherever governors hide when the capital burns—leaving the dirty work to those of us who can’t run.
+Duty to the whole state, he’ll say. Of course. Always easier to issue proclamations from a hundred miles away than to stand here with the rest of us while rebel shells whistle overhead. Typical Republican—thunderous words until it’s time to soil their own hands.
+And damn William Kepner twice over.
+Two full years as mayor and what did he leave me? Empty arsenals, no earthworks, not even a proper plan for the bridges. Complacency wrapped in Democratic caution, too busy balancing budgets and soothing merchants to imagine the war might actually reach the Susquehanna. Now we dig like madmen because he never once turned a spade in earnest.
+And damn James Longstreet most of all.
+Bring your whole cursed army north if you must, turn Pennsylvania into your private granary, but did you have to choose Harrisburg? Couldn’t you have burned York again or bled Carlisle dry and left us be? No—of course not. You had to come here, where honest men are trying to hold a city together with shovels and prayers.
+Three curses for three failures not my own… and yet here I stand, accountable for them all.

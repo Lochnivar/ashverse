@@ -123,6 +123,8 @@ Run: python scripts/consistency-checker.py
 
 **Source Files Consolidated:**
 - `analysis/military/match-timeline-comprehensive-plausibility-analysis-2025-12-10.md` (Events 2.1-2.4)
+- `world-building/reference/pod-campaign/part-02-harrisburg-occupation.md` (Harrisburg occupation details)
+- `world-building/reference/pod-campaign/part-03-reading-raid-return.md` (Reading raid details)
 
 **Related Analyses:**
 - `pod-longstreet-decision-analysis.md` (Withdrawal decision enables campaign)

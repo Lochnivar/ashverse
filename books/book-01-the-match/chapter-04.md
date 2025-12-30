@@ -44,13 +44,13 @@ Meade looked up and motioned Gibbon forward.  The staff parted the way and made 
 
 "Good morning to you, General.  How are your men?"  Meade asked.
 
-"Rested sir, and ready for a fight" Gibbon said.  "We're ready to pursue."
+"Rested sir, and eager for a fight" Gibbon said.  "We're ready to pursue."
 
 Meade flinched, just a bit.  Gibbon hadn't meant for the response to be an insult, but Meade obviously took the reference to heart.
 
 "I appreciate the eagerness of your men, General Gibbon," Meade's voice was a touch more frosty.  "However, I'm still not fully convinced that Lee has given up the battle here.  I've ordered Buford to report movements by noon and I'll be riding to see the lines personally in about thirty minutes or so."
 
-"I believe the prudent thing to do is to begin prepping for departure, but let's not break down the lines quite yet.  I've moving Slocum and Sykes north.  One thing we're positive is that Lee isn't to our south and we need those men for reserves if he makes a sudden strike at our lines."
+"I believe the prudent thing to do is to begin prepping for departure, but let's not break down the lines quite yet.  I'm moving Slocum and Sykes north from the round tops south of here.  One thing we're positive is that Lee isn't to our south and we need those men for reserves if he makes a sudden strike at our lines."
 
 "Aye sir." Gibbon gave a quick salute and turned.  Haskell followed him and waited until they had left out of earshot before cursing a blue streak his priest wouldn't have approved of.
 
@@ -89,7 +89,7 @@ Tom had noticed the arrival of the courier and had risen from his own campfire t
 
 Chamberlain handed the orders over to Tom.
 
-"Yes, we're moving out.  General Meade's staff has determined there are no rebels south of here and we're moving out to be a reserve up near Cemetery Hill."
+"Yes, Tom, we're moving out.  General Meade's staff has determined there are no rebels south of here and we're moving out to be a reserve up near Cemetery Hill."
 
 Tom cursed and read the orders while Chamberlain motioned for the courier.
 

@@ -183,7 +183,7 @@ That's a **warning**.
 - **July 13-14** - Reading destruction (48 hours) - 35 locks, 14 bridges, 150 locomotives destroyed
 - **July 26-31** - Return to Virginia (Potomac crossings)
 
-**For brigade-level tactical detail, see:** `world-building/reference/rapidan-campaign-index.md`
+**For brigade-level tactical detail on the POD Campaign, see:** `world-building/reference/pod-campaign/` (README + 3 parts)
 
 ## III. NORTHERN COLLAPSE SEQUENCE (1863-1865)
 

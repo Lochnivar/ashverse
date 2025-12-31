@@ -1,5 +1,7 @@
 # Chapter 4: "Harrisburg"
 
+July 3rd, 1863
+
 ---
 
 ~ 04:45
@@ -105,9 +107,23 @@ The courier gave one final salute and a quick stop at the cookfire to thank them
 Harrisburg City Hall
 Harrisburg, Pennsylvania
 
-Mayor Augustus L. Roumfort closed his eyes and tried not to curse as he rubbed the bridge of his nose.  The July summer sun beat hot through the open window of the second floor meeting room in Harriburg City Hall.  Sweat trickled under his suit coat, the heat unmitigated by any hint of wind from outside.  He should have walked about in shirt sleeves, leaving the coat on the table, but the messenger from this rebel general Longstreet made this a more formal setting, requiring the damned coat for the sake of propriety.
+Mayor Augustus L. Roumfort closed his eyes and tried not to curse as he rubbed the bridge of his nose.  The July summer sun beat hot through the open window of his office in Harriburg City Hall.  Sweat trickled under his suit coat, the heat unmitigated by any hint of wind from outside.  He should have walked about in shirt sleeves, leaving the coat on the table, but the messenger from this rebel general Longstreet made this a more formal setting, requiring the damned coat for the sake of propriety.
 
-The messenger, a captain in worn rebel gray finery, had been courtesy itself.  But, Roumfort could see the contempt in the man's blue eyes and that didn't help his mood at the moment.
+The messenger, a major in worn rebel gray finery, had been courtesy itself.  But, Roumfort could see the contempt in the man's blue eyes and that didn't help his mood at the moment.
+
+Another deep breath and Roumfort turned from the window to face the major again.  He clasped his hands behind his back, an old habit from his West Point days.
+
+"My apologies for making you wait, Major..."
+
+"Fairfax, sir,"  The major came to something of an attention, his voice as absent of any of the contempt that Roumfort thought he saw in the man's face.  Perhaps, just maybe, Roumfort had been a little ... choleric in his assessment of the man's attitude.  Lord only knew how much the stress of the situation was affecting him and Roumfort knew he didn't have the best of tempers.
+
+"Major Fairfax, yes."  Roumfort nodded, fixing the man's name in his mind.  "You have a message from General Lee?"
+
+"I'm sorry mayor, I'm an aide to General Longstreet.  General Lee passed two days ago, in Gettysburg.  General Longstreet is now in command of the Army of Northern Virginia."
+
+"General Longstreet, very well.  Your message?"
+
+"He requests the honor of your surrender." Major Fairfax said.  "He offers generous terms.  You will be required, of course, to hand over any arms or funds that are present in the city and to supply the army at need.  In exchange, you and your city will be compensated with Confederate scrip and there will be no pillaging or unrest from his army, enforced by the lash and the noose, if necessary.  You have one hour to accept."
 
 Roumfort paused for another count of ten and tried not to express the three curses boiling in his chest.
 
@@ -117,11 +133,141 @@ The second curse was for his predecessor, William Kepner.  True, the man had bee
 
 The third curse, and only saved by the rules of proper ettiqute that must be observed at tense moments like this, was reserved solely for that bastard of a rebel general Longstreet.  How dare the man continue to invade the North?  Lee had been bad enough, the man had been a barely pent up pitbull at the best of times, but this Longstreet was supposedly of a different, more sanguine cut.  He should have rightly turned back to defending Virginia when he received command.  But, no.  The man had promptly turned his tail away from Meade's army and ran for a less well defended town.  Roumfort wasn't sure if that was cowardice or incompetence.
 
-God damn Andrew Curtin and his fine Republican principles.
-Off he scurries to safety in Philadelphia or wherever governors hide when the capital burns—leaving the dirty work to those of us who can’t run.
-Duty to the whole state, he’ll say. Of course. Always easier to issue proclamations from a hundred miles away than to stand here with the rest of us while rebel shells whistle overhead. Typical Republican—thunderous words until it’s time to soil their own hands.
-And damn William Kepner twice over.
-Two full years as mayor and what did he leave me? Empty arsenals, no earthworks, not even a proper plan for the bridges. Complacency wrapped in Democratic caution, too busy balancing budgets and soothing merchants to imagine the war might actually reach the Susquehanna. Now we dig like madmen because he never once turned a spade in earnest.
-And damn James Longstreet most of all.
-Bring your whole cursed army north if you must, turn Pennsylvania into your private granary, but did you have to choose Harrisburg? Couldn’t you have burned York again or bled Carlisle dry and left us be? No—of course not. You had to come here, where honest men are trying to hold a city together with shovels and prayers.
-Three curses for three failures not my own… and yet here I stand, accountable for them all.
+"I don't know if I can accept those terms, Major."  Roumfort's face hardened.  "My constituency would not appreciate any decision to surrender to a foreign army.  Especially a unilateral surrender without the advice and consent of my council.  One hour is hardly enough time to properly consider these terms."
+
+"General Longstreet was quite insistent, sir." Fairfax's face was still respectful but there was no give in those eyes.  "I was specifically ordered to inform you that, should you attempt to negotiate for an extension, I was to mention that these terms were not negotiable.  General Longstreet regrets the strategic position that forces him to make such unorthodox demands.  He is quite aware that General Meade has an army in Gettysburg, as you are aware of yourself.  That army may be marching north at this moment.  Giving you the time you need to properly consider these terms would be criminal misconduct in light of that threat.  General Longstreet requires the defenses that you have so competently dug for his own defense once the Army of the Potomac arrives."
+
+Major Fairfax pointed at the framed diploma of the United States Military Academy at West Point, class of 1817, that was hanging on the office wall.
+
+"Your consituency is also not aware of exactly how approximately four thousand militiamen would stand against a full army of veteran soldiers.  I have no doubt that your militia would fight bravely.  However, we both know exactly what will happen."
+
+Silence hung for just a moment, thick in the air.
+
+"General Longstreet requires those fortifications that you have dug.  I'm afraid, I must insist."
+
+Roumfort looked at the diploma on the wall.
+
+Class of 1817. Forty-six years ago. He'd been twenty-one years old, fresh from four years under Thayer, ready to serve his country.
+
+He'd never imagined that country would tear itself apart.
+
+Or that his West Point education would be used against him by another officer to force his surrender.
+
+But Fairfax was right. Damn him, he was right.
+
+Four thousand militia. Maybe fifty-five thousand veterans approaching from the south.
+
+Roumfort had studied tactics. He'd taught tactics at his own military school for decades. He knew the mathematics.
+
+Fifteen minutes. Maybe twenty if his militia were very brave and very lucky.
+
+"What guarantees can General Longstreet offer?" he asked quietly, the political rhetoric abandoned. "You say no pillaging. How can I trust that?"
+
+Fairfax's expression softened slightly—not sympathy, but professional respect.
+
+"General Longstreet's word is absolute, sir. He's already issued orders: any man who molests a citizen or destroys property without authorization will be hanged. No exceptions. The general is... particular about discipline."
+
+"And civilian authority?"
+
+"Will be retained in municipal matters, sir. You'll continue as mayor. Confederate provost marshals will handle military security, but you'll administer the city. The general wishes this occupation to be as... orderly as possible."
+
+Roumfort walked to the window, looking south toward Camp Hill where his fortifications waited.
+
+His fortifications.
+
+That he'd designed.
+
+That he'd supervised the construction of.
+
+That he'd positioned the militia to defend.
+
+That he was about to hand over to the Confederate army.
+
+"Major Fairfax," he said without turning around, "does General Longstreet know who I am?"
+
+"Sir?"
+
+"Does he know that Harrisburg's mayor is United States Military Academy Class of 1817?"
+
+There was a pause.
+
+"I... I don't believe so, sir. He sent me to negotiate with the civilian authority. He didn't mention your military background."
+
+"Then you will convey something to him, Major." Roumfort turned from the window. "You will tell General Longstreet that Augustus L. Roumfort, Class of 1817, accepts his terms. Harrisburg will surrender without resistance at two o'clock this afternoon."
+
+Fairfax's eyes widened.
+
+"Sir... the general will want to meet you personally. Class of 1817... sir, you served under—"
+
+"Jackson. Scott. Both." Roumfort's voice was hard. "Long time ago. Different army. Different war."
+
+"Yes sir." Fairfax came to attention—proper military attention, not the casual courtesy he'd shown before. "Sir, I'll convey your message to General Longstreet immediately. He'll... he'll be honored to meet you."
+
+"Will he, Major? Will a Confederate general be honored to meet the Union mayor who surrendered Pennsylvania's capital without a fight?"
+
+Fairfax met his eyes.
+
+"Sir, General Longstreet will be honored to meet a fellow officer who made the professional choice. Who saved his city. Who understood the mathematics and acted accordingly."
+
+He paused.
+
+"The general is not... like General Lee, sir. He doesn't seek glory. He seeks results. You're giving him what he needs—Harrisburg's fortifications, without bloodshed, quickly enough to prepare for Meade. That's professional soldiering, sir. Not cowardice."
+
+Roumfort looked at the young major—probably thirty years old, maybe less. Young enough to be his grandson.
+
+"How old are you, Major?"
+
+"Thirty-two, sir."
+
+"What class?"
+
+"VMI, sir. Class of '52."
+
+"Virginia Military Institute. Good school."
+
+"Yes sir. Learned tactics from men who studied under you, sir. Your textbooks from the military school you founded... they're still in use."
+
+Roumfort closed his eyes.
+
+His textbooks. Teaching young officers like this major how to win wars.
+
+And now one of those officers was accepting his surrender.
+
+"Tell General Longstreet I'll meet him at the capitol building at two o'clock to formalize the surrender," he said quietly. "And Major?"
+
+"Sir?"
+
+"The fortifications are well-prepared. Good enfilade positions, supporting works, proper fields of fire. Thayer's principles throughout. When General Meade arrives, General Longstreet will find them... adequate for his purposes."
+
+Fairfax smiled slightly—the first break in his professional demeanor.
+
+"I'm certain he will, sir. And I'm certain he'll appreciate the professional quality of the work."
+
+"Professional," Roumfort repeated bitterly. "Is that what we're calling this?"
+
+"Sir, you're saving lives. Your militia's lives. Your citizens' lives. That's what officers do when glory isn't possible."
+
+"And when is glory possible, Major?"
+
+Fairfax's smile faded.
+
+"I don't know, sir. I'm still trying to figure that out myself."
+
+He offered a bow—deeper than protocol required.
+
+"Thank you for your cooperation, sir. General Longstreet will be informed immediately. Good day."
+
+And then he was gone, leaving Roumfort alone with his diploma, his decision, and the knowledge that in two hours, a Confederate army would occupy Harrisburg.
+
+Tomorrow, Independence Day, 1863, the Confederate Flag would fly over the capitol of Pennsylvania.
+
+Class of 1817 had taught him many things.
+
+Today, it had taught him the hardest: that sometimes the most professional decision is the one that feels most like surrender.
+
+He sat at his desk and began drafting the orders to his militia commanders.
+
+Stand down. Go home. The mayor has surrendered.
+
+The pen felt very heavy in his hand.
+

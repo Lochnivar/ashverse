@@ -1,8 +1,8 @@
 # Chapter 3: "The Withdrawal"
 
---- Scene 1 
+July 2nd, 1863
 
-~ 0533
+~ 05:33
 Mummasburg Road
 Gettysburg, Pennsylvania
 
@@ -30,7 +30,7 @@ Gamble took the note and read it thoroughly.
 
 ---
 
-~ 0630
+~ 06:30
 Leister House
 Cemetery Hill
 Gettysburg, Pennsylvania

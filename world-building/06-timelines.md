@@ -173,17 +173,25 @@ That's a **warning**.
 - **04:45** - First grey light (dawn begins)
 - **By 07:00** - Entire Confederate army in column heading north
 
-**July 3-10, 1863:**
-- **July 3, 14:00** - Harrisburg occupied
-- **July 3-10** - 7-day occupation of Harrisburg
-- **Key Events:** Foraging operations, Longstreet's proclamation, council of war, Reading raid decision
+**July 3–8, 1863 (Phase 1 – Harrisburg occupation):**
+- **July 3, 14:00** - Harrisburg occupied (east bank ~50–55k). Early present July 3–5 only; **Early departs for Reading July 5.** Main body remains at Harrisburg. Meade holds west bank in strength (does **not** go to Baltimore).
+- **Key Events:** Foraging, Longstreet's proclamation, Reading raid as **planned contingency** (Early's division only).
 
-**July 10-31, 1863:**
-- **July 12, 13:00** - Reading surrenders
-- **July 13-14** - Reading destruction (48 hours) - 35 locks, 14 bridges, 150 locomotives destroyed
-- **July 26-31** - Return to Virginia (Potomac crossings)
+**July 4–5 (Phase 2):** Longstreet detaches Early (~5–6k) for Reading raid. Early **departs Harrisburg July 5.** Main body stays to lock Meade down.
 
-**For brigade-level tactical detail on the POD Campaign, see:** `world-building/reference/pod-campaign/` (README + 3 parts)
+**July 5–12 (Phase 3 – Early's raid):** Early marches to Reading (~60 mi), hits Reading ~July 7–8. **24–36 hours** at Reading (P&R Railroad targets; damage as permanent as Early can make it; point is political panic/force diversion). Withdraws SE to Lancaster, then toward York.
+
+**July 7–11 (Phase 4 – Meade's catch-22):** Meade splits force (60–70% at Harrisburg, 30–40% to York). March to York ~25–26 mi; vanguard July 8–9, main body strung out July 9–10.
+
+**July 10–11 (Phase 5 – York):** Early slips past piecemeal Union forces at York (feint Wrightsville, secondary roads). Escape ~July 11. Light casualties (~200–300). No pitched battle. **Cavalry clash at Wrightsville** (July 10–11): Meade's cavalry scouts Early; Longstreet sent Hampton (cavalry-heavy); Custer's dash kills Hampton; Fitz Lee promoted.
+
+**July 15–16 (Phase 6):** Pickett's breakthrough at Harrisburg (thinned garrison). ANV withdraws south through Cumberland Valley.
+
+**July 12–14 (Phase 7):** Force reunion **west of Gettysburg.** Early first, then Longstreet's main body. Combined ANV south via South Mountain toward Potomac.
+
+**Late July–early Aug:** Potomac crossings; Hood matador; Meade sacked ~Aug 1; Warren appointed.
+
+**For brigade-level tactical detail on the POD Campaign, see:** `world-building/reference/pod-campaign/` (README + 3 parts). Parts aligned to DIALOGUE-PAGE / POD-CAMPAIGN-IMPLEMENTATION-PLAN.
 
 ## III. NORTHERN COLLAPSE SEQUENCE (1863-1865)
 

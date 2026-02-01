@@ -28,7 +28,7 @@ Daniel nodded and a brief, uncomfortable silence threatened.
 
 "Just about sir."  Daniel nodded and straightened his spine, his pride in his brigade was evident.  "Give us fifteen minutes and we'll step off smartly."
 
-"See you in Harrisburg then.  Give them hell, Junius."  Rodes extended a hand and Daniel shook it."
+"See you in Harrisburg then.  Give them hell, Junius."  Rodes extended a hand and Daniel shook it.
 
 ---
 
@@ -38,7 +38,7 @@ Gettysburg, Pennsylvania
 
 Almost twenty-four hours later, Gibbon and Haskell still noted the hornet's nest activity of the previous day, but this activity had context.  Haskell could read the concern, and distaste, on the faces of the men entering and leaving the Leister House.  Both emotions were locked firmly behind granite military discipline, but a veteran like Haskell could see the signs.  All men had them and even rigid military training couldn't remove the tells completely.
 
-"I believe that we're not going to find satisfaction this morning, Frank." Gibbon's tone seemed to indicate that the general had noticed the difference as well.  After last night's mild reprimand, such a comment only highlighted Gibbon's internal stress and disappointment.  Haskell only nodded, not trusting himself to speak.
+"I don't believe that we're going to find satisfaction this morning, Frank." Gibbon's tone seemed to indicate that the general had noticed the difference as well.  After last night's mild reprimand, such a comment only highlighted Gibbon's internal stress and disappointment.  Haskell only nodded, not trusting himself to speak.
 
 General Meade stood in the house, his coat on and looking better than he had yesterday.  He didn't look rested, but his eyes were once again clear and reasonably alert.  Maps and reports were strewn across the table and a tin cup of coffee steamed at the near corner.  His staff crowded around the table, but Major General Butterfield noticed Gibbon and touched Meade on the forearm to get his attention.
 
@@ -139,7 +139,7 @@ The third curse, and only saved by the rules of proper ettiqute that must be obs
 
 Major Fairfax pointed at the framed diploma of the United States Military Academy at West Point, class of 1817, that was hanging on the office wall.
 
-"Your consituency is also not aware of exactly how approximately four thousand militiamen would stand against a full army of veteran soldiers.  I have no doubt that your militia would fight bravely.  However, we both know exactly what will happen."
+"Your consituency is also not aware of exactly how approximately four thousand militiamen would stand against a full army of veteran soldiers.  You do.  I have no doubt that your militia would fight bravely.  However, we both know exactly what will happen."
 
 Silence hung for just a moment, thick in the air.
 
@@ -271,3 +271,82 @@ Stand down. Go home. The mayor has surrendered.
 
 The pen felt very heavy in his hand.
 
+---
+
+~ 13:00
+Cemetery Hill
+Gettysburg, Pennsylvania
+
+General George Meade tried not to curse as he listened to the reports from the various messengers.  Cursing wasn't his way.  It was undignified in a general officer.  A private, uncouth and without lower ranked officers that depended on his cool demeanor, could get away with a foul mouth when the occassion warranted it.
+
+Meade found himself jealous of that private.  For if any occassion warranted a fit of cussing, this was it.
+
+He sat astride his horse under the shade of a convinent oak tree, lush with foliage in the hot summer sun.  Sweat still tricked down his back and chest as he scanned the lower slopes and empty lines that had been filled with Confederate soldiers a mere day ago.
+
+Where had Lee gone?  The man had never abandoned a challenge such as what Meade had given him.  Give the man a clear objective and an obvious, clearly positioned military force and Lee always attacked it.  Always.  The man was constitutionally unable to let a rival army stand between him and his objective unchallenged.  True, he might feint, like he had done at Chancelorsville, but he always attacked.
+
+But not here.  Not today.  There were no signs of Lee's army and General Buford's cavalry had verified that the nearest element of the Army of Northern Virginia was nearly to Carlisle by now.  
+
+Carlisle.  That meant the advance elements were already to Harrisburg, the only other viable target that Meade could imagine if Lee wasn't going to fight here.
+
+He felt like he was a man about to be hanged.  The noose was around his neck and only a single plank, designed to collapse on command, preserved him from disaster.  He wasn't a particularly political general, he was more interested in regiments than regalia.  But even he could see the catastrophe unfolding if Lee took Harrisburg, the capitol of a Northern state.
+
+"General Butterfield!" Meade summoned his aide.
+
+"Aye sir?"  Major General Daniel Butterfield rode alongside the older man and saluted briefly.
+
+"How many men does Harrisburg have?"
+
+"I'd have to check the maps for updates, but at last count, about four thousand militia."
+
+Meade closed his eyes and lowered the binoculars to rest on the pommel of the saddle.
+
+"If that is the case," he murmurred to himself mostly, "then Harrisburg has already fallen to the enemy."
+    
+"Most likely, sir." Butterfield replied as though he was asked the question.  "I can request a confirmation via telegraph if you wish."
+
+"Please do, though I believe we both know what the response will be."
+
+Meade opened his eyes and looked about him.  The privates were busy at their chores, not quite avoiding his gaze.  The officers however, were another story.  He could see Gibbon and his aide Haskell standing by Gibbon's tent.  Gibbon's eyes were blank, but Meade could clearly see the resentment in Haskell's eyes.  But, for all of their blankness, Gibbon's eyes were the most accusatory.
+
+And Meade couldn't blame him.
+
+Butterfield returned from sending a messenger.
+
+"Daniel, I believe we'll get Generals Slocum and Sykes on their way north.  They are already in column.  Then have the rest of the army pack up and join the pursuit."
+
+---
+
+~14:30
+
+General Longstreet stood on a small rise just south of Harrisburg, examining the fortification lines of Camp Hill about two miles away.
+
+
+
+After the staff briefing, the room empties. Major General Jubal Early lingers.
+
+Early proposes a full-dress spectacle for the morrow: bands playing captured Union tunes in mockery, citizens ordered to line the streets.
+
+Colonel G. Moxley Sorrel objects quietly:
+
+> "General Early, half our camps and every newspaper in Richmond call this fight a second 1776. My own great-grandfather stood with Richard Henry Lee against a king who taxed without consent. If we are truly in their place now, then let us act it. March the men in pride if you wish, but spare the mockery and the forced crowds. We cheapen our own cause if we turn their sacred day into a farce."
+
+Longstreet raises a hand before Early can retort.
+
+> "Colonel Sorrel is right. The men have earned the right to march with pride through these streets tomorrow ΓÇö that alone will sting more than any mockery ever could. We will form columns, play our own music, and pass in review. No captured tunes, no orders compelling attendance."
+
+The others depart. Early remains a moment longer.
+
+Longstreet speaks privately:
+
+> "Jubal, I know this rubs you wrong. These people are beaten for now ΓÇö sullen is enough. Push harder tomorrow with mockery and crowds and you risk turning sullen into desperate. We can't spare the men to suppress a riot when the army still needs rest."
+
+He gestures to the map ΓÇö no finger yet tracing a specific route east.
+
+> "Right now my only decision is to give these men another full day ΓÇö maybe two ΓÇö of hot food, dry boots, and sleep. After that we'll choose where to strike next. Wherever it is, there'll be economic arteries to cut and infrastructure to burn. That's where I'll need your aggression and your flair ΓÇö turned on targets that bleed the North's war effort, not on civilians who can only bleed us with pinpricks. Hold that fire. You'll get your chance soon enough."
+
+Early exhales, tension easing slightly.
+
+> "I'll hold it, sir. But don't keep me on too tight a leash when the time comes."
+
+Longstreet (dryly): "I won't. Good night, General."

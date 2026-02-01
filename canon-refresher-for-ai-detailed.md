@@ -121,31 +121,33 @@
 **The Northern Collapse Sequence:**
 1. **July 1, 1863:** Lee dies (94%)
 2. **July 2-3, 1863:** Meade's 36-hour delay (~30.5 hours from initial report to pursuit commitment). Even a "perfect Meade" faces a structural minimum delay of 4–6 hours (organization, verification, distribution), so a hypothetical immediate pursuit still arrives roughly July 4 evening — too late to prevent Harrisburg's surrender. See `analysis/military/meade-36-hour-delay-telegraph-strategy-2025-12-17.md` (Dec 17, 2025) for hour-by-hour breakdown and Longstreet's telegraph strategy (open lines July 3–9; cut lines July 9). (91%)
-3. **July 3-10, 1863:** Harrisburg Occupation (7 days) - Battle of Camp Hill (July 5), Quaker gun deception, gradual shift east (92-94%)
-4. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
-4. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction that teaches him: panic = weakness) (92%)
-5. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
-6. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
-7. **Aug 25-Sep 9, 1863:** Rappahannock-Rapidan Campaign disaster - "Fifteen Days' Meat-Grinder" (15 days, ends with army cohesion collapse at Germanna) (~42,000 Union casualties, ~16,500 Confederate, 2.5:1 ratio) (82-85%)
+3. **July 3–8, 1863:** Harrisburg occupation. Early present July 3–5 only; **Early departs for Reading July 5.** Main body stays at Harrisburg. Meade holds west bank in strength (does not go to Baltimore). Reading raid = **planned contingency** (Early's division only). (92-94%)
+4. **July 5–12:** Early's raid on Reading (24–36 hrs); political panic/force diversion. Meade's catch-22: splits between Harrisburg and York.
+5. **July 10–11:** Early **slips past** York (light casualties); **cavalry clash at Wrightsville** (Hampton killed, Fitz Lee promoted). **July 15–16:** Pickett's breakthrough at Harrisburg. **July 12–14:** Reunion west of Gettysburg. Late July–early Aug: Potomac crossings; Meade sacked ~Aug 1. (88%)
+6. **July-Oct 1863:** Longstreet's 10-week raid through Pennsylvania-Maryland (~55k men) (88%)
+7. **Aug 1, 1863:** Meade sacked "for want of aggression" - THE PANIC MOVE (Lincoln sacks immediately after Longstreet returns across to Virginia, panic reaction that teaches him: panic = weakness) (92%)
+8. **Aug 3, 1863:** Warren appointed commander (young, aggressive, politically clean) (92%)
+9. **Late Oct 1863:** Battle of Hagerstown - Warren's desperate assault bloodily repulsed (90%)
+10. **Aug 25-Sep 9, 1863:** Rappahannock-Rapidan Campaign disaster - "Fifteen Days' Meat-Grinder" (15 days, ends with army cohesion collapse at Germanna) (~42,000 Union casualties, ~16,500 Confederate, 2.5:1 ratio) (82-85%)
 8. **Oct 24, 1863 - Jan 1, 1864:** Investigation period - THE CAUTIOUS MOVE (Lincoln waits 2.5 months despite pressure, learns from Meade backlash) (93%)
-9. **Jan 1, 1864:** Warren relieved after "Mature Consideration Farce" (92%)
+12. **Jan 1, 1864:** Warren relieved after "Mature Consideration Farce" (92%)
 10. **Jan 3, 1864:** Hancock assumes command (healthy - no Gettysburg wound) (92%)
-11. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line (90%)
+14. **Spring 1864:** Longstreet digs in on Rapidan-Rappahannock line (90%)
 12. **June 14-July 14, 1864:** Pickett's Lightning Raid (14k men, 30 days actual raiding, newspapers report "FORTY DAYS OF TERROR!") (88%)
     - **Carlisle as strategic objective:** Taken second summer in a row (symbolic gut-punch) (92%)
     - **Field's Division destroyed:** Advanced back-stop crushed at Carlisle, ~550 casualties (91%)
     - **Kershaw saves withdrawal:** Extends line north, fights delaying actions (91%)
     - **Total casualties:** ~1,200 (650 Pickett's Flying Corps, 550 Field's Division)
-13. **July 12, 1864:** Hancock wounded on Susquehanna pursuing Pickett - commands from bed through March 1865 - THE WISDOM MOVE (Lincoln keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection) (91%)
+16. **July 12, 1864:** Hancock wounded on Susquehanna pursuing Pickett - commands from bed through March 1865 - THE WISDOM MOVE (Lincoln keeps Hancock despite wound and Pickett's success, prioritizes stability over perfection) (91%)
 14. **Aug-Dec 1864:** Winter of Despair - riots, draft collapse, Copperhead victories (92%)
-15. **Nov 1864:** McClellan elected on peace platform (Lincoln loses) (95%)
+18. **Nov 1864:** McClellan elected on peace platform (Lincoln loses) (95%)
 16. **Late Jan-Feb 1865:** Grant's Final Gamble (never promoted to general-in-chief) (88%)
-17. **Feb 18-20, 1865:** Battle of Appomattox Court House - Grant defeated, surrenders (91%)
+20. **Feb 18-20, 1865:** Battle of Appomattox Court House - Grant defeated, surrenders (91%)
     - **V Corps Commander:** Charles Griffin (Warren relieved Jan 1, 1864) (92%)
     - **Casualties:** Union ~18,000 (28%), Confederate ~12,000 (18%)
     - **Rational decisions framework:** Commanders make choices based on known characteristics
 18. **March 4, 1865:** McClellan inaugurated (Lincoln lame-duck 27 days)
-19. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs) (95%)
+22. **March 31, 1865:** Treaty of Cincinnati signed by McClellan (Lincoln never signs) (95%)
 
 **Winter 1864-1865 Note:** Worst winter in decades (critical for Sherman's march).
 
@@ -812,10 +814,10 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 - **Harrisburg Occupation:** `/world-building/06-timelines.md (POD Campaign section)part-02-harrisburg-occupation.md` (Battle of Camp Hill, Quaker guns, gradual shift)
 - **Grant's Final Gamble:** `/analysis/military/grant-gamble-canon-update-2025-12-10.md` (Griffin replaces Warren, Feb 18-20, 1865)
 - **Pickett's Raid:** `/world-building/pickett-raid-canonical-timeline.md` (Carlisle objective, Field's destruction)
-- **Battle of York:** `/world-building/04-military-history.md (Battle of York section)` (July 18, 1863 — Longstreet's miscalculation, 1-day mobile breakthrough during return march)
+- **York / Wrightsville (POD campaign):** *Removed for rework.* Axis threats and dates are different in new POD version. See `DIALOGUE-PAGE.md` and `edits/POD-CAMPAIGN-IMPLEMENTATION-PLAN.md`. No standalone Battle of York reference until rework is complete.
 - **Book 1 Act Structure:** `/books/book-01-the-match/ACT-STRUCTURE-SUMMARY.md` (four-act structure overview), `/books/book-01-the-match/ACT-1-CLOSING-CHAPTERS-OUTLINE.md` (Act 1 closing chapters), `/books/book-01-the-match/ACT-1-2-TRANSITION-OUTLINE.md` (interludes), `/books/book-01-the-match/ACT-2-OUTLINE.md` (Act 2 Warren era), `/books/book-01-the-match/ACT-2-3-TRANSITION-OUTLINE.md` (investigation interludes)
 - **Rappahannock-Rapidan Campaign:** `/world-building/06-timelines.md (Rappahannock-Rapidan section)` (15-day campaign Aug 25-Sep 9, 1863, three phases ending with army cohesion collapse at Germanna)
-- **Maps:** `/maps/` folder contains battle and campaign maps (e.g., `battle-of-york-07-18-1863.png`)
+- **Maps:** `/maps/` folder contains battle and campaign maps. (York/Wrightsville map removed for rework; see `edits/BATTLE-OF-YORK-REMOVED-FOR-REWORK.md`.)
 - **Patrick Cleburne:** `/characters/confederate/patrick-cleburne.md` (Character profile), `/analysis/political/cleburne-cashiering-martyred-prophet-2025-12-15.md` (Cashiering analysis and post-war role)
 - **Civil Rights Timeline (1920s-1950s):** `/world-building/reference/civil-rights-timeline-1920s-1950s.md` (California leads, USA/CSA follow)
 - **American vs. European Anti-Semitism:** `/world-building/reference/american-antisemitism-vs-european.md` (Comparative analysis, fade mechanism)
@@ -842,7 +844,7 @@ All housed in Institute Hall with iconic Tick/Tock clocks flanking entrance. See
 - December 21, 2025: Refined return march route — Monterey Pass (South Mountain) → Cumberland Valley route locked; Meade's pursuit decision based on mountain-screen calculation; matador split (Hood rear guard, main body south) added as Act 2 opening; Act 1 closes at Potomac crossing (August 6, 1863)
 - December 21, 2025: Added Conodoguinet Creek terrain detail to Harrisburg occupation — natural barrier ~3–5 miles west of Susquehanna, channels Union approaches, enhances defensive plausibility
 - December 22, 2025: Locked Native super-states attitudes toward Big Three condescension — pragmatic tolerance with quiet amusement/resentment, "malicious compliance" strategy, Cherokee "minor treaties" network (1870s-1939+), three flavors of condescension (USA protection, CSA civilization, California partnership), spectrum of tolerance (Sequoyah → Deseret → Plains nations). Full details: `world-building/reference/native-super-states-attitudes.md`
-- December 21, 2025: Created Battle of York canon document (July 18, 1863) — Longstreet's miscalculation during return march, 1-day mobile breakthrough, ~4,500 Confederate/~2,800 Union casualties. Added to `/world-building/04-military-history.md or world-building/reference/` and referenced in POD campaign timeline. Battle map available in `/maps/` folder.
+- *POD campaign update (DIALOGUE-PAGE implementation):* Harrisburg/Reading/York/return sequence aligned to new timeline (Early only to Reading, 24–36 hrs; Meade stays at Harrisburg then splits; Early slips past York July 10–11; cavalry clash at Wrightsville; Pickett at Harrisburg; reunion west of Gettysburg). See `DIALOGUE-PAGE.md` and `edits/POD-CAMPAIGN-IMPLEMENTATION-PLAN.md`.
 - December 20, 2025: Added Panhandle Crisis (1870-1873) as Tick clock inspiration — eastern panhandle counties (Jefferson, Berkeley, Morgan) revolt against USA control, returned to CSA/Virginia via 1873 Panhandle Accord (post-Treaty border modification). Grounds Tick clock symbolism in real crisis.
 - December 20, 2025: Refined Tick/Tock clocks symbolism — Tick = internal North American tensions, Tock = global tensions. Added tradition note about cadets reciting "The keg ticks, but we tock" while winding clocks.
 - December 22, 2025: Rappahannock-Rapidan Campaign refined to 15 days (Aug 25-Sep 9, 1863) — Phase 4 Raccoon Ford diversion eliminated, campaign ends with army cohesion collapse at Germanna. Hood's rest period shortened (3 days + quiet sector rotation). Casualties adjusted to Union ~42,000, Confederate ~16,500 (2.5:1 ratio). Plausibility 82-85%. "Mature Consideration Farce" acknowledged as historically generous (60-65% plausible) but preserved for narrative.

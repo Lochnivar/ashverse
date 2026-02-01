@@ -36,7 +36,7 @@
 
 **July-October 1863**
 
-*[Burning railroads, levying contributions ($3-5 million), within sight of Baltimore]*
+*[Harrisburg occupied; Early's raid on Reading (24–36 hrs, political panic); Meade's catch-22; Early slips past York; cavalry clash at Wrightsville; Pickett's breakthrough at Harrisburg; reunion west of Gettysburg]*
 
 ### Northern Morale Collapse Begins
 

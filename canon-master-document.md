@@ -91,10 +91,11 @@ This is the exact, locked sequence that breaks Northern resolve. No fairy dust, 
 **ANV Strength:** ~55k strong, intact supply lines
 
 **What Happens:**
-- Longstreet marches north through Pennsylvania and Maryland
-- Burns railroads, levies $3-5 million from Northern towns
-- Gets within sight of Baltimore
-- Refuses battle, preserves army strength
+- Longstreet occupies Harrisburg (July 3–8); Meade holds west bank in strength (does not go to Baltimore).
+- Reading raid = Early's division only (planned contingency); Early departs July 5; 24–36 hrs at Reading (political panic/force diversion).
+- Meade's catch-22: splits between Harrisburg and York; Early slips past York (July 10–11); cavalry clash at Wrightsville (Hampton killed, Fitz Lee promoted).
+- Pickett's breakthrough at Harrisburg (July 15–16); reunion west of Gettysburg (~July 12–14).
+- Burns railroads, levies from Northern towns; refuses battle, preserves army strength.
 
 **Impact:** "They're still here and we can't drive them out." Northern morale shifts from victory to frustration.
 

@@ -45,16 +45,16 @@
 - ✅ Timeline aligns with master timeline (after discrepancy resolution)
 - **Plausibility: 92%** - Excellent tactical detail
 
-**Part 2: Harrisburg Occupation (July 3-10)**
+**Part 2: Harrisburg Occupation (July 3-8)**
 - ✅ Day-by-day occupation with detailed foraging operations
-- ✅ Strategic decision-making realistic
-- ✅ Resupply operations plausible
+- ✅ Strategic decision-making realistic (Early-only Reading raid as contingency; main body holds Harrisburg)
+- ✅ Meade stays west bank (no Baltimore); catch-22 when Early hits Reading
 - **Plausibility: 90%** - Excellent operational detail
 
-**Part 3: Reading Raid & Return (July 10-31)**
-- ✅ Systematic destruction operations with specific targets
-- ✅ Economic impact estimates realistic
-- ✅ Return route and timing plausible
+**Part 3: Reading Raid & Return (July 5–~July 14 + return)**
+- ✅ Early's division only to Reading (24–36 hours); damage as permanent as Early can make it
+- ✅ Meade's catch-22 (split Harrisburg/York); Early slips past York; cavalry clash at Wrightsville (Hampton killed, Fitz Lee promoted)
+- ✅ Pickett's breakthrough at Harrisburg (July 15–16); reunion west of Gettysburg (~July 12–14)
 - **Plausibility: 91%** - Excellent tactical detail
 
 **Discrepancy Resolution:**

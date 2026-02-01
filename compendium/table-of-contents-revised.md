@@ -61,7 +61,7 @@ Appomattox Collegial Press, 1985
 - Longstreet's 10-week raid strategy
 - "Preserve army, break Northern morale"
 - Burning railroads, levying contributions ($3-5 million)
-- Within sight of Baltimore
+- Early's raid (Reading/York); Meade's catch-22; reunion west of Gettysburg
 - Northern morale collapse begins
 - Battle of Hagerstown ("Meade's Last Throw")
 - Meade repulsed, loses 9,000 men for nothing

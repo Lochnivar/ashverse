@@ -9,10 +9,10 @@
 
 ## STRUCTURAL PRINCIPLES
 
-- July 5 given full weight (battle + Longstreet's Reading decision)
-- Deception and march phases compressed to maintain momentum
-- Return march vignette-style to avoid drag while showing evasion and relief
-- Transition to Union command shakeup sets up Rappahannock-Rapidan meat-grinder
+- July 5 given full weight (battle + Longstreet's Reading **contingency** decision — Early only)
+- Meade **stays at Harrisburg** (west bank); splits to York when Early hits Reading (catch-22)
+- Early's raid only (24–36 hrs Reading); Early **slips past** York (July 10–11); **Pickett's breakthrough at Harrisburg** (July 15–16); **reunion west of Gettysburg** (~July 12–14)
+- Return march vignette-style; transition to Union command shakeup sets up Rappahannock-Rapidan meat-grinder
 
 ---
 
@@ -24,48 +24,47 @@
 **Beats:**
 - Dawn council & probe authorization (political pressure beats)
 - Battle of Camp Hill: assault, repulse (~4,600 Union casualties)
-- Afternoon: Longstreet's staff meeting — Reading chosen as off-axis economic target
-- Orders for gradual east-bank shift + Quaker-gun preparation
-- Evening: Meade's reflection / wire to Lincoln
+- Afternoon: Longstreet's staff meeting — **Reading as planned contingency** (Early's division only; main body stays to lock Meade down)
+- **Early ordered to depart July 5** for Reading raid
+- Evening: Meade's reflection / wire to Lincoln (Meade **stays** west bank; does not go to Baltimore)
 
 **Key Moments:**
 - Political pressure forcing probe despite Meade's accurate read
 - Battle repulse validates Meade's judgment but costs blood
-- Longstreet's strategic decision: Reading over Philadelphia/Baltimore
-- Setting up deception and march phases
+- Longstreet's contingency: Early to Reading (political panic, force diversion); main body holds Harrisburg
+- Meade holds west bank in strength
 
 ---
 
-### Chapter X+1: "The Silent Shift" (July 6–9, 1863 – Compressed)
+### Chapter X+1: "Early Goes" (July 5–6, 1863 – Compressed)
 **Status:** Ready for writing
 
 **Beats:**
-- Montage of night crossings, Quaker-gun emplacement, foraging
-- Intercut Union reports misreading activity as garrison rotation
-- Longstreet's final heights visit + parting note (July 9 evening)
-- Ends with army staged east of Harrisburg, ready to march
+- Early's division departs Harrisburg July 5 for Reading (~60 mi, 2–3 days)
+- Main body **stays at Harrisburg** (no Quaker guns; no full shift east)
+- Meade holds west bank; telegraph disinformation; no assault after Camp Hill
+- Intercut: Early's march southeast; Longstreet holding the line
 
 **Key Moments:**
-- Deception successful: Union doesn't detect full withdrawal
-- Longstreet's parting gesture (note left for Meade)
-- Army successfully shifted to east bank without detection
+- Early's raid in motion (planned contingency)
+- Main body locks Meade down at Harrisburg
+- Meade does not go to Baltimore; stays in theater
 
 ---
 
-### Chapter X+2: "Departure and Discovery" (July 10, 1863)
+### Chapter X+2: "Meade's Choice" (July 7–9, 1863)
 **Status:** Ready for writing
 
 **Beats:**
-- Dawn withdrawal, bridges burned, march northeast begins
-- Union cavalry discovery of Quaker guns mid-morning
-- Meade's reaction (Baltimore) — frantic pursuit orders, knowing too late for Reading
-- Brief Washington glimpse (Lincoln reading deception report)
+- Meade learns Early hit Reading (~July 7–8); does not know Early's size or Longstreet's intent
+- **Meade's catch-22:** Splits force — 60–70% at Harrisburg, 30–40% to York (march ~25–26 mi; vanguard July 8–9, main body strung out July 9–10)
+- Anticipates Early at York ~July 10–11
+- Brief Washington glimpse (Lincoln/Stanton pressure)
 
 **Key Moments:**
-- Clean Confederate departure
-- Union realization: they've been deceived
-- Meade understands pursuit is futile but orders it anyway
-- Lincoln sees the pattern: Longstreet outthinking them again
+- Meade reads the map; doesn't wait for Washington
+- Impossible position: not enough at Harrisburg to stop Pickett, not enough at York to stop Early
+- Competent general in unwinnable situation
 
 ---
 
@@ -89,79 +88,78 @@
 
 ---
 
-### Chapter X+4: "The Burning of Reading" (July 13–14, 1863 – Full Chapter)
+### Chapter X+4: "The Burning of Reading" (July 7–8 / 24–36 hours – Compressed)
 **Status:** Ready for writing
 
 **Beats:**
-- Full raid payoff: Early unleashed on canal boats, railroad bridges, foundries
-- Spectacular night fires, economic devastation
-- Civilian reactions, Longstreet's cold satisfaction
-- Pivot southwest begins
+- **24–36 hours** at Reading (not 48). Early: P&R Railroad — select bridges, rolling stock, sidings; ransoms/supplies
+- Damage **as permanent as Early can make it** in window; *point* is **political panic and force diversion**, not tonnage
+- Spectacular fires, civilian reactions, headlines
+- Early withdraws SE to Lancaster, then toward York
 
 **Key Moments:**
-- Early gets his "bone" (promised aggressive role)
-- Economic targets destroyed methodically
-- Night spectacle of destruction
-- Longstreet's satisfaction: mission accomplished
-- Reading raid complete, withdrawal phase begins
+- Early gets his "bone" (aggressive role)
+- Political/headline impact (force diversion achieved)
+- Reading raid complete; Early moves toward York
 
 ---
 
-### Chapter X+5-X+6: "The York Foul-Up" (July 17-18, 1863 – 1-2 Chapter Mini-Arc)
-**Status:** Ready for writing  
-**Format:** Full dramatic treatment (elevated from vignette)
-
-**Beats (Possible Two-Chapter Split):**
-
-**Chapter X+5: "The Miscalculation" (July 17, 1863)**
-- Approach to York from Lancaster
-- Scout reports: York fortified/reinforced
-- Longstreet's realization: "Foul-up — Meade moved faster than I credited. Should have reversed to Harrisburg/Chambersburg — kept mountains between us."
-- Decision: No time for safe play — "Meade isn't fully ready; we strike at dawn, break through before he masses."
-- Unleashing toolbox: Early frontal to fix; Pickett/Hampton flank slide west
-- Evening tension: Army prepares for dawn assault
-
-**Chapter X+6: "The Breakthrough" (July 18, 1863 – 1-Day Mobile Battle)**
-- Dawn–midday: Early's frontal pressure fixes Union center (~2,000 Confederate casualties)
-- Midday–afternoon: Pickett/Hampton flank slide (west/open farmland) threatens Union rear
-- Late afternoon–dusk: Union withdraws southeast to avoid encirclement; Longstreet pushes through gap
-- Final casualties: Confederate ~4,500 total; Union ~2,500-3,000 (defensive advantage)
-- Longstreet's reflection: "My haste nearly cost us — but the boys carried it."
-- Outcome: Breakthrough successful, army resumes southwest march (York → Gettysburg → Chambersburg → Potomac)
-- Escape hard-won, not clean
-
-**Key Moments:**
-- Longstreet humanized (miscalculation pays price)
-- Toolbox showcased: Early fixes, Pickett/Hampton slide
-- Meade nearly traps him (competent Union effort)
-- Victory earned through subordinate aggression compensating for Longstreet's error
-- Avoids "Mary Sue" outcome: costly victory, not effortless escape
-
----
-
-### Chapter X+7: "The Long Road Home" (July 19–August 6, 1863 – Compressed Return March)
+### Chapter X+5: "Past York" (July 10–11, 1863)
 **Status:** Ready for writing
 
 **Beats:**
-- Vignette-style compression (post-York to Potomac crossings):
-  1. Departure from York area (army resumes march)
-  2. Route decision: Monterey Pass (South Mountain) → Cumberland Valley
+- Early: Lancaster → York (~24–26 mi). Arrives York area July 10 late / July 11 early
+- Meade's York detachment **strung out, mid-march** — not concentrated
+- Early feints Wrightsville, skirmishes past piecemeal forces, slips south (secondary roads / Hanover direction)
+- Escape ~July 11. **Light casualties (~200–300). No pitched battle.**
+- **Cavalry clash at Wrightsville (same window):** Meade sends cavalry to scout Early; Longstreet sent Hampton (cavalry-heavy) to screen raid. **Custer's dash kills Hampton;** Fitz Lee assumes cavalry command. Early's infantry outcome unchanged.
+
+**Key Moments:**
+- Early slips *past* York (doesn't need to defeat; just get through)
+- Meade's catch-22: strung-out force can't concentrate in time
+- Custer/Hampton at Wrightsville (Hampton killed, Fitz Lee promoted)
+- No pitched "Battle of York" — light casualties, escape
+
+### Chapter X+6: "Pickett at Harrisburg" (July 15–16, 1863)
+**Status:** Ready for writing
+
+**Beats:**
+- Longstreet's scouts confirm AoP splitting (troops moving south to York)
+- Garrison at Harrisburg **thinning** — opening his plan required
+- **Pickett (~6–8k)** punches through thinned west-bank lines at Camp Hill
+- **Pickett succeeds** (not hitting full-strength position; exploiting weakened garrison)
+- ANV withdraws south through Cumberland Valley gaps
+- Rear-echelon chaos (Union supply/stragglers mid-march hear "Rebs broke through!") aids Early's slip past York
+
+**Key Moments:**
+- Pickett's breakthrough — earned, not wasted (real opening)
+- Longstreet's plan executed: Meade split, garrison thin, punch through
+- Reunion with Early west of Gettysburg (~July 12–14)
+
+---
+
+### Chapter X+7: "The Long Road Home" (July 12–14 → Late July–Early August 1863 – Compressed Return March)
+**Status:** Ready for writing
+
+**Beats:**
+- **Reunion west of Gettysburg** (~July 12–14): Early arrives first; Longstreet's main body follows. Combined ANV south via South Mountain toward Potomac.
+- Vignette-style compression (reunion to Potomac crossings):
+  1. Reunion west of Gettysburg (Early + Longstreet)
+  2. Route: South Mountain → toward Potomac
   3. Ironic passage near Gettysburg battlefield (July 1 field abandoned, now returned)
-  4. March through Cumberland Valley (Monterey Pass → Waynesboro → Hagerstown)
-  5. Tense race: Meade nearly closes (vanguard skirmishes rear guard near Hagerstown)
+  4. March through Cumberland Valley (Hagerstown area)
+  5. Tense race: Meade nearly closes (vanguard skirmishes rear guard)
   6. Approach to Potomac (Williamsport/Shepherdstown fords)
-  7. Final crossing (August 5-6) — Longstreet on Virginia soil: "Home again"
-- Intercuts: Union frustration ("We had him at York and let him slip"), Meade's correct route calculation but late start
+  7. Final crossing (late July–early Aug) — Longstreet on Virginia soil: "Home again"
+- Intercuts: Union frustration; Meade's catch-22 (split, not enough at either place)
 - Ends with army safe in Virginia — campaign complete
 
 **Key Moments:**
+- Reunion west of Gettysburg (Early first, then main body)
 - Efficient return march (compressed for pacing)
-- Monterey Pass route choice (mountain screening)
-- Ironic return near Gettysburg battlefield
-- Tense pursuit race (Meade nearly closes)
+- Tense pursuit race
 - Final Potomac crossing: symbolic return home
-- Longstreet's relief: "Home again"
-- Campaign triumph complete (hard-won, not effortless)
+- Campaign complete (Meade sacked ~Aug 1; Warren appointed)
 
 ---
 
@@ -202,6 +200,5 @@
 **Related Documents:**
 - `world-building/06-timelines.md (POD Campaign section) or part-02-harrisburg-occupation.md`
 - `world-building/06-timelines.md (POD Campaign section) or part-03-reading-raid-return.md`
-- `world-building/04-military-history.md or world-building/reference/battle-of-york-1863-07-18.md` (Battle of York reference)
-- `maps/battle-of-york-07-18-1863.png` (battle map)
+- POD campaign (Harrisburg → Early's Reading raid → Meade's catch-22 → Early slips past York → Pickett at Harrisburg → reunion west of Gettysburg): See `DIALOGUE-PAGE.md`, `edits/POD-CAMPAIGN-IMPLEMENTATION-PLAN.md`, `world-building/reference/pod-campaign/`.
 - `ACT-1-2-TRANSITION-OUTLINE.md` (interludes structure)

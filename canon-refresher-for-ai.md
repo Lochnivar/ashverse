@@ -25,7 +25,7 @@
 
 **July 1, 1863:** Lee dies of heart attack at Gettysburg  
 **July 2, 1863:** Longstreet takes command, countermarches NORTH (not west)  
-**Result:** Harrisburg occupied, Longstreet escapes, North loses will to fight
+**Result:** Harrisburg occupied. Reading = Early's raid (planned contingency); Meade stays at Harrisburg then splits (catch-22); Pickett breaks through at Harrisburg; Early slips past York; reunion west of Gettysburg. North loses will to fight.
 
 ---
 

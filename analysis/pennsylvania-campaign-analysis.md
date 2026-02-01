@@ -55,7 +55,7 @@
 **Event 2.3: 10-Week Extended Raid (July-October 1863)**
 - ✅ ANV ~55,000 strong operates in Pennsylvania/Maryland
 - ✅ Burns railroads, levies $3-5 million from towns
-- ✅ Gets within sight of Baltimore
+- ✅ Harrisburg occupied; Early's raid on Reading (political panic); Meade's catch-22 (splits Harrisburg/York); Early slips past York; Pickett at Harrisburg; reunion west of Gettysburg
 - ✅ Refuses battle, preserves army strength
 - ✅ Returns to Virginia intact
 - **Plausibility: 88%** - Extended but feasible, character consistent

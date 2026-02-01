@@ -24,7 +24,7 @@ The war continues because Longstreet's withdrawal preserves the ANV at ~55,000-5
 **A2:** **ANSWERED - See `world-building/northern-collapse-1863-1865.md`**
 
 The exact locked sequence:
-- **Jul–Oct 1863:** Longstreet's 10-week Pennsylvania–Maryland raid (burns railroads, levies $3–5 million, gets within sight of Baltimore)
+- **Jul–Oct 1863:** Longstreet's 10-week Pennsylvania–Maryland raid (Harrisburg occupied; Early's raid on Reading; Meade stays at Harrisburg then splits; Early slips past York; Pickett at Harrisburg; reunion west of Gettysburg; burns railroads, levies)
 - **Late Oct 1863:** Battle of Hagerstown ("Meade's Last Throw") – Meade repulsed, loses 9k men for nothing
 - **Aug 1, 1863:** Lincoln sacks Meade - THE PANIC MOVE (immediately after Longstreet returns across to Virginia, panic reaction that teaches Lincoln: panic = weakness)
 - **Spring 1864:** Longstreet digs in, sends cavalry raids into Kentucky/Missouri
